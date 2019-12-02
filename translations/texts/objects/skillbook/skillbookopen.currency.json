@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/skillbook/skillbookopen.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dev Hack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/skillbook/skillbookopen.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prevents the Skill Book from being opened multiple times."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisquest2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a lot stronger now! I have upgraded your Aegis. You will now also be able to build Prismatic Aegis in an upgraded anvil."
+    }
+  }
+]

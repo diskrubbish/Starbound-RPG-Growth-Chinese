@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/vanguard/dangerclose.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's thrilling getting so close. After all, it lets you hear when their heart stops beating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/vanguard/dangerclose.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Danger Close"
+    }
+  }
+]

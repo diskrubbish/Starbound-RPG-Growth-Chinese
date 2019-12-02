@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/rogue/ivrpgparasiticnervebundle.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bundle of nerves that wiggle in a disgusting manner as if trying to dig into your skin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/rogue/ivrpgparasiticnervebundle.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Squirming Nerve Bundle"
+    }
+  }
+]

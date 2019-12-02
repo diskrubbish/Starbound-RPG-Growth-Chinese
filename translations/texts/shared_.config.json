@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer.config": [
+        "/effects/0/text"
+      ],
+      "specs/changeling.config": [
+        "/effects/2/text",
+        "/tech/transformBonusText//2/text",
+        "/tech/transformBonusText/adultpoptop/0/text",
+        "/tech/transformBonusText/giant/3/text",
+        "/tech/transformBonusText/orbide/0/text",
+        "/tech/transformBonusText/poptop/0/text",
+        "/tech/transformBonusText/wisper/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10% Physical Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer.config": [
+        "/effects/1/text"
+      ],
+      "specs/changeling.config": [
+        "/tech/transformBonusText/poptop/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+5 Armor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/classic/3/text"
+      ],
+      "specs/necromancer.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "50% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/classic/3/text"
+      ],
+      "specs/vigilante.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "75% Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/soldier.config": [
+        "/classic/2/text"
+      ],
+      "specs/titan.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith.config": [
+        "/classic/0/text"
+      ],
+      "specs/vanguard.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Melee Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist.config": [
+        "/classic/0/text"
+      ],
+      "specs/paladin.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can use Wands."
+    }
+  }
+]

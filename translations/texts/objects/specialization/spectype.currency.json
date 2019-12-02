@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/specialization/spectype.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A droplet of specialized knowledge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/specialization/spectype.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Specialization Droplet"
+    }
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value",
+    "op": "replace",
+    "source": "0",
+    "value": "零"
+  }
+]

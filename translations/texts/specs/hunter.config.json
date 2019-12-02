@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+25% Electric, Fire, and Nova Resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/effects/8/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-5 Protection"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Base Power with Pistols and Daggers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power with Bows, Sniper Rifles, and Shotguns."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crouching for 2 seconds grants a 5 second period of Invisibility. Using Energy dispels this effect."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Multitool"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [Shift] + [G] to switch between Fire, Electric, and Nova. Press [G] to lob a Grenade towards your cursor (10 Second Cooldown). Double-tap [A] or [D] to Dodge (5 Second Cooldown). Press [Shift] + [W] when Energy is full to Energize Mida (Nova -> Deadfall, Electric -> Pulsar, Fire -> Sunshot): this effect drains Energy and then dissipates. Grenade, Dodge, and Energize effects depend on Multitool Element."
+    }
+  }
+]

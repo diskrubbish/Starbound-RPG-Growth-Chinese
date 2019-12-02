@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/skitter/skittergrenade.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skitter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/skitter/skittergrenade.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warning! Releases disorienting and toxic gas."
+    }
+  }
+]

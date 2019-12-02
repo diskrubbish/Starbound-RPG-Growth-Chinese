@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Careful. It's sharp."
+    }
+  }
+]

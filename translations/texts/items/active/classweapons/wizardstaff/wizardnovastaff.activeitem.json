@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Near limitless elemental energy."
+    }
+  }
+]

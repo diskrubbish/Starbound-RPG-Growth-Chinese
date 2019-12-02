@@ -1,0 +1,292 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/adultpoptop/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+15 Armor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/giant/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+200% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/giant/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+50 Armor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/orbide/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+50% Ice, Fire, and Electric Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/wisper/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+50% Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/wisper/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-20% Electric and Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/effects/3/text",
+        "/tech/transformBonusText//3/text",
+        "/tech/transformBonusText/adultpoptop/2/text",
+        "/tech/transformBonusText/giant/8/text",
+        "/tech/transformBonusText/poptop/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-20% Fire, Electric, Ice, and Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/orbide/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-25% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/wisper/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-50% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/wisper/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-70% Fire Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/orbide/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-70% Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/giant/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "1.5x Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/giant/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Agility x3"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "All Weapons Disabled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/wisper/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drowning Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/adultpoptop/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Endurance x3"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/wisper/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Shapeshift is equipped, shrink and gain +50% Physical Resistance when Health drops below 15%. Item usage is disabled while shrunken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/giant/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Non-Status Damage Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [F], [Shift], or [S] to shapeshift into one of three monsters: [F] for Wisper; [F] + [Shift] for Poptop; [F] + [S] for Orbide. Each transformation has a Passive and 4 Actions via Left Click, Right Click, [G], and [H]. While transformed, check the Unique Weapon box above for more info. After getting many kills, you may notice a bright flash: if so, press [Shift], [S], and [F] to ???."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/poptop/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strength x2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/adultpoptop/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strength x5"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/wisper/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vigor x2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/adultpoptop/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vigor x3"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/poptop/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vitality x3"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/adultpoptop/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vitality x5"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrolltoxic.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scroll: Toxins"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrolltoxic.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shows dubious information on neurotoxins... and cake? It's dripping slimy stuff. Maybe that's the batter."
+    }
+  }
+]

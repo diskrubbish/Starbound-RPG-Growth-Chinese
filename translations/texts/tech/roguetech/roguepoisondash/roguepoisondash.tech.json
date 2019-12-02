@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguepoisondash/roguepoisondash.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dash Cooldown: 1.5s."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguepoisondash/roguepoisondash.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Dash"
+    }
+  }
+]

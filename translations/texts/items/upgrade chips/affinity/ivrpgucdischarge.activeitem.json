@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucdischarge.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock and Arc Affinity Upgrade.\nDamage nearby enemies while wet."
+    }
+  }
+]

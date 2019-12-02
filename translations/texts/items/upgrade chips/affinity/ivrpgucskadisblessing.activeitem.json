@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucskadisblessing.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frost and Cryo Affinity Upgrade.\nIncreases potential with Bows."
+    }
+  }
+]

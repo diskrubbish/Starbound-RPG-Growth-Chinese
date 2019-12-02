@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpguchoversphere.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Sphere Upgrade.\nJump while transformed to hover towards your cursor at the expense of energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpguchoversphere.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hover Sphere"
+    }
+  }
+]

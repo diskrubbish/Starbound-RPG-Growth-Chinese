@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpguceternalflame.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flame and Infernal Affinity Upgrade.\nNegates all Affinity Weaknesses."
+    }
+  }
+]

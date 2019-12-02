@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "简介.^white;",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "^green;标题",
+    "path": "/title"
+  }
+]

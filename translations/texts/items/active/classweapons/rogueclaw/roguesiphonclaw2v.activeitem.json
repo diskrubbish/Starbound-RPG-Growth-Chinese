@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw2v.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siphon Cyst"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw2v.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncanny..."
+    }
+  }
+]

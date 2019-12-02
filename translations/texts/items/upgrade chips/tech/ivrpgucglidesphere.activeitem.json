@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucglidesphere.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drill Sphere Upgrade.\nGain a double jump and glide while transformed. In-air momentum is improved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucglidesphere.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glide Sphere"
+    }
+  }
+]

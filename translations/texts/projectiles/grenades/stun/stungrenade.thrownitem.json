@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/stun/stungrenade.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stun Grenade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/stun/stungrenade.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "What doesn't kill you makes you vulnerable."
+    }
+  }
+]

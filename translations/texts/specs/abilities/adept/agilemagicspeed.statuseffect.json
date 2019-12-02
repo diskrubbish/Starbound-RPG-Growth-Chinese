@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/adept/agilemagicspeed.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Agile Magic"
+    }
+  }
+]

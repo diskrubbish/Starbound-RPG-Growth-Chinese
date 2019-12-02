@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/techs/0/title"
+      ],
+      "tech/roguetech/roguedeadlystance/roguedeadlystance.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deadly Stance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/techs/2/title"
+      ],
+      "tech/roguetech/rogueescape/rogueescape.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Escape!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/techs/3/title"
+      ],
+      "tech/roguetech/roguetoxicaura/roguetoxicaura.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic Aura"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/techs/1/title"
+      ],
+      "tech/roguetech/roguetoxicsphere/roguetoxicsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic Sphere"
+    }
+  }
+]

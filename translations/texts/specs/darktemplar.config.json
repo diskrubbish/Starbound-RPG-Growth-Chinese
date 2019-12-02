@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Base Power with Quarterstaves and Axes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "150% Base Power with Spears and Halberds"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Wield Broadswords, Halberds, and Spears."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heartless"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hitting enemies with Demonic Damage has a 20% chance to corrupt them. Corrupted enemies radiate Demonic Damage to nearby enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Press [W] to toggle, immediately sacrificing 50% Max Health and then draining it until toggled off. The initial sacrifice turns into radial demonic damage. As your Health gets lower, damage continues to spread, and Armor is granted to you. The amount of Health you have on toggle off determines your next pool of Max Health, up to a maximum of 1.5x, but a minimum of 0.25x. The amount of Damage you dealt due to radial Demonic Damage is converted to Health."
+    }
+  }
+]

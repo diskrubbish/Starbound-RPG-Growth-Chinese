@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/skillbook/RPGskillbook.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mystical book that seems to emanate power. Perhaps it can be used somehow."
+    }
+  }
+]

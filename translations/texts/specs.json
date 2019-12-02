@@ -1,0 +1,238 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/tech/title"
+      ],
+      "specs/techs/darktemplar/aboundingdarkness.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abounding Darkness"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/tech/title"
+      ],
+      "specs/techs/captain/allystance.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ally Stance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/titan/atlasburden.statuseffect": [
+        "/label"
+      ],
+      "specs/techs/titan/atlasburden.tech": [
+        "/shortDescription"
+      ],
+      "specs/titan.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Atlas' Burden"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/tech/title"
+      ],
+      "specs/techs/cannoneer/bombsaway.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bombs Away"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/pioneer.config": [
+        "/tech/title"
+      ],
+      "specs/techs/pioneer/colonize.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colonize"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/wraith/darkphase.tech": [
+        "/shortDescription"
+      ],
+      "specs/wraith.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Phase"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/vigilante/desperado.tech": [
+        "/shortDescription"
+      ],
+      "specs/techs/vigilante/desperadostatus.statuseffect": [
+        "/label"
+      ],
+      "specs/vigilante.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/tech/title"
+      ],
+      "specs/techs/dragoon/dragonsleap.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dragon's Leap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/valkyrie/einherjar.tech": [
+        "/shortDescription"
+      ],
+      "specs/techs/valkyrie/status/einherjar.statuseffect": [
+        "/label"
+      ],
+      "specs/valkyrie.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Einherjar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/tech/title"
+      ],
+      "specs/techs/adept/flashstep.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flash Step"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/tech/title"
+      ],
+      "specs/techs/paladin/immaculateshield.tech": [
+        "/shortDescription"
+      ],
+      "specs/techs/paladin/immaculateshieldstatus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Immaculate Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/tech/title"
+      ],
+      "specs/techs/necromancer/reap.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/crusader.config": [
+        "/tech/title"
+      ],
+      "specs/techs/crusader/resurgence.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resurgence"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/vanguard/rush.tech": [
+        "/shortDescription"
+      ],
+      "specs/vanguard.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rush"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/title"
+      ],
+      "specs/techs/changeling/shapeshift.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shapeshift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/kunoichi.config": [
+        "/tech/title"
+      ],
+      "specs/techs/kunoichi/swirlingpetal.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swirling Petal"
+    }
+  }
+]

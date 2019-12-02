@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpguctriggerhappy.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Versa Ricochet Upgrade.\nCharge Time Decreased."
+    }
+  }
+]

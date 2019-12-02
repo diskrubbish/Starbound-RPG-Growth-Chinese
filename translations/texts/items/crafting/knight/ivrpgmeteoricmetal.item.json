@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/knight/ivrpgmeteoricmetal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hard metallic meteor fragment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/knight/ivrpgmeteoricmetal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meteoric Metal"
+    }
+  }
+]

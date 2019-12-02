@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/botanist.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+20% Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/botanist.config": [
+        "/passive/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "As long as you have energy, walking over dirt automatically tills and waters it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/botanist.config": [
+        "/crafting/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Botanist Station allows you to synthesize various seeds!"
+    }
+  }
+]

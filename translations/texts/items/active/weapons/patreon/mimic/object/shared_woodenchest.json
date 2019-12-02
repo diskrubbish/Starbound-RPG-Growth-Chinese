@@ -1,0 +1,114 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/humanDescription"
+      ],
+      "items/active/weapons/patreon/mimic/object/woodenchestmimic.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest! Let's open it up... carefully."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/apexDescription"
+      ],
+      "items/active/weapons/patreon/mimic/object/woodenchestmimic.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest! Wait... something feels off about this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/patreon/mimic/object/woodenchestmimic.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caine's Chest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/floranDescription"
+      ],
+      "items/active/weapons/patreon/mimic/object/woodenchestmimic.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chessst! Or isss it? Floran will sssee!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/novakidDescription"
+      ],
+      "items/active/weapons/patreon/mimic/object/woodenchestmimic.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's usually a thrill to open chests, but I'm feelin' a bit off 'bout this one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/avianDescription"
+      ],
+      "items/active/weapons/patreon/mimic/object/woodenchestmimic.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Often these chests stored valuables. I'm excited... I think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/hylotlDescription"
+      ],
+      "items/active/weapons/patreon/mimic/object/woodenchestmimic.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This kind of looks like a chest in the classic game, Shark Souls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/active/weapons/patreon/mimic/object/woodenchestmimic.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What could be inside?"
+    }
+  }
+]

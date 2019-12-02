@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/necromancer/undead.statuseffect": [
+        "/label"
+      ],
+      "specs/techs/necromancer/sacrifice/bonemonster.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Undead"
+    }
+  }
+]

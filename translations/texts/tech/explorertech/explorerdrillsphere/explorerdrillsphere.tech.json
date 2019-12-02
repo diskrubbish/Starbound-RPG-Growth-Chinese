@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 25e. Active Cost: 5eps."
+    }
+  }
+]

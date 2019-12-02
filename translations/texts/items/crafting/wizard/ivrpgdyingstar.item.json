@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/wizard/ivrpgdyingstar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dying star... Can this even be used for crafting?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/wizard/ivrpgdyingstar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dying Star"
+    }
+  }
+]

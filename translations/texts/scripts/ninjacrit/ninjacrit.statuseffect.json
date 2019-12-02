@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "scripts/ninjacrit/ninjacrit.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ninja's Precision"
+    }
+  }
+]

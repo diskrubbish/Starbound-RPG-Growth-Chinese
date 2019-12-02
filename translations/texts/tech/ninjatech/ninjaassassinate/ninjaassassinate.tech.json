@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ninjatech/ninjaassassinate/ninjaassassinate.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cost: 20-100% Max Energy. Vanish Time: 2s. Cooldown: 3s."
+    }
+  }
+]

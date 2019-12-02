@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/siphonquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That looks a bit... gross. In any case, I've condensed it into a bundle of nerves that you can attach to your arm. You can now make more yourself, unfortunately. Go and build the Siphon in an anvil, and hope it doesn't control you..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/siphonquest.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your uncanny desire to poison everything has apparently poisoned my circuits as well. In my brief state of corruption, schematics for a dubious weapon were created. I believe the research shows that the required materials drop from ^green;parasitic or gooey monsters.^reset;^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/siphonquest.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Plausibly Powerful Parasitic Poisons"
+    }
+  }
+]

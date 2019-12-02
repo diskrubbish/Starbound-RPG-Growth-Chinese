@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldierenergypack/soldierenergypackcooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Pack Cooldown"
+    }
+  }
+]

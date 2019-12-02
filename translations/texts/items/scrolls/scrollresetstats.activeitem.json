@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetstats.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like even ancient civilizations had self-help magazines..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetstats.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stat Reset Scroll"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "op": "replace",
+    "value": "不会杀死你,但会让你变得脆弱.",
+    "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Stun Grenade",
+    "value": "眩晕手榴弹"
+  }
+]

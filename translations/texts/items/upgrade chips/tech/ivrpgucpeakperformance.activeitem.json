@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucpeakperformance.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slam Upgrade.\nJump thrice while in mid-air. Larger Slam explosion knockback but less damage."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/elementress/eclipse.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweltering heat and cool serenity overtake one another."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/elementress/eclipse.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Eclipse"
+    }
+  }
+]

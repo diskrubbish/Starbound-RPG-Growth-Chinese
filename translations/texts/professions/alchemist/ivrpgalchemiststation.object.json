@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cluttered desk covered in various bubbling liquids and strange materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alchemist Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't much of a potion-maker, but I s'pose it might be fun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am mad scientist. It's so cool... I'm sure we all know the rest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potions are kind of... archaic, but I suppose not everything is high-tech."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The goop that sometimes splashes from the vials gets stuck to my feathers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are many caustic liquids here that could melt my circuits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cluttered counter covered in ingredients should be useful for concocting potions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where isss meat? Floran want meat, not goo!"
+    }
+  }
+]

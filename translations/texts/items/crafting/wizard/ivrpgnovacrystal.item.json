@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/wizard/ivrpgnovacrystal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal that emanates a mysterious power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/wizard/ivrpgnovacrystal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nova Crystal"
+    }
+  }
+]

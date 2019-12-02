@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^green;武器升级",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "现在你有了一个改进的升级蓝图,你可以对庇护者进行改造.当你准备好的时候我会告诉你的.^white;",
+    "path": "/text"
+  }
+]

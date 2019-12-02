@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "+50% Fire Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-20% Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Power With Rocket Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "125% Base Power While Dual-Wielding Shortswords and Grenade Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An upgrade to Double Jump. Pressing [Shift] + [Space] fires a cannonball towards your cursor that blasts through enemies and explodes on impact with blocks. While aerial, pressing [Space] without [Shift] sends the cannonball flying downwards, in the opposite direction of your held horizontal movement key, allowing you to launch yourself twice. Damage scales with Dexterity. ^red;Grounded Fire Cooldown: 2.5 Seconds. Aerial Fire Cooldown: 0.5 Seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Wield Rocket Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hits with a Shortsword - Grenade Launcher in hand - grant +50% Power, 10% Energy/Second, and ^green;explosive kills^white; for two seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outburst & Stormhowl"
+    }
+  }
+]

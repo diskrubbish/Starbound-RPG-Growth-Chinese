@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "scripts/soldierdiscipline/soldierdiscipline.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier's Discipline"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ninja/ivrpgetherealblade.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't let this blade fool you. Despite it's transparency, it's sharper than a squeaky clarinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ninja/ivrpgetherealblade.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ethereal Blade"
+    }
+  }
+]

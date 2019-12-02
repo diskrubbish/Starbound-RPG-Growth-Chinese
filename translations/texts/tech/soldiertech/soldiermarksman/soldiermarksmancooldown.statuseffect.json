@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermarksman/soldiermarksmancooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marksman Cooldown"
+    }
+  }
+]

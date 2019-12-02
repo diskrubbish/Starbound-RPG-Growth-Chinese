@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/class/classtype.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A droplet of mysterious power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/class/classtype.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Class Droplet"
+    }
+  }
+]

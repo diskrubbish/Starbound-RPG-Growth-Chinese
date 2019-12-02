@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxicsphere/roguetoxicsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 50e. Attack Cost: 10e."
+    }
+  }
+]

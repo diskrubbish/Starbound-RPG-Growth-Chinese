@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/crusader/oathkeeper.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purity of the Chosen\n^blue;Forged by the first Crusader, Ribs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/crusader/oathkeeper.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Oathkeeper"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucvampirescaress.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Aether Upgrade.\nGain Regenaration upon killing an enemy."
+    }
+  }
+]

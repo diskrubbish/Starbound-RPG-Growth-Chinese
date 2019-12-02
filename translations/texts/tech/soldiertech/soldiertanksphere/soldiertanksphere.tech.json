@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiertanksphere/soldiertanksphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 40e. Shield Cost: 40eps."
+    }
+  }
+]

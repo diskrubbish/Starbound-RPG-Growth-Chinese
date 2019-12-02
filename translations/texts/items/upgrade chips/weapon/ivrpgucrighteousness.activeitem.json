@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucrighteousness.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vital Aegis Upgrade.\nPerfect Shielding increases damage."
+    }
+  }
+]

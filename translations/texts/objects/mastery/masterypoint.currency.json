@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/masterypoint.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mastery Point"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/masterypoint.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mastery Points. Used to attain peak strength!"
+    }
+  }
+]

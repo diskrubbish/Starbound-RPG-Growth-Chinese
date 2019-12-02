@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Master's Desk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;For making things that require incredible skill and lots of experience."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MASTERY AVAILABLE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Manifest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;MASTER BLUEPRINT"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;MASTER PRODUCT"
+    }
+  }
+]

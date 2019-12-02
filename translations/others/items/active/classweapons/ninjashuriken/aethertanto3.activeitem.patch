@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Feed me.",
+    "value": "喂我。"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Kunai Slash",
+    "value": "库奈斜杠"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^red;Blood Aether",
+    "value": "^red;血乙醚"
+  }
+]

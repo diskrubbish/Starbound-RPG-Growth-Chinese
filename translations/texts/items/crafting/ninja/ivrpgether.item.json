@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ninja/ivrpgether.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A substance that appears to be almost intangible... Though, still corporeal?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ninja/ivrpgether.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ether"
+    }
+  }
+]

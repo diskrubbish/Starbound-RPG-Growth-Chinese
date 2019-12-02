@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shuriken, pocket-sized and deadly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel Shuriken"
+    }
+  }
+]

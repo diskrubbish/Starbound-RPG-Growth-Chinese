@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/elementress/elementalweavefire.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elemental Weave: Fire"
+    }
+  }
+]

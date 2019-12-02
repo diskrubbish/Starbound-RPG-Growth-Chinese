@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/crusader/crusaderbashattack.statuseffect": [
+        "/label"
+      ],
+      "tech/knighttech/knightarmorsphere/knightspikes.statuseffect": [
+        "/label"
+      ],
+      "tech/knighttech/knightbash/knightbashattack.statuseffect": [
+        "/label"
+      ],
+      "tech/knighttech/knightcharge!/knightchargeattack.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cause Contact Damage"
+    }
+  }
+]

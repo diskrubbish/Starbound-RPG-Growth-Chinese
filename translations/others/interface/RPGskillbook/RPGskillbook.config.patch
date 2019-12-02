@@ -1,0 +1,168 @@
+[
+  {
+    "op": "replace",
+    "value": "点击任意职业图标查看职业简介.",
+    "path": "/gui/classeslayout/children/classdescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "点击任意属性图标查看属性加成.",
+    "path": "/gui/statslayout/children/statdescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "灵巧 Dex",
+    "path": "/gui/statslayout/children/dexteritytext/value"
+  },
+  {
+    "op": "replace",
+    "value": "耐力 Edr",
+    "path": "/gui/statslayout/children/endurancetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "星际探险家",
+    "path": "/gui/classeslayout/children/explorertitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "火焰",
+    "path": "/gui/affinitieslayout/children/firetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "冰冻",
+    "path": "/gui/affinitieslayout/children/icetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "智力 Int",
+    "path": "/gui/statslayout/children/intelligencetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "无畏战士",
+    "path": "/gui/classeslayout/children/knighttitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "大师书桌",
+    "path": "/gui/masterylayout/children/shoptitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "边缘刺客",
+    "path": "/gui/classeslayout/children/ninjatitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "不法之徒",
+    "path": "/gui/classeslayout/children/roguetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "电击",
+    "path": "/gui/affinitieslayout/children/electrictitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "太空陆战队",
+    "path": "/gui/classeslayout/children/soldiertitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "力量 Str",
+    "path": "/gui/statslayout/children/strengthtext/value"
+  },
+  {
+    "op": "replace",
+    "value": "毒",
+    "path": "/gui/affinitieslayout/children/poisontitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/gui/statslayout/children/vigortext/value"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/gui/statslayout/children/vitalitytext/value"
+  },
+  {
+    "op": "replace",
+    "value": "奥术法师",
+    "path": "/gui/classeslayout/children/wizardtitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "神秘之书",
+    "path": "/gui/windowtitle/title"
+  },
+  {
+    "path": "/gui/professionslayout/children/professiondescription/value",
+    "op": "replace",
+    "source": "Click a Profession's icon to see its benefits.",
+    "value": "单击某个职业的图标以查看其优势。"
+  },
+  {
+    "path": "/gui/professionslayout/children/medictitle/value",
+    "op": "replace",
+    "source": "Medic",
+    "value": "医学博士"
+  },
+  {
+    "path": "/gui/professionslayout/children/tamertitle/value",
+    "op": "replace",
+    "source": "Tamer",
+    "value": "驯兽师"
+  },
+  {
+    "path": "/gui/professionslayout/children/alchemisttitle/value",
+    "op": "replace",
+    "source": "Alchemist",
+    "value": "炼金术士"
+  },
+  {
+    "path": "/gui/professionslayout/children/minertitle/value",
+    "op": "replace",
+    "source": "Miner",
+    "value": "矿工"
+  },
+  {
+    "path": "/gui/professionslayout/children/engineertitle/value",
+    "op": "replace",
+    "source": "Engineer",
+    "value": "工程师"
+  },
+  {
+    "path": "/gui/professionslayout/children/botanisttitle/value",
+    "op": "replace",
+    "source": "Botanist",
+    "value": "植物学家"
+  },
+  {
+    "path": "/gui/professionslayout/children/smithtitle/value",
+    "op": "replace",
+    "source": "Smith",
+    "value": "铁匠"
+  },
+  {
+    "path": "/gui/specializationslayout/children/desctitle/value",
+    "op": "replace",
+    "source": "Description",
+    "value": "描述"
+  },
+  {
+    "path": "/gui/specializationslayout/children/desctext/value",
+    "op": "replace",
+    "source": "Description",
+    "value": "描述"
+  },
+  {
+    "path": "/gui/lorelayout/children/lorebutton/caption",
+    "op": "replace",
+    "source": "Lore",
+    "value": "学识"
+  }
+]

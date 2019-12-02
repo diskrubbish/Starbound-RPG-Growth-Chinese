@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucfeedbackloop.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock and Arc Affinity Upgrade.\nGain Rage after inflicting Overload."
+    }
+  }
+]

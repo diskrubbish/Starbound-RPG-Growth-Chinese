@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/pilot.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nanobot overcharge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/pilot.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "drunk transformer"
+    }
+  }
+]

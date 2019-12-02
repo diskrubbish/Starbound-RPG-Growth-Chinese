@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aetherquest2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a lot more dexterous now! I have upgraded your Aether. You will now also be able to build Shadow Aether in an upgraded anvil."
+    }
+  }
+]

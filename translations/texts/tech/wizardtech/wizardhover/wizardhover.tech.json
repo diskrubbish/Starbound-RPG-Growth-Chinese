@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardhover/wizardhover.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Controlled Hover"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardhover/wizardhover.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cost: 75eps."
+    }
+  }
+]

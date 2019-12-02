@@ -1,0 +1,88 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/active/weapons/patreon/mimic/object/woodenchestmimic.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "professions/alchemist/ivrpgalchemiststation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/masteryshop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/ivrpgsmithstation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/medic/ivrpgmedicstation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/ivrpgminerstation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joking."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joyful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/flag/flagpioneer.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant."
+    }
+  }
+]

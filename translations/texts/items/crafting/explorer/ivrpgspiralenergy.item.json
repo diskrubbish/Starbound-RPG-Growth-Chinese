@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/explorer/ivrpgspiralenergy.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spiral Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/explorer/ivrpgspiralenergy.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "What is this strange, manly energy?"
+    }
+  }
+]

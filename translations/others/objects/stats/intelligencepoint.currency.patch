@@ -1,0 +1,13 @@
+[
+  {
+    "op": "replace",
+    "value": "智力 Int",
+    "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Intelligence",
+    "value": "智力"
+  }
+]

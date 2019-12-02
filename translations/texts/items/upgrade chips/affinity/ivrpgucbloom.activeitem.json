@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucbloom.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flame and Infernal Affinity Upgrade.\nEnemies on fire explode when you kill them."
+    }
+  }
+]

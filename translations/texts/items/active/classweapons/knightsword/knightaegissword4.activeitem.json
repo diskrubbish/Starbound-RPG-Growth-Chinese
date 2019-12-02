@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/knightaegissword4.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vital Aegis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/knightaegissword4.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vital Aegis, a sword made of tempered steel and embedded with diamond and gold that can absorb heavy blows. It seems to... vitalize... competent wielders."
+    }
+  }
+]

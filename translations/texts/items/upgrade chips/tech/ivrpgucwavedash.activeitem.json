@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucwavedash.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Escape! Upgrade.\nImproves aerial stopping power, ground usage, and negates fall damage."
+    }
+  }
+]

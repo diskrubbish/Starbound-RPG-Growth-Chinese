@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/wizardstaff/wizardnovastaff3.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explosions. Explosions everywhere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/wizardstaff/wizardnovastaff3.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Primed Nova"
+    }
+  }
+]

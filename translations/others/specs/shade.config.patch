@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Shade",
+    "value": "阴影"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Hidden Dragon",
+    "value": "藏龙"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Quasar",
+    "value": "类星体"
+  }
+]

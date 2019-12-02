@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/knighttech/knightarmorsphere/knightarmorsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 50e."
+    }
+  }
+]

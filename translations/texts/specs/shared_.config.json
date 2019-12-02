@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/effects/6/text"
+      ],
+      "specs/wraith.config": [
+        "/effects/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "-20% Holy Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/6/text"
+      ],
+      "specs/titan.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "80% Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/effects/7/text"
+      ],
+      "specs/kunoichi.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/effects/3/text"
+      ],
+      "specs/kunoichi.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "90% Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/classic/0/text"
+      ],
+      "specs/wraith.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Dual-Wield Melee Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/orbide/4/text"
+      ],
+      "specs/kunoichi.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dexterity x2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/adept.config": [
+        "/effects/0/text"
+      ],
+      "specs/paladin.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intelligence x2"
+    }
+  }
+]

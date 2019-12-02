@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/hunter/cloak.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloak"
+    }
+  }
+]

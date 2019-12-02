@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/soldiergun/soldierversa.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shotgun and an assault rifle? Count me in."
+    }
+  }
+]

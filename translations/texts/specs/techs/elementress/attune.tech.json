@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/elementress/attune.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attune"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/elementress/attune.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elementress Only"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/soldier/ivrpggunparts.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gun Parts"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/soldier/ivrpggunparts.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Parts from illegal weaponry. Perhaps you can put these together to make something dangerous."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetaffinity.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Affinity Reset Scroll"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetaffinity.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like enticing blurbs on awesome elements! Maybe you want to try out a new one?"
+    }
+  }
+]

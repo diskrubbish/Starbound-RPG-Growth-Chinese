@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardgravitysphere/wizardgravitysphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transformation Cost: 30e. Regen: 1%hps. Zone Cost: 15eps."
+    }
+  }
+]

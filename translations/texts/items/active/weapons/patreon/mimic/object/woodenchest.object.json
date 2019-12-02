@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't put valuables in this: it reminds you of something... bad. Don't lose sight of it."
+    }
+  }
+]

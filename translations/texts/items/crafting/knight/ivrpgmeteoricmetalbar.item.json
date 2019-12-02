@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/knight/ivrpgmeteoricmetalbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bar of metal so tough, it makes you feel weak just looking at it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/knight/ivrpgmeteoricmetalbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meteoric Metal Bar"
+    }
+  }
+]

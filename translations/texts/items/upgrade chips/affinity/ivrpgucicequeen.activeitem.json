@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/affinity/ivrpgucicequeen.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frost and Cryo Affinity Upgrade.\nImproves potential with Whips, Claws, and Daggers. ^red;Female Only^reset;."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/siphonquest2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a lot more dangerous now! I have upgraded your Siphon. You will now also be able to build both Siphon Cyst and Siphon Slash in an upgraded anvil."
+    }
+  }
+]

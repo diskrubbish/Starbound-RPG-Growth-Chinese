@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/shock/shockcharge.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shock Charge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/shock/shockcharge.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocks your enemies... for a price."
+    }
+  }
+]

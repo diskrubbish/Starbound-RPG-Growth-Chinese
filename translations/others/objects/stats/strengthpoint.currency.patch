@@ -1,0 +1,13 @@
+[
+  {
+    "op": "replace",
+    "value": "力量 Str",
+    "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Strength",
+    "value": "力量"
+  }
+]

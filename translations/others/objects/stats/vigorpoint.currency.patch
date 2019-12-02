@@ -1,0 +1,13 @@
+[
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  }
+]

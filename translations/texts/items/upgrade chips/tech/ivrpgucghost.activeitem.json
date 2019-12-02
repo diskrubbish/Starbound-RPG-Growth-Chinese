@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucghost.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanish Sphere Upgrade.\nWhile transformed, replace invulnerability with traversal through walls."
+    }
+  }
+]

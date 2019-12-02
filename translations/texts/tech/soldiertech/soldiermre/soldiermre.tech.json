@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermre/soldiermre.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food Gain: 5%. Cooldown: 90s"
+    }
+  }
+]

@@ -1,0 +1,867 @@
+{
+  "texts": {
+    "affinities": {
+      "affinityDescriptions.config.json": 0,
+      "arc.config.json": 0,
+      "cryo.config.json": 0,
+      "flame.config.json": 0,
+      "frost.config.json": 0,
+      "infernal.config.json": 0,
+      "shared_.config.json": 0,
+      "shock.config.json": 0,
+      "toxic.config.json": 0,
+      "venom.config.json": 0
+    },
+    "classes": {
+      "classDescriptions.config.json": 0,
+      "explorer.config.json": 0,
+      "knight.config.json": 0,
+      "ninja.config.json": 0,
+      "rogue.config.json": 0,
+      "shared_.config.json": 0,
+      "soldier.config.json": 0,
+      "wizard.config.json": 0
+    },
+    "default.config.json": 0,
+    "glitchEmotes.json": 0,
+    "interface": {
+      "RPGskillbook": {
+        "RPGskillbook.config.json": 103
+      }
+    },
+    "items": {
+      "active": {
+        "classweapons": {
+          "explorerdrill": {
+            "explorerspiradrill.activeitem.json": 0,
+            "explorerspiradrill2.activeitem.json": 0,
+            "explorerspiradrill3.activeitem.json": 0
+          },
+          "knightsword": {
+            "knightaegissword.activeitem.json": 0,
+            "knightaegissword2.activeitem.json": 0,
+            "knightaegissword3.activeitem.json": 0,
+            "knightaegissword4.activeitem.json": 0
+          },
+          "ninjashuriken": {
+            "aethertanto1.activeitem.json": 0,
+            "aethertanto2.activeitem.json": 0,
+            "shuriken": {
+              "ninjaaethershuriken.thrownitem.json": 0,
+              "ninjaaethershuriken2.thrownitem.json": 0
+            }
+          },
+          "ninjashuriken.json": 0,
+          "rogueclaw": {
+            "roguesiphonclaw.activeitem.json": 0,
+            "roguesiphonclaw2s.activeitem.json": 0,
+            "roguesiphonclaw2v.activeitem.json": 0,
+            "roguesiphonclaw3e.activeitem.json": 0,
+            "roguesiphonclaw3s.activeitem.json": 0,
+            "roguesiphonclaw3v.activeitem.json": 0
+          },
+          "soldiergun": {
+            "soldierversa.activeitem.json": 0,
+            "soldierversa2.activeitem.json": 0,
+            "soldierversa3.activeitem.json": 0
+          },
+          "wizardstaff": {
+            "novastatus": {
+              "wizardnovastatus.animation.json": 0
+            },
+            "wizardnovastaff.activeitem.json": 0,
+            "wizardnovastaff2.activeitem.json": 0,
+            "wizardnovastaff3.activeitem.json": 0
+          }
+        },
+        "specweapons": {
+          "adept": {
+            "phaseshift.activeitem.json": 0,
+            "projectile": {
+              "bolt": {
+                "phaseshiftenergyregen.statuseffect.json": 0
+              }
+            }
+          },
+          "cannoneer": {
+            "outburst.activeitem.json": 0,
+            "stormhowl.activeitem.json": 0
+          },
+          "captain": {
+            "leadersrally.activeitem.json": 0
+          },
+          "crusader": {
+            "oathkeeper.activeitem.json": 0
+          },
+          "darktemplar": {
+            "heartless.activeitem.json": 0
+          },
+          "dragoon": {
+            "dragonsbane.activeitem.json": 0
+          },
+          "elementress": {
+            "eclipse.activeitem.json": 0
+          },
+          "kunoichi": {
+            "luxuria.activeitem.json": 0
+          },
+          "necromancer": {
+            "forusall.activeitem.json": 0
+          },
+          "paladin": {
+            "ivrpgtrueaegis.activeitem.json": 0,
+            "judgement": {
+              "ivrpgjudgement.animation.json": 0,
+              "ivrpgjudgement.statuseffect.json": 0
+            }
+          },
+          "pioneer": {
+            "nautilus.activeitem.json": 0
+          },
+          "titan": {
+            "epimetheus.activeitem.json": 0
+          },
+          "valkyrie": {
+            "gungnir.activeitem.json": 0,
+            "mark": {
+              "gungnirthrown": {
+                "holymark.statuseffect.json": 0
+              }
+            },
+            "odinsblessing": {
+              "odinsblessing.statuseffect.json": 0
+            }
+          },
+          "vanguard": {
+            "dangerclose.activeitem.json": 0
+          },
+          "vigilante": {
+            "anne.activeitem.json": 0,
+            "marie.activeitem.json": 0
+          },
+          "wraith": {
+            "soullesswhisper.activeitem.json": 0
+          }
+        },
+        "weapons": {
+          "crit": {
+            "ivcrithit.animation.json": 0
+          },
+          "melee": {
+            "broadsword": {
+              "abhorrentstygiansword.activeitem.json": 0,
+              "goldcleaver.activeitem.json": 0,
+              "heartofdissolve.activeitem.json": 0,
+              "ivrpgferoziumkatana.activeitem.json": 0,
+              "manashortsword.activeitem.json": 0,
+              "obsidianSword.activeitem.json": 0,
+              "obsidianSword2.activeitem.json": 0,
+              "osteonScythe.activeitem.json": 0,
+              "royalSword.activeitem.json": 0,
+              "shared_.activeitem.json": 0,
+              "spiderblade.activeitem.json": 0,
+              "stygianbardiche.activeitem.json": 0,
+              "ultrameshsword.activeitem.json": 0
+            },
+            "hammer": {
+              "darkcleaver.activeitem.json": 0,
+              "manaaxe.activeitem.json": 0
+            },
+            "shared_sword": {
+              "shared_.activeitem.json": 0
+            },
+            "shortsword": {
+              "bluemanabroadsword.activeitem.json": 0,
+              "easternGlaive.activeitem.json": 0,
+              "halberd1h.activeitem.json": 0,
+              "honor.activeitem.json": 0,
+              "magmaSaber.activeitem.json": 0,
+              "silvermace.activeitem.json": 0
+            },
+            "spear": {
+              "darktrident.activeitem.json": 0
+            }
+          },
+          "patreon": {
+            "mimic": {
+              "cainesmimic.activeitem.json": 0,
+              "object": {
+                "shared_woodenchest.json": 0,
+                "woodenchest.object.json": 0,
+                "woodenchestmimic.object.json": 0
+              }
+            }
+          },
+          "ranged": {
+            "fuelrod.activeitem.json": 0,
+            "fuelrod2.activeitem.json": 0,
+            "shared_.activeitem.json": 0
+          }
+        }
+      },
+      "armors": {
+        "patreonspiritmask.head.json": 0
+      },
+      "crafting": {
+        "explorer": {
+          "ivrpgspiralenergy.item.json": 0,
+          "ivrpgspiralpower.item.json": 0
+        },
+        "knight": {
+          "ivrpgmeteoricmetal.item.json": 0,
+          "ivrpgmeteoricmetalbar.item.json": 0
+        },
+        "ninja": {
+          "ivrpgether.item.json": 0,
+          "ivrpgetherealblade.item.json": 0
+        },
+        "rogue": {
+          "ivrpgparasiticgoo.item.json": 0,
+          "ivrpgparasiticnervebundle.item.json": 0
+        },
+        "soldier": {
+          "ivrpgfiringmechanism.item.json": 0,
+          "ivrpggunparts.item.json": 0
+        },
+        "wizard": {
+          "ivrpgdyingstar.item.json": 0,
+          "ivrpgnovacrystal.item.json": 0
+        }
+      },
+      "scrolls": {
+        "scrolladdstatpoint.activeitem.json": 0,
+        "scrollarc.activeitem.json": 0,
+        "scrollcryo.activeitem.json": 0,
+        "scrollinfernal.activeitem.json": 0,
+        "scrollresetaffinity.activeitem.json": 0,
+        "scrollresetclass.activeitem.json": 0,
+        "scrollresetstats.activeitem.json": 0,
+        "scrolltoxic.activeitem.json": 0,
+        "specs": {
+          "knight": {
+            "scrollpaladin.activeitem.json": 0
+          }
+        }
+      },
+      "throwables": {
+        "caltrops": {
+          "caltrops.thrownitem.json": 0,
+          "gravitrops.thrownitem.json": 0
+        },
+        "shurikens": {
+          "arcshuriken": {
+            "arcshuriken.thrownitem.json": 0
+          },
+          "cryoshuriken": {
+            "cryoshuriken.thrownitem.json": 0
+          },
+          "durasteelshuriken": {
+            "durasteelshuriken.thrownitem.json": 0
+          },
+          "infernalshuriken": {
+            "infernalshuriken.thrownitem.json": 0
+          },
+          "toxicshuriken": {
+            "toxicshuriken.thrownitem.json": 0
+          }
+        }
+      },
+      "upgrade chips": {
+        "affinity": {
+          "ivrpgucbloom.activeitem.json": 0,
+          "ivrpguccoldheart.activeitem.json": 0,
+          "ivrpguccontagion.activeitem.json": 0,
+          "ivrpgucdischarge.activeitem.json": 0,
+          "ivrpguceternalflame.activeitem.json": 0,
+          "ivrpgucevergreen.activeitem.json": 0,
+          "ivrpgucfeedbackloop.activeitem.json": 0,
+          "ivrpgucicequeen.activeitem.json": 0,
+          "ivrpgucincurable.activeitem.json": 0,
+          "ivrpgucmiasma.activeitem.json": 0,
+          "ivrpgucplasmacore.activeitem.json": 0,
+          "ivrpgucskadisblessing.activeitem.json": 0,
+          "ivrpgucvikingfuneral.activeitem.json": 0
+        },
+        "shared_.activeitem.json": 0,
+        "tech": {
+          "ivrpgucbatterypack.activeitem.json": 0,
+          "ivrpgucfourthwall.activeitem.json": 0,
+          "ivrpgucghost.activeitem.json": 0,
+          "ivrpgucglidesphere.activeitem.json": 0,
+          "ivrpguchoversphere.activeitem.json": 0,
+          "ivrpgucmoreenhanced.activeitem.json": 0,
+          "ivrpgucpeakperformance.activeitem.json": 0,
+          "ivrpgucphaseout.activeitem.json": 0,
+          "ivrpgucpinpointaccuracy.activeitem.json": 0,
+          "ivrpgucstunningsphere.activeitem.json": 0,
+          "ivrpgucwalljump.activeitem.json": 0,
+          "ivrpgucwavedash.activeitem.json": 0
+        },
+        "weapon": {
+          "ivrpgucblindingjustice.activeitem.json": 0,
+          "ivrpgucbloodseeker.activeitem.json": 0,
+          "ivrpguccharger.activeitem.json": 0,
+          "ivrpguccombobreaker.activeitem.json": 0,
+          "ivrpguchardlight.activeitem.json": 0,
+          "ivrpgucpassedprime.activeitem.json": 0,
+          "ivrpgucquicksilver.activeitem.json": 0,
+          "ivrpgucrighteousness.activeitem.json": 0,
+          "ivrpgucrighthandman.activeitem.json": 0,
+          "ivrpgucspintowin.activeitem.json": 0,
+          "ivrpgucsymbiosis.activeitem.json": 0,
+          "ivrpguctriggerhappy.activeitem.json": 0,
+          "ivrpgucvampirescaress.activeitem.json": 0
+        }
+      }
+    },
+    "ivrpgtext.config.json": 0,
+    "monsters": {
+      "flyers": {
+        "bonepteropod": {
+          "bonepteropod.monstertype.json": 0
+        }
+      },
+      "ivrpgElementEffects": {
+        "ivrpgoverload": {
+          "ivrpgoverload.statuseffect.json": 0
+        },
+        "ivrpgsear": {
+          "ivrpgsear.statuseffect.json": 0
+        },
+        "ivrpgtoxify": {
+          "ivrpgtoxify.statuseffect.json": 0
+        }
+      },
+      "ivrpgweaken": {
+        "ivrpgweaken.animation.json": 0
+      },
+      "soldierstun": {
+        "soldierstun.animation.json": 0,
+        "soldierstun.statuseffect.json": 0
+      }
+    },
+    "objects": {
+      "affinity": {
+        "affinitytype.currency.json": 0
+      },
+      "class": {
+        "classtype.currency.json": 0
+      },
+      "experience": {
+        "currentlevel.currency.json": 0,
+        "experienceorb.currency.json": 0
+      },
+      "mastery": {
+        "masterypoint.currency.json": 0,
+        "shop": {
+          "ivrpgmasteryshop.config.json": 0,
+          "masteryshop.object.json": 0
+        }
+      },
+      "profession": {
+        "proftype.currency.json": 0
+      },
+      "skillbook": {
+        "RPGskillbook.activeitem.json": 0,
+        "skillbookopen.currency.json": 0
+      },
+      "specialization": {
+        "spectype.currency.json": 0
+      },
+      "stats": {
+        "statpoint.currency.json": 0
+      }
+    },
+    "particles": {
+      "damagenumbers": {
+        "shared_damagenumber.json": 0
+      }
+    },
+    "professions": {
+      "alchemist": {
+        "ivrpgalchemiststation.config.json": 0,
+        "ivrpgalchemiststation.object.json": 0
+      },
+      "alchemist.config.json": 0,
+      "botanist.config.json": 0,
+      "default.config.json": 0,
+      "engineer": {
+        "items": {
+          "acidsample.item.json": 0,
+          "electromagnet.item.json": 0,
+          "gear.item.json": 0,
+          "magmasample.item.json": 0,
+          "motor.item.json": 0,
+          "spowercell.item.json": 0
+        },
+        "ivrpgengineerstation.config.json": 0,
+        "ivrpgengineerstation.object.json": 0,
+        "status": {
+          "ivrpgengineerenergy.statuseffect.json": 0,
+          "ivrpgengineerstatuscooldown.statuseffect.json": 0
+        }
+      },
+      "engineer.config.json": 0,
+      "medic": {
+        "ivrpgmedicstation.config.json": 0,
+        "ivrpgmedicstation.object.json": 0,
+        "status": {
+          "ivrpgmedicregeneration.statuseffect.json": 0
+        }
+      },
+      "medic.config.json": 0,
+      "miner": {
+        "items": {
+          "bars": {
+            "billoncoin.item.json": 0,
+            "electrumbar.item.json": 0,
+            "platinumbar.item.json": 0,
+            "steelbar.item.json": 0
+          },
+          "miningtools": {
+            "electrumpickaxe.miningtool.json": 0,
+            "steelpickaxe.miningtool.json": 0
+          }
+        },
+        "ivrpgminerstation.config.json": 0,
+        "ivrpgminerstation.object.json": 0
+      },
+      "miner.config.json": 0,
+      "professionDescriptions.config.json": 0,
+      "shared_erstation.config.json": 0,
+      "shared_station.config.json": 0,
+      "smith": {
+        "ivrpgsmithstation.config.json": 0,
+        "ivrpgsmithstation.object.json": 0,
+        "status": {
+          "ivrpgsmithstatusarmor.statuseffect.json": 0,
+          "ivrpgsmithstatusresistance.statuseffect.json": 0
+        }
+      },
+      "smith.config.json": 0,
+      "tamer": {
+        "items": {
+          "advancedcapturepod.thrownitem.json": 0,
+          "meatcrunch.consumable.json": 0,
+          "tripletreat.consumable.json": 0,
+          "veggiemix.consumable.json": 0
+        },
+        "ivrpgtamerstation.config.json": 0,
+        "ivrpgtamerstation.object.json": 0,
+        "status": {
+          "ivrpgtamermonsterstatus.statuseffect.json": 0,
+          "ivrpgtamerstatuscooldown.statuseffect.json": 0
+        }
+      },
+      "tamer.config.json": 0
+    },
+    "projectiles": {
+      "grenades": {
+        "shock": {
+          "shockcharge.thrownitem.json": 0
+        },
+        "skitter": {
+          "skittergrenade.thrownitem.json": 0
+        },
+        "stun": {
+          "stungrenade.thrownitem.json": 0
+        },
+        "tripmine": {
+          "tripmine.thrownitem.json": 0
+        }
+      },
+      "multiplayerxppulse": {
+        "multiplayerxppulse.statuseffect.json": 0
+      }
+    },
+    "quests": {
+      "TEMPLATE.questtemplate.json": 0,
+      "aegisquest.questtemplate.json": 0,
+      "aegisquest2.questtemplate.json": 0,
+      "aegisquest3.questtemplate.json": 0,
+      "aetherquest.questtemplate.json": 0,
+      "aetherquest2.questtemplate.json": 0,
+      "aetherquest3.questtemplate.json": 0,
+      "ivrpgoneforall.questtemplate.json": 0,
+      "novaquest.questtemplate.json": 0,
+      "novaquest2.questtemplate.json": 0,
+      "novaquest3.questtemplate.json": 0,
+      "shared_.questtemplate.json": 0,
+      "shared_quest2.questtemplate.json": 0,
+      "siphonquest.questtemplate.json": 0,
+      "siphonquest2.questtemplate.json": 0,
+      "siphonquest3.questtemplate.json": 0,
+      "spiraquest.questtemplate.json": 0,
+      "spiraquest2.questtemplate.json": 0,
+      "spiraquest3.questtemplate.json": 0,
+      "versaquest.questtemplate.json": 0,
+      "versaquest2.questtemplate.json": 0,
+      "versaquest3.questtemplate.json": 0
+    },
+    "scripts": {
+      "explorerglow": {
+        "shared_.statuseffect.json": 0
+      },
+      "knightblock": {
+        "knightblock.statuseffect.json": 0
+      },
+      "levelup": {
+        "ivrpglevelup.animation.json": 0
+      },
+      "ninjacrit": {
+        "ninjacrit.statuseffect.json": 0
+      },
+      "roguepoison": {
+        "roguepoison.statuseffect.json": 0
+      },
+      "soldierdiscipline": {
+        "soldierdiscipline.statuseffect.json": 0
+      },
+      "wizardaffinity": {
+        "wizardaffinity.statuseffect.json": 0
+      }
+    },
+    "shared_.config.json": 0,
+    "shared_.statuseffect.json": 0,
+    "shared_explorer.json": 0,
+    "shared_knight.json": 0,
+    "shared_ninja.json": 0,
+    "shared_rogue.json": 0,
+    "shared_skillbook": {
+      "shared_RPGskillbook..json": 0
+    },
+    "shared_soldier.json": 0,
+    "shared_spec.json": 0,
+    "shared_stun.json": 0,
+    "shared_tech": {
+      "shared_.statuseffect.json": 0
+    },
+    "shared_wizard.json": 0,
+    "specList.config.json": 0,
+    "specs": {
+      "abilities": {
+        "adept": {
+          "agilemagic.statuseffect.json": 0,
+          "agilemagicspeed.statuseffect.json": 0
+        },
+        "cannoneer": {
+          "fightinglion.statuseffect.json": 0
+        },
+        "captain": {
+          "bythepeople.statuseffect.json": 0,
+          "forthepeople.statuseffect.json": 0
+        },
+        "changeling": {
+          "meltyblood.statuseffect.json": 0
+        },
+        "crusader": {
+          "purity.statuseffect.json": 0
+        },
+        "darktemplar": {
+          "corrupted.statuseffect.json": 0,
+          "corruption.statuseffect.json": 0
+        },
+        "dragoon": {
+          "flightless.statuseffect.json": 0
+        },
+        "elementress": {
+          "elementalweaveelectric.statuseffect.json": 0,
+          "elementalweavefire.statuseffect.json": 0,
+          "elementalweaveice.statuseffect.json": 0
+        },
+        "hunter": {
+          "cloak.statuseffect.json": 0
+        },
+        "kunoichi": {
+          "featherfall": {
+            "tranquilwindfeatherfall.statuseffect.json": 0
+          },
+          "tranquilwind.statuseffect.json": 0
+        },
+        "necromancer": {
+          "raiseundead.statuseffect.json": 0
+        },
+        "paladin": {
+          "perfectbarrier.statuseffect.json": 0
+        },
+        "pioneer": {
+          "terranova.statuseffect.json": 0
+        },
+        "titan": {
+          "prometheantactics.statuseffect.json": 0,
+          "prometheantacticsarmorboost.statuseffect.json": 0
+        },
+        "valkyrie": {
+          "flightofthevalkyrie.statuseffect.json": 0
+        },
+        "vanguard": {
+          "inthefray.statuseffect.json": 0
+        },
+        "vigilante": {
+          "bymyownhands.statuseffect.json": 0
+        },
+        "wraith": {
+          "betweenworlds.statuseffect.json": 0
+        }
+      },
+      "adept.config.json": 0,
+      "battlemage.config.json": 0,
+      "berserker.config.json": 0,
+      "bountyhunter.config.json": 0,
+      "cannoneer.config.json": 0,
+      "captain.config.json": 0,
+      "changeling.config.json": 0,
+      "cleric.config.json": 0,
+      "conquistador.config.json": 0,
+      "crusader.config.json": 0,
+      "darktemplar.config.json": 0,
+      "deadshot.config.json": 0,
+      "dragoon.config.json": 0,
+      "hunter.config.json": 0,
+      "juggernaut.config.json": 0,
+      "kunoichi.config.json": 0,
+      "mechanist.config.json": 0,
+      "mercenary.config.json": 0,
+      "necromancer.config.json": 0,
+      "necromancer.json": 0,
+      "operative.config.json": 0,
+      "paladin.config.json": 0,
+      "pilot.config.json": 0,
+      "pioneer.config.json": 0,
+      "saboteur.config.json": 0,
+      "samurai.config.json": 0,
+      "scout.config.json": 0,
+      "shade.config.json": 0,
+      "shared_.config.json": 0,
+      "shared_n.config.json": 0,
+      "stalker.config.json": 0,
+      "technomancer.config.json": 0,
+      "techs": {
+        "adept": {
+          "flashstep.tech.json": 0
+        },
+        "cannoneer": {
+          "bombsaway.tech.json": 0
+        },
+        "captain": {
+          "allystance.tech.json": 0,
+          "allystance0.statuseffect.json": 0,
+          "allystance1.statuseffect.json": 0,
+          "allystance2.statuseffect.json": 0,
+          "allystance3.statuseffect.json": 0
+        },
+        "changeling": {
+          "poptop": {
+            "poptoppower.statuseffect.json": 0
+          },
+          "shapeshift.tech.json": 0
+        },
+        "crusader": {
+          "resurgence.tech.json": 0,
+          "resurgencecooldown.statuseffect.json": 0
+        },
+        "darktemplar": {
+          "aboundingdarkness.tech.json": 0
+        },
+        "dragoon": {
+          "dragonsleap.tech.json": 0,
+          "status": {
+            "dragonscrash.statuseffect.json": 0
+          }
+        },
+        "elementress": {
+          "attune.tech.json": 0
+        },
+        "kunoichi": {
+          "ivrpgdazed": {
+            "ivrpgdazed.animation.json": 0
+          },
+          "swirlingpetal.tech.json": 0
+        },
+        "necromancer": {
+          "reap.tech.json": 0,
+          "reaped": {
+            "reaped.statuseffect.json": 0
+          },
+          "reapedexplosion": {
+            "demonicregeneration.statuseffect.json": 0
+          }
+        },
+        "paladin": {
+          "immaculateshield.tech.json": 0
+        },
+        "pioneer": {
+          "colonize.statuseffect.json": 0,
+          "colonize.tech.json": 0,
+          "flag": {
+            "flagpioneer.object.json": 0
+          }
+        },
+        "titan": {
+          "atlasburden.tech.json": 0,
+          "atlasrelief.statuseffect.json": 0
+        },
+        "valkyrie": {
+          "einherjar.tech.json": 0,
+          "status": {
+            "einherjarcooldown.statuseffect.json": 0
+          }
+        },
+        "vanguard": {
+          "rush.tech.json": 0
+        },
+        "vigilante": {
+          "desperado.tech.json": 0,
+          "desperadocooldown.statuseffect.json": 0
+        },
+        "wraith": {
+          "darkphase.tech.json": 0
+        }
+      },
+      "thief.config.json": 0,
+      "titan.config.json": 0,
+      "valkyrie.config.json": 0,
+      "vanguard.config.json": 0,
+      "vigilante.config.json": 0,
+      "vinetender.config.json": 0,
+      "wanderer.config.json": 0,
+      "warlock.config.json": 0,
+      "wraith.config.json": 0
+    },
+    "specs.json": 0,
+    "stats.config.json": 0,
+    "tech": {
+      "explorertech": {
+        "explorerdrill": {
+          "explorerdrill.tech.json": 0
+        },
+        "explorerdrillsphere": {
+          "explorerdrillsphere.tech.json": 0
+        },
+        "explorerenhancedjump": {
+          "explorerenhancedjump.tech.json": 0
+        },
+        "explorerenhancedmovement": {
+          "explorerenhancedmovement.tech.json": 0,
+          "explorermovementsprint.statuseffect.json": 0
+        },
+        "shared_explorer": {
+          "shared_explorer.json": 0
+        }
+      },
+      "ivrpgremove": {
+        "ivrpgremove.tech.json": 0
+      },
+      "ivrpgsparks.tech.json": 0,
+      "knighttech": {
+        "knightarmorsphere": {
+          "contact": {
+            "knightarmorspherecontact.statuseffect.json": 0
+          },
+          "knightarmorsphere.tech.json": 0
+        },
+        "knightbash": {
+          "knightbash.tech.json": 0
+        },
+        "knightcharge!": {
+          "knightcharge!.tech.json": 0
+        },
+        "knightslam": {
+          "knightslam.tech.json": 0,
+          "nofalldamageks.statuseffect.json": 0
+        }
+      },
+      "ninjatech": {
+        "flashjump": {
+          "ninjaflashjump.tech.json": 0
+        },
+        "ninjaassassinate": {
+          "ninjaassassinate.tech.json": 0,
+          "ninjaassassinatecooldown.statuseffect.json": 0
+        },
+        "ninjawallcling": {
+          "ninjawallcling.tech.json": 0
+        },
+        "vanishsphere": {
+          "ninjavanishsphere.tech.json": 0
+        }
+      },
+      "roguetech": {
+        "roguecloudjump": {
+          "cloudjump.tech.json": 0,
+          "roguecloudjumpcooldown.statuseffect.json": 0
+        },
+        "rogueescape": {
+          "ivrpgdisoriented": {
+            "ivrpgdisoriented.animation.json": 0
+          },
+          "rogueescape.tech.json": 0
+        },
+        "roguepoisondash": {
+          "roguepoisondash.tech.json": 0
+        },
+        "roguetoxicaura": {
+          "roguetoxicauracooldown.statuseffect.json": 0,
+          "rogueweaken.statuseffect.json": 0,
+          "rtoxicaura.statuseffect.json": 0
+        },
+        "roguetoxiccapsule": {
+          "roguetoxiccapsule.tech.json": 0,
+          "roguetoxiccapsulecooldown.statuseffect.json": 0,
+          "shared_capsule..json": 0
+        },
+        "roguetoxicsphere": {
+          "hunger": {
+            "roguetoxicsphereconsume.statuseffect.json": 0
+          },
+          "roguetoxicsphere.tech.json": 0
+        },
+        "shared_rogue": {
+          "shared_rogue.json": 0
+        }
+      },
+      "soldiertech": {
+        "soldierenergypack": {
+          "soldierenergypack.tech.json": 0,
+          "soldierenergypackcooldown.statuseffect.json": 0
+        },
+        "soldiermarksman": {
+          "soldierfocus.statuseffect.json": 0,
+          "soldiermarksman.tech.json": 0,
+          "soldiermarksmancooldown.statuseffect.json": 0
+        },
+        "soldiermissilestrike": {
+          "soldiermissilestrike.tech.json": 0,
+          "soldiermissilestrikecooldown.statuseffect.json": 0
+        },
+        "soldiermre": {
+          "soldiermre.statuseffect.json": 0,
+          "soldiermre.tech.json": 0
+        },
+        "soldiertanksphere": {
+          "shield": {
+            "soldiertanksphereimmune.statuseffect.json": 0
+          },
+          "soldiertanksphere.tech.json": 0
+        }
+      },
+      "wizardtech": {
+        "wizardgravitysphere": {
+          "wizardgravitysphere.tech.json": 0,
+          "wizardlowgrav.statuseffect.json": 0
+        },
+        "wizardhover": {
+          "wizardhover.tech.json": 0
+        },
+        "wizardmagicshield": {
+          "wizardmagicshield.tech.json": 0,
+          "wizardmagicshieldcooldown.statuseffect.json": 0
+        },
+        "wizardtranslocate": {
+          "wizardtranslocate.tech.json": 0
+        }
+      }
+    },
+    "wide_spread_fields.json": 0
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/spiraquest2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that you have the blueprint for a powerful tool, you may be able to upgrade it. I will let you know when that time comes.^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/spiraquest2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a lot more vigilant now! I have upgraded your Spira. You will now also be able to build Hungry Spira in an upgraded anvil."
+    }
+  }
+]
