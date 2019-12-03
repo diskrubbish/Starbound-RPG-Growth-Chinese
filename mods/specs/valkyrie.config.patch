@@ -1,5 +1,20 @@
 [
   {
+    "op": "replace",
+    "value": "敏捷 Agi",
+    "path": "/effects/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "灵巧 Dex",
+    "path": "/effects/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "力量 Str",
+    "path": "/effects/2/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Valkyrie",

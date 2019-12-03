@@ -1,5 +1,10 @@
 [
   {
+    "op": "replace",
+    "value": "无亲和力",
+    "path": "/title"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "No Affinity",

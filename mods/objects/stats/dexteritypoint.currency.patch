@@ -5,6 +5,16 @@
     "path": "/description"
   },
   {
+    "op": "replace",
+    "value": "灵巧 Dex",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "灵巧 Dex",
+    "path": "/description"
+  },
+  {
     "path": "/shortdescription",
     "op": "replace",
     "source": "Dexterity",

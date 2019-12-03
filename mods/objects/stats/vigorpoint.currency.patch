@@ -5,6 +5,16 @@
     "path": "/description"
   },
   {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/description"
+  },
+  {
     "path": "/shortdescription",
     "op": "replace",
     "source": "Vigor",

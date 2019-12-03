@@ -1,5 +1,10 @@
 [
   {
+    "op": "replace",
+    "value": "驯兽师",
+    "path": "/label"
+  },
+  {
     "path": "/label",
     "op": "replace",
     "source": "Tamer",

@@ -1,5 +1,10 @@
 [
   {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/effects/1/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Paladin",

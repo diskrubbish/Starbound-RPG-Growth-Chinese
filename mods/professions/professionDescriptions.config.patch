@@ -1,5 +1,10 @@
 [
   {
+    "op": "replace",
+    "value": "单击某个职业的图标以查看其优势。",
+    "path": "/default/text"
+  },
+  {
     "path": "/medic/text",
     "op": "replace",
     "source": "The Medic supports their allies with passive healing. It provides access to cheap, craftable medical supplies, such as bandages and salve.",

@@ -1,5 +1,25 @@
 [
   {
+    "op": "replace",
+    "value": "耐力 Edr",
+    "path": "/scaling/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "骑士",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "力量 Str",
+    "path": "/scaling/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/scaling/2/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Knight",

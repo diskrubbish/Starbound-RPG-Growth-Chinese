@@ -1,5 +1,10 @@
 [
   {
+    "op": "replace",
+    "value": "点击任意属性图标查看属性加成.",
+    "path": "/default/0/text"
+  },
+  {
     "path": "/strength/0/text",
     "op": "replace",
     "source": "Greatly Increases Shield Health.",

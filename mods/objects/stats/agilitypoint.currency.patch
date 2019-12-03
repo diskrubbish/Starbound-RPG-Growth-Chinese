@@ -5,6 +5,16 @@
     "path": "/description"
   },
   {
+    "op": "replace",
+    "value": "敏捷 Agi",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "敏捷 Agi",
+    "path": "/description"
+  },
+  {
     "path": "/shortdescription",
     "op": "replace",
     "source": "Agility",

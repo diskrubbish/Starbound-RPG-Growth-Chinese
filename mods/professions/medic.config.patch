@@ -1,5 +1,20 @@
 [
   {
+    "op": "replace",
+    "value": "智力 Int",
+    "path": "/scaling/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "医者",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/scaling/0/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Medic",

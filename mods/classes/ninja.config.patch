@@ -1,5 +1,20 @@
 [
   {
+    "op": "replace",
+    "value": "敏捷 Agi",
+    "path": "/scaling/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "灵巧 Dex",
+    "path": "/scaling/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "忍者",
+    "path": "/title"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Ninja",

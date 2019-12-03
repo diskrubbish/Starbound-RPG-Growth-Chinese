@@ -1,5 +1,30 @@
 [
   {
+    "op": "replace",
+    "value": "敏捷 Agi",
+    "path": "/scaling/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "耐力 Edr",
+    "path": "/scaling/2/text"
+  },
+  {
+    "op": "replace",
+    "value": "探险家",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/scaling/3/text"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/scaling/0/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Explorer",

@@ -1,5 +1,20 @@
 [
   {
+    "op": "replace",
+    "value": "智力 Int",
+    "path": "/scaling/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/scaling/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "巫师",
+    "path": "/title"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Wizard",

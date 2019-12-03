@@ -1,5 +1,10 @@
 [
   {
+    "op": "replace",
+    "value": "矿工",
+    "path": "/label"
+  },
+  {
     "path": "/label",
     "op": "replace",
     "source": "Miner",

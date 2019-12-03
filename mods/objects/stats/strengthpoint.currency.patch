@@ -5,6 +5,16 @@
     "path": "/description"
   },
   {
+    "op": "replace",
+    "value": "力量 Str",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "力量 Str",
+    "path": "/description"
+  },
+  {
     "path": "/shortdescription",
     "op": "replace",
     "source": "Strength",

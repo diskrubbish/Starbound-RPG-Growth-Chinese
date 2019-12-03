@@ -1,5 +1,10 @@
 [
   {
+    "op": "replace",
+    "value": "点击任意职业图标查看职业简介.",
+    "path": "/default/text"
+  },
+  {
     "path": "/knight/text",
     "op": "replace",
     "source": "The Knight: Melee Tank. Does better with Two-Handed Melee Weapons, but still does great with Sword and Shield. The Knight's skills mostly improve defensive capabilities, though all have offensive measures as well. The Knight can heal via Perfect Shielding, and has higher Knockback Resistance.",

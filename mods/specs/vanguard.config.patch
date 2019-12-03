@@ -1,5 +1,15 @@
 [
   {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/effects/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/effects/0/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Vanguard",

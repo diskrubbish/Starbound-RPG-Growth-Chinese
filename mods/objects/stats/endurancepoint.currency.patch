@@ -5,6 +5,16 @@
     "path": "/description"
   },
   {
+    "op": "replace",
+    "value": "耐力 Edr",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "耐力 Edr",
+    "path": "/description"
+  },
+  {
     "path": "/shortdescription",
     "op": "replace",
     "source": "Endurance",

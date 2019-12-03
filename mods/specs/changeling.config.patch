@@ -1,5 +1,55 @@
 [
   {
+    "op": "replace",
+    "value": "敏捷 Agi",
+    "path": "/tech/transformBonusText/poptop/7/text"
+  },
+  {
+    "op": "replace",
+    "value": "耐力 Edr",
+    "path": "/tech/transformBonusText/poptop/6/text"
+  },
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/effects/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/tech/transformBonusText//1/text"
+  },
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/tech/transformBonusText/giant/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/tech/transformBonusText/orbide/5/text"
+  },
+  {
+    "op": "replace",
+    "value": "活力 Vig",
+    "path": "/tech/transformBonusText/poptop/4/text"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/effects/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/tech/transformBonusText//0/text"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/tech/transformBonusText/giant/0/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Changeling",

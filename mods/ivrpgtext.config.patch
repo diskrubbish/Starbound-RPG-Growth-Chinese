@@ -1,6 +1,81 @@
 [
   {
     "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpguc/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucdangerclose/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucdecay/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucearlybird/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucitsatrap/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpguclaststand/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucmasochism/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucmomentum/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucmonstermaster/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucphotosynthesis/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucsadism/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpguctotalblackout/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpguctruevampire/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucunstoppable/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/tech/ivrpguc/description"
+  },
+  {
+    "op": "replace",
     "value": "无畏重力球击晕升级.\n长按左键击晕接触的敌人.\n^red;击晕消耗能量.",
     "path": "/upgrades/tech/ivrpgucstunningsphere/description"
   },

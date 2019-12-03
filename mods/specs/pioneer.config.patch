@@ -1,5 +1,20 @@
 [
   {
+    "op": "replace",
+    "value": "敏捷 Agi",
+    "path": "/effects/2/text"
+  },
+  {
+    "op": "replace",
+    "value": "耐力 Edr",
+    "path": "/effects/1/text"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/effects/0/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Pioneer",

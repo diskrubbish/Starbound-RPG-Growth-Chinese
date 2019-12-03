@@ -1,5 +1,10 @@
 [
   {
+    "op": "replace",
+    "value": "力量 Str",
+    "path": "/effects/0/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Crusader",

@@ -1,5 +1,20 @@
 [
   {
+    "op": "replace",
+    "value": "灵巧 Dex",
+    "path": "/scaling/0/text"
+  },
+  {
+    "op": "replace",
+    "value": "铁匠",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "力量 Str",
+    "path": "/scaling/1/text"
+  },
+  {
     "path": "/title",
     "op": "replace",
     "source": "Smith",

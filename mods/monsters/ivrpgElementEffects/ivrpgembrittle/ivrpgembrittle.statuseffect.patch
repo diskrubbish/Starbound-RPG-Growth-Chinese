@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "减速",
+    "path": "/label"
+  },
+  {
+    "op": "replace",
     "value": "缓慢",
     "path": "/label"
   }

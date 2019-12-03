@@ -5,6 +5,16 @@
     "path": "/description"
   },
   {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "体质 Vit",
+    "path": "/description"
+  },
+  {
     "path": "/shortdescription",
     "op": "replace",
     "source": "Vitality",

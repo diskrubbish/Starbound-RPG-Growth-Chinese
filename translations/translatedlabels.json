@@ -1,16 +1,16 @@
 {
   "texts": {
     "affinities": {
-      "affinityDescriptions.config.json": 0,
-      "arc.config.json": 0,
-      "cryo.config.json": 0,
-      "flame.config.json": 0,
-      "frost.config.json": 0,
-      "infernal.config.json": 0,
-      "shared_.config.json": 0,
-      "shock.config.json": 0,
-      "toxic.config.json": 0,
-      "venom.config.json": 0
+      "affinityDescriptions.config.json": 3,
+      "arc.config.json": 6,
+      "cryo.config.json": 6,
+      "flame.config.json": 3,
+      "frost.config.json": 3,
+      "infernal.config.json": 5,
+      "shared_.config.json": 13,
+      "shock.config.json": 3,
+      "toxic.config.json": 5,
+      "venom.config.json": 2
     },
     "classes": {
       "classDescriptions.config.json": 0,
@@ -26,7 +26,7 @@
     "glitchEmotes.json": 0,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 103
+        "RPGskillbook.config.json": 105
       }
     },
     "items": {
@@ -528,7 +528,7 @@
     "shared_ninja.json": 0,
     "shared_rogue.json": 0,
     "shared_skillbook": {
-      "shared_RPGskillbook..json": 0
+      "shared_RPGskillbook..json": 1
     },
     "shared_soldier.json": 0,
     "shared_spec.json": 0,
@@ -862,6 +862,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 0
+    "wide_spread_fields.json": 31
   }
 }
