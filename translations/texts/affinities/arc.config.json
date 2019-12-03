@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "造成伤害时有30%的几率使敌人过载。超载的敌人-25%的速度，并放射出链式闪电伤害附近的其他敌人。", 
       "Eng": "+30% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在水下时最大生命值为70%",
       "Eng": "70% Max Health while submerged"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "电弧" ,
       "Eng": "Arc"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "电系伤害" ,
       "Eng": "Electric Damage"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "暗影(FU)",
       "Eng": "Shadow (FU)"
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^yellow;当消耗所有能量时，释放出一个会造成巨大伤害并导致过载的电爆炸。" ,
       "Eng": "^yellow;Upon expending all Energy, release an Electric explosion that deals massive damage and causes Overload."
     }
   }

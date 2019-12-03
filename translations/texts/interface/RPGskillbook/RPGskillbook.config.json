@@ -1119,7 +1119,7 @@
       ]
     },
     "Texts": {
-      "value": "通过完成挑战来证明你的能力! 下面将显示三个随机生成的任务,每个任务的难度都会增加。\n完成后,点击“同意”按钮获取奖励。\n^red;奖励总数是随机的，只能选择其中一个或两个。^reset;",
+      "Chs": "通过完成挑战来证明你的能力! 下面将显示三个随机生成的任务,每个任务的难度都会增加。\n完成后,点击“同意”按钮获取奖励。\n^red;奖励总数是随机的，只能选择其中一个或两个。^reset;",
       "Eng": "Test your might by completing challenges! Three randomly generated tasks will appear below, each with increasing difficulty.\nOnce completed, press the 'Accept' button to grab your rewards.\n^red;Reward total is randomized, and only one or two items are chosen.^reset;"
     }
   },
@@ -1350,7 +1350,7 @@
       ]
     },
     "Texts": {
-      "value": "^#b9b5b2;汝即为天选之人！",
+      "Chs": "^#b9b5b2;汝即为天选之人！",
       "Eng": "^#b9b5b2;Use it to strengthen your character!"
     }
   }

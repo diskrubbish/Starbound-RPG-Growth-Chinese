@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "造成伤害时有30%的几率使敌人脆化。脆化的敌人有-25%的物理抗性，当其被杀死时会爆炸。霜冻爆炸会造成寒冷伤害和霜冻，且减慢敌人的速度。" ,
       "Eng": "+30% chance to Embrittle enemies when dealing damage. Embrittled enemies have -25% Physical Resistance and shatter when killed. This Ice Explosion deals Cold Damage and Frost Slows enemies."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "霜结" ,
       "Eng": "Cryo"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "极端寒冷(Fu)",
       "Eng": "Extreme Cold (FU)"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "冰系伤害",
       "Eng": "Ice Damage"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "窒息",
       "Eng": "Suffocation"
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^blue;当你的生命下降到三分之一以下时，附近的敌人会被击退并减速。" ,
       "Eng": "^blue;When your Health falls below one third, nearby enemies are knocked back and slowed."
     }
   }

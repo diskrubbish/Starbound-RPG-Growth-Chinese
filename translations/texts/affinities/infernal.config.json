@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "造成伤害时有30%的几率灼伤敌人。灼伤的敌人-25%的能量，且在灼伤期间会被烧伤。" , 
       "Eng": "+30% chance to Sear enemies when dealing damage. Seared enemies have -25% Power and are Burned for the duration of Sear."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "极端炎热(Fu)",
       "Eng": "Extreme Heat (FU)"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "火焰伤害",
       "Eng": "Fire Damage"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "狱火",
       "Eng": "Infernal"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "熔岩",
       "Eng": "Lava"
     }
   }
