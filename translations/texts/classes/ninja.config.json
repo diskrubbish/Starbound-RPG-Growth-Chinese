@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在夜间或在地下时+10%的出血几率和0.5秒的出血时间。" ,
       "Eng": "+10% Bleed Chance and 0.5s Bleed Length during Nighttime or while Underground."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "-10%坠落伤害。",
       "Eng": "-10% Fall Damage."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "110%的速度和跳跃高度。" ,
       "Eng": "110% Speed and Jump Height."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用匕首、刀子、苦无、星镖或手里剑时基础伤害提高至115%。" ,
       "Eng": "115% Base Power while using Throwing Daggers, Knives, Kunai, Stars, or Shurikens."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用武士刀、环刃、匕首或鞭子时基础伤害提高至120%。" ,
       "Eng": "120% Base Power while using Tantōs, Chakrams, Daggers, or Whips."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "闪烁跳跃的升级版。在跳跃过程中靠近墙壁可以紧贴墙壁，之后你就能再次跳跃。按住[S]可向下滑动。按住[空格键]再次跳跃。离开墙后技能结束。", 
       "Eng": "An upgrade to Flash Jump. Cling to walls by moving against them during a jump, and refresh your jumps upon doing so. Press [S] to slide down while clinging. Press [Space] while clinging or sliding to jump. Move away from the wall to get off."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以使用狩猎弓和\n破损的守护者之剑" , 
       "Eng": "Can use Hunting Bows and the\nBroken Protectorate Broadsword."
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以使用可改装的十字弓，\n能量鞭和所有武士刀",
       "Eng": "Can use the Adaptable Crossbow,\nEnergy Whips, and all Katanas"
     }
   },
@@ -95,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "不能使用双手武器。\n不能使用远程武器。\n不能使用魔法武器", 
       "Eng": "Cannot use Two-Handed Weapons.\nCannot use Ranged Weapons.\n Cannot use Magic Weapons."
     }
   },
@@ -106,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按[F]变成一个无敌的荆刺球。启动时能量消耗很快。当你能量耗尽或在转化过程中按[F]键时，无敌就结束了。与其他荆刺球不同，消失球的速度取决于敏捷值。" ,
       "Eng": "Press [F] to morph into an invulnerable spike ball. Energy drains quickly while active. The invulnerability ends when you run out of energy or press [F] while transformed. Unlike other Spike Spheres, Vanish Sphere's speed scales with Aglity."
     }
   },
@@ -117,6 +127,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按[G]（在按键设置中绑定[G]）以消失。2秒钟后，你将出现在光标处（如果能到达）。如果拿着锋利的武器，在出现时会发出一次砍击。在冷却过程中，失去20%的物理抵抗。能量消耗取决于距离和敏捷值。" ,
       "Eng": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility."
     }
   },
@@ -128,6 +139,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在半空中按[空格]键踏爆空气冲刺。在跳跃后的短时间内，你不会受到伤害。只要你在空中保持能量充足，你就不会受到跌落伤害。你可以在半空中使用两次这个技能。" ,
       "Eng": "Press [Space] while midair to burst forward. For a short time after jumping, you are invulnerable to damage. As long as you remain in the air with energy remaining, you are invulnerable to fall damage. You may do this twice while midair."
     }
   }

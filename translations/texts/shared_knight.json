@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "装甲球",
       "Eng": "Armor Sphere"
     }
   },
@@ -24,6 +25,7 @@
       ]
     },
     "Texts": {
+      "Chs": "重击",
       "Eng": "Bash"
     }
   },
@@ -38,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "冲锋！",
       "Eng": "Charge!"
     }
   },
@@ -52,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "猛击",
       "Eng": "Slam"
     }
   }

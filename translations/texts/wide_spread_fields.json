@@ -350,6 +350,7 @@
       ]
     },
     "Texts": {
+      "Chs": "宙斯盾",
       "Eng": "Aegis"
     }
   },
@@ -367,6 +368,7 @@
       ]
     },
     "Texts": {
+      "Chs": "苍穹",
       "Eng": "Aether"
     }
   },
@@ -533,7 +535,7 @@
       ]
     },
     "Texts": {
-      "Chs": "点击任意职业图标查看职业简介.",
+      "Chs": "点击任意职业图标查看职业简介。",
       "Eng": "Click a Class' icon to see how that Class plays."
     }
   },
@@ -563,7 +565,7 @@
       ]
     },
     "Texts": {
-      "Chs": "点击任意属性图标查看属性加成.",
+      "Chs": "点击任意属性图标查看属性加成。",
       "Eng": "Click a stat's icon to see what occurs\nwhen that stat is raised."
     }
   },
@@ -1142,6 +1144,7 @@
       ]
     },
     "Texts": {
+      "Chs": "尚未选择职业",
       "Eng": "No Class"
     }
   },
@@ -1156,6 +1159,7 @@
       ]
     },
     "Texts": {
+      "Chs": "新星",
       "Eng": "Nova"
     }
   },
@@ -1463,6 +1467,7 @@
       ]
     },
     "Texts": {
+      "Chs": "旋风",
       "Eng": "Spira"
     }
   },
@@ -1669,6 +1674,7 @@
       ]
     },
     "Texts": {
+      "Chs": "复仇者",
       "Eng": "Versa"
     }
   },

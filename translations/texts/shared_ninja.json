@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "闪烁跳跃",
       "Eng": "Flash Jump"
     }
   },
@@ -24,6 +25,7 @@
       ]
     },
     "Texts": {
+      "Chs": "影踏",
       "Eng": "Shadow Step"
     }
   },
@@ -38,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "消失球",
       "Eng": "Vanish Sphere"
     }
   },
@@ -52,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "壁挂",
       "Eng": "Wall Cling"
     }
   }

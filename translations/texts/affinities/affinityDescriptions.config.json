@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "value": "雷霆，代表敏锐的亲和力。这种亲和力给予给予电系的免疫和抗性，以及中等敏捷值提升。升级后提供更强的免疫力和更大的智力提升。不过请小心，因为选择这种亲和力会削弱你在水下的能力，并且降低你对霜冻的抗性。" ,
+      "Chs": "雷霆，代表敏锐的亲和力。这种亲和力给予给予电系的免疫和抗性，以及中等敏捷值提升。升级后提供更强的免疫力和更大的智力提升。不过请小心，因为选择这种亲和力会削弱你在水下的能力，并且降低你对霜冻的抗性。" ,
       "Eng": "Shock, the Perceptive Affinity. This Affinity grants Electric based Immunities and Resistances, and a Medium Agility Stat Boost. Provides better Immunities and a Large Intelligence Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Frost."
     }
   },
@@ -55,7 +55,7 @@
       ]
     },
     "Texts": {
-      "value": "毒液，代表娴熟的亲和力。这种亲和力给予基于毒素的免疫和抗性，以及小的活力、敏捷和灵巧属性的提升。在升级时提供更强的免疫力和更大的灵巧提升。不过请小心，因为选择这种亲和力会降低你的最大生命水平，并使你对雷霆很弱。" ,
+      "Chs": "毒液，代表娴熟的亲和力。这种亲和力给予基于毒素的免疫和抗性，以及小的活力、敏捷和灵巧属性的提升。在升级时提供更强的免疫力和更大的灵巧提升。不过请小心，因为选择这种亲和力会降低你的最大生命水平，并使你对雷霆很弱。" ,
       "Eng": "Venom, the Proficient Affinity. This Affinity grants Poison based Immunities and Resistances, and a Small Vigor, Dexterity, and Agility Stat Boost. Provides better Immunities and a Large Dexterity Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Max Health and makes you weak to Electricity."
     }
   }

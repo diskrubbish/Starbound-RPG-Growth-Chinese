@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "击中敌人时有6%的几率使其冻结、燃烧或者通电。这些效果可以叠加。", 
       "Eng": "+6% Chance to Freeze, Burn, or Electrify enemies on hit. These effects can stack."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "-20%物理抗性" ,
       "Eng": "-20% Physical Resistance"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在一只手上使用魔杖而没有任何其他武器装备的情况下，魔杖的基础攻击力提升至110%。",
       "Eng": "110% Base Power while using a Wand in either hand without any other weapon equipped."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用法杖时其基础攻击力增加至110%。" ,
       "Eng": "110% Base Power with Staves."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "只有80%的速度和跳跃高度" ,
       "Eng": "80% Speed and Jump Height"
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "荆刺球的升级版，变形期间不但会稍稍回血，受到的重力也变小。此外，按住鼠标左键消耗一定的能量创建一个屏障，将敌人推开。",
       "Eng": "An upgrade to Spike Sphere, while transformed you regen slightly and are affected by low gravity. In addition, hold left click to create a barrier that pushes enemies away, draining energy to do so."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以使用狩猎弓和\n破损的守护者之剑" , 
       "Eng": "Can equip Hunting Bows and the\nBroken Protectorate Broadsword."
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以使用\n厄尔吉斯之眼、恶魔之眼和磁力珠" ,
       "Eng": "Can equip the\nErchius Eye, Evil Eye, and Magnorbs"
     }
   },
@@ -95,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "不能使用远程武器。\n不能使用双持近战武器。\n不能使用双持非魔法武器。",
       "Eng": "Cannot use Ranged Weapons.\nCannot use Two-Handed Melee Weapons.\nCannot Dual-Wield Non-Magic Weapons."
     }
   },
@@ -106,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "悬停",
       "Eng": "Hover"
     }
   },
@@ -117,6 +127,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按[F]切换。当启动后，受到伤害会减少你的能量，但损失的一半能量会转化为生命。如果恢复的生命水平不足以维持生命，你会死。当激活时，能量不会锁定，能量以每秒10%的最大能量回复，回复速度随着智力和活力的增加而增加。" ,
       "Eng": "Press [F] to toggle. While active, damage taken also affects Energy, but half the Energy lost is converted to Health. You will die if the amount of Health gained back would not have been enough to live. While active; Energy cannot lock; and Energy recharges at 8% Max Energy per second, which increases with Int. and Vigor."
     }
   },
@@ -128,6 +139,7 @@
       ]
     },
     "Texts": {
+      "value": "按[G]（在按键设置中绑定[G]）以传送到光标处（如果能到达）。在你再次传送之前有一点冷却时间。能量消耗取决于距离和敏捷值。在任务期间和在你的飞船上时只能传送到视野范围内！" ,
       "Eng": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate is Line-of-Sight only!."
     }
   },
@@ -139,6 +151,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在空中按[空格]可悬停在光标上。光标越远，移动速度越快。当你盘旋时，你的能量会不停消耗。悬停的速度随敏捷而变化。" ,
       "Eng": "Press [Space] while in air to hover towards your cursor. The further your cursor, the faster you move. Your Energy drains while you hover. Hover speed scales with Agility."
     }
   },
@@ -150,6 +163,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用魔杖或法杖时，获得+10%的火、电和冰抗性。", 
       "Eng": "While using Wands or Staves, gain +10% Fire, Electric, and Ice Resistance."
     }
   }
