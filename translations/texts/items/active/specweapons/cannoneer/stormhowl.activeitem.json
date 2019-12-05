@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "随着暴风雨的嚎叫，海浪猛烈地冲击着，风无休止地刮着。",
       "Eng": "Waves crash violently and winds blow endlessly as the storm howls."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#bff4ff;暴风之啸", 
       "Eng": "^#bff4ff;Stormhowl"
     }
   }

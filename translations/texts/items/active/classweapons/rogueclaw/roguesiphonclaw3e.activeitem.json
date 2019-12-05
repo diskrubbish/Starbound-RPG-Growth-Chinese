@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "充满能量！",
       "Eng": "Crackling with energy!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs":  "yellow;h虹吸通量",
       "Eng": "^yellow;Siphon Flux"
     }
   }

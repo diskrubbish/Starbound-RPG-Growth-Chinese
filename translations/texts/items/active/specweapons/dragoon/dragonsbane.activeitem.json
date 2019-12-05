@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "见过飞龙翔空吗？\n想看吗？",
       "Eng": "Ever see a Dragon flee?\nWant to?"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#950010;白龙之灾^white;" ,
       "Eng": "^#950010;Dragon's Bane^white;"
     }
   }

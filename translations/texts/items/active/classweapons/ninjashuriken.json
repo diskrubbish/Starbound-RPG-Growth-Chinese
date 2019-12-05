@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "喂食吧。",
       "Eng": "Feed me."
     }
   },
@@ -24,6 +25,7 @@
       ]
     },
     "Texts": {
+      "Chs": "暗影手里剑·苍穹",
       "Eng": "Shadow Aether"
     }
   },
@@ -38,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^red;血色手里剑 苍穹",
       "Eng": "^red;Blood Aether"
     }
   }
