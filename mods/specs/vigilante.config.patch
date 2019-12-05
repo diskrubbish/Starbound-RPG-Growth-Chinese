@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "只有75%的最大能量",
+    "path": "/effects/6/text"
+  },
+  {
+    "op": "replace",
     "value": "敏捷 Agi",
     "path": "/effects/0/text"
   },

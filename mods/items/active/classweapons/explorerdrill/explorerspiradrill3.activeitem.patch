@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "RPT探索者钻头, 号称日破天.",
+    "value": "我的钻头可是能突破天际的！",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^yellow;Ravenous Spira",
-    "value": "^yellow;贪婪的尖塔"
+    "value": "^yellow;贪婪小钻风",
+    "path": "/shortdescription"
   }
 ]

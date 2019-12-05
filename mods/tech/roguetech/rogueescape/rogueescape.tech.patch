@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "脱战！",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "冷却时间: 0.25s.",
     "path": "/description"
   },

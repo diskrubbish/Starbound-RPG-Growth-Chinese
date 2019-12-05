@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "影踏",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "消耗: 20-100% 最大能量. 隐匿时间: 2s. 冷却时间: 3s.",
     "path": "/description"
   },

@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "致命姿态",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "致命力场",
     "path": "/shortDescription"
   },

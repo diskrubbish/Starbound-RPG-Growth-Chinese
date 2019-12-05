@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "Aether, a shadowy shuriken that duplicates using dark energy.",
-    "value": "以太，一种使用暗能量复制的模糊的树精。"
+    "value": "手里剑·苍穹",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Aether",
-    "value": "醚"
+    "value": "苍穹，一把用暗影能量复制自我的影子手里剑。",
+    "path": "/description"
   }
 ]

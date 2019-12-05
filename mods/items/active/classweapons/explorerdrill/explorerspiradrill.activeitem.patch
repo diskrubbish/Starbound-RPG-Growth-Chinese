@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "RPT钻机原型,一个可以快速穿透大部分材料的实验性钻头.",
-    "path": "/description"
+    "value": "小钻风",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Spira",
-    "value": "斯皮拉"
+    "value": "有啥挡路？",
+    "path": "/description"
   }
 ]

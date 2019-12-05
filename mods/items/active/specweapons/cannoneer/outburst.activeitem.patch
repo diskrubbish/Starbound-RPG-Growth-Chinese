@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "^red;NOW THAT'S A LOT OF DAMAGE!\n^orange;Weapon Designed by Banny!",
-    "value": "^red;现在这可以造成成吨的伤害！\n^orange;武器由 Banny 设计！"
+    "value": "^#32ffb4;突发",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^#32ffb4;Outburst",
-    "value": "^#32ffb4;突发"
+    "value": "^red;成 吨 伤 害！",
+    "path": "/description"
   }
 ]

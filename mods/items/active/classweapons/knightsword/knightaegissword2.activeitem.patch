@@ -1,19 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "棱镜庇护者,一种用流星金属制成的双手大剑,嵌有钻石和黄金,可以承受沉重的打击.",
+    "value": "棱镜护主剑",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "他们说钻石是最坚硬的。不过，现在不是了。\n^blue;六下连击之中第三下连击为下戳。",
     "path": "/description"
-  },
-  {
-    "path": "/primaryAbility/name",
-    "op": "replace",
-    "source": "Combo Slash",
-    "value": "拯救公主"
-  },
-  {
-    "path": "/shortdescription",
-    "op": "replace",
-    "source": "Prismatic Aegis",
-    "value": "棱镜宙斯"
   }
 ]

@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "Odin's gift to you.",
-    "value": "奥丁给你的礼物。"
+    "value": "奥迪的赐礼。",
+    "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^#34dbdb;Gungnir^white;",
-    "value": "^#34dbdb;永恒之枪^white;"
+    "value": "^#34dbdb;永恒圣枪^white;",
+    "path": "/shortdescription"
   }
 ]

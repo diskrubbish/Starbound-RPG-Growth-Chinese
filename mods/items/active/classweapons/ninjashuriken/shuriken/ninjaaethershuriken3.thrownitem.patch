@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "Feed me.",
-    "value": "喂我。"
+    "value": "喂食吧。",
+    "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^red;Blood Aether",
-    "value": "^red;血乙醚"
+    "value": "^red;血色手里剑 苍穹",
+    "path": "/shortdescription"
   }
 ]

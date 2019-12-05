@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "毒素光环",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "剧毒灵气",
     "path": "/shortDescription"
   },

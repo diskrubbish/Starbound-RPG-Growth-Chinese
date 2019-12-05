@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "Don't leave even one enemy alive.\n^orange;Weapon Designed by Banny!",
-    "value": "不要让一个敌人活着。"
+    "value": "杀得他们片甲不留。",
+    "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^orange;Epimetheus",
-    "value": "^orange;表甲虫"
+    "value": "^orange;厄庇墨透斯",
+    "path": "/shortdescription"
   }
 ]

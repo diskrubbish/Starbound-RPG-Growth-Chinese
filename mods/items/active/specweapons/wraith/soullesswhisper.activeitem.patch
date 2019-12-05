@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "Do you hear that?",
-    "value": "你听到了吗？"
+    "value": "你听到了吗？",
+    "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^gray;Soulless Whisper",
-    "value": "^gray;无灵魂的低语"
+    "value": "^gray;夺魂低语",
+    "path": "/shortdescription"
   }
 ]

@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "消失球",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "变形消耗: 25e. 维持消耗: 50eps.",
     "path": "/description"
   },

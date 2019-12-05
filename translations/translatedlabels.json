@@ -1,7 +1,7 @@
 {
   "texts": {
     "affinities": {
-      "affinityDescriptions.config.json": 3,
+      "affinityDescriptions.config.json": 5,
       "arc.config.json": 6,
       "cryo.config.json": 6,
       "flame.config.json": 3,
@@ -13,16 +13,16 @@
       "venom.config.json": 2
     },
     "classes": {
-      "classDescriptions.config.json": 0,
-      "explorer.config.json": 0,
-      "knight.config.json": 0,
-      "ninja.config.json": 0,
-      "rogue.config.json": 0,
-      "shared_.config.json": 0,
-      "soldier.config.json": 0,
-      "wizard.config.json": 0
+      "classDescriptions.config.json": 6,
+      "explorer.config.json": 10,
+      "knight.config.json": 9,
+      "ninja.config.json": 12,
+      "rogue.config.json": 8,
+      "shared_.config.json": 1,
+      "soldier.config.json": 11,
+      "wizard.config.json": 13
     },
-    "default.config.json": 0,
+    "default.config.json": 1,
     "glitchEmotes.json": 0,
     "interface": {
       "RPGskillbook": {
@@ -33,114 +33,114 @@
       "active": {
         "classweapons": {
           "explorerdrill": {
-            "explorerspiradrill.activeitem.json": 0,
-            "explorerspiradrill2.activeitem.json": 0,
-            "explorerspiradrill3.activeitem.json": 0
+            "explorerspiradrill.activeitem.json": 1,
+            "explorerspiradrill2.activeitem.json": 2,
+            "explorerspiradrill3.activeitem.json": 2
           },
           "knightsword": {
-            "knightaegissword.activeitem.json": 0,
-            "knightaegissword2.activeitem.json": 0,
-            "knightaegissword3.activeitem.json": 0,
-            "knightaegissword4.activeitem.json": 0
+            "knightaegissword.activeitem.json": 1,
+            "knightaegissword2.activeitem.json": 2,
+            "knightaegissword3.activeitem.json": 2,
+            "knightaegissword4.activeitem.json": 2
           },
           "ninjashuriken": {
-            "aethertanto1.activeitem.json": 0,
-            "aethertanto2.activeitem.json": 0,
+            "aethertanto1.activeitem.json": 1,
+            "aethertanto2.activeitem.json": 1,
             "shuriken": {
-              "ninjaaethershuriken.thrownitem.json": 0,
-              "ninjaaethershuriken2.thrownitem.json": 0
+              "ninjaaethershuriken.thrownitem.json": 1,
+              "ninjaaethershuriken2.thrownitem.json": 1
             }
           },
-          "ninjashuriken.json": 0,
+          "ninjashuriken.json": 3,
           "rogueclaw": {
-            "roguesiphonclaw.activeitem.json": 0,
-            "roguesiphonclaw2s.activeitem.json": 0,
-            "roguesiphonclaw2v.activeitem.json": 0,
-            "roguesiphonclaw3e.activeitem.json": 0,
-            "roguesiphonclaw3s.activeitem.json": 0,
-            "roguesiphonclaw3v.activeitem.json": 0
+            "roguesiphonclaw.activeitem.json": 1,
+            "roguesiphonclaw2s.activeitem.json": 2,
+            "roguesiphonclaw2v.activeitem.json": 2,
+            "roguesiphonclaw3e.activeitem.json": 2,
+            "roguesiphonclaw3s.activeitem.json": 2,
+            "roguesiphonclaw3v.activeitem.json": 2
           },
           "soldiergun": {
-            "soldierversa.activeitem.json": 0,
-            "soldierversa2.activeitem.json": 0,
-            "soldierversa3.activeitem.json": 0
+            "soldierversa.activeitem.json": 1,
+            "soldierversa2.activeitem.json": 2,
+            "soldierversa3.activeitem.json": 2
           },
           "wizardstaff": {
             "novastatus": {
-              "wizardnovastatus.animation.json": 0
+              "wizardnovastatus.animation.json": 1
             },
-            "wizardnovastaff.activeitem.json": 0,
-            "wizardnovastaff2.activeitem.json": 0,
-            "wizardnovastaff3.activeitem.json": 0
+            "wizardnovastaff.activeitem.json": 1,
+            "wizardnovastaff2.activeitem.json": 2,
+            "wizardnovastaff3.activeitem.json": 2
           }
         },
         "specweapons": {
           "adept": {
-            "phaseshift.activeitem.json": 0,
+            "phaseshift.activeitem.json": 2,
             "projectile": {
               "bolt": {
-                "phaseshiftenergyregen.statuseffect.json": 0
+                "phaseshiftenergyregen.statuseffect.json": 1
               }
             }
           },
           "cannoneer": {
-            "outburst.activeitem.json": 0,
-            "stormhowl.activeitem.json": 0
+            "outburst.activeitem.json": 2,
+            "stormhowl.activeitem.json": 2
           },
           "captain": {
-            "leadersrally.activeitem.json": 0
+            "leadersrally.activeitem.json": 2
           },
           "crusader": {
-            "oathkeeper.activeitem.json": 0
+            "oathkeeper.activeitem.json": 2
           },
           "darktemplar": {
-            "heartless.activeitem.json": 0
+            "heartless.activeitem.json": 2
           },
           "dragoon": {
-            "dragonsbane.activeitem.json": 0
+            "dragonsbane.activeitem.json": 2
           },
           "elementress": {
-            "eclipse.activeitem.json": 0
+            "eclipse.activeitem.json": 2
           },
           "kunoichi": {
-            "luxuria.activeitem.json": 0
+            "luxuria.activeitem.json": 2
           },
           "necromancer": {
-            "forusall.activeitem.json": 0
+            "forusall.activeitem.json": 2
           },
           "paladin": {
-            "ivrpgtrueaegis.activeitem.json": 0,
+            "ivrpgtrueaegis.activeitem.json": 2,
             "judgement": {
-              "ivrpgjudgement.animation.json": 0,
-              "ivrpgjudgement.statuseffect.json": 0
+              "ivrpgjudgement.animation.json": 1,
+              "ivrpgjudgement.statuseffect.json": 1
             }
           },
           "pioneer": {
-            "nautilus.activeitem.json": 0
+            "nautilus.activeitem.json": 2
           },
           "titan": {
-            "epimetheus.activeitem.json": 0
+            "epimetheus.activeitem.json": 2
           },
           "valkyrie": {
-            "gungnir.activeitem.json": 0,
+            "gungnir.activeitem.json": 2,
             "mark": {
               "gungnirthrown": {
-                "holymark.statuseffect.json": 0
+                "holymark.statuseffect.json": 1
               }
             },
             "odinsblessing": {
-              "odinsblessing.statuseffect.json": 0
+              "odinsblessing.statuseffect.json": 1
             }
           },
           "vanguard": {
-            "dangerclose.activeitem.json": 0
+            "dangerclose.activeitem.json": 2
           },
           "vigilante": {
-            "anne.activeitem.json": 0,
-            "marie.activeitem.json": 0
+            "anne.activeitem.json": 2,
+            "marie.activeitem.json": 2
           },
           "wraith": {
-            "soullesswhisper.activeitem.json": 0
+            "soullesswhisper.activeitem.json": 2
           }
         },
         "weapons": {
@@ -521,22 +521,22 @@
         "wizardaffinity.statuseffect.json": 0
       }
     },
-    "shared_.config.json": 0,
+    "shared_.config.json": 3,
     "shared_.statuseffect.json": 0,
-    "shared_explorer.json": 0,
-    "shared_knight.json": 0,
-    "shared_ninja.json": 0,
-    "shared_rogue.json": 0,
+    "shared_explorer.json": 3,
+    "shared_knight.json": 4,
+    "shared_ninja.json": 4,
+    "shared_rogue.json": 4,
     "shared_skillbook": {
       "shared_RPGskillbook..json": 1
     },
-    "shared_soldier.json": 0,
+    "shared_soldier.json": 4,
     "shared_spec.json": 0,
     "shared_stun.json": 0,
     "shared_tech": {
       "shared_.statuseffect.json": 0
     },
-    "shared_wizard.json": 0,
+    "shared_wizard.json": 3,
     "specList.config.json": 0,
     "specs": {
       "abilities": {
@@ -862,6 +862,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 31
+    "wide_spread_fields.json": 38
   }
 }

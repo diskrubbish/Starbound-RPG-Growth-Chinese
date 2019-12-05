@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "壁挂",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "跳跃消耗: 15e.",
     "path": "/description"
   },

@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "value": "点击任意属性图标查看属性加成.",
+    "value": "点击任意属性图标查看属性加成。",
     "path": "/default/0/text"
   },
   {

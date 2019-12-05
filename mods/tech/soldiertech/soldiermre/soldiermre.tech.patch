@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "恰军粮",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "回复饥饿度: 5%. 冷却时间: 90s",
     "path": "/description"
   },

@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "只有50%的最大生命",
+    "path": "/effects/5/text"
+  },
+  {
+    "op": "replace",
     "value": "灵巧 Dex",
     "path": "/effects/0/text"
   },

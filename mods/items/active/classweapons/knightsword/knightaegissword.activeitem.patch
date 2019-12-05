@@ -1,19 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "庇护者, 用流星金属制成的双手剑,可以承受沉重的打击.",
+    "value": "护主剑",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "大多数剑只能砍几下。这把剑可不是。\n^blue;六下连击之中第三下连击为下戳。",
     "path": "/description"
-  },
-  {
-    "path": "/primaryAbility/name",
-    "op": "replace",
-    "source": "Combo Slash",
-    "value": "拯救公主"
-  },
-  {
-    "path": "/shortdescription",
-    "op": "replace",
-    "source": "Aegis",
-    "value": "宙斯盾"
   }
 ]

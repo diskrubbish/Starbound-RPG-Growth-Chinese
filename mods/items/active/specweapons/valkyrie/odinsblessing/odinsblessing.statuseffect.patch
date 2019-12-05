@@ -1,8 +1,7 @@
 [
   {
-    "path": "/label",
     "op": "replace",
-    "source": "Odin's Blessing",
-    "value": "奥丁的祝福"
+    "value": "奥丁的赐福",
+    "path": "/label"
   }
 ]

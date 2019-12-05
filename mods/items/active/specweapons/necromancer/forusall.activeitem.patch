@@ -1,20 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "They say life is important... Well, so is taking it away.",
-    "value": "他们说生活很重要…好吧，把它拿走了。"
+    "value": "他们说生命很重要...嗯，所以将其取走吧。",
+    "path": "/description"
   },
   {
-    "path": "/primaryAbility/name",
     "op": "replace",
-    "source": "Combo Slash",
-    "value": "拯救公主"
-  },
-  {
-    "path": "/shortdescription",
-    "op": "replace",
-    "source": "^gray;For Us All",
-    "value": "^gray;对我们所有人"
+    "value": "^gray;全吸收",
+    "path": "/shortdescription"
   }
 ]

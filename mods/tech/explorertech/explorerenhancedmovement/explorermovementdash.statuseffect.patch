@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "强化冲刺",
+    "path": "/label"
+  },
+  {
+    "op": "replace",
     "value": "增强猛冲",
     "path": "/label"
   }

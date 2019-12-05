@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "DGN战斗步枪 MKIII, 一把可以从任何地方消灭敌人的步枪：甚至敌人在你身后.",
+    "value": "有时候你也需要杀死身后的敌人。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^orange;Versa Ricochet",
-    "value": "^orange;反之亦然"
+    "value": "^orange;弹幕反抗者",
+    "path": "/shortdescription"
   }
 ]

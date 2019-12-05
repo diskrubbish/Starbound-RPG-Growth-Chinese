@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "异乎寻常...",
-    "path": "/description"
+    "value": "虹吸孢囊",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Siphon Cyst",
-    "value": "虹吸囊肿"
+    "value": "不可思议...",
+    "path": "/description"
   }
 ]

@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "RPT开拓者钻头可以将吸取掉落物.",
-    "path": "/description"
+    "value": "饥渴小钻风",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Hungry Spira",
-    "value": "饥饿螺旋藻"
+    "value": "像飓风一样旋转。",
+    "path": "/description"
   }
 ]

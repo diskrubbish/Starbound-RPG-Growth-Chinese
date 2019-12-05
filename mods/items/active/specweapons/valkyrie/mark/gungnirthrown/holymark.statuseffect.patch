@@ -1,8 +1,7 @@
 [
   {
-    "path": "/label",
     "op": "replace",
-    "source": "Holy Mark",
-    "value": "神圣标记"
+    "value": "神圣标记",
+    "path": "/label"
   }
 ]

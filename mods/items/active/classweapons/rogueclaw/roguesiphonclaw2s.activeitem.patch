@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "三寸寒芒,锋利异常!",
+    "value": "哦啊，寒芒更甚！",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Siphon Slash",
-    "value": "虹吸斜井"
+    "value": "虹吸冲击",
+    "path": "/shortdescription"
   }
 ]

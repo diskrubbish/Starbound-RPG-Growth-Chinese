@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "毒素球",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "剧毒重力球",
     "path": "/shortDescription"
   },

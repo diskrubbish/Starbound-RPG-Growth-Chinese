@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "超新星, 一根蕴含着无限的危险元素能量法杖.",
-    "path": "/description"
+    "value": "超级新星",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Super Nova",
-    "value": "超新星"
+    "value": "你吸收垂死星辰越多，其攻击也将就越加沉重。",
+    "path": "/description"
   }
 ]

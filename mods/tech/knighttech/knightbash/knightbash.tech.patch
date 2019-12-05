@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "重击",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "野蛮冲撞",
     "path": "/shortDescription"
   },

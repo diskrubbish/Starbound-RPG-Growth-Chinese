@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "It's thrilling getting so close. After all, it lets you hear when their heart stops beating.",
-    "value": "离得这么近真让人兴奋。毕竟，当他们的心脏停止跳动时，它能让你听到。"
+    "value": "离得这么近真让人激动。毕竟，它能让你听到他们的心脏停止跳动。",
+    "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^red;Danger Close",
-    "value": "^red;危险关闭"
+    "value": "^red;与狼共舞",
+    "path": "/shortdescription"
   }
 ]

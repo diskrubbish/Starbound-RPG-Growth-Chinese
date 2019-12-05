@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "She wasn't very loud, sure, but it don't matter much when your shootin' does the talkin'.",
-    "value": "当然，她不是很大声，但当你的枪击声“是在说话”时，没什么关系。"
+    "value": "当然，她的声音不是很大，但是的子弹出膛之后，这就不重要了。",
+    "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^blue;Marie",
-    "value": "^blue;玛丽"
+    "value": "^blue;玛丽",
+    "path": "/shortdescription"
   }
 ]

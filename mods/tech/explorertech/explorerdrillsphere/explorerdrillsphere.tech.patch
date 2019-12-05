@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "钻头球",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "挖掘重力球",
     "path": "/shortDescription"
   },

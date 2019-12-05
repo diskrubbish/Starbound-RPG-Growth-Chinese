@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "DGN战斗步枪 MKII, 一把远近适用的步枪.",
+    "value": "所以...现在还是把聚狙击枪了？",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Versa Impact",
-    "value": "反冲击"
+    "value": "铭刻反抗者",
+    "path": "/shortdescription"
   }
 ]

@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "DGN战斗步枪 MKI, 适合在中近距离摧毁目标.",
-    "path": "/description"
+    "value": "反抗者",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Versa",
-    "value": "反之亦然"
+    "value": "一把霰弹枪和突击步枪？算我一个。",
+    "path": "/description"
   }
 ]

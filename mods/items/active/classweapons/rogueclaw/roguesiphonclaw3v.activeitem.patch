@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "令人恶心的完美. ",
+    "value": "除了有点恶心。简直完美。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^green;Siphon Spore",
-    "value": "^green;虹吸孢子"
+    "value": "^green;虹吸孢子",
+    "path": "/shortdescription"
   }
 ]

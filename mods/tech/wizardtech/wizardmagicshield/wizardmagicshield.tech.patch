@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "魔法盾",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "奥术护盾",
     "path": "/shortDescription"
   },

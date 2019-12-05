@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "Ever see a Dragon flee?\nWant to?",
-    "value": "有没有看到一条龙逃跑？"
+    "value": "见过飞龙翔空吗？\n想看吗？",
+    "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^#950010;Dragon's Bane^white;",
-    "value": "^#950010;白龙之灾^white;"
+    "value": "^#950010;白龙之灾^white;",
+    "path": "/shortdescription"
   }
 ]

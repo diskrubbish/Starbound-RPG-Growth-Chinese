@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "保家卫国. 生灵庇护.",
+    "value": "大地守护团已经消逝，但是我们呢？我们绝不屈服。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^blue;True Aegis",
-    "value": "^blue;真正的宙斯"
+    "value": "^blue;真理捍卫者",
+    "path": "/shortdescription"
   }
 ]

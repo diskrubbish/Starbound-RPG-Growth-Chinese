@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "装甲球",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "无畏重力球",
     "path": "/shortDescription"
   },

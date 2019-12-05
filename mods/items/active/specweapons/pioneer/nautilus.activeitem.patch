@@ -1,14 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "Within the spiral lies a dormant power: the questions is, whose?",
-    "value": "在螺旋的内部存在着一种休眠的力量：问题是，谁的？"
+    "value": "在这个海螺里面有着一股休眠的力量: 问题是，这是谁的力量？",
+    "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^yellow;Nautilus",
-    "value": "^yellow;鹦鹉螺"
+    "value": "^yellow;鹦鹉螺",
+    "path": "/shortdescription"
   }
 ]

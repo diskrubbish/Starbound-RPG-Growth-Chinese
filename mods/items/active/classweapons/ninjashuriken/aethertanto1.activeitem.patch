@@ -1,20 +1,12 @@
 [
   {
-    "path": "/description",
     "op": "replace",
-    "source": "A blade that passes through enemies without fault.",
-    "value": "无过失地穿过敌人的刀刃。"
+    "value": "手里剑·苍穹",
+    "path": "/shortdescription"
   },
   {
-    "path": "/primaryAbility/name",
     "op": "replace",
-    "source": "Kunai Slash",
-    "value": "库奈斜杠"
-  },
-  {
-    "path": "/shortdescription",
-    "op": "replace",
-    "source": "Aether",
-    "value": "醚"
+    "value": "精准无误穿过敌人的刀刃。",
+    "path": "/description"
   }
 ]

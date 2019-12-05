@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "冲锋！",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "使用消耗: 125eps.",
     "path": "/description"
   },

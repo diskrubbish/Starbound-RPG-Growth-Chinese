@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "电光石火!",
+    "value": "充满能量！",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^yellow;Siphon Flux",
-    "value": "^yellow;虹吸通量"
+    "value": "yellow;h虹吸通量",
+    "path": "/shortdescription"
   }
 ]

@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "value": "奥力给",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
     "value": "持续时间: 0.20s.",
     "path": "/description"
   },
