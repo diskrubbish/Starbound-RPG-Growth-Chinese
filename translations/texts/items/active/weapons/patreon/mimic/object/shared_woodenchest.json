@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "一个箱子！让我们打开它...小心。",
       "Eng": "A chest! Let's open it up... carefully."
     }
   },
@@ -24,6 +25,7 @@
       ]
     },
     "Texts": {
+      "Chs": "一个箱子！等等... 感觉有点不对劲。",
       "Eng": "A chest! Wait... something feels off about this."
     }
   },
@@ -38,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "凯恩的箱子", 
       "Eng": "Caine's Chest"
     }
   },
@@ -52,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "箱箱箱子？或者又又又不是？叶族人想看看看！",
       "Eng": "Chessst! Or isss it? Floran will sssee!"
     }
   },
@@ -66,6 +70,7 @@
       ]
     },
     "Texts": {
+      "Chs": "打开箱子通常是一件很刺激的事情，但是这玩意让我感觉有点不爽。",
       "Eng": "It's usually a thrill to open chests, but I'm feelin' a bit off 'bout this one."
     }
   },
@@ -80,6 +85,7 @@
       ]
     },
     "Texts": {
+      "Chs": "通常这些箱子里存放着贵重物品。我很兴奋... 我想。",
       "Eng": "Often these chests stored valuables. I'm excited... I think."
     }
   },
@@ -94,6 +100,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这看起来像是经典游戏《鲨鱼之魂》中的一个箱子。",
       "Eng": "This kind of looks like a chest in the classic game, Shark Souls."
     }
   },
@@ -108,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "里面会有什么？",
       "Eng": "What could be inside?"
     }
   }

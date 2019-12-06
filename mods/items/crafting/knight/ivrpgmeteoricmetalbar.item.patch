@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一块精炼过的流星金属锭,坚不可摧.",
+    "value": "一根金属棒如此坚硬，光是看着它就让你感到自身的脆弱。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Meteoric Metal Bar",
-    "value": "流星金属棒"
+    "value": "陨铁锭",
+    "path": "/shortdescription"
   }
 ]

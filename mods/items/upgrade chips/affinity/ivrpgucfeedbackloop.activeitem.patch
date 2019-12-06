@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "电击&电弧亲和力升级.\n在造成触电状态时,\n获得2秒愤怒.",
-    "path": "/description"
+    "value": "反馈回路",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Feedback Loop",
-    "value": "反馈回路"
+    "value": "雷霆&电弧亲和力升级。\n造成过载后获得愤怒。",
+    "path": "/description"
   }
 ]

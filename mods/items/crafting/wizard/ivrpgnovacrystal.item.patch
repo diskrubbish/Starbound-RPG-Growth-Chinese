@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一块散发着神秘力量的水晶.",
+    "value": "一颗散发着神秘力量的水晶。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Nova Crystal",
-    "value": "铁矿和新星水晶"
+    "value": "新星水晶",
+    "path": "/shortdescription"
   }
 ]

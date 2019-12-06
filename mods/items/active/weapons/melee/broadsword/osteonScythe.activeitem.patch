@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "优雅,无情,令人生畏.锯齿般的刀锋能轻易切断肉体.",
-    "path": "/description"
+    "value": "钢骨之镰",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Bonesteel Scythe",
-    "value": "博内斯特尔·塞思"
+    "value": "优雅而令人生畏，对敌人绝不刃下留情。锯齿状的边缘肯定会减轻入肉的疼痛。",
+    "path": "/description"
   }
 ]

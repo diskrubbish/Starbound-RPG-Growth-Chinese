@@ -1,6 +1,21 @@
 [
   {
     "op": "replace",
+    "value": "绽放",
+    "path": "/upgrades/affinity/ivrpgucbloom/title"
+  },
+  {
+    "op": "replace",
+    "value": "冰封之心",
+    "path": "/upgrades/affinity/ivrpguccoldheart/title"
+  },
+  {
+    "op": "replace",
+    "value": "传染病",
+    "path": "/upgrades/affinity/ivrpguccontagion/title"
+  },
+  {
+    "op": "replace",
     "value": "描述",
     "path": "/upgrades/general/ivrpguc/description"
   },
@@ -73,6 +88,56 @@
     "op": "replace",
     "value": "描述",
     "path": "/upgrades/tech/ivrpguc/description"
+  },
+  {
+    "op": "replace",
+    "value": "放电",
+    "path": "/upgrades/affinity/ivrpgucdischarge/title"
+  },
+  {
+    "op": "replace",
+    "value": "永恒之焰",
+    "path": "/upgrades/affinity/ivrpguceternalflame/title"
+  },
+  {
+    "op": "replace",
+    "value": "常青",
+    "path": "/upgrades/affinity/ivrpgucevergreen/title"
+  },
+  {
+    "op": "replace",
+    "value": "反馈回路",
+    "path": "/upgrades/affinity/ivrpgucfeedbackloop/title"
+  },
+  {
+    "op": "replace",
+    "value": "冰雪女王",
+    "path": "/upgrades/affinity/ivrpgucicequeen/title"
+  },
+  {
+    "op": "replace",
+    "value": "百毒不侵",
+    "path": "/upgrades/affinity/ivrpgucincurable/title"
+  },
+  {
+    "op": "replace",
+    "value": "瘴气",
+    "path": "/upgrades/affinity/ivrpgucmiasma/title"
+  },
+  {
+    "op": "replace",
+    "value": "等离子核心",
+    "path": "/upgrades/affinity/ivrpgucplasmacore/title"
+  },
+  {
+    "op": "replace",
+    "value": "斯卡蒂的祝福",
+    "path": "/upgrades/affinity/ivrpgucskadisblessing/title"
+  },
+  {
+    "op": "replace",
+    "value": "维京葬礼",
+    "path": "/upgrades/affinity/ivrpgucvikingfuneral/title"
   },
   {
     "op": "replace",

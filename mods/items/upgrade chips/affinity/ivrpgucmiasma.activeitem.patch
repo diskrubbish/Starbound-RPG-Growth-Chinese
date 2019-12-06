@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "毒&老毒物亲和力升级.\n在你脚下产生毒云.",
-    "path": "/description"
+    "value": "瘴气",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Miasma",
-    "value": "瘴气"
+    "value": "毒液&毒蚀亲和力升级。\n在脚下圣城造成中毒状态的毒云。",
+    "path": "/description"
   }
 ]

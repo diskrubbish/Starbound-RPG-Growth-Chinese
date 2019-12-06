@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一块坚硬无比的流星金属碎片.",
+    "value": "一块坚硬的金属陨石碎片。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Meteoric Metal",
-    "value": "陨星金属"
+    "value": "陨铁",
+    "path": "/shortdescription"
   }
 ]

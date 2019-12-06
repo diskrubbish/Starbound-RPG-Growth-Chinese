@@ -396,7 +396,7 @@
   },
   {
     "op": "replace",
-    "value": " 溢出的经验值:",
+    "value": "溢出的经验值:",
     "path": "/gui/masterylayout/children/xpovertitle/value"
   },
   {
@@ -521,7 +521,7 @@
   },
   {
     "op": "replace",
-    "value": "刑罚",
+    "value": "惩罚",
     "path": "/gui/specializationlayout/children/detrimenttitle/value"
   },
   {

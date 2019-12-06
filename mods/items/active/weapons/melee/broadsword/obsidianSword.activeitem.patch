@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一柄来自行星核心的灼热长剑.",
+    "value": "一把以行星灼热核心制作而成的刀片。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Obsidian Blade",
-    "value": "黑曜石刀片"
+    "value": "十胜石刃",
+    "path": "/shortdescription"
   }
 ]

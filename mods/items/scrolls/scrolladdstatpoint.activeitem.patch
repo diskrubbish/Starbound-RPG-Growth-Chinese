@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "看起来这个卷轴里包含着各种有用的信息.",
+    "value": "看起来这个卷轴里包含着各种有趣的信息.",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Scroll: +1 Stat Point",
-    "value": "卷轴：+1个属性点"
+    "value": "卷轴：+1属性点",
+    "path": "/shortdescription"
   }
 ]

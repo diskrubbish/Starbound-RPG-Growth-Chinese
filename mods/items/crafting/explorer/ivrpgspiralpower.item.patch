@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "可以通过螺旋动力增幅能量!",
-    "path": "/description"
+    "value": "螺旋抛瓦",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Spiral Power",
-    "value": "螺旋能量"
+    "value": "不知怎么的，我们让能量变得更有男子气概也更加纤细了！",
+    "path": "/description"
   }
 ]

@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一枚可以重置亲和力的卷轴!也许你想试试新的元素?",
-    "path": "/description"
+    "value": "亲和力复位卷轴",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Affinity Reset Scroll",
-    "value": "亲和重置卷轴"
+    "value": "看起来就像是漂亮元素的诱人宣传广告！也许你想试试新的？",
+    "path": "/description"
   }
 ]

@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一坨有点恶心的黏稠物,粘粘的还在蠕动.",
+    "value": "一团粘粘的恶心东西，当你拿着它的时候，感觉就像它爬上了你的手臂。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Parasitic Goo",
-    "value": "寄生咕咕"
+    "value": "寄生粘液",
+    "path": "/shortdescription"
   }
 ]

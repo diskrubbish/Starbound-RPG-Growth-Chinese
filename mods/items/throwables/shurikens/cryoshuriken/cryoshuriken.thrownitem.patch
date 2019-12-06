@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一个冰冷的飞镖,可以冻僵敌人.",
+    "value": "一枚冰冷的手里剑，一定能阻止敌人的脚步。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Cryo Shuriken",
-    "value": "克鲁舒里肯"
+    "value": "冻结手里剑",
+    "path": "/shortdescription"
   }
 ]

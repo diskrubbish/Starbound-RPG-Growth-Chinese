@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "非法的武器零件,也许你可以把它组装起来,搞点事情.",
-    "path": "/description"
+    "value": "枪械部件(RPG)",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Gun Parts",
-    "value": "枪零件"
+    "value": "非法武器的零件。也许你可以把这些；零件拼在一起一起做成危险的东西。",
+    "path": "/description"
   }
 ]

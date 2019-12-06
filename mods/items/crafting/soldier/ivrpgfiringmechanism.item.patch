@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "这个枪机组件可以兼容不同类型的子弹.",
+    "value": "一种点火装置，允许枪支发射不同种类的子弹。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Firing Mechanism",
-    "value": "点火机构"
+    "value": "点火机关",
+    "path": "/shortdescription"
   }
 ]

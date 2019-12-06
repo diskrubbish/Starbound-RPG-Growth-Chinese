@@ -3,7 +3,7 @@
     "path": "/labels/scroll",
     "op": "replace",
     "source": "Scroll",
-    "value": "纸卷"
+    "value": "卷轴"
   },
   {
     "path": "/labels/useScroll",
@@ -21,7 +21,7 @@
     "path": "/labels/clawWeapon",
     "op": "replace",
     "source": "Claw Weapon",
-    "value": "爪哇武器"
+    "value": "拳爪武器"
   },
   {
     "path": "/labels/hybridGun",
@@ -33,7 +33,7 @@
     "path": "/labels/shuriken",
     "op": "replace",
     "source": "Shuriken",
-    "value": "舒里肯"
+    "value": "手里剑"
   },
   {
     "path": "/labels/uniqueDrill",

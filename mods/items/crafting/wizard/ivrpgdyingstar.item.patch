@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一小块来自垂死恒星的碎片... 也许可以提取其中的残留能量?",
+    "value": "一颗垂死的恒星...这甚至可以用于手工制作吗？",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Dying Star",
-    "value": "垂死之星"
+    "value": "垂死之星",
+    "path": "/shortdescription"
   }
 ]

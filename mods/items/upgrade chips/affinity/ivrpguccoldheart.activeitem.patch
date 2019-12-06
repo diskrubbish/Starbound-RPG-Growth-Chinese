@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "寒冰&深寒亲和力升级.\n一个敌人脆化的时间越长,\n他们受到的伤害就越高.",
-    "path": "/description"
+    "value": "冰封之心",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Cold Heart",
-    "value": "冷酷的心"
+    "value": "霜冻&霜结亲和力升级。\n脆化的敌人进一步对伤害失去抗性。",
+    "path": "/description"
   }
 ]

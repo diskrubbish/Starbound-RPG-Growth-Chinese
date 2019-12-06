@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "结晶冲击武器.",
+    "value": "铭刻着结晶的武器。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^#00FFFF;Arbiter Greataxe^white;",
-    "value": "^#00ffff;仲裁人greataxe^white;"
+    "value": "^#00FFFF;仲裁者巨斧^white;",
+    "path": "/shortdescription"
   }
 ]

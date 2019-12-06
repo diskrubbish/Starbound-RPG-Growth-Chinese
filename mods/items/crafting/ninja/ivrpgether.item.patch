@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一团近乎无形的相位物质...",
+    "value": "一种几乎无形的物质...尽管如此，还能是有形体的吗？",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Ether",
-    "value": "醚"
+    "value": "以太",
+    "path": "/shortdescription"
   }
 ]

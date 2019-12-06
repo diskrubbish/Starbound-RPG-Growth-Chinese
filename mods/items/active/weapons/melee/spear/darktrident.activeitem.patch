@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "尖锐的矛.比长矛慢,但会造成更多的伤害.",
+    "value": "一点寒芒先到，随后枪出如龙。比普通的长矛慢，但更具破坏性",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^#00FFFF;Dark-Matterlord Spear^white;",
-    "value": "^#00ffff;深色马特福德矛^white;"
+    "value": "^#00FFFF;暗质君主之矛^white;",
+    "path": "/shortdescription"
   }
 ]

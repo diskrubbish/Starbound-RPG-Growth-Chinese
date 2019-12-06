@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "真是个鼓舞人心的传奇英雄故事,也许是时候换个新工作了.",
-    "path": "/description"
+    "value": "职业复位卷轴",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Class Reset Scroll",
-    "value": "职业重置卷轴"
+    "value": "关于传奇英雄的励志故事。也许是时候开始一段新的职业生涯了。",
+    "path": "/description"
   }
 ]

@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "为皇室量身打造的剑.锋利,平衡,迅速,这把剑可以将把它的主人带到胜利的宝座.",
+    "value": "一把真正适合王者使用的剑。锋利，平衡，迅速，这把剑将带着它的主人走向胜利。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Exhalted Sword",
-    "value": "呼出剑"
+    "value": "显赫刀剑",
+    "path": "/shortdescription"
   }
 ]

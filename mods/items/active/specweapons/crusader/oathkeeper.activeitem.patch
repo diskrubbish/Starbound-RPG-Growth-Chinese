@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "value": "天选之纯净。\n^blue;由第位个十字军锻造，连击附带下戳。",
+    "value": "天选之纯净。\n^blue;由第位一位十字军锻造，连击附带下戳。",
     "path": "/description"
   },
   {

@@ -16,6 +16,7 @@
       ]
     },
     "Texts": {
+      "Chs": "描述",
       "Eng": "Description."
     }
   },
@@ -36,6 +37,7 @@
       ]
     },
     "Texts": {
+      "Chs": "名字",
       "Eng": "Name"
     }
   }

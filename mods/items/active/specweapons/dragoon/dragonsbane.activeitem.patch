@@ -6,7 +6,7 @@
   },
   {
     "op": "replace",
-    "value": "^#950010;白龙之灾^white;",
+    "value": "^#950010;龙之祸根^white;",
     "path": "/shortdescription"
   }
 ]

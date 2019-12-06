@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一个刻着恶魔铭文的卷轴. 有部分被火烧毁了.",
-    "path": "/description"
+    "value": "卷轴：狱火",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Scroll: Infernos",
-    "value": "卷轴：地狱"
+    "value": "记载了邪恶仪式的铭文。它的角落烧掉了一块。",
+    "path": "/description"
   }
 ]

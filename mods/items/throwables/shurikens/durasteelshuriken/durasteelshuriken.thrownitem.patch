@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "耐钢飞镖,袖珍而致命.",
+    "value": "一枚掌心大的致命手里剑。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Durasteel Shuriken",
-    "value": "硬钢Shuriken"
+    "value": "耐刚手里剑",
+    "path": "/shortdescription"
   }
 ]

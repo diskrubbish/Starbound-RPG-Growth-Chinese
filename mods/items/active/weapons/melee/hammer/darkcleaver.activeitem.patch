@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "被封印在刀刃里恶魔只想得到解脱.",
+    "value": "被这把剑困住的恶魔只求解脱。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "^red;Abhorrent Cleaver^white;",
-    "value": "^red;可憎的劈刀^white;"
+    "value": "^red;憎恶劈刀^white;",
+    "path": "/shortdescription"
   }
 ]

@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "一束寄生神经束,恶心的蠕动着,仿佛在试图进入你的皮肤.",
+    "value": "一束神经以令人厌恶的方式摆动着，好像要钻进你的皮肤。",
     "path": "/description"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Squirming Nerve Bundle",
-    "value": "蠕动神经束"
+    "value": "蠕动神经束",
+    "path": "/shortdescription"
   }
 ]

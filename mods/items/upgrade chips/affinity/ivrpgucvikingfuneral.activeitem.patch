@@ -1,13 +1,12 @@
 [
   {
     "op": "replace",
-    "value": "火焰&地狱火亲和力升级.\n燃烧持续时间*2.",
-    "path": "/description"
+    "value": "维京葬礼",
+    "path": "/shortdescription"
   },
   {
-    "path": "/shortdescription",
     "op": "replace",
-    "source": "Viking Funeral",
-    "value": "海盗葬礼"
+    "value": "火焰&狱火亲和力升级。\n燃烧持续时间翻倍。",
+    "path": "/description"
   }
 ]

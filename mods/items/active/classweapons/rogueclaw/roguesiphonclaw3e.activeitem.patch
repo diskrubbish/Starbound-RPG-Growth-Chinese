@@ -6,7 +6,7 @@
   },
   {
     "op": "replace",
-    "value": "yellow;h虹吸通量",
+    "value": "yellow;虹吸通量",
     "path": "/shortdescription"
   }
 ]
