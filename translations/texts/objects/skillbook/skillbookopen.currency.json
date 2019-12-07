@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "设备保护",
       "Eng": "Dev Hack"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "防止技能书被多次打开。",
       "Eng": "Prevents the Skill Book from being opened multiple times."
     }
   }

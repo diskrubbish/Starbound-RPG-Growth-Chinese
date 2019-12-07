@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "value": "^shadow;$dmg$",
-    "path": "/definition/text"
-  }
-]

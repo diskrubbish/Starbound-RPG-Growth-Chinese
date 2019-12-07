@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/label",
-    "op": "replace",
-    "source": "Smith's Resistance",
-    "value": "铁匠的抵抗"
-  }
-]

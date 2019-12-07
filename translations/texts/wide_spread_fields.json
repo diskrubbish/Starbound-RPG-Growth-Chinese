@@ -450,6 +450,7 @@
       ]
     },
     "Texts": {
+      "Chs": "电池组",
       "Eng": "Battery Pack"
     }
   },
@@ -464,6 +465,7 @@
       ]
     },
     "Texts": {
+      "Chs": "盲目正义",
       "Eng": "Blinding Justice"
     }
   },
@@ -478,6 +480,7 @@
       ]
     },
     "Texts": {
+      "Chs": "血色手里剑·苍穹升级。\n能量苦无会留下致人迷失的烟雾。",
       "Eng": "Blood Aether Upgrade.\nEnergy Kunai leave behind disorienting smoke."
     }
   },
@@ -522,6 +525,7 @@
       ]
     },
     "Texts": {
+      "Chs": "充能",
       "Eng": "Charger"
     }
   },
@@ -596,6 +600,7 @@
       ]
     },
     "Texts": {
+      "Chs": "连击崩坏",
       "Eng": "Combo Breaker"
     }
   },
@@ -820,6 +825,7 @@
       ]
     },
     "Texts": {
+      "Chs": "更进一步",
       "Eng": "Even More Enhanced"
     }
   },
@@ -894,6 +900,7 @@
       ]
     },
     "Texts": {
+      "Chs": "第四面墙",
       "Eng": "Fourth Wall"
     }
   },
@@ -926,6 +933,7 @@
       ]
     },
     "Texts": {
+      "Chs": "鬼魂",
       "Eng": "Ghost"
     }
   },
@@ -940,6 +948,7 @@
       ]
     },
     "Texts": {
+      "Chs": "强光",
       "Eng": "Hard Light"
     }
   },
@@ -1184,6 +1193,7 @@
       ]
     },
     "Texts": {
+      "Chs": "起原淬炼",
       "Eng": "Passed Prime"
     }
   },
@@ -1198,6 +1208,7 @@
       ]
     },
     "Texts": {
+      "Chs": "巅峰性能", 
       "Eng": "Peak Performance"
     }
   },
@@ -1212,6 +1223,7 @@
       ]
     },
     "Texts": {
+      "Chs": "破界",
       "Eng": "Phase Out"
     }
   },
@@ -1226,6 +1238,7 @@
       ]
     },
     "Texts": {
+      "Chs": "精准打击",
       "Eng": "Pinpoint Accuracy"
     }
   },
@@ -1255,6 +1268,7 @@
       ]
     },
     "Texts": {
+      "Chs": "快银",
       "Eng": "Quicksilver"
     }
   },
@@ -1295,6 +1309,7 @@
       ]
     },
     "Texts": {
+      "Chs": "左撇子",
       "Eng": "Right Hand Man"
     }
   },
@@ -1309,6 +1324,7 @@
       ]
     },
     "Texts": {
+      "Chs": "正义",
       "Eng": "Righteousness"
     }
   },
@@ -1382,7 +1398,7 @@
       ]
     },
     "Texts": {
-      "Chs": "虹吸",
+      "Chs": "虹吸爪",
       "Eng": "Siphon"
     }
   },
@@ -1466,6 +1482,7 @@
       ]
     },
     "Texts": {
+      "Chs": "钻向胜利",
       "Eng": "Spin to Win"
     }
   },
@@ -1552,6 +1569,7 @@
       ]
     },
     "Texts": {
+      "Chs": "共生",
       "Eng": "Symbiosis"
     }
   },
@@ -1658,6 +1676,7 @@
       ]
     },
     "Texts": {
+      "Chs": "吸血鬼之抚",
       "Eng": "Vampire's Caress"
     }
   },
@@ -1836,6 +1855,7 @@
       ]
     },
     "Texts": {
+      "Chs": "凌波微步",
       "Eng": "Wavedash"
     }
   },

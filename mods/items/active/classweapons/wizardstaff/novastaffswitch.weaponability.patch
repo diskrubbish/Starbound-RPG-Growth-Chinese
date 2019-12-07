@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "value": "切换元素",
-    "path": "/ability/name"
-  }
-]

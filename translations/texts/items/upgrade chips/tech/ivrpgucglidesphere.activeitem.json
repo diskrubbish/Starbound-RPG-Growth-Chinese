@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "钻头球升级。\n在变形过程中获得双跳和滑翔。空气动量增加。",
       "Eng": "Drill Sphere Upgrade.\nGain a double jump and glide while transformed. In-air momentum is improved."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "滑翔球",
       "Eng": "Glide Sphere"
     }
   }
