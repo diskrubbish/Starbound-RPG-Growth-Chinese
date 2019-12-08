@@ -18,6 +18,7 @@
       ]
     },
     "Texts": {
+      "Chs": "炼金术士工作台",
       "Eng": "Alchemist Station"
     }
   },
@@ -29,6 +30,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我不太会制造药剂，不过我觉得应该会很有趣。",
       "Eng": "I ain't much of a potion-maker, but I s'pose it might be fun."
     }
   },
@@ -40,6 +42,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我是个疯狂科学家。太酷了...我相信我们都知道接下来的事情。",
       "Eng": "I am mad scientist. It's so cool... I'm sure we all know the rest."
     }
   },
@@ -51,6 +54,7 @@
       ]
     },
     "Texts": {
+      "Chs": "魔药有点... 过时了，但我想不是所有的东西都是高科技的。",
       "Eng": "Potions are kind of... archaic, but I suppose not everything is high-tech."
     }
   },
@@ -62,6 +66,7 @@
       ]
     },
     "Texts": {
+      "Chs": "有时从小瓶子里溅出来的黏糊糊的东西粘在了我的羽毛上。",
       "Eng": "The goop that sometimes splashes from the vials gets stuck to my feathers."
     }
   },
@@ -73,6 +78,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这里众多的腐蚀性液体可能会熔化我的电路。",
       "Eng": "There are many caustic liquids here that could melt my circuits."
     }
   },
@@ -84,6 +90,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这个被原料覆盖的杂乱柜台对于调制药水应该是有用的。",
       "Eng": "This cluttered counter covered in ingredients should be useful for concocting potions."
     }
   },
@@ -95,6 +102,7 @@
       ]
     },
     "Texts": {
+      "Chs": "肉在在在哪？叶族人想要肉，不要药！",
       "Eng": "Where isss meat? Floran want meat, not goo!"
     }
   }

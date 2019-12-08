@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "制造",
       "Eng": "Craft"
     }
   },
@@ -33,6 +34,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可用材料",
       "Eng": "MATERIALS AVAILABLE"
     }
   },
@@ -56,6 +58,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#b9b5b2;蓝图",
       "Eng": "^#b9b5b2;BLUEPRINT"
     }
   },
@@ -79,6 +82,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#b9b5b2;产品",
       "Eng": "^#b9b5b2;PRODUCT"
     }
   }

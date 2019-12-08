@@ -284,33 +284,33 @@
         },
         "shared_.activeitem.json": 2,
         "tech": {
-          "ivrpgucbatterypack.activeitem.json": 0,
-          "ivrpgucfourthwall.activeitem.json": 0,
-          "ivrpgucghost.activeitem.json": 0,
-          "ivrpgucglidesphere.activeitem.json": 0,
-          "ivrpguchoversphere.activeitem.json": 0,
-          "ivrpgucmoreenhanced.activeitem.json": 0,
-          "ivrpgucpeakperformance.activeitem.json": 0,
-          "ivrpgucphaseout.activeitem.json": 0,
-          "ivrpgucpinpointaccuracy.activeitem.json": 0,
-          "ivrpgucstunningsphere.activeitem.json": 0,
-          "ivrpgucwalljump.activeitem.json": 0,
-          "ivrpgucwavedash.activeitem.json": 0
+          "ivrpgucbatterypack.activeitem.json": 1,
+          "ivrpgucfourthwall.activeitem.json": 1,
+          "ivrpgucghost.activeitem.json": 1,
+          "ivrpgucglidesphere.activeitem.json": 2,
+          "ivrpguchoversphere.activeitem.json": 2,
+          "ivrpgucmoreenhanced.activeitem.json": 1,
+          "ivrpgucpeakperformance.activeitem.json": 1,
+          "ivrpgucphaseout.activeitem.json": 1,
+          "ivrpgucpinpointaccuracy.activeitem.json": 1,
+          "ivrpgucstunningsphere.activeitem.json": 1,
+          "ivrpgucwalljump.activeitem.json": 2,
+          "ivrpgucwavedash.activeitem.json": 1
         },
         "weapon": {
-          "ivrpgucblindingjustice.activeitem.json": 0,
-          "ivrpgucbloodseeker.activeitem.json": 0,
-          "ivrpguccharger.activeitem.json": 0,
-          "ivrpguccombobreaker.activeitem.json": 0,
-          "ivrpguchardlight.activeitem.json": 0,
-          "ivrpgucpassedprime.activeitem.json": 0,
-          "ivrpgucquicksilver.activeitem.json": 0,
-          "ivrpgucrighteousness.activeitem.json": 0,
-          "ivrpgucrighthandman.activeitem.json": 0,
-          "ivrpgucspintowin.activeitem.json": 0,
-          "ivrpgucsymbiosis.activeitem.json": 0,
-          "ivrpguctriggerhappy.activeitem.json": 0,
-          "ivrpgucvampirescaress.activeitem.json": 0
+          "ivrpgucblindingjustice.activeitem.json": 1,
+          "ivrpgucbloodseeker.activeitem.json": 1,
+          "ivrpguccharger.activeitem.json": 1,
+          "ivrpguccombobreaker.activeitem.json": 1,
+          "ivrpguchardlight.activeitem.json": 1,
+          "ivrpgucpassedprime.activeitem.json": 1,
+          "ivrpgucquicksilver.activeitem.json": 1,
+          "ivrpgucrighteousness.activeitem.json": 1,
+          "ivrpgucrighthandman.activeitem.json": 1,
+          "ivrpgucspintowin.activeitem.json": 1,
+          "ivrpgucsymbiosis.activeitem.json": 1,
+          "ivrpguctriggerhappy.activeitem.json": 1,
+          "ivrpgucvampirescaress.activeitem.json": 1
         }
       }
     },
@@ -318,58 +318,58 @@
     "monsters": {
       "flyers": {
         "bonepteropod": {
-          "bonepteropod.monstertype.json": 0
+          "bonepteropod.monstertype.json": 2
         }
       },
       "ivrpgElementEffects": {
         "ivrpgoverload": {
-          "ivrpgoverload.statuseffect.json": 0
+          "ivrpgoverload.statuseffect.json": 1
         },
         "ivrpgsear": {
-          "ivrpgsear.statuseffect.json": 0
+          "ivrpgsear.statuseffect.json": 1
         },
         "ivrpgtoxify": {
-          "ivrpgtoxify.statuseffect.json": 0
+          "ivrpgtoxify.statuseffect.json": 1
         }
       },
       "ivrpgweaken": {
-        "ivrpgweaken.animation.json": 0
+        "ivrpgweaken.animation.json": 1
       },
       "soldierstun": {
-        "soldierstun.animation.json": 0,
-        "soldierstun.statuseffect.json": 0
+        "soldierstun.animation.json": 1,
+        "soldierstun.statuseffect.json": 1
       }
     },
     "objects": {
       "affinity": {
-        "affinitytype.currency.json": 0
+        "affinitytype.currency.json": 2
       },
       "class": {
-        "classtype.currency.json": 0
+        "classtype.currency.json": 2
       },
       "experience": {
-        "currentlevel.currency.json": 0,
-        "experienceorb.currency.json": 0
+        "currentlevel.currency.json": 1,
+        "experienceorb.currency.json": 2
       },
       "mastery": {
-        "masterypoint.currency.json": 0,
+        "masterypoint.currency.json": 2,
         "shop": {
-          "ivrpgmasteryshop.config.json": 0,
-          "masteryshop.object.json": 0
+          "ivrpgmasteryshop.config.json": 6,
+          "masteryshop.object.json": 8
         }
       },
       "profession": {
-        "proftype.currency.json": 0
+        "proftype.currency.json": 2
       },
       "skillbook": {
-        "RPGskillbook.activeitem.json": 0,
-        "skillbookopen.currency.json": 0
+        "RPGskillbook.activeitem.json": 1,
+        "skillbookopen.currency.json": 2
       },
       "specialization": {
-        "spectype.currency.json": 0
+        "spectype.currency.json": 2
       },
       "stats": {
-        "statpoint.currency.json": 0
+        "statpoint.currency.json": 1
       }
     },
     "particles": {
@@ -532,7 +532,7 @@
     },
     "shared_soldier.json": 4,
     "shared_spec.json": 0,
-    "shared_stun.json": 0,
+    "shared_stun.json": 1,
     "shared_tech": {
       "shared_.statuseffect.json": 0
     },
@@ -862,6 +862,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 51
+    "wide_spread_fields.json": 71
   }
 }

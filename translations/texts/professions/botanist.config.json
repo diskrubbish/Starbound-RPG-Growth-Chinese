@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "+20%毒素抗性",
       "Eng": "+20% Poison Resistance"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "只要你还有能量，你走在你泥土上会自动翻土和浇水。",
       "Eng": "As long as you have energy, walking over dirt automatically tills and waters it."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "植物学家工作台允许你合成各种各样的种子！",
       "Eng": "The Botanist Station allows you to synthesize various seeds!"
     }
   }

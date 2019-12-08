@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/label",
-    "op": "replace",
-    "source": "Smith",
-    "value": "铁匠"
-  }
-]

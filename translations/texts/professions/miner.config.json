@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "+20%火系抗性",
       "Eng": "+20% Fire Resistance"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以使用双手近战武器",
       "Eng": "Can use Two-Handed Melee Weapons"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "发出一道地下辉光，当接近内10格半径内的矿石时，光会变亮并改变颜色。然而，当你的能量 / 最大能量比降低时，辉光会减弱。辉光匹配的颜色以最罕见的附近的矿石为准！",
       "Eng": "Provide a glow underground that brightens and changes color when nearing ores in a 10 block radius. However, as your Energy / Max Energy ratio decreases, the glow weakens. The glow will match the color of the rarest nearby ore!"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "矿工工作台允许你熔炼矿石时获得更大产量，以及锻造合金与镐子！",   
       "Eng": "The Miner Station allows you to smelt ore with greater yield, create alloys, and craft pickaxes!"
     }
   },

@@ -16,6 +16,7 @@
       ]
     },
     "Texts": {
+      "Chs": "+10%物理抗性",
       "Eng": "+10% Physical Resistance"
     }
   },
@@ -30,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "+5护甲",
       "Eng": "+5 Armor"
     }
   },
@@ -89,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以使用近战武器。",
       "Eng": "Can use Melee Weapons."
     }
   },
@@ -103,6 +106,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以使用魔杖。",
       "Eng": "Can use Wands."
     }
   }

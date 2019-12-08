@@ -1,10 +1,10 @@
 {
   "author" : "原作者：LinOnetwo & runningsky，重制者：diskrubbish",
-  "description" : "基于原Starbound Mod RPG Growth 简体中文汉化重制\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1727230748]原汉化Mod地址[/url]\n[url=https://github.com/linonetwo/Starbound-RPG-Growth-Chinese]原项目库地址[/url]\n[url=https://github.com/diskrubbish/Starbound-RPG-Growth-Chinese]重构项目库地址[/url]\n非原汉化组重制，还没和原汉化作者商量\n抛瓦德拜龙骑士的脚本\n目前重构进度1/5 ",
+  "description" : "基于原Starbound Mod RPG Growth 简体中文汉化重制\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1727230748]原汉化Mod地址[/url]\n[url=https://github.com/linonetwo/Starbound-RPG-Growth-Chinese]原项目库地址[/url]\n[url=https://github.com/diskrubbish/Starbound-RPG-Growth-Chinese]重构项目库地址[/url]\n非原汉化组重制，还没和原汉化作者商量\n抛瓦德拜龙骑士的脚本\n目前重构进度1/2\n由于部分文本存放于lua文件中无法替换，可能日后会将汉化补丁做成ab两部分",
   "friendlyName" : "RPG Growth 汉化补丁重制版",
   "includes" : ["RPG_Growth"],
   "steamContentId" : "1929019607",
   "name" : "RPG_Growth_Chinese_Reborn",
   "tags" : "User Interface",
-  "version" : "REβ0.3"
+  "version" : "REβ0.4"
 }

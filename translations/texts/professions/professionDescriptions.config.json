@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "炼金术士能为盟友提供独特的增益，并给敌人带来危险的瘟疫。该职业提供了可以炼制和投掷的药水。",
       "Eng": "The Alchemist provides allies with unique statuses and inflicts dangerous ailments on enemies. It provides access to craftable, throwable potions."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "吟游诗人能通过演奏音乐以提高盟友的抵抗能力。该职业提供了可以制作的乐器。",
       "Eng": "The Bard plays music to support allies with increased resistance. It provides access to craftable instruments."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "植物学家擅长种植作物并且高效率地照料田地。该职业提供了可以制作的种子和更强的耕作能力。",
       "Eng": "The Botanist grows herbs and gently tends to fields with great efficiency. It provides access to craftable seeds and better farming capabilities."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "厨师烹饪美味佳肴，让人饱腹，并给予各种增益。该职业提供了廉价而可制作的独特食物。",
       "Eng": "The Chef cooks wonderful delicacies to keep hunger satiated and give various bonuses. It provides access to cheap, craftable unique foods."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "工程师们修补机械装置和建筑物。该职业提供廉价而可制作的电子产品和科学元件。",
       "Eng": "The Engineer tinkers to create awesome mechanisms and buildings. It provides access to cheap, craftable electronics and scientific components."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "珠宝家制作绚丽的配件，配件可以赋予玩家独特的效果。该职业提供了增强装甲的可制作配件及其装备途径。",
       "Eng": "The Jeweler forms beautiful accessories that augment players with unique effects. It provides access to craftable accessories that augment armor."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "医者用被动治疗来支持他们的盟友。该职业提供了廉价而可制作的医疗用品，如绷带和药膏。",
       "Eng": "The Medic supports their allies with passive healing. It provides access to cheap, craftable medical supplies, such as bandages and salve."
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "矿工无所畏惧地挖掘，照亮黑暗寻找矿石。该职业提供了更好的矿石转化途径，使资源得到更好的利用。",
       "Eng": "The Miner digs deep without fear, lighting up the darkness to find ores. It provides access to better ore conversion, enabling better resource usage."
     }
   },
@@ -95,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "铁匠辛勤制作锋利的武器和坚固的盔甲。该职业提供了可制作的近战武器和升级所有武器的方法。",
       "Eng": "The Smith toils away to make dangerous weapons and strong armor. It provides access to craftable melee weapons and means to upgrade all weapons."
     }
   },
@@ -106,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "驯兽师能轻易地驯服怪物，并且能在行动中治愈驯服的生物。该职业提供廉价而可制作的捕舱，以及高级捕获舱。",
       "Eng": "The Tamer easily tames monsters and heals tamed creatures on the go. It provides access to cheap, craftable Capture Pods, as well as Advanced Capture Pods."
     }
   }

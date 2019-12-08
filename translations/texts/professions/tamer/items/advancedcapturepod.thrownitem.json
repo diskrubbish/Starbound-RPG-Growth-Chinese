@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "高级捕捉舱",
       "Eng": "Advanced Capture Pod"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这个捕获舱会自动寻找敌人，直到它遇到一处阻碍。",
       "Eng": "This Capture Pod automatically seeks enemies until it hits a block."
     }
   }

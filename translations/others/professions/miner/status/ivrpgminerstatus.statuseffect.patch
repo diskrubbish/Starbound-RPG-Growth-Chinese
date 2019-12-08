@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/label",
-    "op": "replace",
-    "source": "Miner",
-    "value": "矿工"
-  }
-]

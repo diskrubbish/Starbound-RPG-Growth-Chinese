@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^gray;在黄色格子中放置银金锭。升级需要两个，制作需要4个。\n      ^white;在灰色格子中放置5个锭来确定武器等级。可以放置：\n      煤炭，铁，锡，钛，耐刚，维奥/霓磷盐/菲洛，日耀\n      ^gray;在红色格子中放置1项物品以确定属性。可以放置：\n      毒液样品，熔火核心，冷冻提取物，带电细胞，玻璃(保留原武器属性)\n      ^white;在蓝色格子中放置需要的改良剂。可以放置：\n      钻石(+基础伤害)，电池(-能量消耗)，3份煤炭(保持不变)\n      ^red;制作武器时必须用煤！改良剂(除了煤炭)每种只能用一次！\n      ^gray;要升级现有的武器，只需将武器放置在紫色格子中。\n      ^white;要制造一个新武器，需要在紫色格子中放置相应的物品。可以放置：\n      2个锋利的爪子(长矛)，2个坚硬甲壳(锤)，六块钢锭(阔剑)，\n      1个锋利的爪子(匕首)，1个坚硬甲壳(斧)，3块钢锭 (短剑)",
       "Eng": "^gray;Place Electrum Bars in Yellow Slot. Requires 2 for Upgrades and 4 for Creation.\n      ^white;Place 5 Bars in Grey Slot to determine Weapon Level. Accepts the following:\n      Copper, Iron, Tungsten, Titanium, Durasteel, Violium/Aegisalt/Ferozium, Solarium\n      ^gray;Place 1 Item in Red Slot to determine Element. Accepts the following:\n      Venom Sample, Scorched Core, Cryonic Extract, Static Cell, Glass (Keeps Element)\n      ^white;Place desired Items in Blue Slot. Accepts the following:\n      Diamond (+ Base Damage), Battery (- Energy Cost), 3 Coal (Same Stats)\n      ^red;Must use Coal for creation! Modifiers (except Coal) only ever work once!\n      ^gray;To upgrade an existing weapon, simply place the weapon in the Purple Slot.\n      ^white;To create a new weapon, place an item in the Purple Slot. Accepts the following:\n      2 Sharpened Claw (Spear), 2 Hardened Carapace (Hammer), 6 Steel Bar (Broadsword),\n      1 Sharpened Claw (Dagger), 1 Hardened Carapace (Axe), 3 Steel Bar (Shortsword)"
     }
   }

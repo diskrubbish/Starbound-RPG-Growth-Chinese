@@ -40,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;武器升级",
       "Eng": "^green;Weapon Upgrade"
     }
   }

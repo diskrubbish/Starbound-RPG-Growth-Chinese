@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "钢镐",
       "Eng": "Steel Pickaxe"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这把镐子挖掘比银镐稍慢，但更具耐久。", 
       "Eng": "This tool mines a bit slower than a Silver Pickaxe, but lasts longer!"
     }
   }

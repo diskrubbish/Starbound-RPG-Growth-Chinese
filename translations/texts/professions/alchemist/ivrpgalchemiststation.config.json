@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "CHs": " 炼金术士工作台",
       "Eng": " Alchemist's Crafting Station"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": " ^#b9b5b2;只有有经验的炼金术士才知道如何使用这些工具！", 
       "Eng": " ^#b9b5b2;Only experienced Alchemists know what to do with these tools!"
     }
   }
