@@ -44,7 +44,7 @@
       ]
     },
     "Texts": {
-      "Chs":  "+20% 和谁在一起?",
+      "Chs": "+20% 和谁在一起?",
       "Eng": "+20% with the what 'an who now?"
     }
   },
@@ -348,8 +348,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Chef",
-      "Chs": "大厨"
+      "Chs": "大厨",
+      "Eng": "Chef"
     }
   },
   {
@@ -700,7 +700,7 @@
         "/gui/classlayout/children/classtitle/value"
       ]
     },
-    "Texts": { 
+    "Texts": {
       "Chs": "未选择职业",
       "Eng": "No Class Yet"
     }

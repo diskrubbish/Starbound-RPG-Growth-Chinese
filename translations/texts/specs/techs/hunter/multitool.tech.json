@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/hunter/multitool.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunter Only"
+    }
+  }
+]

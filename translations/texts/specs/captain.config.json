@@ -19,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用单手武器时，其基础攻击力增加至115%。" ,   
+      "Chs": "使用单手武器时，其基础攻击力增加至115%。",
       "Eng": "115% Base Power with One-Handed Weapons."
     }
   },
@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "附近友军获得25%的攻击增幅。", 
+      "Chs": "附近友军获得25%的攻击增幅。",
       "Eng": "125% Power Multiplier to nearby allies."
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "孤军作战时，耐力和敏捷会降低。\n靠近队友时，活力和体质增加。", 
+      "Chs": "孤军作战时，耐力和敏捷会降低。\n靠近队友时，活力和体质增加。",
       "Eng": "Endurance and Agility Scaling decrease when alone.\nVigor and Vitality Scaling increase when near allies."
     }
   },

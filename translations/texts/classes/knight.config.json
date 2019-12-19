@@ -19,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "持盾时使用短剑、狼牙棒或斧头，其基础攻击力增加至120%。" ,
+      "Chs": "持盾时使用短剑、狼牙棒或斧头，其基础攻击力增加至120%。",
       "Eng": "120% Base Power while using a Shield with a Shortsword, Mace, or Axe."
     }
   },
@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用宽剑和巨斧时，其基础攻击力增加至120%。" ,
+      "Chs": "使用宽剑和巨斧时，其基础攻击力增加至120%。",
       "Eng": "120% Base Power with Broadswords and Greataxes."
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "只有90%的速度\n70%的跳跃高度" ,
+      "Chs": "只有90%的速度\n70%的跳跃高度",
       "Eng": "90% Speed\n70% Jump Height"
     }
   },
@@ -55,7 +55,7 @@
       ]
     },
     "Texts": {
-      "Chs": "升级版的重击。冲刺时，玩家的物理抵抗提高。虽然伤害保持不变，但敌人被击中时会眩晕。攻击力随着力量和奔跑速度而提升。能量消耗随着敏捷值的提高而降低。" ,
+      "Chs": "升级版的重击。冲刺时，玩家的物理抵抗提高。虽然伤害保持不变，但敌人被击中时会眩晕。攻击力随着力量和奔跑速度而提升。能量消耗随着敏捷值的提高而降低。",
       "Eng": "An upgrade to Bash. While sprinting, the player receives physical resistance. While damage remains the same, enemies are stunned on hit. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility."
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "升级版的二段跳，按[G]（在按键设置中绑定[G]）从半空中向下猛击。你在着陆时不会受到坠落伤害，并且会引起小型爆炸伤害敌人。伤害随力量值的提高而提高， 激活距离随力量值的提高而降低" ,  
+      "Chs": "升级版的二段跳，按[G]（在按键设置中绑定[G]）从半空中向下猛击。你在着陆时不会受到坠落伤害，并且会引起小型爆炸伤害敌人。伤害随力量值的提高而提高， 激活距离随力量值的提高而降低",
       "Eng": "An upgrade to Double Jump, press [G] (Bind [G] in your Controls) while midair to slam downwards. You take no fall damage upon landing, and cause a small explosion, damaging enemies. Damage scales with Strength and distance fallen from activation."
     }
   },
@@ -79,7 +79,7 @@
       ]
     },
     "Texts": {
-      "Chs": "升级版的荆棘球，变形期间忽略击退并对碰到的敌人造成伤害。防御在变形时也会提高。" ,   
+      "Chs": "升级版的荆棘球，变形期间忽略击退并对碰到的敌人造成伤害。防御在变形时也会提高。",
       "Eng": "An upgrade to Spike Sphere, while transformed, ignore knockback and deal contact damage to enemies. Armor is also increased while transformed."
     }
   },
@@ -91,7 +91,7 @@
       ]
     },
     "Texts": {
-      "Chs": "升级版的冲刺，冲锋时，敌人会受到伤害和击退。举起盾牌时该伤害加倍。伤害随力量值和奔跑速度的提高而提高。能量消耗随着敏捷值的提高而降低。" ,
+      "Chs": "升级版的冲刺，冲锋时，敌人会受到伤害和击退。举起盾牌时该伤害加倍。伤害随力量值和奔跑速度的提高而提高。能量消耗随着敏捷值的提高而降低。",
       "Eng": "An upgrade to Sprint, while running, enemies receive damage and knockback. Damage is doubled when holding up a shield. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility."
     }
   },
@@ -103,7 +103,7 @@
       ]
     },
     "Texts": {
-      "Chs": "无法装备远程或魔法武器。\n无法双持武器" ,
+      "Chs": "无法装备远程或魔法武器。\n无法双持武器",
       "Eng": "Cannot equip Ranged or Magic Weapons.\nCannot Dual-Wield Weapons."
     }
   },
@@ -115,7 +115,7 @@
       ]
     },
     "Texts": {
-      "Chs": "完美格挡后在短时间内+20%的伤害。", 
+      "Chs": "完美格挡后在短时间内+20%的伤害。",
       "Eng": "Perfect Shields increase Damage by +20% for a short period."
     }
   }

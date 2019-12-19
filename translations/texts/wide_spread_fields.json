@@ -120,9 +120,6 @@
         "/effects/3/text",
         "/tech/text"
       ],
-      "specs/hunter.config": [
-        "/classic/0/text"
-      ],
       "specs/juggernaut.config": [
         "/ability/text",
         "/classic/0/text",
@@ -312,6 +309,9 @@
         "/gui/statslayout/children/totalstatsamount/value",
         "/gui/statslayout/children/vigoramount/value",
         "/gui/statslayout/children/vitalityamount/value"
+      ],
+      "interface/tooltips/ivrpgweapon.tooltip": [
+        "/priceLabel/value"
       ],
       "objects/mastery/shop/ivrpgmasteryshop.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
@@ -517,6 +517,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/active/specweapons/hunter/arrows/flamearrow/sear/sear.statuseffect": [
+        "/label"
+      ],
+      "monsters/ivrpgElementEffects/ivrpgsear/ivrpgsear.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "燃烧",
+      "Eng": "Burning"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/weapon/ivrpguccharger.activeitem": [
         "/shortdescription"
       ],
@@ -555,7 +570,7 @@
       ]
     },
     "Texts": {
-      "Chs": "单击某个职业的图标以查看其优势。" ,
+      "Chs": "单击某个职业的图标以查看其优势。",
       "Eng": "Click a Profession's icon to see its benefits."
     }
   },
@@ -1009,7 +1024,7 @@
       ]
     },
     "Texts": {
-      "Chs": "智力 Int", 
+      "Chs": "智力 Int",
       "Eng": "Intelligence"
     }
   },
@@ -1208,7 +1223,7 @@
       ]
     },
     "Texts": {
-      "Chs": "巅峰性能", 
+      "Chs": "巅峰性能",
       "Eng": "Peak Performance"
     }
   },
@@ -1772,7 +1787,7 @@
       ]
     },
     "Texts": {
-      "Chs": "活力 Vig", 
+      "Chs": "活力 Vig",
       "Eng": "Vigor"
     }
   },

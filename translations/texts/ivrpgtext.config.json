@@ -744,6 +744,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statuses"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucstunningsphere/title"
       ]
     },
@@ -1198,6 +1209,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/embrittlestatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Embrittle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/specialization/children/juggernaut/title"
       ]
     },
@@ -1220,6 +1242,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Mechanics"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/specialization/children/paladin/title"
       ]
     },
@@ -1231,11 +1264,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/camouflagestatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;Camouflage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/class/title"
       ]
     },
     "Texts": {
       "Eng": "^gray;Class"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/disorientstatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;Disorient"
     }
   },
   {
@@ -1275,6 +1330,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/toxifystatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Toxify"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/specialization/children/wraith/title"
       ]
     },
@@ -1286,11 +1352,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/dazestatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Daze"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/specialization/children/elementress/title"
       ]
     },
     "Texts": {
       "Eng": "^magenta;Elementress"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/starfallstatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Starfall"
     }
   },
   {
@@ -1385,6 +1473,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/stunstatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Stun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/specialization/children/titan/title"
       ]
     },
@@ -1440,6 +1539,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/bleedstatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Bleed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/specialization/children/changeling/title"
       ]
     },
@@ -1462,6 +1572,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/searstatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Sear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/specialization/children/captain/title"
       ]
     },
@@ -1478,6 +1599,17 @@
     },
     "Texts": {
       "Eng": "^yellow;Explorer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/overloadstatus/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Overload"
     }
   },
   {

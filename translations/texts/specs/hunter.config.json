@@ -40,7 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "120% Base Power with Bows, Sniper Rifles, and Shotguns."
+      "Eng": "120% Base Power with Bows and Sniper Rifles."
     }
   },
   {
@@ -51,7 +51,18 @@
       ]
     },
     "Texts": {
-      "Eng": "Crouching for 2 seconds grants a 5 second period of Invisibility. Using Energy dispels this effect."
+      "Eng": "Crouching for 2 seconds grants a 5 second period of Invisibility.\nUse Energy to dispel this and gain +33% Bleed Chance for 0.5 seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enables Two-Handed Ranged Weapons"
     }
   },
   {
@@ -69,22 +80,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/hunter.config": [
-        "/tech/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Multitool"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/hunter.config": [
         "/tech/text"
       ]
     },
     "Texts": {
-      "Eng": "Press [Shift] + [G] to switch between Fire, Electric, and Nova. Press [G] to lob a Grenade towards your cursor (10 Second Cooldown). Double-tap [A] or [D] to Dodge (5 Second Cooldown). Press [Shift] + [W] when Energy is full to Energize Mida (Nova -> Deadfall, Electric -> Pulsar, Fire -> Sunshot): this effect drains Energy and then dissipates. Grenade, Dodge, and Energize effects depend on Multitool Element."
+      "Eng": "Press [Shift] + [G] to switch between Fire, Electric, and Nova.\nPress [G] to lob a Smokebomb towards your cursor (50 Energy, 6 Second Cooldown). Double-tap [A] or [D] to Dodge (No Energy, 3 Second Cooldown).\nUse Alt Fire when Energy is full to Energize Mida (Nova -> Deadfall, Electric -> Pulsar, Fire -> Sunshot): this effect drains Energy and then dissipates.\nGrenade, Dodge, and Energize effects depend on Multitool Element."
     }
   }
 ]

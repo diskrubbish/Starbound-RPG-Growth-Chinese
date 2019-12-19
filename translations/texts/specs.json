@@ -172,6 +172,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "specs/hunter.config": [
+        "/tech/title"
+      ],
+      "specs/techs/hunter/multitool.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Multitool"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "specs/necromancer.config": [
         "/tech/title"
       ],

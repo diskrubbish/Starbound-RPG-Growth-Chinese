@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "造成伤害时有30%的几率使敌人过载。过载的敌人-25%的速度，并放射出链式闪电伤害附近的其他敌人。", 
+      "Chs": "造成伤害时有30%的几率使敌人过载。过载的敌人-25%的速度，并放射出链式闪电伤害附近的其他敌人。",
       "Eng": "+30% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies."
     }
   },
@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "电弧" ,
+      "Chs": "电弧",
       "Eng": "Arc"
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "电系伤害" ,
+      "Chs": "电系伤害",
       "Eng": "Electric Damage"
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^yellow;当消耗所有能量时，释放出一个会造成成吨伤害并导致敌人过载的电弧爆炸。" ,
+      "Chs": "^yellow;当消耗所有能量时，释放出一个会造成成吨伤害并导致敌人过载的电弧爆炸。",
       "Eng": "^yellow;Upon expending all Energy, release an Electric explosion that deals massive damage and causes Overload."
     }
   }

@@ -9,8 +9,8 @@
         "/weakness/2/text"
       ]
     },
-    "Texts": {   
-      "Chs": "在水下时每秒-1能量" ,
+    "Texts": {
+      "Chs": "在水下时每秒-1能量",
       "Eng": "-1 E/s while submerged"
     }
   },
@@ -25,7 +25,7 @@
       ]
     },
     "Texts": {
-      "Chs": "在水下时每秒-1HP" ,
+      "Chs": "在水下时每秒-1HP",
       "Eng": "-1 HP/s while submerged"
     }
   },

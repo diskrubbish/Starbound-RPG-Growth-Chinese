@@ -9,5 +9,17 @@
     "Texts": {
       "Eng": "Food Gain: 5%. Cooldown: 90s"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermre/soldiermre.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "恰军粮",
+      "Eng": "MRE"
+    }
   }
 ]

@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用法杖时，其基础攻击力增加至115%：随灵巧而增长。" , 
+      "Chs": "使用法杖时，其基础攻击力增加至115%：随灵巧而增长。",
       "Eng": "115% Base Power with Wands: Scales with Dex."
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "附近的队友在能量重新充满后获得短暂的速度提升。最大能量时拥有150%护甲，0能量时只有50%护甲。", 
+      "Chs": "附近的队友在能量重新充满后获得短暂的速度提升。最大能量时拥有150%护甲，0能量时只有50%护甲。",
       "Eng": "Nearby allies gain a temporary Speed Boost once Energy recharges. 150% Armor at Max Energy, 50% Armor at 0 Energy."
     }
   },
@@ -91,7 +91,7 @@
       ]
     },
     "Texts": {
-      "Chs": "当你试图跳跃时，你会立刻传送到你所瞄准的方向。每次闪踏的能量消耗为10，随着智力值提高而降低。提高敏捷可以提高距离，从10到最大15，在按住[SHIFT]时距离减半。每次闪踏彼此会间隔1.5秒，连续8次闪踏后，闪踏会对身体造成压力并开始造成伤害。^red;你可以闪现到墙壁里，记得小心。^reset;", 
+      "Chs": "当你试图跳跃时，你会立刻传送到你所瞄准的方向。每次闪踏的能量消耗为10，随着智力值提高而降低。提高敏捷可以提高距离，从10到最大15，在按住[SHIFT]时距离减半。每次闪踏彼此会间隔1.5秒，连续8次闪踏后，闪踏会对身体造成压力并开始造成伤害。^red;你可以闪现到墙壁里，记得小心。^reset;",
       "Eng": "Upon attempting to jump, you instantly teleport towards the direction you are holding instead. Energy Cost is 10 per Flash Step and decreases with higher Intelligence. Distance scales with Agility, from 10 up to a max of 15. Jump normally when holding [Shift]. After 8 quick Flash Steps, each within 1.5 seconds of each other, subsequent Flash Steps cause strain on the body and begin to deal damage. ^red;You can Flash Step through and into walls, so be careful.^reset;"
     }
   }

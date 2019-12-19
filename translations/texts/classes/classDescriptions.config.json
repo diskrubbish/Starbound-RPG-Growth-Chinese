@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "探险家：闪避高手。更适合使用工具，如镐、手电筒或物质枪。技能主要与提高移动和挖掘能力有关。在生命值超过一半时会全身发光，在物理伤抵抗力方面略强。" ,
+      "Chs": "探险家：闪避高手。更适合使用工具，如镐、手电筒或物质枪。技能主要与提高移动和挖掘能力有关。在生命值超过一半时会全身发光，在物理伤抵抗力方面略强。",
       "Eng": "The Explorer: Evasive Utility. Does better with Tools, like Pickaxes, Flashlights, or the Matter Manipulator. The Explorer's skills mostly improve movement and mining. The Explorer glows while Health is greater than half, and is slightly more Resistant to Physical Damage."
     }
   },
@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "忍者：全距离攻击，闪避率高。使用忍者暗器的效果很好，使用单手（非远程）武器效果也不错。技能主要是提高移动和躲避。更容易暴击，也可以很容易地避免坠落伤害。" ,
+      "Chs": "忍者：全距离攻击，闪避率高。使用忍者暗器的效果很好，使用单手（非远程）武器效果也不错。技能主要是提高移动和躲避。更容易暴击，也可以很容易地避免坠落伤害。",
       "Eng": "The Ninja: Mixed-Range, Evasive DPS. Does better with Shurikens, but still does great with One-Handed (Non-Ranged) Weapons. The Ninja's skills mostly improve movement and evasion. The Ninja has an easier time getting Critical Hits, and can easily avoid Fall Damage."
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "盗贼：全距离的群体控制手。用单手武器效果更好。技能主要是提高进攻能力，但也增加了身体、毒素和击退抵抗力。可以随机让敌人中毒，而且在饱食度满时的时候有更高的毒素抗性。" ,
+      "Chs": "盗贼：全距离的群体控制手。用单手武器效果更好。技能主要是提高进攻能力，但也增加了身体、毒素和击退抵抗力。可以随机让敌人中毒，而且在饱食度满时的时候有更高的毒素抗性。",
       "Eng": "The Rogue: Mixed-Range CC. Does better with One-Handed Weapons. The Rogue's skills mostly improve offensive capabilities, though also increase Physical, Poison, and Knockback Resistance. The Rogue can randomly Poison enemies, and is more Resistant to Poison while Food is near full."
     }
   },
@@ -55,7 +55,7 @@
       ]
     },
     "Texts": {
-      "Chs": "士兵：远程坦克。双手远程武器效果更好，但仍然可以相当好地使用单手远程武器。技能主要提高效用和防御能力。在全力以赴的情况下会造成更多的伤害，并且可以在攻击敌人的同时随机击昏他们。" ,
+      "Chs": "士兵：远程坦克。双手远程武器效果更好，但仍然可以相当好地使用单手远程武器。技能主要提高效用和防御能力。在全力以赴的情况下会造成更多的伤害，并且可以在攻击敌人的同时随机击昏他们。",
       "Eng": "The Soldier: Ranged Tank. Does better with Two-Handed Ranged Weapons, but can still utilize One-Handed Ranged Weapons fairly well. The Soldier's skills mostly improve utility and defense. The Soldier does more damage while at full Energy, and can randomly stun enemies while hitting them."
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "巫师：擅长远程攻击。适合使用法杖和魔杖。技能主要是提高辅助能力和移动能力。可以在攻击敌人时随机地将元素状态（火、冰、闪电）应用到敌人身上，并且在手持魔杖或法杖的情况下获得更高的元素效果抗性。" ,
+      "Chs": "巫师：擅长远程攻击。适合使用法杖和魔杖。技能主要是提高辅助能力和移动能力。可以在攻击敌人时随机地将元素状态（火、冰、闪电）应用到敌人身上，并且在手持魔杖或法杖的情况下获得更高的元素效果抗性。",
       "Eng": "The Wizard: Ranged Utility. Does better with Staffs and Wands. The Wizard's skills mostly improve utility and movement. The Wizard can randomly apply Elemental Status (Fire, Ice, Lightning) to enemies while hitting them, and fares better against the Elements while holding Wands or Staffs."
     }
   }
