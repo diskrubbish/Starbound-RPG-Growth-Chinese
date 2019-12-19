@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "由于你的能力, 我的扫描仪经常无法找到你：这个问题本身就提供了一个新的思路！在这个宇宙的某些存在... 似乎并不存在。这意味着它们不能与任何东西交互，但事实并非如此. 寻找并击败^green;幽灵^reset; 应该会有不可思议的发现。^white;", 
       "Eng": "Due to your abilities, my scanners have often been unable to locate you: this issue has lent itself to a new hypothesis! It seems certain inhabitants of this universe are... not really here. This should mean they cannot interact with anything, but this is not the case. Fighting these ^green;ghosts^reset; should lead to an uncanny discovery.^white;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这些以太很像相位物质，尽管看起来你可以使它变得更强。 我已经为你释放了一些你现有的以太，但是你现在也可以释放它。去找一处铁砧去锻造你的手里剑·以太，这样你就可以用其去刺穿敌人。",
       "Eng": "This Ether is quite like Phase Matter, though it seems that you can harden it. I have already tempered some of your current Ether for you, but you can now do so as well. Go build the Aether in an anvil so you can pierce through enemies."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;虚灵实验",
       "Eng": "^green;Ether Experiment"
     }
   }

@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/label",
-    "op": "replace",
-    "source": "Fluctuation",
-    "value": "波动"
-  }
-]

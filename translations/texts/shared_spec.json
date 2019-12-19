@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "贤者",
       "Eng": "Adept"
     }
   },
@@ -24,6 +25,7 @@
       ]
     },
     "Texts": {
+      "Chs": "战斗法师",
       "Eng": "Battle Mage"
     }
   },
@@ -39,6 +41,7 @@
       ]
     },
     "Texts": {
+      "Chs": "狂战士",
       "Eng": "Berserker"
     }
   },
@@ -54,6 +57,7 @@
       ]
     },
     "Texts": {
+      "Chs": "赏金猎人",
       "Eng": "Bounty Hunter"
     }
   },
@@ -68,6 +72,7 @@
       ]
     },
     "Texts": {
+      "Chs": "炮手",
       "Eng": "Cannoneer"
     }
   },
@@ -82,6 +87,7 @@
       ]
     },
     "Texts": {
+      "Chs": "上尉",
       "Eng": "Captain"
     }
   },

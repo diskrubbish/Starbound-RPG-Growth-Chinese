@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "附近友军+15护甲",
       "Eng": "+15 Armor to nearby allies."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用单手武器时，其基础攻击力增加至115%。" ,   
       "Eng": "115% Base Power with One-Handed Weapons."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "附近友军获得25%的攻击增幅。", 
       "Eng": "125% Power Multiplier to nearby allies."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "孤军作战时，耐力和敏捷会降低。\n靠近队友时，活力和体质增加。", 
       "Eng": "Endurance and Agility Scaling decrease when alone.\nVigor and Vitality Scaling increase when near allies."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按[F]来改变立场，让附近的盟友得到不同增幅。\n没有立场：无事发生。\n威力立场：+25%攻击，但是-15护甲。\n防御立场：+15护甲但是只有75%的速度和跳跃高度。\n速度立场：+25%的速度和跳跃高度，但-25%的攻击。",
       "Eng": "Press [F] to change stances, making nearby allies behave differently.\nNo Stance: No Change.\nPower Stance: 125% Power Multplier but -15 Armor.\nArmor Stance: +15 Armor but 75% Speed and Jump Height.\nSpeed Stance: 125% Speed and Jump Height but 75% Power Multiplier."
     }
   }

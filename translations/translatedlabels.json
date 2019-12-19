@@ -379,106 +379,106 @@
     },
     "professions": {
       "alchemist": {
-        "ivrpgalchemiststation.config.json": 0,
-        "ivrpgalchemiststation.object.json": 0
+        "ivrpgalchemiststation.config.json": 1,
+        "ivrpgalchemiststation.object.json": 8
       },
-      "alchemist.config.json": 0,
-      "botanist.config.json": 0,
-      "default.config.json": 0,
+      "alchemist.config.json": 4,
+      "botanist.config.json": 3,
+      "default.config.json": 1,
       "engineer": {
         "items": {
-          "acidsample.item.json": 0,
-          "electromagnet.item.json": 0,
-          "gear.item.json": 0,
-          "magmasample.item.json": 0,
-          "motor.item.json": 0,
-          "spowercell.item.json": 0
+          "acidsample.item.json": 2,
+          "electromagnet.item.json": 2,
+          "gear.item.json": 2,
+          "magmasample.item.json": 2,
+          "motor.item.json": 2,
+          "spowercell.item.json": 2
         },
-        "ivrpgengineerstation.config.json": 0,
-        "ivrpgengineerstation.object.json": 0,
+        "ivrpgengineerstation.config.json": 2,
+        "ivrpgengineerstation.object.json": 9,
         "status": {
-          "ivrpgengineerenergy.statuseffect.json": 0,
-          "ivrpgengineerstatuscooldown.statuseffect.json": 0
+          "ivrpgengineerenergy.statuseffect.json": 1,
+          "ivrpgengineerstatuscooldown.statuseffect.json": 1
         }
       },
-      "engineer.config.json": 0,
+      "engineer.config.json": 6,
       "medic": {
-        "ivrpgmedicstation.config.json": 0,
-        "ivrpgmedicstation.object.json": 0,
+        "ivrpgmedicstation.config.json": 2,
+        "ivrpgmedicstation.object.json": 9,
         "status": {
-          "ivrpgmedicregeneration.statuseffect.json": 0
+          "ivrpgmedicregeneration.statuseffect.json": 1
         }
       },
-      "medic.config.json": 0,
+      "medic.config.json": 5,
       "miner": {
         "items": {
           "bars": {
-            "billoncoin.item.json": 0,
-            "electrumbar.item.json": 0,
-            "platinumbar.item.json": 0,
-            "steelbar.item.json": 0
+            "billoncoin.item.json": 2,
+            "electrumbar.item.json": 2,
+            "platinumbar.item.json": 2,
+            "steelbar.item.json": 2
           },
           "miningtools": {
-            "electrumpickaxe.miningtool.json": 0,
-            "steelpickaxe.miningtool.json": 0
+            "electrumpickaxe.miningtool.json": 2,
+            "steelpickaxe.miningtool.json": 2
           }
         },
-        "ivrpgminerstation.config.json": 0,
-        "ivrpgminerstation.object.json": 0
+        "ivrpgminerstation.config.json": 3,
+        "ivrpgminerstation.object.json": 9
       },
-      "miner.config.json": 0,
-      "professionDescriptions.config.json": 0,
-      "shared_erstation.config.json": 0,
-      "shared_station.config.json": 0,
+      "miner.config.json": 4,
+      "professionDescriptions.config.json": 10,
+      "shared_erstation.config.json": 1,
+      "shared_station.config.json": 4,
       "smith": {
-        "ivrpgsmithstation.config.json": 0,
-        "ivrpgsmithstation.object.json": 0,
+        "ivrpgsmithstation.config.json": 1,
+        "ivrpgsmithstation.object.json": 9,
         "status": {
-          "ivrpgsmithstatusarmor.statuseffect.json": 0,
-          "ivrpgsmithstatusresistance.statuseffect.json": 0
+          "ivrpgsmithstatusarmor.statuseffect.json": 1,
+          "ivrpgsmithstatusresistance.statuseffect.json": 1
         }
       },
-      "smith.config.json": 0,
+      "smith.config.json": 5,
       "tamer": {
         "items": {
-          "advancedcapturepod.thrownitem.json": 0,
-          "meatcrunch.consumable.json": 0,
-          "tripletreat.consumable.json": 0,
-          "veggiemix.consumable.json": 0
+          "advancedcapturepod.thrownitem.json": 2,
+          "meatcrunch.consumable.json": 2,
+          "tripletreat.consumable.json": 2,
+          "veggiemix.consumable.json": 2
         },
-        "ivrpgtamerstation.config.json": 0,
-        "ivrpgtamerstation.object.json": 0,
+        "ivrpgtamerstation.config.json": 2,
+        "ivrpgtamerstation.object.json": 9,
         "status": {
-          "ivrpgtamermonsterstatus.statuseffect.json": 0,
-          "ivrpgtamerstatuscooldown.statuseffect.json": 0
+          "ivrpgtamermonsterstatus.statuseffect.json": 1,
+          "ivrpgtamerstatuscooldown.statuseffect.json": 1
         }
       },
-      "tamer.config.json": 0
+      "tamer.config.json": 4
     },
     "projectiles": {
       "grenades": {
         "shock": {
-          "shockcharge.thrownitem.json": 0
+          "shockcharge.thrownitem.json": 2
         },
         "skitter": {
-          "skittergrenade.thrownitem.json": 0
+          "skittergrenade.thrownitem.json": 2
         },
         "stun": {
-          "stungrenade.thrownitem.json": 0
+          "stungrenade.thrownitem.json": 2
         },
         "tripmine": {
-          "tripmine.thrownitem.json": 0
+          "tripmine.thrownitem.json": 2
         }
       },
       "multiplayerxppulse": {
-        "multiplayerxppulse.statuseffect.json": 0
+        "multiplayerxppulse.statuseffect.json": 1
       }
     },
     "quests": {
       "TEMPLATE.questtemplate.json": 0,
-      "aegisquest.questtemplate.json": 0,
-      "aegisquest2.questtemplate.json": 0,
-      "aegisquest3.questtemplate.json": 0,
+      "aegisquest.questtemplate.json": 3,
+      "aegisquest2.questtemplate.json": 1,
+      "aegisquest3.questtemplate.json": 2,
       "aetherquest.questtemplate.json": 0,
       "aetherquest2.questtemplate.json": 0,
       "aetherquest3.questtemplate.json": 0,
@@ -486,8 +486,8 @@
       "novaquest.questtemplate.json": 0,
       "novaquest2.questtemplate.json": 0,
       "novaquest3.questtemplate.json": 0,
-      "shared_.questtemplate.json": 0,
-      "shared_quest2.questtemplate.json": 0,
+      "shared_.questtemplate.json": 1,
+      "shared_quest2.questtemplate.json": 1,
       "siphonquest.questtemplate.json": 0,
       "siphonquest2.questtemplate.json": 0,
       "siphonquest3.questtemplate.json": 0,
@@ -521,7 +521,7 @@
         "wizardaffinity.statuseffect.json": 0
       }
     },
-    "shared_.config.json": 3,
+    "shared_.config.json": 7,
     "shared_.statuseffect.json": 0,
     "shared_explorer.json": 3,
     "shared_knight.json": 4,
@@ -862,6 +862,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 71
+    "wide_spread_fields.json": 72
   }
 }
