@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "+20%能量回复速率",
       "Eng": "+20% Energy Recharge Rate"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用手枪和冲锋枪时，其基础攻击力增加至115%。",     
       "Eng": "115% Base Power with Pistols and Submachine Guns."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用霰弹枪时，其基础攻击力增加至120%。",      
       "Eng": "120% Base Power with Shotguns."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "安妮&玛丽",
       "Eng": "Anne & Marie"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以双持单手远程武器。",
       "Eng": "Can Dual-Wield One-Handed Ranged Weapons."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "value": "在接近攻击性NPC时提高速度和攻击力。\n附近的盟友在你杀死一个亡命徒或强盗时补充10%的能量。" ,
       "Eng": "Increased Speed and Power while near aggressive NPCs.\nNearby allies recharge 10% Energy when you kill an Outlaw or Bandit."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "value": "按[G]立即恢复所有能量并获得无限能量使用5秒。在殊死一搏状态下，你消耗的能量越多，你的攻击力就越大。在殊死一搏结束后，最大能量会在30秒内减少50%，之后才能再次使用。" ,
       "Eng": "Press [G] to instantly regain all Energy and gain infinite Energy usage for 5 Seconds. The more Energy you would have drained while in this state, the higher your Power increases. After Desperado wears off, Max Energy is decreased by 50% for 30 seconds before it can be used again."
     }
   }

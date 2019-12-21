@@ -19,7 +19,7 @@
       "ninja.config.json": 12,
       "rogue.config.json": 8,
       "shared_.config.json": 1,
-      "soldier.config.json": 11,
+      "soldier.config.json": 10,
       "wizard.config.json": 13
     },
     "default.config.json": 1,
@@ -67,7 +67,8 @@
           },
           "wizardstaff": {
             "novastatus": {
-              "wizardnovastatus.animation.json": 1
+              "shared_.statuseffect.json": 0,
+              "wizardnovastatus.animation.json": 0
             },
             "wizardnovastaff.activeitem.json": 1,
             "wizardnovastaff2.activeitem.json": 2,
@@ -101,6 +102,16 @@
           },
           "elementress": {
             "eclipse.activeitem.json": 2
+          },
+          "hunter": {
+            "arrows": {
+              "purplearrow": {
+                "tethered": {
+                  "ivrpgtethered.animation.json": 0
+                }
+              }
+            },
+            "mida.activeitem.json": 0
           },
           "kunoichi": {
             "luxuria.activeitem.json": 2
@@ -325,9 +336,6 @@
         "ivrpgoverload": {
           "ivrpgoverload.statuseffect.json": 1
         },
-        "ivrpgsear": {
-          "ivrpgsear.statuseffect.json": 1
-        },
         "ivrpgtoxify": {
           "ivrpgtoxify.statuseffect.json": 1
         }
@@ -336,6 +344,7 @@
         "ivrpgweaken.animation.json": 1
       },
       "soldierstun": {
+        "ivrpgstun.statuseffect.json": 0,
         "soldierstun.animation.json": 1,
         "soldierstun.statuseffect.json": 1
       }
@@ -387,12 +396,12 @@
       "default.config.json": 1,
       "engineer": {
         "items": {
-          "acidsample.item.json": 2,
-          "electromagnet.item.json": 2,
-          "gear.item.json": 2,
-          "magmasample.item.json": 2,
-          "motor.item.json": 2,
-          "spowercell.item.json": 2
+          "acidsample.item.json": 1,
+          "electromagnet.item.json": 1,
+          "gear.item.json": 1,
+          "magmasample.item.json": 1,
+          "motor.item.json": 1,
+          "spowercell.item.json": 1
         },
         "ivrpgengineerstation.config.json": 2,
         "ivrpgengineerstation.object.json": 9,
@@ -413,10 +422,10 @@
       "miner": {
         "items": {
           "bars": {
-            "billoncoin.item.json": 2,
-            "electrumbar.item.json": 2,
-            "platinumbar.item.json": 2,
-            "steelbar.item.json": 2
+            "billoncoin.item.json": 1,
+            "electrumbar.item.json": 1,
+            "platinumbar.item.json": 1,
+            "steelbar.item.json": 1
           },
           "miningtools": {
             "electrumpickaxe.miningtool.json": 2,
@@ -479,46 +488,46 @@
       "aegisquest.questtemplate.json": 3,
       "aegisquest2.questtemplate.json": 1,
       "aegisquest3.questtemplate.json": 2,
-      "aetherquest.questtemplate.json": 0,
-      "aetherquest2.questtemplate.json": 0,
-      "aetherquest3.questtemplate.json": 0,
-      "ivrpgoneforall.questtemplate.json": 0,
-      "novaquest.questtemplate.json": 0,
-      "novaquest2.questtemplate.json": 0,
-      "novaquest3.questtemplate.json": 0,
+      "aetherquest.questtemplate.json": 3,
+      "aetherquest2.questtemplate.json": 1,
+      "aetherquest3.questtemplate.json": 2,
+      "ivrpgoneforall.questtemplate.json": 3,
+      "novaquest.questtemplate.json": 3,
+      "novaquest2.questtemplate.json": 1,
+      "novaquest3.questtemplate.json": 2,
       "shared_.questtemplate.json": 1,
       "shared_quest2.questtemplate.json": 1,
-      "siphonquest.questtemplate.json": 0,
-      "siphonquest2.questtemplate.json": 0,
-      "siphonquest3.questtemplate.json": 0,
-      "spiraquest.questtemplate.json": 0,
-      "spiraquest2.questtemplate.json": 0,
-      "spiraquest3.questtemplate.json": 0,
-      "versaquest.questtemplate.json": 0,
-      "versaquest2.questtemplate.json": 0,
-      "versaquest3.questtemplate.json": 0
+      "siphonquest.questtemplate.json": 3,
+      "siphonquest2.questtemplate.json": 1,
+      "siphonquest3.questtemplate.json": 2,
+      "spiraquest.questtemplate.json": 3,
+      "spiraquest2.questtemplate.json": 2,
+      "spiraquest3.questtemplate.json": 2,
+      "versaquest.questtemplate.json": 2,
+      "versaquest2.questtemplate.json": 1,
+      "versaquest3.questtemplate.json": 2
     },
     "scripts": {
       "explorerglow": {
-        "shared_.statuseffect.json": 0
+        "shared_.statuseffect.json": 1
       },
       "knightblock": {
-        "knightblock.statuseffect.json": 0
+        "knightblock.statuseffect.json": 1
       },
       "levelup": {
-        "ivrpglevelup.animation.json": 0
+        "ivrpglevelup.animation.json": 1
       },
       "ninjacrit": {
-        "ninjacrit.statuseffect.json": 0
+        "ninjacrit.statuseffect.json": 1
       },
       "roguepoison": {
-        "roguepoison.statuseffect.json": 0
+        "roguepoison.statuseffect.json": 1
       },
       "soldierdiscipline": {
-        "soldierdiscipline.statuseffect.json": 0
+        "soldierdiscipline.statuseffect.json": 1
       },
       "wizardaffinity": {
-        "wizardaffinity.statuseffect.json": 0
+        "wizardaffinity.statuseffect.json": 1
       }
     },
     "shared_.config.json": 7,
@@ -530,86 +539,86 @@
     "shared_skillbook": {
       "shared_RPGskillbook..json": 1
     },
-    "shared_soldier.json": 4,
-    "shared_spec.json": 0,
+    "shared_soldier.json": 3,
+    "shared_spec.json": 6,
     "shared_stun.json": 1,
     "shared_tech": {
-      "shared_.statuseffect.json": 0
+      "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
     "specList.config.json": 0,
     "specs": {
       "abilities": {
         "adept": {
-          "agilemagic.statuseffect.json": 0,
-          "agilemagicspeed.statuseffect.json": 0
+          "agilemagic.statuseffect.json": 1,
+          "agilemagicspeed.statuseffect.json": 1
         },
         "cannoneer": {
-          "fightinglion.statuseffect.json": 0
+          "fightinglion.statuseffect.json": 1
         },
         "captain": {
-          "bythepeople.statuseffect.json": 0,
-          "forthepeople.statuseffect.json": 0
+          "bythepeople.statuseffect.json": 1,
+          "forthepeople.statuseffect.json": 1
         },
         "changeling": {
-          "meltyblood.statuseffect.json": 0
+          "meltyblood.statuseffect.json": 1
         },
         "crusader": {
-          "purity.statuseffect.json": 0
+          "purity.statuseffect.json": 1
         },
         "darktemplar": {
-          "corrupted.statuseffect.json": 0,
-          "corruption.statuseffect.json": 0
+          "corrupted.statuseffect.json": 1,
+          "corruption.statuseffect.json": 1
         },
         "dragoon": {
-          "flightless.statuseffect.json": 0
+          "flightless.statuseffect.json": 1
         },
         "elementress": {
-          "elementalweaveelectric.statuseffect.json": 0,
-          "elementalweavefire.statuseffect.json": 0,
-          "elementalweaveice.statuseffect.json": 0
+          "elementalweaveelectric.statuseffect.json": 1,
+          "elementalweavefire.statuseffect.json": 1,
+          "elementalweaveice.statuseffect.json": 1
         },
         "hunter": {
-          "cloak.statuseffect.json": 0
+          "cloak.statuseffect.json": 1
         },
         "kunoichi": {
           "featherfall": {
-            "tranquilwindfeatherfall.statuseffect.json": 0
+            "tranquilwindfeatherfall.statuseffect.json": 1
           },
-          "tranquilwind.statuseffect.json": 0
+          "tranquilwind.statuseffect.json": 1
         },
         "necromancer": {
-          "raiseundead.statuseffect.json": 0
+          "raiseundead.statuseffect.json": 1
         },
         "paladin": {
-          "perfectbarrier.statuseffect.json": 0
+          "perfectbarrier.statuseffect.json": 1
         },
         "pioneer": {
-          "terranova.statuseffect.json": 0
+          "terranova.statuseffect.json": 1
         },
         "titan": {
-          "prometheantactics.statuseffect.json": 0,
-          "prometheantacticsarmorboost.statuseffect.json": 0
+          "prometheantactics.statuseffect.json": 1,
+          "prometheantacticsarmorboost.statuseffect.json": 1
         },
         "valkyrie": {
-          "flightofthevalkyrie.statuseffect.json": 0
+          "flightofthevalkyrie.statuseffect.json": 1
         },
         "vanguard": {
-          "inthefray.statuseffect.json": 0
+          "inthefray.statuseffect.json": 1
         },
         "vigilante": {
-          "bymyownhands.statuseffect.json": 0
+          "bymyownhands.statuseffect.json": 1
         },
         "wraith": {
-          "betweenworlds.statuseffect.json": 0
+          "betweenworlds.statuseffect.json": 1
         }
       },
-      "adept.config.json": 0,
-      "battlemage.config.json": 0,
-      "berserker.config.json": 0,
-      "bountyhunter.config.json": 0,
-      "cannoneer.config.json": 0,
-      "captain.config.json": 0,
+      "adept.config.json": 8,
+      "battlemage.config.json": 2,
+      "berserker.config.json": 2,
+      "bountyhunter.config.json": 2,
+      "cannoneer.config.json": 8,
+      "captain.config.json": 5,
       "changeling.config.json": 0,
       "cleric.config.json": 0,
       "conquistador.config.json": 0,
@@ -632,7 +641,7 @@
       "samurai.config.json": 0,
       "scout.config.json": 0,
       "shade.config.json": 0,
-      "shared_.config.json": 0,
+      "shared_.config.json": 2,
       "shared_n.config.json": 0,
       "stalker.config.json": 0,
       "technomancer.config.json": 0,
@@ -671,6 +680,9 @@
         },
         "elementress": {
           "attune.tech.json": 0
+        },
+        "hunter": {
+          "multitool.tech.json": 0
         },
         "kunoichi": {
           "ivrpgdazed": {
@@ -728,7 +740,7 @@
       "warlock.config.json": 0,
       "wraith.config.json": 0
     },
-    "specs.json": 0,
+    "specs.json": 4,
     "stats.config.json": 0,
     "tech": {
       "explorertech": {
@@ -836,7 +848,7 @@
         },
         "soldiermre": {
           "soldiermre.statuseffect.json": 0,
-          "soldiermre.tech.json": 0
+          "soldiermre.tech.json": 1
         },
         "soldiertanksphere": {
           "shield": {
@@ -862,6 +874,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 72
+    "wide_spread_fields.json": 73
   }
 }

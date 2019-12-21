@@ -103,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "变形使",
       "Eng": "Changeling"
     }
   },
@@ -118,6 +119,7 @@
       ]
     },
     "Texts": {
+      "Chs": "牧师",
       "Eng": "Cleric"
     }
   },
@@ -133,6 +135,7 @@
       ]
     },
     "Texts": {
+      "Chs": "征服者",
       "Eng": "Conquistador"
     }
   },
@@ -148,6 +151,7 @@
       ]
     },
     "Texts": {
+      "Chs": "十字军战士",
       "Eng": "Crusader"
     }
   },
@@ -163,6 +167,7 @@
       ]
     },
     "Texts": {
+      "Chs": "黑暗圣堂",
       "Eng": "Dark Templar"
     }
   },
@@ -177,6 +182,7 @@
       ]
     },
     "Texts": {
+      "Chs": "死亡射手",
       "Eng": "Deadshot"
     }
   },
@@ -192,6 +198,7 @@
       ]
     },
     "Texts": {
+      "Chs": "龙骑",
       "Eng": "Dragoon"
     }
   },
@@ -206,6 +213,7 @@
       ]
     },
     "Texts": {
+      "Chs": "猎人",
       "Eng": "Hunter"
     }
   },
@@ -220,6 +228,7 @@
       ]
     },
     "Texts": {
+      "Chs": "剑圣",
       "Eng": "Juggernaut"
     }
   },
@@ -234,6 +243,7 @@
       ]
     },
     "Texts": {
+      "Chs": "女忍",
       "Eng": "Kunoichi"
     }
   },
@@ -248,6 +258,7 @@
       ]
     },
     "Texts": {
+      "Chs": "机工",
       "Eng": "Mechanist"
     }
   },
@@ -263,6 +274,7 @@
       ]
     },
     "Texts": {
+      "Chs": "雇佣兵",
       "Eng": "Mercenary"
     }
   },
@@ -277,6 +289,7 @@
       ]
     },
     "Texts": {
+      "Chs": "死灵法师",
       "Eng": "Necromancer"
     }
   },
@@ -292,6 +305,7 @@
       ]
     },
     "Texts": {
+      "Chs": "特工",
       "Eng": "Operative"
     }
   },
@@ -306,6 +320,7 @@
       ]
     },
     "Texts": {
+      "Chs": "圣骑士",
       "Eng": "Paladin"
     }
   },
@@ -320,6 +335,7 @@
       ]
     },
     "Texts": {
+      "Chs": "飞行员",
       "Eng": "Pilot"
     }
   },
@@ -334,6 +350,7 @@
       ]
     },
     "Texts": {
+      "Chs": "殖民先驱",
       "Eng": "Pioneer"
     }
   },
@@ -348,6 +365,7 @@
       ]
     },
     "Texts": {
+      "Chs": "破坏者",
       "Eng": "Saboteur"
     }
   },
@@ -362,6 +380,7 @@
       ]
     },
     "Texts": {
+      "Chs": "武士",
       "Eng": "Samurai"
     }
   },
@@ -376,6 +395,7 @@
       ]
     },
     "Texts": {
+      "Chs": "斥候",
       "Eng": "Scout"
     }
   },
@@ -390,6 +410,7 @@
       ]
     },
     "Texts": {
+      "Chs": "影者",
       "Eng": "Shade"
     }
   },
@@ -404,6 +425,7 @@
       ]
     },
     "Texts": {
+      "Chs": "追踪者",
       "Eng": "Stalker"
     }
   },
@@ -419,6 +441,7 @@
       ]
     },
     "Texts": {
+      "Chs": "奇械师",
       "Eng": "Technomancer"
     }
   },
@@ -434,6 +457,7 @@
       ]
     },
     "Texts": {
+      "Chs": "神偷",
       "Eng": "Thief"
     }
   },
@@ -448,6 +472,7 @@
       ]
     },
     "Texts": {
+      "Chs": "泰坦",
       "Eng": "Titan"
     }
   },
@@ -463,6 +488,7 @@
       ]
     },
     "Texts": {
+      "Chs": "前卫",
       "Eng": "Vanguard"
     }
   },
@@ -477,6 +503,7 @@
       ]
     },
     "Texts": {
+      "Chs": "义贼",
       "Eng": "Vigilante"
     }
   },
@@ -491,6 +518,7 @@
       ]
     },
     "Texts": {
+      "Chs": "维和者",
       "Eng": "Vinetender"
     }
   },
@@ -506,6 +534,7 @@
       ]
     },
     "Texts": {
+      "Chs": "漫游者",
       "Eng": "Wanderer"
     }
   },
@@ -520,6 +549,7 @@
       ]
     },
     "Texts": {
+      "Chs": "术士",
       "Eng": "Warlock"
     }
   },
@@ -535,6 +565,7 @@
       ]
     },
     "Texts": {
+      "Chs": "幽魂",
       "Eng": "Wraith"
     }
   }

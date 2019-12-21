@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "-20%神圣抗性",
       "Eng": "-20% Holy Resistance"
     }
   },
@@ -39,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "只有90%的最大生命",
       "Eng": "90% Max Health"
     }
   },
@@ -53,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "90%的攻击力倍乘",
       "Eng": "90% Power Multiplier"
     }
   },
@@ -67,6 +70,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以双持近战武器。",
       "Eng": "Can Dual-Wield Melee Weapons."
     }
   },
@@ -81,6 +85,7 @@
       ]
     },
     "Texts": {
+      "Chs": "Dex灵巧 x2",
       "Eng": "Dexterity x2"
     }
   },

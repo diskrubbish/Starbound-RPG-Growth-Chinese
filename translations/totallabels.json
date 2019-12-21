@@ -19,7 +19,7 @@
       "ninja.config.json": 12,
       "rogue.config.json": 9,
       "shared_.config.json": 1,
-      "soldier.config.json": 11,
+      "soldier.config.json": 12,
       "wizard.config.json": 14
     },
     "default.config.json": 1,
@@ -67,6 +67,7 @@
           },
           "wizardstaff": {
             "novastatus": {
+              "shared_.statuseffect.json": 1,
               "wizardnovastatus.animation.json": 1
             },
             "wizardnovastaff.activeitem.json": 1,
@@ -101,6 +102,16 @@
           },
           "elementress": {
             "eclipse.activeitem.json": 2
+          },
+          "hunter": {
+            "arrows": {
+              "purplearrow": {
+                "tethered": {
+                  "ivrpgtethered.animation.json": 1
+                }
+              }
+            },
+            "mida.activeitem.json": 2
           },
           "kunoichi": {
             "luxuria.activeitem.json": 2
@@ -314,7 +325,7 @@
         }
       }
     },
-    "ivrpgtext.config.json": 136,
+    "ivrpgtext.config.json": 148,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -325,9 +336,6 @@
         "ivrpgoverload": {
           "ivrpgoverload.statuseffect.json": 1
         },
-        "ivrpgsear": {
-          "ivrpgsear.statuseffect.json": 1
-        },
         "ivrpgtoxify": {
           "ivrpgtoxify.statuseffect.json": 1
         }
@@ -336,6 +344,7 @@
         "ivrpgweaken.animation.json": 1
       },
       "soldierstun": {
+        "ivrpgstun.statuseffect.json": 1,
         "soldierstun.animation.json": 1,
         "soldierstun.statuseffect.json": 1
       }
@@ -530,7 +539,7 @@
     "shared_skillbook": {
       "shared_RPGskillbook..json": 1
     },
-    "shared_soldier.json": 4,
+    "shared_soldier.json": 3,
     "shared_spec.json": 37,
     "shared_stun.json": 1,
     "shared_tech": {
@@ -672,6 +681,9 @@
         "elementress": {
           "attune.tech.json": 2
         },
+        "hunter": {
+          "multitool.tech.json": 1
+        },
         "kunoichi": {
           "ivrpgdazed": {
             "ivrpgdazed.animation.json": 1
@@ -728,7 +740,7 @@
       "warlock.config.json": 2,
       "wraith.config.json": 10
     },
-    "specs.json": 16,
+    "specs.json": 17,
     "stats.config.json": 30,
     "tech": {
       "explorertech": {
@@ -836,7 +848,7 @@
         },
         "soldiermre": {
           "soldiermre.statuseffect.json": 1,
-          "soldiermre.tech.json": 1
+          "soldiermre.tech.json": 2
         },
         "soldiertanksphere": {
           "shield": {
@@ -862,6 +874,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 85
+    "wide_spread_fields.json": 86
   }
 }

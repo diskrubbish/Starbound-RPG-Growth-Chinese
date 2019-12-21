@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "+10%元素抗性",
       "Eng": "+10% Elemental Resistance"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用盾牌时，其基础攻击力增加至150%：且随力量和智力增长。",   
       "Eng": "150% Base Power with Shields:\nScales with Str. and Int."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "只有80%的跳跃高度",
       "Eng": "80% Jump Height"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "只有90%的速度",
       "Eng": "90% Speed"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "完美格挡后恢复10%最大护盾耐久，并给予20%物理、暗影、恶魔和毒素抗性加成，持续5秒。",
       "Eng": "Perfect Shields restore 10% of Max Shield Stamina and grant 5 seconds of +20% Physical, Shadow, Demonic, and Poison Resistance."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按[W]键可以切换无暇之盾，一种将护盾耐久减半的buff，以降低25%的移动速度的代价，赋予你的护盾加成。当你处于活动状态时，攻击你护盾的怪物会受到审判属性的回击，完美格挡会在3秒内使你的最大生命值增加110%，附近的盟友会增加7%的最大生命。该技能的增幅比例在力量和智力上高达12%。",
       "Eng": "Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, lowers Movement Speed by 25%, but grants bonuses for your shield. While active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide a 110% increase to your Max Health for 3 seconds and 7% of your Max Health as instant Health gain to nearby allies. This scales up to 12% with Strength and Intelligence. "
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "真理捍卫者",
       "Eng": "True Aegis"
     }
   }

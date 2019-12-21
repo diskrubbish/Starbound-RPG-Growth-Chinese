@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "-50%物理抗性",
       "Eng": "-50% Physical Resistance"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用拳套时，其基础攻击力增加至120%：且随智力增长。",   
       "Eng": "120% Base Power with Fist Weapons: Scales with Int."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "150%最大能量",
       "Eng": "150% Max Energy"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "只有30%的最大生命",
       "Eng": "30% Max Health"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "重力几乎不会影响你。受到伤害后，在短时间内变得无敌和空灵。",
       "Eng": "Gravity barely affects you. Upon taking the damage, become invulnerable and ethereal for a short time."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "毒素，火炎，恶魔和暗影(FU)免疫",
       "Eng": "Poison, Fire, Demonic and Shadow (FU) Immunity"
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "夺魂低语",
       "Eng": "Soulless Whisper"
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "免疫窒息",
       "Eng": "Suffocation Immunity"
     }
   },
@@ -95,6 +103,7 @@
       ]
     },
     "Texts": {
+      "value": "当你试图跳跃时，你会朝着你保持的方向盘旋。发动技能时，你完全不受伤害，并且可以逐步通过方块。每秒消耗40能量。移动速度与敏捷有关。发动技能时按住 [Shift] 将解除无敌和相位穿越能力，并将总能量消耗减半。" ,
       "Eng": "Upon attempting to jump, you hover towards the direction you are holding instead. While doing so, you are completely immune to damage, and can phase through blocks. Costs 40 Energy per second. Travel speed scales with Agility. Holding [Shift] while doing so will remove the invulnerability and phase-ability, and halves the overall Energy cost."
     }
   },
@@ -106,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^red;不能使用双手武器、远程武器或魔法武器。^reset;",
       "Eng": "^red;Cannot Wield Two-Handed Weapons, Ranged Weapons, or Magic Weapons.^reset;"
     }
   }

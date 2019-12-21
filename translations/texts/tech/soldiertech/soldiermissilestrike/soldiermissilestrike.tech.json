@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "消耗：50能量。冷却：30秒。",
       "Eng": "Cost: 50e. Cooldown: 30s."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "导弹打击",
       "Eng": "Missile Strike"
     }
   }

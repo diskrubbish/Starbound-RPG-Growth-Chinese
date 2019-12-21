@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可控悬停",
       "Eng": "Controlled Hover"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "消耗：75能量/每秒",
       "Eng": "Cost: 75eps."
     }
   }

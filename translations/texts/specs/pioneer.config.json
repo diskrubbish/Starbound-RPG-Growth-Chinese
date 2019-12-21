@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "+0.5%饥饿速率",
       "Eng": "+0.5% Hunger Rate"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "所有武器基础攻击力增加至125%。",   
       "Eng": "125% Base Power\nWith All Weapons"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在已经书签过的星球上获得125%的攻击倍乘和最大能量。\n在未书签过的星球上获得125%的速度10%的抗性加成。",
       "Eng": "125% Power Multiplier and Max Energy on Bookmarked Planets.\n120% Speed and +10% Resistance on Non-Bookmarked Planets."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "鹦鹉螺",
       "Eng": "Nautilus"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "如果可能的话，按[F]可放置一个殖民地标志。殖民地标志可以设置为一个传送点。技能有600秒冷却。传送到新位置会立即重置冷却时间。", 
       "Eng": "Pressing [F] places a Colony Flag if possible. Colony Flags can be set as waypoints for easy teleportation access. 600 second cooldown. Teleporting to a new location immediately resets cooldown."
     }
   }

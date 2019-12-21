@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "角色修复",
       "Eng": "Character Fix"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按[F]后请退出游戏。",
       "Eng": "Press [F] and then quit."
     }
   }

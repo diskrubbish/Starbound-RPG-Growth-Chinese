@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "登云跳",
       "Eng": "Cloud Jump"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "消耗：30能量。冷却：2秒。",
       "Eng": "Cost: 30e. Cooldown: 2s"
     }
   }

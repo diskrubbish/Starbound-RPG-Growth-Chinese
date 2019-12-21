@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "请注意，虽然这种武器有许多功能，但根据大地守护团的法律，建造滑索是严格禁止的。",
       "Eng": "Do note that while this weapon has many functionalities, creating ziplines is strictly prohibited under Protectorate Law."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;迈达",
       "Eng": "^green;Mida"
     }
   }

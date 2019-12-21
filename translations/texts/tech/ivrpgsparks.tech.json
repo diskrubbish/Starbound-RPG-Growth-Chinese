@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "花火",
       "Eng": "Sparks"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按^green;[F]^white;发射火花！",
       "Eng": "Tap ^green;[F]^white; to shoot sparks!"
     }
   }

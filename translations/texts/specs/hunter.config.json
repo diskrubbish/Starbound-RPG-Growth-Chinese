@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "+25%电系，火系和新星抗性。",
       "Eng": "+25% Electric, Fire, and Nova Resistance."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "-5格挡",
       "Eng": "-5 Protection"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用枪和匕首时，其基础攻击力增加至115%。",  
       "Eng": "115% Base Power with Pistols and Daggers."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用弓和步枪时，其基础攻击力增加至120%。",   
       "Eng": "120% Base Power with Bows and Sniper Rifles."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "蜷缩2秒钟后获得5秒的隐形时间。\n使用能量后解除，获得33%流血几率增加，持续0.5秒。",
       "Eng": "Crouching for 2 seconds grants a 5 second period of Invisibility.\nUse Energy to dispel this and gain +33% Bleed Chance for 0.5 seconds."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可以使用双手远程武器",
       "Eng": "Enables Two-Handed Ranged Weapons"
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "迈达",
       "Eng": "Mida"
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按[Shift] + [G]在火炎，电击和新星属性之间切换。\n按[G]向光标处投掷烟雾弹(消耗50能量，6秒冷却)。双击[A]或[D]闪避(无能量消耗，3秒冷却)。\n当能量满的时候使用右键激活迈达(新星 -> 死堕射击，电击 -> 脉冲射击， 火炎 -> 灼日射击)：这次射击消耗能量，然后效果消失。\n烟雾弹，闪避和充能效果取决于多用工具的当前元素属性。",
       "Eng": "Press [Shift] + [G] to switch between Fire, Electric, and Nova.\nPress [G] to lob a Smokebomb towards your cursor (50 Energy, 6 Second Cooldown). Double-tap [A] or [D] to Dodge (No Energy, 3 Second Cooldown).\nUse Alt Fire when Energy is full to Energize Mida (Nova -> Deadfall, Electric -> Pulsar, Fire -> Sunshot): this effect drains Energy and then dissipates.\nGrenade, Dodge, and Energize effects depend on Multitool Element."
     }
   }
