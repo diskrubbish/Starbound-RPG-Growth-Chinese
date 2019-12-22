@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "降低能量重充能延迟。",
       "Eng": "Decreases Energy Recharge Delay."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "降低饥饿速率。",
       "Eng": "Decreases Hunger Rate."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大幅提高最大能量。",
       "Eng": "Greatly Increases Max Energy."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大幅提高最大生命。",
       "Eng": "Greatly Increases Max Health."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大幅提高盾牌耐久。",
       "Eng": "Greatly Increases Shield Health."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大幅提高造成伤害。",
       "Eng": "Greatly Increases Staff Damage."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大幅提高游泳速度。",
       "Eng": "Greatly Increases Swim Speed."
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "提高能量重充能速度。",
       "Eng": "Increases Energy Recharge Rate."
     }
   },
@@ -95,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "提高经验球所得(跨队伍)。",
       "Eng": "Increases Experience Orb Gain (Cross Party)."
     }
   },
@@ -106,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "提高击退抗性。",
       "Eng": "Increases Knockback Resistance."
     }
   },
@@ -117,6 +127,7 @@
       ]
     },
     "Texts": {
+      "Chs": "提高移动速度。",
       "Eng": "Increases Movement Speed."
     }
   },
@@ -128,6 +139,7 @@
       ]
     },
     "Texts": {
+      "Chs": "提高远程武器伤害，造成出血的几率和出血时长。",
       "Eng": "Increases Ranged Weapon Damage, Bleed Chance and Bleed Length."
     }
   },
@@ -139,6 +151,7 @@
       ]
     },
     "Texts": {
+      "Chs": "小幅提高护甲。",
       "Eng": "Minimally Increases Armor."
     }
   },
@@ -150,6 +163,7 @@
       ]
     },
     "Texts": {
+      "Chs": "小幅提高能量重充能速度。",
       "Eng": "Minimally Increases Energy Recharge Rate."
     }
   },
@@ -161,6 +175,7 @@
       ]
     },
     "Texts": {
+      "Chs": "中幅提高所有抗性。",
       "Eng": "Moderately Increases All Resistances."
     }
   },
@@ -172,6 +187,7 @@
       ]
     },
     "Texts": {
+      "Chs": "显著减少跌落伤害。",
       "Eng": "Significantly Decreases Fall Damage."
     }
   },
@@ -183,6 +199,7 @@
       ]
     },
     "Texts": {
+      "Chs": "显著提高护甲。",
       "Eng": "Significantly Increases Armor."
     }
   },
@@ -194,6 +211,7 @@
       ]
     },
     "Texts": {
+      "Chs": "显著提高双手近战武器伤害。",
       "Eng": "Significantly Increases Two-Handed Melee Damage."
     }
   },
@@ -205,6 +223,7 @@
       ]
     },
     "Texts": {
+      "Chs": "微微减少跌落伤害。",
       "Eng": "Slightly Decreases Fall Damage."
     }
   },
@@ -216,6 +235,7 @@
       ]
     },
     "Texts": {
+      "Chs": "微微提高跳跃高度。",
       "Eng": "Slightly Increases Jump Height."
     }
   },
@@ -227,6 +247,7 @@
       ]
     },
     "Texts": {
+      "Chs": "微微提高单手近战武器伤害。^red;不与灵巧挂钩！^reset;",
       "Eng": "Slightly Increases One-Handed Melee Weapon Damage.^red; Doesn't stack with Dex.!^reset;"
     }
   },
@@ -238,6 +259,7 @@
       ]
     },
     "Texts": {
+      "Chs": "微微提高单手武器伤害。^red;不与力量挂钩！^reset;",
       "Eng": "Slightly Increases One-Handed Weapon Damage.^red; Doesn't stack with Strength!^reset;"
     }
   },
@@ -249,6 +271,7 @@
       ]
     },
     "Texts": {
+      "Chs": "微微提高法杖伤害。",
       "Eng": "Slightly Increases Wand Damage."
     }
   },
@@ -260,6 +283,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;从20敏捷开始：^reset;\n经典模式的移动速度惩罚和跳跃高度惩罚减半。\n移动速度和跳跃高度的专精惩罚减半。",
       "Eng": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Movement Speed and Jump Height halved.\nSpecialization penalty for Movement Speed and Jump Height halved."
     }
   },
@@ -271,6 +295,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;从20灵巧开始：^reset;\n对于双手远程武器，经典模式惩罚降低至-50％，\n双持远程和近战武器的惩罚降低至-50％，\n单手近战和远程武器的惩罚降低至-25％。",
       "Eng": "^green;Starting From 20 Dexterity:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Ranged Weapons,\nlowered to -50% for Dual-Wielded Ranged and Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee and Ranged Weapons."
     }
   },
@@ -282,6 +307,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;从20耐力开始：^reset;\n经典模式的护甲惩罚和所有抗性惩罚减半。\n由专精带来的护甲惩罚和所有抗性惩罚减半。",
       "Eng": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for Armor and all Resistances halved.\nSpecialization penalty for Armor and all Resistances halved."
     }
   },
@@ -293,6 +319,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;从20智力开始：^reset;\n经典模式的法杖惩罚-50%。\n单手法杖惩罚-25%。",
       "Eng": "^green;Starting From 20 Intelligence:^reset;\nClassic Mode penalty lowered to -50% for Staffs,\nand lowered to -25% for Mono-Wielded Wands."
     }
   },
@@ -304,6 +331,7 @@
       ]
     },
     "Texts": {
+      "CHs": "^green;从20力量开始：^reset;\n双手近战武器的经典模式惩罚降低至-50％，单手单持近战武器的经典模式惩罚降低至-25％。",
       "Eng": "^green;Starting From 20 Strength:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee Weapons."
     }
   },
@@ -315,6 +343,7 @@
       ]
     },
     "Texts": {
+      "value": "^green;从20活力开始：^reset;\n经典模式的最大能量值惩罚减半。\n由专精带来的最大能量值惩罚减半。",
       "Eng": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalties for Energy halved.\nSpecialization penalties for Energy halved."
     }
   },
@@ -326,6 +355,7 @@
       ]
     },
     "Texts": {
+      "value": "^green;从20体质开始：^reset;\n经典模式的最大生命值惩罚和饱腹变化率惩罚减半。\n由专精带来的最大生命值惩罚和饱腹变化率惩罚减半。",
       "Eng": "^green;Starting From 20 Vitality:^reset;\nClassic Mode penalty for Max Health and Food Delta halved.\nSpecialization penalty for Max Health and Food Delta halved."
     }
   }

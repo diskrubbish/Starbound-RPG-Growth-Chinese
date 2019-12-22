@@ -40,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^shadow;$dmg$",
       "Eng": "^shadow;$dmg$"
     }
   }

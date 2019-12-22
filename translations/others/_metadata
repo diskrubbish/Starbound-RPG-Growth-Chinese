@@ -1,10 +1,32 @@
 {
-  "author" : "原作者：LinOnetwo & runningsky，重制者：diskrubbish",
-  "description" : "基于原Starbound Mod RPG Growth 简体中文汉化重制\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1727230748]原汉化Mod地址[/url]\n[url=https://github.com/linonetwo/Starbound-RPG-Growth-Chinese]原项目库地址[/url]\n[url=https://github.com/diskrubbish/Starbound-RPG-Growth-Chinese]重构项目库地址[/url]\n非原汉化组重制，还没和原汉化作者商量\n抛瓦德拜龙骑士的脚本\n目前重构进度1/2\n由于部分文本存放于lua文件中无法替换，可能日后会将汉化补丁做成ab两部分\n日后会跟进版本更新。",
-  "friendlyName" : "RPG Growth 汉化补丁重制版",
-  "includes" : ["RPG_Growth"],
-  "steamContentId" : "1929019607",
-  "name" : "RPG_Growth_Chinese_Reborn",
-  "tags" : "User Interface",
-  "version" : "REβ0.5"
+  "author": "原作者：LinOnetwo & runningsky，重制者：diskrubbish",
+  "description": "<h2>RPGrowthRPG Growth 汉化补丁重制版</h2>
+
+  <h3>基于龙骑士的开源汉化脚本，和<a href="https://github.com/linonetwo/Starbound-RPG-Growth-Chinese">原汉化mod</a>重制</h3>
+  
+  <ul><li><a href="https://github.com/diskrubbish/Starbound-RPG-Growth-Chinese/commits">项目库地址</a></li><li>本mod为RPGrowth中文化mod，目前基于原mod已经重构完毕，日后会更进更新（大概）。</li><li>使用此汉化mod时，请先取消订阅原来的汉化mod。</li></ul>
+  
+  <h4>汉化进度</h4>
+  
+  <ul><li>根据原汉化mod，绝大部分文本已经汉化完毕，少数文本存在于lua文件中，无法使用Patch替换。</li></ul>
+  
+  <h4>一些指南</h4>
+  
+  <ul><li>神秘之书的合成：活根，人物基础制作(C)里面制作。</li></ul>
+  
+  <h4>感谢</h4>
+  
+  <ul><li>RPGrowth的作者@IcyVines，这个mod目前还不是相对完善，但是很令人期待。<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1929019607">点这里跳转到原MOD创意工坊地址</a>，<a href="https://github.com/IcyVines/Starbound-RPG-Growth">点这里跳转到原MOD项目库页面</a>、</li><li>原汉化作者<a href="https://github.com/linonetwo">@linonetwo</a>，据说林一二大大去考研了，祝大大金榜题名</li><li>为starbound mod汉化提供了超便利脚本的龙骑先辈<a href="https://github.com/DragonKnightOfBreeze">@DragonKnightOfBreeze</a></li></ul>
+  
+  <h4>联系反馈</h4>
+  
+  <ul><li>由于账号在国区，Steam社区回复不了，emmmmm知道怎么解决的兄贵教教我秋梨膏！</li></ul>",
+  "friendlyName": "RPG Growth 汉化补丁重制版",
+  "includes": [
+    "RPG_Growth"
+  ],
+  "steamContentId": "1929019607",
+  "name": "RPG_Growth_Chinese_Reborn",
+  "tags": "User Interface",
+  "version": "1.0"
 }

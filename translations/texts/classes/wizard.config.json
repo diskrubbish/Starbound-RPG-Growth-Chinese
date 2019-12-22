@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate is Line-of-Sight only!.",
-      "value": "按[G]（在按键设置中绑定[G]）以传送到光标处（如果能到达）。在你再次传送之前有一点冷却时间。能量消耗取决于距离和敏捷值。在任务期间和在你的飞船上时只能传送到视野范围内！"
+      "Chs": "按[G]（在按键设置中绑定[G]）以传送到光标处（如果能到达）。在你再次传送之前有一点冷却时间。能量消耗取决于距离和敏捷值。在任务期间和在你的飞船上时只能传送到视野范围内！"
     }
   },
   {

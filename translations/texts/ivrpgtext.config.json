@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "盗亦有道",
       "Eng": "A Rogue's Way"
     }
   },
@@ -20,6 +21,7 @@
       ]
     },
     "Texts": {
+      "Chs": "肾上素激增",
       "Eng": "Adrenaline Rush"
     }
   },
@@ -31,6 +33,7 @@
       ]
     },
     "Texts": {
+      "Chs": "冲破禁忌",
       "Eng": "Against All Odds"
     }
   },
@@ -42,6 +45,7 @@
       ]
     },
     "Texts": {
+      "Chs": "装甲球升级。\n变形时长按左键击晕接触的敌人。\n激活眩晕时消耗能量。",
       "Eng": "Armor Sphere Upgrade.\nHold Left-Click while transformed to Stun enemies on contact.\n^red;Drains Energy while Stun is active."
     }
   },
@@ -53,6 +57,7 @@
       ]
     },
     "Texts": {
+      "Chs": "全副武装 - 期望",
       "Eng": "Armor Up - Anticipation"
     }
   },
@@ -64,6 +69,7 @@
       ]
     },
     "Texts": {
+      "Chs": "全副武装 - 决心", 
       "Eng": "Armor Up - Determination"
     }
   },
@@ -75,6 +81,7 @@
       ]
     },
     "Texts": {
+      "Chs": "全副武装 - 功能",  
       "Eng": "Armor Up - Function"
     }
   },
@@ -86,6 +93,7 @@
       ]
     },
     "Texts": {
+      "Chs": "全副武装 - 反应",   
       "Eng": "Armor Up - Reaction"
     }
   },
@@ -97,6 +105,7 @@
       ]
     },
     "Texts": {
+      "Chs": "血色手里剑·以太升级。\n使用血色手里剑·以太杀死敌人后, 获得2秒的愤怒和生命回复。",
       "Eng": "Blood Aether Upgrade.\nUpon killing an enemy with Blood Aether, gain 2 seconds of Weak Regeneration."
     }
   },
@@ -108,6 +117,7 @@
       ]
     },
     "Texts": {
+      "Chs": "觅血",
       "Eng": "Blood Seeker"
     }
   },
@@ -119,6 +129,7 @@
       ]
     },
     "Texts": {
+      "Chs": "速度加快 - 形式",
       "Eng": "Bolster Speed - Form"
     }
   },
@@ -130,6 +141,7 @@
       ]
     },
     "Texts": {
+      "Chs": "速度加快 - 肌肉", 
       "Eng": "Bolster Speed - Muscle"
     }
   },
@@ -141,6 +153,7 @@
       ]
     },
     "Texts": {
+      "Chs": "速度加快 - 跨步", 
       "Eng": "Bolster Speed - Stride"
     }
   },
@@ -152,6 +165,7 @@
       ]
     },
     "Texts": {
+      "Chs": "蛮力",
       "Eng": "Brute Force"
     }
   },
@@ -163,6 +177,7 @@
       ]
     },
     "Texts": {
+      "Chs": "理解",
       "Eng": "Comprehension"
     }
   },
@@ -174,6 +189,7 @@
       ]
     },
     "Texts": {
+      "Chs": "护主灵剑在进行连续的完美格挡后会获得攻击加成。\n^red;普通格挡会打断加成。",
       "Eng": "Consecutive Perfect Shields with the Vital Aegis increase its Power.\n^red;Blocking regularly resets the current Power gain."
     }
   },
@@ -185,6 +201,7 @@
       ]
     },
     "Texts": {
+      "Chs": "计数子弹",
       "Eng": "Counting Bullets"
     }
   },
@@ -196,6 +213,7 @@
       ]
     },
     "Texts": {
+      "Chs": "关键运气",
       "Eng": "Critical Luck"
     }
   },
@@ -207,6 +225,7 @@
       ]
     },
     "Texts": {
+      "Chs": "腐朽",
       "Eng": "Decay"
     }
   },
@@ -218,6 +237,7 @@
       ]
     },
     "Texts": {
+      "Chs": "无惧死神",
       "Eng": "Don't Fear the Reaper"
     }
   },
@@ -229,6 +249,7 @@
       ]
     },
     "Texts": {
+      "Chs": "钻头球升级。\n空中移动增强，可以进行空中跳跃。\n长按[W]在空中滑翔。\n^red;滑翔时消耗能量。", 
       "Eng": "Drill Sphere Upgrade.\nMid-air movement improved. Gain a mid-air jump.\nHold [W] while transformed to Glide.\n^red;Energy drains while Gliding."
     }
   },
@@ -241,6 +262,7 @@
       ]
     },
     "Texts": {
+      "Chs": "笨鸟先飞",
       "Eng": "Early Bird"
     }
   },
@@ -252,6 +274,7 @@
       ]
     },
     "Texts": {
+      "Chs": "奥力给升级。\n当能量全满时，\n地面跳跃进一步增强，\n跌落伤害进一步减少，\n空中跳跃增加到3次。",
       "Eng": "Energize Upgrade.\nWhile Energy is full,\nGrounded Jumps are further improved,\nFall Damage is further decreased,\nand Mid-air jumps are increased to 3."
     }
   },
@@ -263,6 +286,7 @@
       ]
     },
     "Texts": {
+      "Chs": "增强性运动升级。\n增加冲刺速度。冲刺时跳跃高高度2增加。\n冲刺持续时间更长。现在可以跳取消冲刺跳跃了。", 
       "Eng": "Enhanced Movement Upgrade.\nIncreased Sprint Speed. Increased Jump Height when jumping out of Sprint.\nIncreased Dash Duration increased. It is now possible to jump-cancel Dashes."
     }
   },
@@ -274,6 +298,7 @@
       ]
     },
     "Texts": {
+      "Chs": "脱战！升级。\n冲入地面时提供巨量速度加成。\n冲刺后短时间内免疫掉落伤害。\n初始冲刺后空中速度变为60%。", 
       "Eng": "Escape! Upgrade.\nDashing into the ground provides a large boost in speed.\nFall Damage is negated for a short time after dashing. 60% Aerial Velocity after initial dash."
     }
   },
@@ -285,6 +310,7 @@
       ]
     },
     "Texts": {
+      "Chs": "脱战！升级。\n在脱战时同时启用了攀墙跳。\n靠在墙上，空中冲刺冷却重置，",  
       "Eng": "Escape! Upgrade.\nWalljumping is enabled with Escape!.\nMid-air dashes are replenished upon clinging to a wall."
     }
   },
@@ -296,6 +322,7 @@
       ]
     },
     "Texts": {
+      "Chs": "展望",
       "Eng": "Expectation"
     }
   },
@@ -307,6 +334,7 @@
       ]
     },
     "Texts": {
+      "Chs": "对抗引力",
       "Eng": "Fighting Gravity"
     }
   },
@@ -318,6 +346,7 @@
       ]
     },
     "Texts": {
+      "Chs": "火焰&狱火亲和力升级。\n亲和力弱点不再影响你。",
       "Eng": "Flame & Infernal Affinity Upgrade.\nAffinity Weaknesses no longer affect you."
     }
   },
@@ -329,6 +358,7 @@
       ]
     },
     "Texts": {
+      "Chs": "火焰&狱火亲和力升级。\n燃烧持续时间翻倍。", 
       "Eng": "Flame & Infernal Affinity Upgrade.\nSear lasts twice as long."
     }
   },
@@ -340,6 +370,7 @@
       ]
     },
     "Texts": {
+      "Chs": "火焰&狱火亲和力升级。\n当你杀死一名燃烧，熔化，或烧焦的敌人时，它们会爆炸。\n爆炸伤害与伤攻击倍乘成比例。", 
       "Eng": "Flame & Infernal Affinity Upgrade.\nWhen you kill a Burning, Melting, or Seared enemy, they explode.\nExplosion Damage scales with Power Multiplier."
     }
   },
@@ -351,6 +382,7 @@
       ]
     },
     "Texts": {
+      "Chs": "理所当然",
       "Eng": "For Granted"
     }
   },
@@ -362,6 +394,7 @@
       ]
     },
     "Texts": {
+      "Chs": "自然之力",
       "Eng": "Force of Nature"
     }
   },
@@ -373,6 +406,7 @@
       ]
     },
     "Texts": {
+      "Chs": "霜冻&霜结亲和力升级。\n亲和力弱点不再影响你。", 
       "Eng": "Frost & Cryo Affinity Upgrade.\nAffinity Weaknesses no longer affect you."
     }
   },
@@ -384,6 +418,7 @@
       ]
     },
     "Texts": {
+      "Chs": "霜冻&霜结亲和力升级。\n+50%弓箭伤害。箭头攻击造成3秒的脆化。\n不适用于弩。",  
       "Eng": "Frost & Cryo Affinity Upgrade.\nDeal +50% Damage with Bows. Hits with arrows always Embrittle for 3 Seconds.\nDoes not work with Adaptable Crossbow."
     }
   },
@@ -395,6 +430,7 @@
       ]
     },
     "Texts": {
+      "Chs": "霜冻&霜结亲和力升级。\n一个敌人脆化的时间越长，\n他们受到的伤害就越高。",   
       "Eng": "Frost & Cryo Affinity Upgrade.\nThe longer an enemy is Embrittled,\nthe more damage they take from outside sources."
     }
   },
@@ -406,6 +442,7 @@
       ]
     },
     "Texts": {
+      "Chs": "霜冻&霜结亲和力升级。^red;仅限女性。\n^reset;n鞭子、爪、和匕首+75%伤害。\n挥舞鞭子时不会降低亲和力速度。",    
       "Eng": "Frost & Cryo Affinity Upgrade. ^red;Females Only.^reset;\nDeal +75% Damage with Whips, Claws, and Daggers.\nNo Affinity Speed decrease while wielding Whips."
     }
   },
@@ -417,6 +454,7 @@
       ]
     },
     "Texts": {
+      "Chs": "重力球升级。\n变形时按住右键时朝往光标方向悬浮。\n^red;悬浮消耗能量。", 
       "Eng": "Gravity Sphere Upgrade.\nHold Space while transformed to Hover towards the cursor.\n^red;Drains Energy while Hover is active."
     }
   },
@@ -428,6 +466,7 @@
       ]
     },
     "Texts": {
+      "Chs": "挽具魔法",
       "Eng": "Harnessing Magic"
     }
   },
@@ -439,6 +478,7 @@
       ]
     },
     "Texts": {
+      "Chs": "赫尔墨斯球",
       "Eng": "Hermes' Sphere"
     }
   },
@@ -450,6 +490,7 @@
       ]
     },
     "Texts": {
+      "Chs": "请君入瓮！",
       "Eng": "It's a Trap!"
     }
   },
@@ -461,6 +502,7 @@
       ]
     },
     "Texts": {
+      "Chs": "千里眼",
       "Eng": "Keen Eye"
     }
   },
@@ -472,6 +514,7 @@
       ]
     },
     "Texts": {
+      "Chs": "维和",
       "Eng": "Keeping the Peace"
     }
   },
@@ -483,6 +526,7 @@
       ]
     },
     "Texts": {
+      "Chs": "骑士猛击升级。\n空中跳跃次数增加至3次。\n冲撞击退增加。\n^red;但是冲撞伤害减少。",
       "Eng": "Knight Slam Upgrade.\nMid-air jumps increased to 3.\nSlam Knockback Increased.\n^red;Slam Damage Decreased."
     }
   },
@@ -494,6 +538,7 @@
       ]
     },
     "Texts": {
+      "Chs": "背水一战",
       "Eng": "Last Stand"
     }
   },
@@ -505,6 +550,7 @@
       ]
     },
     "Texts": {
+      "Chs": "受虐狂",
       "Eng": "Masochism"
     }
   },
@@ -516,6 +562,7 @@
       ]
     },
     "Texts": {
+      "Chs": "梅洛",
       "Eng": "Mellou"
     }
   },
@@ -528,6 +575,7 @@
       ]
     },
     "Texts": {
+      "Chs": "原动力",
       "Eng": "Momentum"
     }
   },
@@ -539,6 +587,7 @@
       ]
     },
     "Texts": {
+      "Chs": "怪兽大师",
       "Eng": "Monster Master"
     }
   },
@@ -550,6 +599,7 @@
       ]
     },
     "Texts": {
+      "Chs": "夜猫子",
       "Eng": "Night Owl"
     }
   },
@@ -561,6 +611,7 @@
       ]
     },
     "Texts": {
+      "Chs": "伙伴",
       "Eng": "Partners"
     }
   },
@@ -572,6 +623,7 @@
       ]
     },
     "Texts": {
+      "Chs": "光合作用",
       "Eng": "Photosynthesis"
     }
   },
@@ -583,6 +635,7 @@
       ]
     },
     "Texts": {
+      "Chs": "起源新星升级。\n起源新星可以无限充能，\n提高伤害和属性触发。\n^red;但是被杀死的敌人不再爆炸。",
       "Eng": "Primed Nova Upgrade.\nPrimed Nova can be over-charged,\nboosting Power. The status caused\nby each explosion is upgraded.\n^red;Enemies no longer explode when killed."
     }
   },
@@ -594,6 +647,7 @@
       ]
     },
     "Texts": {
+      "Chs": "起源新星升级。\n起源新星的充能速度更快，并大幅增加施法距离。\n^red;但是会降低伤害。", 
       "Eng": "Primed Nova Upgrade.\nPrimed Nova charges faster and has a larger casting range.\n^red;However, its overall Damage is Decreased."
     }
   },
@@ -605,6 +659,7 @@
       ]
     },
     "Texts": {
+      "Chs": "向我起誓",
       "Eng": "Promise Me This"
     }
   },
@@ -616,6 +671,7 @@
       ]
     },
     "Texts": {
+      "Chs": "贪婪小钻风升级。\n对敌人造成双倍伤害。能够进行短距离钻探。\n^red;但是能量消耗速度翻倍。",
       "Eng": "Ravenous Spira Upgrade.\nDeal double damage to enemies. Able to drill nearer to the weapon's base.\n^red;Energy drains at twice the speed."
     }
   },
@@ -627,6 +683,7 @@
       ]
     },
     "Texts": {
+      "Chs": "贪婪小钻风升级。\n贪婪小钻风的次要功能(右键)可以挖掘背景块。\n^red;当按住Shift时，不能从挖掘背景块中恢复能量。", 
       "Eng": "Ravenous Spira Upgrade.\nRavenous Spira breaks background blocks when held in the Right Hand (Secondary Hand).\n^red;Energy cannot be regained from breaking background blocks while holding Shift."
     }
   },
@@ -638,6 +695,7 @@
       ]
     },
     "Texts": {
+      "Chs": "施虐狂",
       "Eng": "Sadism"
     }
   },
@@ -649,6 +707,7 @@
       ]
     },
     "Texts": {
+      "Chs": "仙",
       "Eng": "Sen"
     }
   },
@@ -660,6 +719,7 @@
       ]
     },
     "Texts": {
+      "Chs": "暗影步升级.\n暗影步现在可以穿过墙壁, 即使当前处于副本世界。",
       "Eng": "Shadow Step Upgrade.\nShadow Step now allows the user to phase through walls, even if the user is currently in an Instanced World."
     }
   },
@@ -671,6 +731,7 @@
       ]
     },
     "Texts": {
+      "Chs": "雷霆&电弧亲和力升级。\n亲和力弱点不再影响你。", 
       "Eng": "Shock & Arc Affinity Upgrade.\nAffinity Weaknesses no longer affect you."
     }
   },
@@ -682,6 +743,7 @@
       ]
     },
     "Texts": {
+      "Chs": "雷霆&电弧亲和力升级。\n造成过载状态后，\n获得2秒的狂暴。", 
       "Eng": "Shock & Arc Affinity Upgrade.\nUpon inflicting Overload Status,\nGain Rage for 2 Seconds."
     }
   },
@@ -693,6 +755,7 @@
       ]
     },
     "Texts": {
+      "Chs": "雷霆&电弧亲和力升级。\n当你处于潮湿状态或接触液体时，\n附近的敌人将会过载。",  
       "Eng": "Shock & Arc Affinity Upgrade.\nWhile wet or touching liquid,\nnearby entities are shocked repeatedly."
     }
   },
@@ -704,6 +767,7 @@
       ]
     },
     "Texts": {
+      "Chs": "虹吸爪·通量升级\n闪电连击向释放十方时，将吸取的能量引导至附近的盟友。",
       "Eng": "Siphon Flux Upgrade.\nRestore Energy to nearby Allies when Lightning Slice connects with an enemy."
     }
   },
@@ -715,6 +779,8 @@
       ]
     },
     "Texts": {
+      "Chs": "虹吸爪·剃刀升级。\n连击技能可以在三次攻击之后使用，而不是四次。\n^red;但是，这可能会妨碍你使用其他拳击武器的组合连击。",
+
       "Eng": "Siphon Razor Upgrade.\nCritical Slice can be used after three attacks instead of four.\n^red;However, this prevents the usage of your other fist weapon's combo finisher."
     }
   },
@@ -726,6 +792,7 @@
       ]
     },
     "Texts": {
+      "Chs": "虹吸爪·孢子升级。\n当你的生命值低于三分之一时造成更多伤害。", 
       "Eng": "Siphon Spore Upgrade.\nDeals more damage when your health is below one third."
     }
   },
@@ -737,6 +804,7 @@
       ]
     },
     "Texts": {
+      "Chs": "专精",
       "Eng": "Specialization"
     }
   },
@@ -748,6 +816,7 @@
       ]
     },
     "Texts": {
+      "Chs": "状态",
       "Eng": "Statuses"
     }
   },
@@ -759,6 +828,7 @@
       ]
     },
     "Texts": {
+      "Chs": "击晕装甲",
       "Eng": "Stunning Armor"
     }
   },
@@ -770,6 +840,7 @@
       ]
     },
     "Texts": {
+      "Chs": "综合",
       "Eng": "Synthesis"
     }
   },
@@ -781,6 +852,7 @@
       ]
     },
     "Texts": {
+      "Chs": "坦克球升级。\n飞弹可以追踪锁定目标。\n^red;但是飞弹速度下降。", 
       "Eng": "Tank Sphere Upgrade.\nRockets fired while transformed actively seek targets with direct line of sight."
     }
   },
@@ -792,6 +864,7 @@
       ]
     },
     "Texts": {
+      "Chs": "用于测试字体大小和窗口长度。作者希望可以将这一大块文本放到这个小区域中，因为如果不这样做的话，他们将来在描述各种升级时会遇到问题。我在这里说点题外话，汉化虽然不技术活，但是消耗精力和时间，还望大家多多包涵。",
       "Eng": "Test to see font size as well as total wrapping length. Hopefully we can get this sizeable chunk of text into this small area, because if not, we'll have issues in the future with describing various upgrades. I also need to check total length up and down, just because."
     }
   },
@@ -803,6 +876,7 @@
       ]
     },
     "Texts": {
+      "Chs": "探险家",
       "Eng": "The Explorer"
     }
   },
@@ -814,6 +888,7 @@
       ]
     },
     "Texts": {
+      "Chs": "骑士",
       "Eng": "The Knight"
     }
   },
@@ -825,6 +900,7 @@
       ]
     },
     "Texts": {
+      "Chs": "忍者",
       "Eng": "The Ninja"
     }
   },
@@ -836,6 +912,7 @@
       ]
     },
     "Texts": {
+      "Chs": "盗贼",
       "Eng": "The Rogue"
     }
   },
@@ -847,6 +924,7 @@
       ]
     },
     "Texts": {
+      "Chs": "士兵",
       "Eng": "The Soldier"
     }
   },
@@ -858,6 +936,7 @@
       ]
     },
     "Texts": {
+      "Chs": "巫师",
       "Eng": "The Wizard"
     }
   },
@@ -869,6 +948,7 @@
       ]
     },
     "Texts": {
+      "Chs": "完全管制",
       "Eng": "Total Blackout"
     }
   },
@@ -880,6 +960,7 @@
       ]
     },
     "Texts": {
+      "Chs": "传送升级。\n传送现在可以无视墙壁，即使当前处于副本世界。", 
       "Eng": "Translocate Upgrade.\nTranslocate now allows the user to teleport through walls, even if the user is currently in an Instanced World."
     }
   },
@@ -893,6 +974,7 @@
       ]
     },
     "Texts": {
+      "Chs": "洞悉真理",
       "Eng": "True Understanding"
     }
   },
@@ -904,6 +986,7 @@
       ]
     },
     "Texts": {
+      "Chs": "血族真祖",
       "Eng": "True Vampire"
     }
   },
@@ -915,6 +998,7 @@
       ]
     },
     "Texts": {
+      "Chs": "真视",
       "Eng": "Truesight"
     }
   },
@@ -926,6 +1010,7 @@
       ]
     },
     "Texts": {
+      "Chs": "真相",
       "Eng": "Truth"
     }
   },
@@ -938,6 +1023,7 @@
       ]
     },
     "Texts": {
+      "Chs": "势不可挡",
       "Eng": "Unstoppable"
     }
   },
@@ -949,6 +1035,7 @@
       ]
     },
     "Texts": {
+      "Chs": "消失球升级。\n消失球体不再提供无敌。但是作为补偿，按住鼠标左键启用幽灵模式，幽灵模式下可以穿过墙壁。在穿越墙壁时消耗氧气。\n^red;维持幽灵模式会消耗能量。", 
       "Eng": "Vanish Sphere Upgrade.\nVanish Sphere no longer provides Invulnerability. Instead, hold Left-Click while transformed to enable Ghost-Mode, enabling you to move through walls. You can lose oxygen while moving through walls.\n^red;Drains Energy while Ghost is active."
     }
   },
@@ -960,6 +1047,7 @@
       ]
     },
     "Texts": {
+      "Chs": "毒液和毒蚀亲和力升级。\n亲和力弱点不再影响你。",
       "Eng": "Venom & Toxic Affinity Upgrade.\nAffinity Weaknesses no longer affect you."
     }
   },
@@ -971,6 +1059,7 @@
       ]
     },
     "Texts": {
+      "Chs": "毒液和毒蚀亲和力升级。\n在你的脚下产生造成虚弱的毒云。", 
       "Eng": "Venom & Toxic Affinity Upgrade.\nThe clouds spawned at your feet inflict Weak Poison."
     }
   },
@@ -982,6 +1071,7 @@
       ]
     },
     "Texts": {
+      "Chs": "毒液和毒蚀亲和力升级。\n中毒的敌人每隔0.25秒有5%几率\n会将中毒传染给附近的敌人。",
       "Eng": "Venom & Toxic Affinity Upgrade.\nToxified enemies have a 5% Chance\nto Toxify nearby enemies every 0.25 Seconds."
     }
   },
@@ -993,6 +1083,7 @@
       ]
     },
     "Texts": {
+      "Chs": "弹幕反抗者升级。\n子弹击中墙壁时会向附近的敌人弹射。^red;\n子弹每次反弹后的伤害都会降低。", 
       "Eng": "Versa Ricochet Upgrade.\nBullets bounce towards nearby enemies upon hitting walls.^red;\nBullets do not gain as much Damage with each bounce."
     }
   },
@@ -1004,6 +1095,7 @@
       ]
     },
     "Texts": {
+      "Chs": "弹幕反抗者升级。\n弹幕反抗者在再充能完毕后可以立即开火，且减少充能时间。", 
       "Eng": "Versa Ricochet Upgrade.\nVersa Ricochet fires immediately when charged, and takes shorter time to charge fully."
     }
   },
@@ -1015,6 +1107,7 @@
       ]
     },
     "Texts": {
+      "Chs": "护主灵剑升级。\n所有的连击造成审判。\n第8和9连击可击晕敌人。",
       "Eng": "Vital Aegis Upgrade.\nAll Combo Steps cause Judgement.\nThe 8th and 9th Combo Steps also Stun enemies on hit."
     }
   },
@@ -1026,6 +1119,7 @@
       ]
     },
     "Texts": {
+      "Chs": "致命一击",
       "Eng": "Vital Blow"
     }
   },
@@ -1037,6 +1131,7 @@
       ]
     },
     "Texts": {
+      "Chs": "攀墙跳",
       "Eng": "Wall Jump"
     }
   },
@@ -1048,6 +1143,7 @@
       ]
     },
     "Texts": {
+      "Chs": "无法回头之时",
       "Eng": "When Nothing Stared Back"
     }
   },
@@ -1059,6 +1155,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你是谁，准备好了吗？",
       "Eng": "Who are you, really?"
     }
   },
@@ -1070,6 +1167,7 @@
       ]
     },
     "Texts": {
+      "Chs": "影伴吾身",
       "Eng": "Within the Shadows"
     }
   },
@@ -1081,6 +1179,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#3c4fdc;身体^reset;",
       "Eng": "^#3c4fdc;Body^reset;"
     }
   },
@@ -1092,6 +1191,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#6d577c;自我",
       "Eng": "^#6d577c;Egoen"
     }
   },
@@ -1103,6 +1203,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#75ff75;至日",
       "Eng": "^#75ff75;Soliste"
     }
   },
@@ -1114,6 +1215,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#FFAAAA;女忍",
       "Eng": "^#FFAAAA;Kunoichi"
     }
   },
@@ -1125,6 +1227,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#c16bff;学徒的愚蠢",
       "Eng": "^#c16bff;The Apprentice's Folly"
     }
   },
@@ -1136,6 +1239,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#c16bff;奇娅",
       "Eng": "^#c16bff;Zia"
     }
   },
@@ -1147,6 +1251,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#c82828;灵魂^reset;",
       "Eng": "^#c82828;Soul^reset;"
     }
   },
@@ -1158,6 +1263,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#c82828;神识^reset;", 
       "Eng": "^#c828c8;Mind^reset;"
     }
   },
@@ -1169,6 +1275,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#ffaafa;凛冬",
       "Eng": "^#ffaafa;Winter"
     }
   },
@@ -1180,6 +1287,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^black;黑暗圣堂",
       "Eng": "^black;Dark Templar"
     }
   },
@@ -1191,6 +1299,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^black;死灵法师",
       "Eng": "^black;Necromancer"
     }
   },
@@ -1202,6 +1311,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^blue;十字军战士",
       "Eng": "^blue;Crusader"
     }
   },
@@ -1213,6 +1323,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^blue;脆化",
       "Eng": "^blue;Embrittle"
     }
   },
@@ -1224,6 +1335,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^blue;剑圣",
       "Eng": "^blue;Juggernaut"
     }
   },
@@ -1235,6 +1347,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^blue;骑士",
       "Eng": "^blue;Knight"
     }
   },
@@ -1246,6 +1359,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^blue;机工",
       "Eng": "^blue;Mechanics"
     }
   },
@@ -1257,6 +1371,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^blue;圣骑士",
       "Eng": "^blue;Paladin"
     }
   },
@@ -1268,6 +1383,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^gray;伪装",
       "Eng": "^gray;Camouflage"
     }
   },
@@ -1279,6 +1395,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^gray;职业",
       "Eng": "^gray;Class"
     }
   },
@@ -1290,6 +1407,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^gray;迷失方向",
       "Eng": "^gray;Disorient"
     }
   },
@@ -1301,6 +1419,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;炮手",
       "Eng": "^green;Cannoneer"
     }
   },
@@ -1312,6 +1431,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;猎人",
       "Eng": "^green;Hunter"
     }
   },
@@ -1323,6 +1443,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;盗贼",
       "Eng": "^green;Rogue"
     }
   },
@@ -1334,6 +1455,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;中毒",
       "Eng": "^green;Toxify"
     }
   },
@@ -1345,6 +1467,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;幽灵",
       "Eng": "^green;Wraith"
     }
   },
@@ -1356,6 +1479,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^magenta;迷乱",
       "Eng": "^magenta;Daze"
     }
   },
@@ -1367,6 +1491,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^magenta;元素使",
       "Eng": "^magenta;Elementress"
     }
   },
@@ -1378,6 +1503,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^magenta;星落",
       "Eng": "^magenta;Starfall"
     }
   },
@@ -1389,6 +1515,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^magenta;宇宙",
       "Eng": "^magenta;Universe"
     }
   },
@@ -1400,6 +1527,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^magenta;漫游者",
       "Eng": "^magenta;Wanderer"
     }
   },
@@ -1411,6 +1539,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^magenta;术士",
       "Eng": "^magenta;Warlock"
     }
   },
@@ -1422,6 +1551,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^magenta;巫师",
       "Eng": "^magenta;Wizard"
     }
   },
@@ -1433,6 +1563,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;巴哈",
       "Eng": "^orange;Bahn"
     }
   },
@@ -1444,6 +1575,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;龙骑",
       "Eng": "^orange;Dragoon"
     }
   },
@@ -1455,6 +1587,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;人物",
       "Eng": "^orange;People"
     }
   },
@@ -1466,6 +1599,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;士兵",
       "Eng": "^orange;Soldier"
     }
   },
@@ -1477,6 +1611,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;击晕",
       "Eng": "^orange;Stun"
     }
   },
@@ -1488,6 +1623,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;泰坦",
       "Eng": "^orange;Titan"
     }
   },
@@ -1499,6 +1635,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;前卫",
       "Eng": "^orange;Vanguard"
     }
   },
@@ -1510,6 +1647,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;义贼",
       "Eng": "^orange;Vigilante"
     }
   },
@@ -1521,6 +1659,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^red;贤者",
       "Eng": "^red;Adept"
     }
   },
@@ -1532,6 +1671,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^red;狂战士",
       "Eng": "^red;Berserker"
     }
   },
@@ -1543,6 +1683,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^red;出血",
       "Eng": "^red;Bleed"
     }
   },
@@ -1554,6 +1695,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^red;变形使",
       "Eng": "^red;Changeling"
     }
   },
@@ -1565,6 +1707,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^red;忍者",
       "Eng": "^red;Ninja"
     }
   },
@@ -1576,6 +1719,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^red;恐惧",
       "Eng": "^red;Sear"
     }
   },
@@ -1587,6 +1731,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^yellow;上尉",
       "Eng": "^yellow;Captain"
     }
   },
@@ -1598,6 +1743,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^yellow;探险家",
       "Eng": "^yellow;Explorer"
     }
   },
@@ -1609,6 +1755,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^yellow;过载",
       "Eng": "^yellow;Overload"
     }
   },
@@ -1620,6 +1767,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^yellow;殖民先驱",
       "Eng": "^yellow;Pioneer"
     }
   },
@@ -1631,6 +1779,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^red;神偷",
       "Eng": "^yellow;Thief"
     }
   }
