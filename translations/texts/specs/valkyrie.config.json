@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用短剑时，其基础攻击力增加至115%。",     
+      "Chs": "使用短剑时，其基础攻击力增加至115%。",
       "Eng": "115% Base Power with Shortswords."
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用矛时，其基础攻击力增加至120%：且随灵巧增长。",    
+      "Chs": "使用矛时，其基础攻击力增加至120%：且随灵巧增长。",
       "Eng": "120% Base Power with Spears: Scales with Dex."
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "跳跃时获得短时间的低重力。保持空中飞行会触发生命再生。" ,
+      "Chs": "跳跃时获得短时间的低重力。保持空中飞行会触发生命再生。",
       "Eng": "Gain a short period of Low-Gravity upon jumping. Staying airborne triggers Health Regeneration."
     }
   },
@@ -91,8 +91,8 @@
       ]
     },
     "Texts": {
-      "value": "按[F]以瞄准视线内除了自己以外距离你光标最近的队友。技能发动后这个队友将获得无敌状态和150%的攻击力加成，持续5秒。使用技能会消耗你最大生命的20%，并立即消耗所有能量，并阻止你能量再生。使用成功后冷却时间为30秒。" ,
-      "Eng": "Press [F] to target the ally nearest your cursor, other than you, that is within your line of sight. This ally is granted Invulnerability and +150% Power for 5 seconds. Doing so costs 20% of your Max Health, instantly drains all energy, and prevents you from regenerating Energy. The cooldown after successfully using Einherjar is 30 seconds."
+      "Eng": "Press [F] to target the ally nearest your cursor, other than you, that is within your line of sight. This ally is granted Invulnerability and +150% Power for 5 seconds. Doing so costs 20% of your Max Health, instantly drains all energy, and prevents you from regenerating Energy. The cooldown after successfully using Einherjar is 30 seconds.",
+      "value": "按[F]以瞄准视线内除了自己以外距离你光标最近的队友。技能发动后这个队友将获得无敌状态和150%的攻击力加成，持续5秒。使用技能会消耗你最大生命的20%，并立即消耗所有能量，并阻止你能量再生。使用成功后冷却时间为30秒。"
     }
   }
 ]

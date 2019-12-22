@@ -43,8 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An upgrade to Double Jump, press [Space] to launch yourself in a direction of your choosing, leaving a cloud of smoke behind that disorients enemies. Disoriented enemies are slowed and do less damage. Defaults to a backwards launch.",
-      "Chs": "升级版的二段跳，按[空格键]将自己发射到你选择的方向，在敌人身后留下一团烟雾。失去方向感的敌人会被减速并减少其造成的伤害。未指定方向的话默认为向后发射。"
+      "Chs": "升级版的二段跳，按[空格键]将自己发射到你选择的方向，在敌人身后留下一团烟雾。失去方向感的敌人会被减速并减少其造成的伤害。未指定方向的话默认为向后发射。",
+      "Eng": "An upgrade to Double Jump, press [Space] to launch yourself in a direction of your choosing, leaving a cloud of smoke behind that disorients enemies. Disoriented enemies are slowed and do less damage. Defaults to a backwards launch."
     }
   },
   {

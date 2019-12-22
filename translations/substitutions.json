@@ -110,7 +110,6 @@
     "/scaling/1/text": "texts/wide_spread_fields.json",
     "/scaling/2/text": "texts/wide_spread_fields.json",
     "/scaling/3/text": "texts/wide_spread_fields.json",
-    "/techs/0/title": "texts/shared_soldier.json",
     "/techs/1/title": "texts/shared_soldier.json",
     "/techs/2/title": "texts/shared_soldier.json",
     "/techs/3/title": "texts/shared_soldier.json",
@@ -183,6 +182,9 @@
     "/gui/upgradelayout/children/weapontext/value": "texts/wide_spread_fields.json",
     "/gui/windowtitle/title": "texts/shared_skillbook/shared_RPGskillbook..json"
   },
+  "interface/tooltips/ivrpgweapon.tooltip": {
+    "/priceLabel/value": "texts/wide_spread_fields.json"
+  },
   "items/active/classweapons/explorerdrill/explorerspiradrill.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
@@ -215,10 +217,19 @@
   "items/active/classweapons/soldiergun/soldierversa.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
+  "items/active/classweapons/wizardstaff/novastatus/starfall.statuseffect": {
+    "/label": "texts/items/active/classweapons/wizardstaff/novastatus/shared_.statuseffect.json"
+  },
+  "items/active/classweapons/wizardstaff/novastatus/wizardnovastatus.statuseffect": {
+    "/label": "texts/items/active/classweapons/wizardstaff/novastatus/shared_.statuseffect.json"
+  },
   "items/active/classweapons/wizardstaff/wizardnovastaff.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/active/specweapons/captain/leadersrally.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "items/active/specweapons/hunter/arrows/flamearrow/sear/sear.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
   },
   "items/active/specweapons/wraith/combos/cursed.statuseffect": {
@@ -464,6 +475,9 @@
     "/upgrades/weapon/ivrpgucvampirescaress/title": "texts/wide_spread_fields.json"
   },
   "monsters/ivrpgElementEffects/ivrpgembrittle/ivrpgembrittle.statuseffect": {
+    "/label": "texts/wide_spread_fields.json"
+  },
+  "monsters/ivrpgElementEffects/ivrpgsear/ivrpgsear.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
   },
   "objects/mastery/shop/ivrpgmasteryshop.config": {
@@ -760,86 +774,115 @@
     "/0/0/title": "texts/shared_spec.json",
     "/0/1/description": "texts/wide_spread_fields.json",
     "/0/1/title": "texts/shared_spec.json",
+    "/0/1/weaponText/0": "texts/wide_spread_fields.json",
     "/0/2/description": "texts/wide_spread_fields.json",
     "/0/2/title": "texts/shared_spec.json",
+    "/0/2/weaponText/0": "texts/wide_spread_fields.json",
     "/0/3/title": "texts/wide_spread_fields.json",
     "/0/4/title": "texts/shared_spec.json",
     "/0/5/description": "texts/wide_spread_fields.json",
     "/0/5/title": "texts/shared_spec.json",
+    "/0/5/weaponText/0": "texts/wide_spread_fields.json",
     "/0/6/description": "texts/wide_spread_fields.json",
     "/0/6/title": "texts/shared_spec.json",
+    "/0/6/weaponText/0": "texts/wide_spread_fields.json",
     "/0/7/title": "texts/shared_spec.json",
     "/0/8/title": "texts/shared_spec.json",
     "/1/0/title": "texts/shared_spec.json",
     "/1/1/description": "texts/wide_spread_fields.json",
     "/1/1/title": "texts/shared_spec.json",
+    "/1/1/weaponText/0": "texts/wide_spread_fields.json",
     "/1/2/description": "texts/wide_spread_fields.json",
     "/1/2/title": "texts/shared_spec.json",
+    "/1/2/weaponText/0": "texts/wide_spread_fields.json",
     "/1/4/title": "texts/shared_spec.json",
     "/1/5/title": "texts/shared_spec.json",
     "/1/6/description": "texts/wide_spread_fields.json",
     "/1/6/title": "texts/shared_spec.json",
+    "/1/6/weaponText/0": "texts/wide_spread_fields.json",
     "/1/7/title": "texts/shared_spec.json",
     "/1/8/description": "texts/wide_spread_fields.json",
     "/1/8/title": "texts/shared_spec.json",
+    "/1/8/weaponText/0": "texts/wide_spread_fields.json",
     "/2/0/description": "texts/wide_spread_fields.json",
     "/2/0/title": "texts/shared_spec.json",
+    "/2/0/weaponText/0": "texts/wide_spread_fields.json",
     "/2/1/description": "texts/wide_spread_fields.json",
     "/2/1/title": "texts/shared_spec.json",
+    "/2/1/weaponText/0": "texts/wide_spread_fields.json",
     "/2/2/title": "texts/shared_spec.json",
     "/2/3/title": "texts/shared_spec.json",
     "/2/4/description": "texts/wide_spread_fields.json",
     "/2/4/title": "texts/shared_spec.json",
+    "/2/4/weaponText/0": "texts/wide_spread_fields.json",
     "/2/5/description": "texts/wide_spread_fields.json",
     "/2/5/title": "texts/shared_spec.json",
+    "/2/5/weaponText/0": "texts/wide_spread_fields.json",
     "/2/6/description": "texts/wide_spread_fields.json",
     "/2/6/title": "texts/shared_spec.json",
+    "/2/6/weaponText/0": "texts/wide_spread_fields.json",
     "/2/7/title": "texts/shared_spec.json",
     "/2/8/title": "texts/shared_spec.json",
     "/3/0/description": "texts/wide_spread_fields.json",
     "/3/0/title": "texts/shared_spec.json",
+    "/3/0/weaponText/0": "texts/wide_spread_fields.json",
     "/3/1/description": "texts/wide_spread_fields.json",
     "/3/1/title": "texts/shared_spec.json",
+    "/3/1/weaponText/0": "texts/wide_spread_fields.json",
     "/3/2/title": "texts/shared_spec.json",
     "/3/3/title": "texts/shared_spec.json",
     "/3/4/title": "texts/shared_spec.json",
     "/3/5/description": "texts/wide_spread_fields.json",
     "/3/5/title": "texts/shared_spec.json",
+    "/3/5/weaponText/0": "texts/wide_spread_fields.json",
     "/3/6/description": "texts/wide_spread_fields.json",
     "/3/6/title": "texts/shared_spec.json",
+    "/3/6/weaponText/0": "texts/wide_spread_fields.json",
     "/3/7/title": "texts/shared_spec.json",
     "/3/8/description": "texts/wide_spread_fields.json",
     "/3/8/title": "texts/shared_spec.json",
+    "/3/8/weaponText/0": "texts/wide_spread_fields.json",
     "/4/0/title": "texts/shared_spec.json",
     "/4/1/description": "texts/wide_spread_fields.json",
     "/4/1/title": "texts/shared_spec.json",
+    "/4/1/weaponText/0": "texts/wide_spread_fields.json",
     "/4/2/description": "texts/wide_spread_fields.json",
     "/4/2/title": "texts/shared_spec.json",
+    "/4/2/weaponText/0": "texts/wide_spread_fields.json",
     "/4/3/title": "texts/shared_spec.json",
     "/4/4/description": "texts/wide_spread_fields.json",
     "/4/4/title": "texts/shared_spec.json",
     "/4/5/title": "texts/shared_spec.json",
     "/4/6/description": "texts/wide_spread_fields.json",
     "/4/6/title": "texts/shared_spec.json",
+    "/4/6/weaponText/0": "texts/wide_spread_fields.json",
     "/4/7/description": "texts/wide_spread_fields.json",
     "/4/7/title": "texts/shared_spec.json",
+    "/4/7/weaponText/0": "texts/wide_spread_fields.json",
     "/4/8/description": "texts/wide_spread_fields.json",
     "/4/8/title": "texts/shared_spec.json",
+    "/4/8/weaponText/0": "texts/wide_spread_fields.json",
     "/5/0/title": "texts/shared_spec.json",
     "/5/1/description": "texts/wide_spread_fields.json",
     "/5/1/title": "texts/shared_spec.json",
+    "/5/1/weaponText/0": "texts/wide_spread_fields.json",
     "/5/2/title": "texts/shared_spec.json",
     "/5/3/description": "texts/wide_spread_fields.json",
     "/5/3/title": "texts/shared_spec.json",
+    "/5/3/weaponText/0": "texts/wide_spread_fields.json",
     "/5/4/title": "texts/shared_spec.json",
     "/5/5/description": "texts/wide_spread_fields.json",
     "/5/5/title": "texts/shared_spec.json",
+    "/5/5/weaponText/0": "texts/wide_spread_fields.json",
     "/5/6/description": "texts/wide_spread_fields.json",
     "/5/6/title": "texts/shared_spec.json",
+    "/5/6/weaponText/0": "texts/wide_spread_fields.json",
     "/5/7/description": "texts/wide_spread_fields.json",
     "/5/7/title": "texts/shared_spec.json",
+    "/5/7/weaponText/0": "texts/wide_spread_fields.json",
     "/5/8/description": "texts/wide_spread_fields.json",
-    "/5/8/title": "texts/shared_spec.json"
+    "/5/8/title": "texts/shared_spec.json",
+    "/5/8/weaponText/0": "texts/wide_spread_fields.json"
   },
   "specs/abilities/necromancer/undead.statuseffect": {
     "/label": "texts/specs/necromancer.json"
@@ -979,12 +1022,12 @@
     "/title": "texts/shared_spec.json"
   },
   "specs/hunter.config": {
-    "/classic/0/text": "texts/wide_spread_fields.json",
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/effects/2/text": "texts/wide_spread_fields.json",
     "/effects/3/text": "texts/wide_spread_fields.json",
     "/effects/7/text": "texts/specs/shared_.config.json",
+    "/tech/title": "texts/specs.json",
     "/title": "texts/shared_spec.json"
   },
   "specs/juggernaut.config": {
@@ -1173,6 +1216,9 @@
     "/shortDescription": "texts/specs.json"
   },
   "specs/techs/dragoon/dragonsleap.tech": {
+    "/shortDescription": "texts/specs.json"
+  },
+  "specs/techs/hunter/multitool.tech": {
     "/shortDescription": "texts/specs.json"
   },
   "specs/techs/kunoichi/swirlingpetal.tech": {
@@ -1403,9 +1449,6 @@
     "/shortDescription": "texts/shared_soldier.json"
   },
   "tech/soldiertech/soldiermarksman/soldiermarksman.tech": {
-    "/shortDescription": "texts/shared_soldier.json"
-  },
-  "tech/soldiertech/soldiermre/soldiermre.tech": {
     "/shortDescription": "texts/shared_soldier.json"
   },
   "tech/soldiertech/soldiertanksphere/soldiertanksphere.tech": {

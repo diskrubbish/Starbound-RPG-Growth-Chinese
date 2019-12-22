@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用双头棍时，其基础攻击力增加至110%。",  
+      "Chs": "使用双头棍时，其基础攻击力增加至110%。",
       "Eng": "110% Base Power with Quarterstaves"
     }
   },
@@ -55,7 +55,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用矛和突击步枪时，其基础攻击力增加至120%。",   
+      "Chs": "使用矛和突击步枪时，其基础攻击力增加至120%。",
       "Eng": "120% Base Power with Spears and Assault Rifles"
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "骑士猛击的升级版。在地面时按住[SHIFT]和[SPACE]向空中弹射。之后在你开始坠落和落地之前获得无敌状态。使用技能时可以防止你在半空中双跳。在半空中按[G]键，朝光标处向下冲击，且不受掉落伤害。着陆时，火焰会从地面喷出，坠落的时间越长，造成的伤害越大，且伤害会随着力量的增长而增加。" , 
+      "Chs": "骑士猛击的升级版。在地面时按住[SHIFT]和[SPACE]向空中弹射。之后在你开始坠落和落地之前获得无敌状态。使用技能时可以防止你在半空中双跳。在半空中按[G]键，朝光标处向下冲击，且不受掉落伤害。着陆时，火焰会从地面喷出，坠落的时间越长，造成的伤害越大，且伤害会随着力量的增长而增加。",
       "Eng": "An upgrade to Knight's Slam. Hold [Shift] and [Space] while grounded to shoot into the air. Doing so provides Invulnerability until you start to fall or hit the ground. Using this prevents you from double jumping in midair. Press [G] in midair to crash downwards towards your cursor, invulnerable while doing so. Upon landing, flame erupts from the ground, dealing more damage the longer you fell, and scaling with Strength."
     }
   },

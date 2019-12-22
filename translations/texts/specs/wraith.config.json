@@ -19,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用拳套时，其基础攻击力增加至120%：且随智力增长。",   
+      "Chs": "使用拳套时，其基础攻击力增加至120%：且随智力增长。",
       "Eng": "120% Base Power with Fist Weapons: Scales with Int."
     }
   },
@@ -103,7 +103,7 @@
       ]
     },
     "Texts": {
-      "value": "当你试图跳跃时，你会朝着你保持的方向盘旋。发动技能时，你完全不受伤害，并且可以逐步通过方块。每秒消耗40能量。移动速度与敏捷有关。发动技能时按住 [Shift] 将解除无敌和相位穿越能力，并将总能量消耗减半。" ,
+      "Chs": "当你试图跳跃时，你会朝着你保持的方向盘旋。发动技能时，你完全不受伤害，并且可以逐步通过方块。每秒消耗40能量。移动速度与敏捷有关。发动技能时按住 [Shift] 将解除无敌和相位穿越能力，并将总能量消耗减半。",
       "Eng": "Upon attempting to jump, you hover towards the direction you are holding instead. While doing so, you are completely immune to damage, and can phase through blocks. Costs 40 Energy per second. Travel speed scales with Agility. Holding [Shift] while doing so will remove the invulnerability and phase-ability, and halves the overall Energy cost."
     }
   },

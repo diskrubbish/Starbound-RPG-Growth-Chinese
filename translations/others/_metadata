@@ -1,26 +1,21 @@
 {
   "author": "原作者：LinOnetwo & runningsky，重制者：diskrubbish",
-  "description": "<h2>RPGrowthRPG Growth 汉化补丁重制版</h2>
-
-  <h3>基于龙骑士的开源汉化脚本，和<a href="https://github.com/linonetwo/Starbound-RPG-Growth-Chinese">原汉化mod</a>重制</h3>
-  
-  <ul><li><a href="https://github.com/diskrubbish/Starbound-RPG-Growth-Chinese/commits">项目库地址</a></li><li>本mod为RPGrowth中文化mod，目前基于原mod已经重构完毕，日后会更进更新（大概）。</li><li>使用此汉化mod时，请先取消订阅原来的汉化mod。</li></ul>
-  
-  <h4>汉化进度</h4>
-  
-  <ul><li>根据原汉化mod，绝大部分文本已经汉化完毕，少数文本存在于lua文件中，无法使用Patch替换。</li></ul>
-  
-  <h4>一些指南</h4>
-  
-  <ul><li>神秘之书的合成：活根，人物基础制作(C)里面制作。</li></ul>
-  
-  <h4>感谢</h4>
-  
-  <ul><li>RPGrowth的作者@IcyVines，这个mod目前还不是相对完善，但是很令人期待。<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1929019607">点这里跳转到原MOD创意工坊地址</a>，<a href="https://github.com/IcyVines/Starbound-RPG-Growth">点这里跳转到原MOD项目库页面</a>、</li><li>原汉化作者<a href="https://github.com/linonetwo">@linonetwo</a>，据说林一二大大去考研了，祝大大金榜题名</li><li>为starbound mod汉化提供了超便利脚本的龙骑先辈<a href="https://github.com/DragonKnightOfBreeze">@DragonKnightOfBreeze</a></li></ul>
-  
-  <h4>联系反馈</h4>
-  
-  <ul><li>由于账号在国区，Steam社区回复不了，emmmmm知道怎么解决的兄贵教教我秋梨膏！</li></ul>",
+  "description": "
+  [h1]RPGrowthRPG Growth 汉化补丁重制版 	[/h1]
+  [b]基于龙骑士的开源汉化脚本，和[url=https://github.com/linonetwo/Starbound-RPG-Growth-Chinese]原汉化mod[/url][/b]
+  * [url=https://github.com/diskrubbish/Starbound-RPG-Growth-Chinese/commits]项目库地址[/url]
+  * 本mod为RPGrowth中文化mod，目前基于原mod已经重构完毕，日后会更进更新（大概）。
+  * 使用此汉化mod时，请先取消订阅原来的汉化mod。
+  [b]汉化进度[/b]
+  * 根据原汉化mod，绝大部分文本已经汉化完毕，少数文本存在于lua文件中，无法使用Patch替换。
+  [b]一些指南[/b]
+  * 神秘之书的合成：活根，人物基础制作(C)里面制作。
+  [b]感谢[/b]
+  * RPGrowth的作者@IcyVines，这个mod目前还不是相对完善，但是很令人期待。[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1929019607]点这里跳转到原MOD创意工坊地址[/url]，[url=https://github.com/IcyVines/Starbound-RPG-Growth]点这里跳转到原MOD项目库页面[/url]。
+  * 原汉化作者[url=https://github.com/linonetwo]@linonetwo[/url]和@runningsky，据说林一二大大去考研了，祝大大金榜题名
+  * 为starbound mod汉化提供了超便利脚本的龙骑先辈[url=https://github.com/DragonKnightOfBreeze]@DragonKnightOfBreeze[/url]
+  [b]联系反馈[/b]
+  * 由于账号在国区，Steam社区回复不了，emmmmm知道怎么解决的兄贵教教我秋梨膏！",
   "friendlyName": "RPG Growth 汉化补丁重制版",
   "includes": [
     "RPG_Growth"

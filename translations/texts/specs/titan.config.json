@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "双持机枪和盾牌时，其基础攻击力增加至150%。",   
+      "Chs": "双持机枪和盾牌时，其基础攻击力增加至150%。",
       "Eng": "150% Base Power While Dual-Wielding Machine Pistols and Shields."
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "按[W]可以切换阿特拉斯的重负，这个buff以盾牌耐久和跳跃高度减半为代价，为你的盾排提供加成。当阿特拉斯的重负处于激活状态时，击中你盾牌的敌人有25%的几率被震晕0.5秒，完美格挡会震晕所有附近的敌人1秒，完美格挡给予你和附近的盟友110%基础攻击力倍增、120%护甲和击退免疫，持续5秒。" ,
+      "Chs": "按[W]可以切换阿特拉斯的重负，这个buff以盾牌耐久和跳跃高度减半为代价，为你的盾排提供加成。当阿特拉斯的重负处于激活状态时，击中你盾牌的敌人有25%的几率被震晕0.5秒，完美格挡会震晕所有附近的敌人1秒，完美格挡给予你和附近的盟友110%基础攻击力倍增、120%护甲和击退免疫，持续5秒。",
       "Eng": "Pressing [W] toggles Atlas' Burden, a buff that halves Shield Stamina and Jump Height, but provides bonuses for your shield. While Atlas' Burden is active, enemies that hit your Shield have a 25% chance to be stunned for half a second; Perfect Shields stun all nearby enemies for one second; and Perfect Shields grant you and nearby allies 110% Base Power Multiplier, 120% Armor, and Knockback Immunity for five seconds."
     }
   }

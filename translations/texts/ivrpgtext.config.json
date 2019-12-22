@@ -3,12 +3,852 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/paladin/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"Requesting support. I repeat, requesting support! Vessel is stranded and under attack in Sector I5-T, Quadrant 3.\n\nVessel is a Falcon S6: gold with blue highlights; stationary. Vessel is carrying 200 liters additional fuel and 3 tons of cargo. Auxillary power is low; oxygen supply fading fast. Vessel has been breached by an unknown lifeform.\n\nI repeat, an unknown lifeform has breached the vessel and slain all crew members. Please, for the love of God, I request immediate support from all nearby vessels.\n^blue;I will not let this Falcon fall!^reset;\"\n\n- Paladin Sen, last known contact"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/kunoichi/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"She was a ssweet flower: a deadly lure. Of coursse, that was before her dissapearance. Has she wilted? Or is she sstill sspreading her toxins.\n\nSometimes, I hear her voice calling out to me, as if reaching from the void. But it never sseems ssad, the voice. If she ssstill lives, I know she's sstill as dangerous as ever: more dangerous than usssss...\n\n^red;More dangerous than anyone.^reset;\"\n\n-Operative Vinella, when asked about her Commander (MIA), Winter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/cannoneer/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"That lassy has conquered many an ocean planet, but I think we can handle'er.\"\n\n\"You sure about that boss? She's apparently way tougher than she looks.\"\n\n\"Don't go playing with me now, ye'hear? What kind of pirates shy away from treasure like this. We'll whoop her real good, so quit yer yappin'.\"\n\n\"Whatever ye say, boss.\"\n\n-A recording from a damaged blackbox found in a sunken pirate ship.^green;\nSeems to be one of the only things that hasn't been blown to smithereens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/titan/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"The Paladins are humble, sure, but that doesn't mean their fans are. The comparison gets made quite often, I assure you:\n\n< Well, you use a shield, so doesn't that mean you're just a wannabe Paladin? >\n\nI can't tell you how many times I've heard that. But the thing is, there's a huge difference between us Titans and the Paladins. You see, while Paladins defend and defend and defend, us Titans do things with a bit more... pizazz. And you know why?\n\n^orange;Because we have guns.^reset;\"\n\n- Titan Bahn, on Paladins vs. Titans"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/valkyrie/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"You know, Sen's disciples told me about her. Said she was an angel. I didn't believe them - thought they were crazy. After all, Sen's been long gone, so it figures they'd make up stories. Besides, it took my team a bout of 5 hours 26 minutes to break his defense, so if she really could do what they said, nothing in the world would even stand a chance.\"\n\n\"And what exactly was it she could do?\"\n\n\"Well, I'm sure you wouldn't believe it, being the logical fellow you are.\"\n\n\"Try me.\"\n\n^blue;\"Prevent death.\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/wraith/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"^green;You no longer belong: a soulless puppet.^reset;\"\n\n\"No. I never belonged.\"\n\n\"^green;You are nothing: a shell of humanity.^reset;\"\n\n\"No. I was never human.\"\n\n\"^green;You. Are. Empty.^reset;\"\n\n\"Yea?\"\n\n\"^green;...^reset;\"\n\n\"And?\"\n\n- A passing conversation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/synthesis/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "+1% Max Health Every 5 Seconds"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/armorup-function/tierText/6",
+        "/skill/children/body/children/armorup-reaction/tierText/6",
+        "/skill/children/mind/children/armorup-anticipation/tierText/6",
+        "/skill/children/soul/children/armorup-determination/tierText/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "+10 Armor, -40% Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/criticalluck/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "+12% Critical Chance,"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/keeneye/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "+12% Critical Chance, -0.16 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bruteforce/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "+12% Critical Chance, 80% Speed, 88% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/criticalluck/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "+15% Critical Chance,"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/keeneye/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "+15% Critical Chance, -0.2 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bruteforce/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "+15% Critical Chance, 75% Speed, 85% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/momentum/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "+25% Power Multiplier, -5% Fall Damage Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/adrenalinerush/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "+25% Power below 20% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/armorup-function/tierText/0",
+        "/skill/children/body/children/armorup-reaction/tierText/0",
+        "/skill/children/mind/children/armorup-anticipation/tierText/0",
+        "/skill/children/soul/children/armorup-determination/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "+3 Armor, -10% Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/criticalluck/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "+3% Critical Chance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/keeneye/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "+3% Critical Chance, -0.04 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bruteforce/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "+3% Critical Chance, 95% Speed, 97% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/momentum/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "+30% Power Multiplier, -10% Fall Damage Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/adrenalinerush/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "+33% Power below 25% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/momentum/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "+35% Power Multiplier, -15% Fall Damage Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/armorup-function/tierText/1",
+        "/skill/children/body/children/armorup-reaction/tierText/1",
+        "/skill/children/mind/children/armorup-anticipation/tierText/1",
+        "/skill/children/soul/children/armorup-determination/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "+4 Armor, -15% Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/momentum/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "+40% Power Multiplier, -20% Fall Damage Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/adrenalinerush/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "+40% Power below 33% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/armorup-function/tierText/2",
+        "/skill/children/body/children/armorup-reaction/tierText/2",
+        "/skill/children/mind/children/armorup-anticipation/tierText/2",
+        "/skill/children/soul/children/armorup-determination/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "+5 Armor, -20% Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/momentum/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "+50% Power Multiplier, -25% Fall Damage Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/unstoppable/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "+50% Power Multiplier, 120% Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/armorup-function/tierText/3",
+        "/skill/children/body/children/armorup-reaction/tierText/3",
+        "/skill/children/mind/children/armorup-anticipation/tierText/3",
+        "/skill/children/soul/children/armorup-determination/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "+6 Armor, -25% Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/criticalluck/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "+6% Critical Chance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/keeneye/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "+6% Critical Chance, -0.08 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bruteforce/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "+6% Critical Chance, 90% Speed, 94% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/armorup-function/tierText/4",
+        "/skill/children/body/children/armorup-reaction/tierText/4",
+        "/skill/children/mind/children/armorup-anticipation/tierText/4",
+        "/skill/children/soul/children/armorup-determination/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "+7 Armor, -30% Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/armorup-function/tierText/5",
+        "/skill/children/body/children/armorup-reaction/tierText/5",
+        "/skill/children/mind/children/armorup-anticipation/tierText/5",
+        "/skill/children/soul/children/armorup-determination/tierText/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "+8 Armor, -35% Power Multiplier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/criticalluck/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "+9% Critical Chance,"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/keeneye/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "+9% Critical Chance, -0.12 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bruteforce/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "+9% Critical Chance, 85% Speed, 91% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/truesight/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "1% Health Orb, 1% Energy Orb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/vitalblow/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "10% Power Multipler above 90% Max Health, 95% Base Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-muscle/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Speed, 105% Jump Height, -0.04 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-stride/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Speed, 105% Jump Height, -2% Critical Chance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/bolsterspeed-form/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Speed, 105% Jump Height, 95% Base Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/earlybird/tierText/0",
+        "/skill/children/mind/children/nightowl/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "110% Speed, 110% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-muscle/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Speed, 110% Jump Height, -0.08 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-stride/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Speed, 110% Jump Height, -4% Critical Chance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/bolsterspeed-form/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "115% Speed, 110% Jump Height, 90% Base Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/adrenalinerush/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Base Max Energy below 20% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/earlybird/tierText/1",
+        "/skill/children/mind/children/nightowl/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Speed, 115% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-muscle/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Speed, 115% Jump Height, -0.12 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-stride/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Speed, 115% Jump Height, -6% Critical Chance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/bolsterspeed-form/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "120% Speed, 115% Jump Height, 85% Base Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-muscle/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "125% Speed, 120% Jump Height, -0.16 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-stride/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "125% Speed, 120% Jump Height, -8% Critical Chance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/bolsterspeed-form/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "125% Speed, 120% Jump Height, 80% Base Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/earlybird/tierText/2",
+        "/skill/children/mind/children/nightowl/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "130% Speed, 120% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/adrenalinerush/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "133% Base Max Energy below 25% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-muscle/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "133% Speed, 125% Jump Height, -0.2 Energy Regen Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-stride/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "133% Speed, 125% Jump Height, -10% Critical Chance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/bolsterspeed-form/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "133% Speed, 125% Jump Height, 75% Base Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/adrenalinerush/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "140% Base Max Energy below 33% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/earlybird/tierText/3",
+        "/skill/children/mind/children/nightowl/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "140% Speed, 125% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/truesight/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "15% Health Orb, 20% Energy Orb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/vitalblow/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "15% Power Multipler above 90% Max Health, 90% Base Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/earlybird/tierText/4",
+        "/skill/children/mind/children/nightowl/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "150% Speed, 130% Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/truesight/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "2% Health Orb, 3% Energy Orb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/vitalblow/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "20% Power Multipler above 90% Max Health, 85% Base Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/vitalblow/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "25% Power Multipler above 90% Max Health, 80% Base Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/vitalblow/tierText/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "33% Power Multipler above 90% Max Health, 75% Base Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/truesight/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "4% Health Orb, 5% Energy Orb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/truesight/tierText/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "8% Health Orb, 10% Energy Orb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/soliste/children/promisemethis/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Floran and Telvakian fill the frame. Winter and Soliste: this much is obvious, and is made such via scribbling in the corner, congratulating the two for an unknown reason. However, the image itself is not as important as the emptiness behind it, or at least, the lack thereof. Text written hastily completely envelops the back of it, like a note begging to be found:\n\n\"\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/class/children/rogue/children/aroguesway/title"
       ]
     },
     "Texts": {
       "Chs": "盗亦有道",
       "Eng": "A Rogue's Way"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/bahn/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy-handed silence pressed against her as she gauged the distance: around 80 meters, approaching fast. Normally, this type of task was meant for someone like Sen, and she knew as much. But even so, that wouldn't stop her. It never had: she was a Titan first, and a Soldier second.\n\nShe smirked. 50 meters. \"Cover! Now!\" She didn't have to yell twice as their formation tightened before her sentence had even finished. 20 meters. Her shield held steady, and her fingers wrapped tightly around the pistol in her hand. There would only be a few seconds, but she would make those seconds count. 1 meter. A screeching sound rang as the bolt slammed against metal, nearly breaking their guard. Nearly. But a Titan's shield, albeit lighter than a Paladin's, wasn't just for show. The blast deflected, slamming the ground with a force that staggered the two besides her. But without a word, her hand moved from defensive to offensive, and as the shots rang out, victory was decided."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/searstatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lot more painful than simply burning, seared entities not only take fire damage, but they also do 25% less damage."
     }
   },
   {
@@ -35,6 +875,61 @@
     "Texts": {
       "Chs": "冲破禁忌",
       "Eng": "Against All Odds"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/winter/children/comprehension/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah. Of course. Why hadn't she realized? How foolish of her."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/thief/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "All along the watchtower, guards shine light with weary eyes, searching for the two that hide with night as their disguise.\n\n\"There must be some way out of here:\", says the Stalker to the Thief. \"Let's plan our escape while trapped together, but keep the discussion brief.\"\n\nAll along the watchtower, guards look down upon the court, searching for the thieving pair that stole riches from their fort.\n\n\"No reason to get excited:\", says the Thief without delay. \"I'm sure, despite sunrise encroaching, we'll leave 'fore the break of day.\"\n\nAnd sure enough, the Thief and Stalker fled with stars above,\nholding on to precious gems that they'd been dreaming of.\n\nAll along the watchtower, guards curse with ragged breath,\nwhile both the cunning criminals escape avoiding death."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/embrittlestatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Almost frozen, creatures afflicted by this status burst when killed, and have -25% Physical Resistance. Embrittled creatures can be thawed while burning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/wanderer/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alone. The serene peace of quiet days brings ponderance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/soliste/children/partners/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amidst the trees she waited, bow in hand, searching for a sound. When one graced her ear, her mind turned instantly, forming connections. Almost immediately, she knew where it was and what it was, and before it had even ended, a quiet 'thwip' erased it... Another meal.\n\nBeneath the murky clouds, she took residence in a nearby delapidated bunker: essentially ruins at this point. But it gave her cover from the howling winds, pounding rain into the metal. She heard every drop. Flames lighting up the darkness, with occasional flashes from lightning outside, she cooked the beast, salivating. Another night.\n\nMorning came and she woke calmly, nudged gently by someone familiar. Normally, she would have noticed a presence much sooner, knife brandished, but with the Floran in front of her, it was rather difficult. The Floran smirked, before offering up a canteen. The nectarine water relieved her parched throat. Another morning.\n\nThe two continued along a tangled path, relying on her ears and eyes for guidance. Approaching the unknown entrance, they stopped to investigate - and summarily dismantle - the various contraptions meant to brutally dismember intruders. With the two of them quite astute and dextrous, it was child's play. The Ancient Tomb now exposed forever, the two searched inside, longing for an answer. Despite the Floran's perfect translations, the text was seemingly nonsensical, but not quite. Another clue.\n\nNow back in vicious wilderness, the two took shelter once more. Despite the situation, the Floran's hand grazed her neck. \"Will you help me recharge?\" The Floran teased: her actions set the context. \"Ha!\" The Hunter giggled. \"That's just like you. All alone for only three days and you're already like this.\" Even so, she reciprocated: Hunter or not, a little levity never hurt. Another day... a peaceful day."
     }
   },
   {
@@ -69,7 +964,7 @@
       ]
     },
     "Texts": {
-      "Chs": "全副武装 - 决心", 
+      "Chs": "全副武装 - 决心",
       "Eng": "Armor Up - Determination"
     }
   },
@@ -81,7 +976,7 @@
       ]
     },
     "Texts": {
-      "Chs": "全副武装 - 功能",  
+      "Chs": "全副武装 - 功能",
       "Eng": "Armor Up - Function"
     }
   },
@@ -93,8 +988,52 @@
       ]
     },
     "Texts": {
-      "Chs": "全副武装 - 反应",   
+      "Chs": "全副武装 - 反应",
       "Eng": "Armor Up - Reaction"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/adrenalinerush/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "At 20% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/adrenalinerush/tierText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "At 25% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/adrenalinerush/tierText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "At 33% Max Health. Orb slowly heals you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/bleedstatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bleeding is caused by a critical hit. Resulting in an instant health loss relative to the damage taken, enemies inflicted by bleed also take more damage from Ice and Poison (Shadow, Cosmic, and Radioactive, as well). Also know as 'Weakened'."
     }
   },
   {
@@ -141,7 +1080,7 @@
       ]
     },
     "Texts": {
-      "Chs": "速度加快 - 肌肉", 
+      "Chs": "速度加快 - 肌肉",
       "Eng": "Bolster Speed - Muscle"
     }
   },
@@ -153,7 +1092,7 @@
       ]
     },
     "Texts": {
-      "Chs": "速度加快 - 跨步", 
+      "Chs": "速度加快 - 跨步",
       "Eng": "Bolster Speed - Stride"
     }
   },
@@ -167,6 +1106,17 @@
     "Texts": {
       "Chs": "蛮力",
       "Eng": "Brute Force"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/camouflagestatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Camouflage is a great way to remain in stealth, ensuring enemies can't attack you."
     }
   },
   {
@@ -249,7 +1199,7 @@
       ]
     },
     "Texts": {
-      "Chs": "钻头球升级。\n空中移动增强，可以进行空中跳跃。\n长按[W]在空中滑翔。\n^red;滑翔时消耗能量。", 
+      "Chs": "钻头球升级。\n空中移动增强，可以进行空中跳跃。\n长按[W]在空中滑翔。\n^red;滑翔时消耗能量。",
       "Eng": "Drill Sphere Upgrade.\nMid-air movement improved. Gain a mid-air jump.\nHold [W] while transformed to Glide.\n^red;Energy drains while Gliding."
     }
   },
@@ -264,6 +1214,17 @@
     "Texts": {
       "Chs": "笨鸟先飞",
       "Eng": "Early Bird"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/truesight/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enemies you defeat sometimes drop Health and Energy Orbs.\nHealth Orbs always instantly heal 10 Health, while Energy Orbs instantly recharge 20 Energy."
     }
   },
   {
@@ -286,7 +1247,7 @@
       ]
     },
     "Texts": {
-      "Chs": "增强性运动升级。\n增加冲刺速度。冲刺时跳跃高高度2增加。\n冲刺持续时间更长。现在可以跳取消冲刺跳跃了。", 
+      "Chs": "增强性运动升级。\n增加冲刺速度。冲刺时跳跃高高度2增加。\n冲刺持续时间更长。现在可以跳取消冲刺跳跃了。",
       "Eng": "Enhanced Movement Upgrade.\nIncreased Sprint Speed. Increased Jump Height when jumping out of Sprint.\nIncreased Dash Duration increased. It is now possible to jump-cancel Dashes."
     }
   },
@@ -298,7 +1259,7 @@
       ]
     },
     "Texts": {
-      "Chs": "脱战！升级。\n冲入地面时提供巨量速度加成。\n冲刺后短时间内免疫掉落伤害。\n初始冲刺后空中速度变为60%。", 
+      "Chs": "脱战！升级。\n冲入地面时提供巨量速度加成。\n冲刺后短时间内免疫掉落伤害。\n初始冲刺后空中速度变为60%。",
       "Eng": "Escape! Upgrade.\nDashing into the ground provides a large boost in speed.\nFall Damage is negated for a short time after dashing. 60% Aerial Velocity after initial dash."
     }
   },
@@ -310,8 +1271,19 @@
       ]
     },
     "Texts": {
-      "Chs": "脱战！升级。\n在脱战时同时启用了攀墙跳。\n靠在墙上，空中冲刺冷却重置，",  
+      "Chs": "脱战！升级。\n在脱战时同时启用了攀墙跳。\n靠在墙上，空中冲刺冷却重置，",
       "Eng": "Escape! Upgrade.\nWalljumping is enabled with Escape!.\nMid-air dashes are replenished upon clinging to a wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/dragoon/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eviscerate your enemies with volcanic passion, mauling them with burning stabs and shocking strikes as you bound from foe to foe. Crush them with tremendous pressure as you leap and land, trembling the earth beneath. Take to the skies using incredible force in order to smite even those that dare try and stand above you.\nYou are vain and prideful, yet rage is not above you: you annihilate armies that seek to trample you. But you cannot be trampled, because you are a Dragon, and Dragons are Gods, and Gods cannot be slain.\nBut that's a lie, isn't it? You are no Dragon.\n^orange;You are a Dragon Slayer."
     }
   },
   {
@@ -358,7 +1330,7 @@
       ]
     },
     "Texts": {
-      "Chs": "火焰&狱火亲和力升级。\n燃烧持续时间翻倍。", 
+      "Chs": "火焰&狱火亲和力升级。\n燃烧持续时间翻倍。",
       "Eng": "Flame & Infernal Affinity Upgrade.\nSear lasts twice as long."
     }
   },
@@ -370,7 +1342,7 @@
       ]
     },
     "Texts": {
-      "Chs": "火焰&狱火亲和力升级。\n当你杀死一名燃烧，熔化，或烧焦的敌人时，它们会爆炸。\n爆炸伤害与伤攻击倍乘成比例。", 
+      "Chs": "火焰&狱火亲和力升级。\n当你杀死一名燃烧，熔化，或烧焦的敌人时，它们会爆炸。\n爆炸伤害与伤攻击倍乘成比例。",
       "Eng": "Flame & Infernal Affinity Upgrade.\nWhen you kill a Burning, Melting, or Seared enemy, they explode.\nExplosion Damage scales with Power Multiplier."
     }
   },
@@ -402,11 +1374,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/hunter/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "From the smoke, the Hunter emerged, blood spattered along her slender body. She picked up an arrow lodged in the ground, one that had sliced clean through her prey; of course, of course: she never missed... Her Bow hummed as it scanned the ammunition, a mist of liquid spraying from the bottom canister. These weren't normal arrows, and definitely not an average bow, but she was no ordinary predator.\n\nPlacing the now cleansed arrow in her quiver, she quickly searched for any other enemies as the smoke behind her dissipated, showing only red remains. She wasn't psychopathic, but rather ^red;efficient^reset;, and with each new target killed, her worries shrank. Her ears picked up a sound that only an animal would hear, and so she took off, deftly weaving through thickets of spiny branches. Despite her rapid movement, she barely made a sound as she approached what she could only assume was an enemy camp. Sure enough, she found a camp occupied by several soldiers.\n\nShe crouched: time to get to it. Drawing the string, a radiant magenta emanated from within her, spreading throughout the components of her bow and slowly enveloping her body. But before the light could shine bright enough to alert the guards of her presence, she released. The arrow flew true, landing dead center of the encampment, embedding within a wooden post before imploding. She smirked, brandishing her dagger and vanishing from sight.\n\nNear or Far; Quick or Flashy; Wrong or Right...\n^green;Ha! Didn't matter to a Hunter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/affinity/ivrpgucevergreen/description"
       ]
     },
     "Texts": {
-      "Chs": "霜冻&霜结亲和力升级。\n亲和力弱点不再影响你。", 
+      "Chs": "霜冻&霜结亲和力升级。\n亲和力弱点不再影响你。",
       "Eng": "Frost & Cryo Affinity Upgrade.\nAffinity Weaknesses no longer affect you."
     }
   },
@@ -418,7 +1401,7 @@
       ]
     },
     "Texts": {
-      "Chs": "霜冻&霜结亲和力升级。\n+50%弓箭伤害。箭头攻击造成3秒的脆化。\n不适用于弩。",  
+      "Chs": "霜冻&霜结亲和力升级。\n+50%弓箭伤害。箭头攻击造成3秒的脆化。\n不适用于弩。",
       "Eng": "Frost & Cryo Affinity Upgrade.\nDeal +50% Damage with Bows. Hits with arrows always Embrittle for 3 Seconds.\nDoes not work with Adaptable Crossbow."
     }
   },
@@ -430,7 +1413,7 @@
       ]
     },
     "Texts": {
-      "Chs": "霜冻&霜结亲和力升级。\n一个敌人脆化的时间越长，\n他们受到的伤害就越高。",   
+      "Chs": "霜冻&霜结亲和力升级。\n一个敌人脆化的时间越长，\n他们受到的伤害就越高。",
       "Eng": "Frost & Cryo Affinity Upgrade.\nThe longer an enemy is Embrittled,\nthe more damage they take from outside sources."
     }
   },
@@ -442,7 +1425,7 @@
       ]
     },
     "Texts": {
-      "Chs": "霜冻&霜结亲和力升级。^red;仅限女性。\n^reset;n鞭子、爪、和匕首+75%伤害。\n挥舞鞭子时不会降低亲和力速度。",    
+      "Chs": "霜冻&霜结亲和力升级。^red;仅限女性。\n^reset;n鞭子、爪、和匕首+75%伤害。\n挥舞鞭子时不会降低亲和力速度。",
       "Eng": "Frost & Cryo Affinity Upgrade. ^red;Females Only.^reset;\nDeal +75% Damage with Whips, Claws, and Daggers.\nNo Affinity Speed decrease while wielding Whips."
     }
   },
@@ -454,7 +1437,7 @@
       ]
     },
     "Texts": {
-      "Chs": "重力球升级。\n变形时按住右键时朝往光标方向悬浮。\n^red;悬浮消耗能量。", 
+      "Chs": "重力球升级。\n变形时按住右键时朝往光标方向悬浮。\n^red;悬浮消耗能量。",
       "Eng": "Gravity Sphere Upgrade.\nHold Space while transformed to Hover towards the cursor.\n^red;Drains Energy while Hover is active."
     }
   },
@@ -474,6 +1457,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/people/children/egoen/children/againstallodds/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "He hadn't meant it: it was, obviously, an impossibility, and he knew it as such. However, despite the infinitesimal chances, what was to be zero turned to one. And curiously, he thought he knew why. Nevermind the definite inconsistencies or supposed betrayals, this was new territory, a chance to recoup losses and begin anew. Or so he thought. But alas, his soul now split was not the Egoen he knew, nor the Egoen the universe knew. Egoen, whoever he had been, was no longer: an anomaly.\n\nThe timelines diverged. All of them, weaving off into calculated paths."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucglidesphere/title"
       ]
     },
@@ -486,12 +1480,158 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/skill/children/body/children/armorup-function/children",
+        "/skill/children/body/children/armorup-reaction/children",
+        "/skill/children/mind/children/armorup-anticipation/children",
+        "/skill/children/soul/children/armorup-determination/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Armor, but Decreased Power Multiplier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/keeneye/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Critical Chance, but decreased Energy Regen Rate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bruteforce/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Critical Chance, but decreased Speed and Jump Height."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/criticalluck/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Critical Chance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/adrenalinerush/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Max Energy when Health is below a certain percentage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/adrenalinerush/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Power Multiplier when Health is below a certain percentage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/momentum/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Power Multiplier, but Decreased Fall Damage Resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/vitalblow/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Power while near Full Health, but decreased Max Health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-stride/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Speed and Jump Height, but Decreased Critical Chance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/bolsterspeed-muscle/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Speed and Jump Height, but Decreased Energy Regen Rate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/bolsterspeed-form/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increased Speed and Jump Height, but Decreased Max Energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/people/children/winter/children/whennothingstaredback/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "It wasn't supposed to be like this. It never was. But even so, it seemed, a miniscule, primal segment of her conscience had known all along. Her thoughts flickered to Soliste. Perhaps it was better this way.\n\nShe stared. Nothing stared back. It was strange, this 'nothingness', because 'nothingness' didn't exist: it couldn't, because even nothing was something. How ridiculous...\n\nShe listened as the words Egoen spoke reflected in the spaces between. She reciprocated, pointlessly, slowly edging her fingertips around the kunai strapped to her thigh. She knew he would not choose to depart, clutching on to life fruitlessly, spitting words of power at the emptiness surrounding: cursing this reality for snatching Zia from his grasp. So she would choose for him. There was no blood: there could not be; even so, he died. Glad, at first, her emotions turned sour: without a doubt, this was the only way. She knew it as such; the nothingness told her - not through whispers, not through images, not through thoughts, but through reality. The endless-featureless-emptiness was existence: the only definite, the only absolute, the only truth. Despite this, she could not help but feel overwhelmed as his soul escaped and only hers remained: ensnared, forever. The moment was gone: he had taken it from her, not via his own actions, but by hers. She panicked, as there was nearly nothing left for her to do.\n\nSoliste, she cried. Soliste! Was she waiting? Would she ever know? The nothing encroached and squeezed tightly, despite pulling her apart. Soliste: that was all she could think about, 'laughing' incredulously until there was nothing left to think.\n\nAnd just like that, she was nothing too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/general/ivrpgucitsatrap/title"
       ]
     },
     "Texts": {
       "Chs": "请君入瓮！",
       "Eng": "It's a Trap!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/warlock/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's no good to reminisce. You'll remember things that would be best left untouched. But suppose you do?"
     }
   },
   {
@@ -540,6 +1680,17 @@
     "Texts": {
       "Chs": "背水一战",
       "Eng": "Last Stand"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/vigilante/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Laws are forged in fires of fear and corruption; cast in iron to control and manipulate. But when the law is broken and action fails, what then? When retribution is in order, or revenge is needed? When peace cannot be kept, and villains arise without restraints? When morality is taken for granted, and fools erupt brazenly with uncontrolled conniptions?\n\n^orange;What then?^reset;\n\nWell, you don't need text in yellowed paper; or signatures in white boxes; or some haughty sheriff's permission; to decide. You enact your own laws. You control your own jurisdiction. And no matter what, no matter who, you uphold justice in your own name.\n\n^orange;And trust me: they will remember it."
     }
   },
   {
@@ -595,12 +1746,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/overloadstatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Much more potent than simply being electrified, overloaded creatures move 25% slower, and the lightning they chain causes the electrified status."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/skill/children/mind/children/nightowl/title"
       ]
     },
     "Texts": {
       "Chs": "夜猫子",
       "Eng": "Night Owl"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/disorientstatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Normally caused my excessive smoke inhalation, disoriented creatures move slower and jump lower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/starfallstatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nova rends physical objects apart, slowly but surely. This strain decreases resistance to Electric, Fire, and Ice Damage. Also known as 'Nova Status'."
     }
   },
   {
@@ -647,7 +1831,7 @@
       ]
     },
     "Texts": {
-      "Chs": "起源新星升级。\n起源新星的充能速度更快，并大幅增加施法距离。\n^red;但是会降低伤害。", 
+      "Chs": "起源新星升级。\n起源新星的充能速度更快，并大幅增加施法距离。\n^red;但是会降低伤害。",
       "Eng": "Primed Nova Upgrade.\nPrimed Nova charges faster and has a larger casting range.\n^red;However, its overall Damage is Decreased."
     }
   },
@@ -661,6 +1845,19 @@
     "Texts": {
       "Chs": "向我起誓",
       "Eng": "Promise Me This"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/trueunderstanding/tierText/0",
+        "/skill/children/mind/children/trueunderstanding/tierText/0",
+        "/skill/children/soul/children/trueunderstanding/tierText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provides 1/3 Progress Towards Opposite-Gendered Specs"
     }
   },
   {
@@ -683,8 +1880,19 @@
       ]
     },
     "Texts": {
-      "Chs": "贪婪小钻风升级。\n贪婪小钻风的次要功能(右键)可以挖掘背景块。\n^red;当按住Shift时，不能从挖掘背景块中恢复能量。", 
+      "Chs": "贪婪小钻风升级。\n贪婪小钻风的次要功能(右键)可以挖掘背景块。\n^red;当按住Shift时，不能从挖掘背景块中恢复能量。",
       "Eng": "Ravenous Spira Upgrade.\nRavenous Spira breaks background blocks when held in the Right Hand (Secondary Hand).\n^red;Energy cannot be regained from breaking background blocks while holding Shift."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/crusader/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Responsible for the death of thousands, the Crusaders took it upon themselves to annihilate the unfaithful, the aftermath of which was a festering reputation.\nAnd it continued to fester: impossible to remove. A connotation so great, even the mere name could send some into rage. It was, in all senses, ^blue;a word of power.\nHowever, despite this, the mantle is once again ready to be worn. The looming threat of the unclean, of the Ruin, and the creatures like it, cannot be left unchecked. And thus, with history behind them, the Crusaders will rise again.\n\n^blue;Deus Vult!"
     }
   },
   {
@@ -727,11 +1935,44 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/people/children/zia/children/apprenticesfolly/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "She couldn't do it. She just couldn't do it. No matter how hard she tried, no matter how much effort, how much time, how much anything... She just couldn't. And at some point, perhaps, she gave up: grew spiteful. Ha.\n\nEgoen made excuses. Said that perhaps it was her physiology. Her mind. Her hormones. He could not accept that his apprentice would not be able to acquire his knowledge. He was, after all, the greatest teacher. The most intelligent scholar. The most impressive Warlock. It was, as he put it, an impossibility.\n\nThen that mission came. Experience was the best teacher, he said. So she came along, and unfortunately, or possibly not, she was erased. She did not die. No, because there was no death. Not with what they had found. She was the third one. Of course she was: because her master had been there all along, wielding magic greater than comprehension. But even so, she was erased...\n\nExcept she wasn't. That maniacal wizard had attempted something meta-universal. But you couldn't call that a success. No: she was livid. To be brought back because that man could not accept failure. Ridiculous. Ridiculous. Absolutely ridiculous. And just as he could not accept her 'death', she did not accept her 'return'. And maybe there was bitterness, and maybe there was fury, but she did not care. And with her newfound knowledge, she thought, perhaps she could do her own teaching. To become a being higher than that foolish master of hers. And well...\n\nShe certainly had the power to do so."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/vanguard/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "She did what?\n\n^orange;You heard me the first time.^reset;\n\nYea, but we're talking nearly 1000 enemy soldiers. With high-tech armor. And, you know... deadly weapons and what not.\n\n^orange;Right. Well: they're gone now.^reset;\n\nOk, but is she alright?\n\n^orange;Funny you should ask.^reset;\n\nUh-oh.\n\n^orange;No, you misunderstand...\nShe's never been better."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/adept/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "She found there was no where left to go. Crushing pressure caused matter to simply collapse around her. Ruinous creatures reached out from the darkness behind her. And then, in front: nothing. Nothing at all.\n\n^red;And she shuddered, for it was impossible.^reset;\n\nDeath around and death behind, yet in front, there was nothing. Nothing that edged into her muscle and skin and chitin and bone. Nothing that clawed at her vision and ate at her brain. And she felt fear and joy and hatred and grief and disdain and arousal and pain, and it never stopped.\n\n^red;And then, even the death became nothing.^reset;\n\nIt was not there from the beginning.\nAnd it would not be there at the end.\nAnd she knew, and she laughed:\n\n^red;For there was nothing left for her to feel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/affinity/ivrpgucplasmacore/description"
       ]
     },
     "Texts": {
-      "Chs": "雷霆&电弧亲和力升级。\n亲和力弱点不再影响你。", 
+      "Chs": "雷霆&电弧亲和力升级。\n亲和力弱点不再影响你。",
       "Eng": "Shock & Arc Affinity Upgrade.\nAffinity Weaknesses no longer affect you."
     }
   },
@@ -743,7 +1984,7 @@
       ]
     },
     "Texts": {
-      "Chs": "雷霆&电弧亲和力升级。\n造成过载状态后，\n获得2秒的狂暴。", 
+      "Chs": "雷霆&电弧亲和力升级。\n造成过载状态后，\n获得2秒的狂暴。",
       "Eng": "Shock & Arc Affinity Upgrade.\nUpon inflicting Overload Status,\nGain Rage for 2 Seconds."
     }
   },
@@ -755,7 +1996,7 @@
       ]
     },
     "Texts": {
-      "Chs": "雷霆&电弧亲和力升级。\n当你处于潮湿状态或接触液体时，\n附近的敌人将会过载。",  
+      "Chs": "雷霆&电弧亲和力升级。\n当你处于潮湿状态或接触液体时，\n附近的敌人将会过载。",
       "Eng": "Shock & Arc Affinity Upgrade.\nWhile wet or touching liquid,\nnearby entities are shocked repeatedly."
     }
   },
@@ -780,7 +2021,6 @@
     },
     "Texts": {
       "Chs": "虹吸爪·剃刀升级。\n连击技能可以在三次攻击之后使用，而不是四次。\n^red;但是，这可能会妨碍你使用其他拳击武器的组合连击。",
-
       "Eng": "Siphon Razor Upgrade.\nCritical Slice can be used after three attacks instead of four.\n^red;However, this prevents the usage of your other fist weapon's combo finisher."
     }
   },
@@ -792,7 +2032,7 @@
       ]
     },
     "Texts": {
-      "Chs": "虹吸爪·孢子升级。\n当你的生命值低于三分之一时造成更多伤害。", 
+      "Chs": "虹吸爪·孢子升级。\n当你的生命值低于三分之一时造成更多伤害。",
       "Eng": "Siphon Spore Upgrade.\nDeals more damage when your health is below one third."
     }
   },
@@ -812,12 +2052,56 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/skill/children/mind/children/earlybird/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speed and Jump Height are increased during the Day (Dawn to Evening)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/nightowl/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speed and Jump Height are increased during the Night (Evening to Dawn)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/pioneer/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spreading as far as the eye can see, your colonies are a welcome sight for weary travelers. Take pride in the vast expansion of cities and towns, discovered and claimed by you, and a safe haven for all. There is no planet you cannot tame; whether bubbling with magma or sulfuric acid; or frigid and teeming with dangerous creatures.\n\nDo not shy away from deadly radiation or inpenatrable darkness or strange mutations in the far reaches of the universe. No, make them all yours: testaments to your empire. So keep on finding new frontiers and settling distant lands.\n\nIf they exist, ^yellow;they're yours for the taking!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/mechanics/children/statuses/title"
       ]
     },
     "Texts": {
       "Chs": "状态",
       "Eng": "Statuses"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/stunstatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stunned creatures cannot move, fly, float, go invisible, or do anything else for that matter, making them easy targets. In addition, they cannot deal damage just by being touched."
     }
   },
   {
@@ -836,6 +2120,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/darktemplar/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sudden pressure bending metal -\nForcing bothered dust to settle.\n^red;Shhh: do you hear that?^reset;\n\nFervid death erupts from ashes,\nStealing thought and tearing gashes.\n^blue;Shhhh: do you hear that?^reset;\n\nSpreading out and creeping in:\nA sentient husk entrenched in sin.\n^red;Shhhhh: do you hear that?^reset;\n\nRunes engrave in ruined flesh;\nWhispers clash: a garbled mesh.\n^blue;Shhhhhh: do you hear that?^reset;\n\nWell...\n!.5@3^red;d^reset;:6=;1,^blue;o^reset;@7#*6(^red;y^reset;}&6-_[5^blue;o^reset;2*?0^red;u^reset;,5@!5!^blue;?^reset;+7]3#"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/skill/children/soul/children/synthesis/title"
       ]
     },
@@ -848,11 +2143,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/universe/children/forgranted/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Taking without giving, a constant push against the pressure driving you into the ground. . Deeper, I press: what do you lose?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucpinpointaccuracy/description"
       ]
     },
     "Texts": {
-      "Chs": "坦克球升级。\n飞弹可以追踪锁定目标。\n^red;但是飞弹速度下降。", 
+      "Chs": "坦克球升级。\n飞弹可以追踪锁定目标。\n^red;但是飞弹速度下降。",
       "Eng": "Tank Sphere Upgrade.\nRockets fired while transformed actively seek targets with direct line of sight."
     }
   },
@@ -944,6 +2250,61 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/dazestatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "The sweet smell leaves creatures confused, making them a lot slower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/universe/children/truth/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are immutable truths. This, in and of itself, is one of them: it must be, for if it were not, there would not be any other.\n\nAnother is the immovable march of time. That man who refutes it, passing his corrupted will unto his disciples, may pretend to impossibly shape existence, but his understanding is limited. A Warlock at heart, he believes the gift granted to him, the inconceivable crack in his annihilation, is something controllable. But he will find that perhaps the time he ignores will not hold fast, and just like Zia did, will slip from his grasp.\n\nAnd of course, this universe engraves a familiar - albeit casually exploited - marking in stone: the third truth. \"You who would take life will receive power\": to kill, and within the blend of incomprehensible contraints, absorb strength. This is irrefutable. But for those who take it for granted, I ask: with all the essence you obtain, is there not something you lose?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/universe/children/dontfearthereaper/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no escape. Life comes. Death comes. It isn't a cycle. It is a line. A path to follow. No deviation. Of course, this scares us. We have only one place to go, but we are never prepared. We fear death, not because of the pain, but because we have no choice. We cannot alter our course. We live for as long as we can, but in the end, we die. We always die.\n\nThe Reaper, it is said, is the one who takes us. But if the Reaper decides, then what happens when you are the Reaper."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/juggernaut/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no shield; no armor; no wall.\n\nAs you tower above puny fools that dare walk your path, you sense them quiver. They are not scared: no, they are terrified. The quivering stops with each swing of your hammer, and your steps continue, like meteors blasting craters in the ground. There is nothing that can stop you.\n\nNo shield; no armor; no wall.\n\nBut you? Your skin, the shield; your muscle, the armor: you are the wall.\n\n^blue;And nothing gets past you alive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/changeling/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's something about that woman: I don't know how to put my finger on it, but she almost doesn't seem human. And yes, I know she's a Hylotl, but you know what I mean. I just... I don't know. How do I approach her? How can I approach her? Sometimes I wonder if she's really the same person, despite how different she becomes. But whenever she catches my eye, she winks at me like she knows.\n\n^red;Except for today.^reset;\n\nAnd because of that, I fear I'll miss my chance: she's on that mission organized by the Kunoichi-Hunter couple, and I know what they're like, so I'm sure it'll all work out, and the mission'll be a huge success...\n\n^red;But with how much I know that woman...\nI fear something just isn't right."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/general/ivrpguctotalblackout/title"
       ]
     },
@@ -960,7 +2321,7 @@
       ]
     },
     "Texts": {
-      "Chs": "传送升级。\n传送现在可以无视墙壁，即使当前处于副本世界。", 
+      "Chs": "传送升级。\n传送现在可以无视墙壁，即使当前处于副本世界。",
       "Eng": "Translocate Upgrade.\nTranslocate now allows the user to teleport through walls, even if the user is currently in an Instanced World."
     }
   },
@@ -1018,6 +2379,61 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/skill/children/body/children/unstoppable/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Under basic negative status effects, Speed and Power Multiplier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/trueunderstanding/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Understand the heart of the opposite gender. Progresses the ability to equip Specializations of the opposite gender by one-third.\nIn order to equip Specializations of the opposite gender, 'Mind - True Understanding' and 'Body - True Understanding' must also be equipped.\n\nIf any 'True Understanding' Skills are unequipped while a Specialization of the opposite gender is equipped, that Specialization is unequipped."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/mind/children/trueunderstanding/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Understand the mentality of the opposite gender. Progresses the ability to equip Specializations of the opposite gender by one-third.\nIn order to equip Specializations of the opposite gender, 'Body - True Understanding' and 'Soul - True Understanding' must also be equipped.\n\nIf any 'True Understanding' Skills are unequipped while a Specialization of the opposite gender is equipped, that Specialization is unequipped."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/body/children/trueunderstanding/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Understand the physique of the opposite gender. Progresses the ability to equip Specializations of the opposite gender by one-third.\nIn order to equip Specializations of the opposite gender, 'Mind - True Understanding' and 'Soul - True Understanding' must also be equipped.\n\nIf any 'True Understanding' Skills are unequipped while a Specialization of the opposite gender is equipped, that Specialization is unequipped."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/statuses/children/toxifystatus/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlike regular poison, this status also reduces health by 25%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/skill/children/body/children/unstoppable/title",
         "/upgrades/general/ivrpgucunstoppable/title"
       ]
@@ -1035,7 +2451,7 @@
       ]
     },
     "Texts": {
-      "Chs": "消失球升级。\n消失球体不再提供无敌。但是作为补偿，按住鼠标左键启用幽灵模式，幽灵模式下可以穿过墙壁。在穿越墙壁时消耗氧气。\n^red;维持幽灵模式会消耗能量。", 
+      "Chs": "消失球升级。\n消失球体不再提供无敌。但是作为补偿，按住鼠标左键启用幽灵模式，幽灵模式下可以穿过墙壁。在穿越墙壁时消耗氧气。\n^red;维持幽灵模式会消耗能量。",
       "Eng": "Vanish Sphere Upgrade.\nVanish Sphere no longer provides Invulnerability. Instead, hold Left-Click while transformed to enable Ghost-Mode, enabling you to move through walls. You can lose oxygen while moving through walls.\n^red;Drains Energy while Ghost is active."
     }
   },
@@ -1059,7 +2475,7 @@
       ]
     },
     "Texts": {
-      "Chs": "毒液和毒蚀亲和力升级。\n在你的脚下产生造成虚弱的毒云。", 
+      "Chs": "毒液和毒蚀亲和力升级。\n在你的脚下产生造成虚弱的毒云。",
       "Eng": "Venom & Toxic Affinity Upgrade.\nThe clouds spawned at your feet inflict Weak Poison."
     }
   },
@@ -1083,7 +2499,7 @@
       ]
     },
     "Texts": {
-      "Chs": "弹幕反抗者升级。\n子弹击中墙壁时会向附近的敌人弹射。^red;\n子弹每次反弹后的伤害都会降低。", 
+      "Chs": "弹幕反抗者升级。\n子弹击中墙壁时会向附近的敌人弹射。^red;\n子弹每次反弹后的伤害都会降低。",
       "Eng": "Versa Ricochet Upgrade.\nBullets bounce towards nearby enemies upon hitting walls.^red;\nBullets do not gain as much Damage with each bounce."
     }
   },
@@ -1095,7 +2511,7 @@
       ]
     },
     "Texts": {
-      "Chs": "弹幕反抗者升级。\n弹幕反抗者在再充能完毕后可以立即开火，且减少充能时间。", 
+      "Chs": "弹幕反抗者升级。\n弹幕反抗者在再充能完毕后可以立即开火，且减少充能时间。",
       "Eng": "Versa Ricochet Upgrade.\nVersa Ricochet fires immediately when charged, and takes shorter time to charge fully."
     }
   },
@@ -1127,12 +2543,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/berserker/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "WHY IS IT STILL BREATHING!\nMASH IT INTO MEAT PASTE!\n\nThere, it's dead. You happy?\n\nI'M ANGRY! I'M ANGRY, AND YOU'RE ANGRY,\nAND WE SHOULD GO KILL MORE!\n\nMhm, and we will. We will.\n\n\"Hey, what the hell is going on in here?\nOh, God! What the hell did you do?\"\n\n\"I had to, or I SMUSHED THEM ALL!\nHAHAHA, THEY EXPLODED!\"\n\n^blue;Tsk. Never lets me get in a damn word."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/tech/ivrpgucwalljump/title"
       ]
     },
     "Texts": {
       "Chs": "攀墙跳",
       "Eng": "Wall Jump"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/adrenalinerush/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "When Health hits below a certain percentage, summon an Attack Orb that fires at enemies."
     }
   },
   {
@@ -1151,6 +2589,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/captain/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "While Colonies flourish, so do the militia. However compared to the threats of the observable universe, everyone must be ready to handle whatever trials and tribulations come their way. When an empire falls, it's often due to its leaders falling, and the masses giving in. However if a leader is felled in battle... chances are he or she was reckless. A Captain is no monarch, they aren't dictators, they aren't fearsome warmongering warlords. A Captain is a leader whom others stand behind through hell. They are the ones that ensure victory. It is a Captain's duty to ensure the safety of their people, their comrades, peers, family and loved ones..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/skill/children/soul/children/synthesis/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "While above-ground, and only during the day, slowly regenerate Health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/people/children/winter/children/whoareyoureally/title"
       ]
     },
@@ -1163,12 +2623,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/people/children/winter/children/whoareyoureally/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who are you? No, no. This isn't a question for you, so calm down, and keep your lips shut: after all, it's a question for me. Who are you? The reason I ask is simple. Have you changed? Are you no longer that wretched season necessitating death? Are you alive, or dead? Where are you, why, and when? Who are you?\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/class/children/ninja/children/withintheshadows/title"
       ]
     },
     "Texts": {
       "Chs": "影伴吾身",
       "Eng": "Within the Shadows"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/necromancer/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Within the swirling darkness, a single drop of light remains.\n\n^magenta;Smother it.^reset;\n\nAs the light fades, blackened embers spark, crossing out lines in history. Time is not absolute: no, of course not.\n\n^magenta;But you are.^reset;\n\nDisgust. Fear. Horror. Hatred. Ignore them. Ignore the stares and shudders. Ignore them all. For they do not understand: despite their cries, pleas, and hopes; you will snuff their life and replace it. After all:\n\n^magenta;Death comes for us all..."
     }
   },
   {
@@ -1223,6 +2705,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/elementress/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#c16bff;I'm sorry.\n^white;The words she breathlessly uttered\nechoed as ^black;it^white; took her: only two remained.\n^#ffaafa;Though reasonable, your anger is stifling. Even you will not survive if you do not calm.\n^#6d577c;What, and you will?\n^#ffaafa;Don't be ridiculous.\n^#6d577c;Hmph, very like you. But for her to vanish as if I had taught her nothing... Foolish!\n^white;She chuckled a meaningless laugh. ^#ffaafa;Perhaps you will be less transparent in the next life.\n^#6d577c;There is no 'next life': my 'soul' will scatter! And if, against impossible odds, it were to reappear, I would impose my will upon this emptiness and force hers to as well.\n^#ffaafa;Hmm. ^white;Silence burgeoned as his orbitals shattered. ^#ffaafa;I sssuppose you would."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/people/children/zia/children/apprenticesfolly/title"
       ]
     },
@@ -1263,7 +2756,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^#c82828;神识^reset;", 
+      "Chs": "^#c82828;神识^reset;",
       "Eng": "^#c828c8;Mind^reset;"
     }
   },

@@ -157,7 +157,7 @@
       ]
     },
     "Texts": {
-      "Chs": "龙骑挥舞长枪和矛。穿上他们的轻甲，他们是一股力量，旨在迅速和果断地穿透所有的对手——无论多么持久，或在空中有多高。", 
+      "Chs": "龙骑挥舞长枪和矛。穿上他们的轻甲，他们是一股力量，旨在迅速和果断地穿透所有的对手——无论多么持久，或在空中有多高。",
       "Eng": "Dragoons wield lances and spears. Coupled with their light armor, they are a force meant to quickly and decisively pierce through all opposition - no matter how durable, or how high in the sky."
     }
   },
@@ -202,6 +202,412 @@
     "DeniedAlternatives": [],
     "Files": {
       "specList.config": [
+        "/0/8/weaponText/1",
+        "/2/8/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Abounding Darkness, a Tech that drains Health but damages nearby enemies and drains their lifeforce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/2/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Ally Stance, a Tech that functions primarily as a Stat-boost for your team that comes at a downside as well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/2/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Anne and Marie, a pair of unique and powerful pistols that syngerize well together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/3/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Atlas' Burden, a Tech that increases the offensive and defensive capabilities of you and nearby allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/3/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Attune, a Tech that provides an amplitude of elemental abilities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/0/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Bombs Away, a Tech that provides the ability to shoot cannonballs in multiple directions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/0/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Colonize, a Tech that allows you to place down a Colony Flag on any planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/4/weaponText/0",
+        "/5/4/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Danger Close, a One-Handed Submachine Gun that has terrible accuracy but shreds while near enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/5/weaponText/1",
+        "/4/5/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Dark Phase, a Tech that replaces jumping with the ability to hover through walls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/2/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Desperado, a Tech that grants infinite Energy and ramps up power when used."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/7/weaponText/0",
+        "/3/7/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Dragon's Bane, a Two-handed Spear with excellent range and elemental capabilities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/7/weaponText/1",
+        "/3/7/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Dragon's Leap, a Tech that upgrades Knight's Slam with phenomenal Jump Height and a better Slam explosion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/3/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Eclipse, a Wand that spawns seeking shards of Nova Energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/3/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Einherjar, a Tech that allows you to grant invulnerability to a nearby ally."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/3/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Epimetheus, a one-handed Submachine Gun with average stats that provides defensive bonuses upon killing enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/3/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Flash Step, a Tech that replaces jumping with unstable, directional teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/0/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to For Us All, a demonic Scythe that can unleash unstable Demonic Energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/3/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Gungnir, a Spear that turns enemies into a healing ray of light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/8/weaponText/0",
+        "/2/8/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Heartless, a Halberd with far-reaching swings that can cause massive explosions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/0/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Immaculate Shield, a Tech that provides team support but requires a skillful defense."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/2/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Luxuria, a One-handed War Fan with phenomenal speed and graceful combos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/3/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Mida, an accurate Sniper Rifle that can be cloaked in various elements using Multitool."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/3/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Multitool, a Tech that enables a variety of functions, such as dodging, throwing elemental grenades, and enhancing Mida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/0/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Nautilus, a One-handed Tool that can be used to nullify all environmental damage as well as ease movement in all liquids."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/4/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Oathkeeper, a Broadsword with a crazy combo and the ability to fire Holy Energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/4/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Oathkeeper, a Broadsword with a lengthy combo and the ability to fire Holy Energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/4/0/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Outburst and Stormhowl, a Grenade Launcher and Shortsword pair that devastates enemies up close."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/3/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Phase Shift, a One-Handed Wand with phenomenal AoE damage against enemies and fantastic AoE ally support."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/0/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Reap, a Tech that allows you to instantly kill low health enemies or spawn a friendly monster."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/4/weaponText/1",
+        "/1/4/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Resurgence, a Tech that modifies sprint and allows you to come back from certain death."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/3/4/weaponText/1",
+        "/5/4/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Rush, a Tech that lets you travel towards and attack enemies near instantly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/7/weaponText/0",
+        "/2/7/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Shapeshift, a Head Tech that enables transformation between Poptop, Wisper, and Orbide, each with unique attacks, movement, and passive abilities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/1/5/weaponText/0",
+        "/4/5/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Soulless Whisper, a cursed Claw whose combo finisher allows for travel in any direction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/2/2/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to Swirling Petal, a Tech that allows for quick backwards movement and provides great crowd control via dazing gas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/0/0/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to True Aegis, a Two-Handed Shield with Holy Powers. True Aegis can channel Holy Energy outwards, dealing constant damage and debuffing all enemies it hits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
+        "/5/2/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gain access to the Leader's Rally, a flag that is able to send a wave of inspiration out to your comrades."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specList.config": [
         "/5/2/unlockText"
       ]
     },
@@ -218,7 +624,7 @@
       ]
     },
     "Texts": {
-      "Chs": "死灵法师使用恶魔法术战斗，能使死人复活，并且比大多数巫师更擅长近程战斗。由于他们对死亡的靠近和调谐，死灵法师可以有效地使用镰刀和匕首，并且可以经常从敌人那里吸取生命来治疗盟友。" ,
+      "Chs": "死灵法师使用恶魔法术战斗，能使死人复活，并且比大多数巫师更擅长近程战斗。由于他们对死亡的靠近和调谐，死灵法师可以有效地使用镰刀和匕首，并且可以经常从敌人那里吸取生命来治疗盟友。",
       "Eng": "Necromancers fight using demonic magic and can raise the dead, and handle close-range combat much better than most Wizards. Because of their close attunement to death, Necromancers can efficiently wield scythes and daggers, and are often able to drain life from enemies to heal allies."
     }
   },
@@ -344,7 +750,7 @@
       ]
     },
     "Texts": {
-      "Chs": "泰坦是前线的堡垒，他们用自己的盾牌帮助盟友坚守阵地。他们选择的武器是单手手枪或带盾的自动手枪。尽管在所有范围内都有能力战斗，但它们也能以保护光环激励附近的队友。" ,
+      "Chs": "泰坦是前线的堡垒，他们用自己的盾牌帮助盟友坚守阵地。他们选择的武器是单手手枪或带盾的自动手枪。尽管在所有范围内都有能力战斗，但它们也能以保护光环激励附近的队友。",
       "Eng": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura."
     }
   },
@@ -480,7 +886,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;仅限女性^white;\n尽管春宵短暂\n柔弱无力\n#ffaafa;女忍\n优雅起舞\n扇动着她的战扇\n^white;让她醉心的人统统沉默。", 
+      "Chs": "^red;仅限女性^white;\n尽管春宵短暂\n柔弱无力\n#ffaafa;女忍\n优雅起舞\n扇动着她的战扇\n^white;让她醉心的人统统沉默。",
       "Eng": "^red;Female Only^white;\nDespite having slightly lower Health\nand dealing a bit less Damage\n^#ffaafa;The Kunoichi\nGracfully Dances Among\nSnaps Of Her War-Fan\n^white;silencing whomever she pleases."
     }
   },
@@ -492,7 +898,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;仅限女性^white;\n女武神是对生命拥有统治权的天使，为有价值的盟友提供无限的力量。女武神使用矛和短剑，使用他们的神圣力量优雅地在战场上疾行，击败敌人。" ,
+      "Chs": "^red;仅限女性^white;\n女武神是对生命拥有统治权的天使，为有价值的盟友提供无限的力量。女武神使用矛和短剑，使用他们的神圣力量优雅地在战场上疾行，击败敌人。",
       "Eng": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies."
     }
   }

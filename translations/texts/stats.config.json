@@ -343,7 +343,7 @@
       ]
     },
     "Texts": {
-      "value": "^green;从20活力开始：^reset;\n经典模式的最大能量值惩罚减半。\n由专精带来的最大能量值惩罚减半。",
+      "Chs": "^green;从20活力开始：^reset;\n经典模式的最大能量值惩罚减半。\n由专精带来的最大能量值惩罚减半。",
       "Eng": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalties for Energy halved.\nSpecialization penalties for Energy halved."
     }
   },
@@ -355,7 +355,7 @@
       ]
     },
     "Texts": {
-      "value": "^green;从20体质开始：^reset;\n经典模式的最大生命值惩罚和饱腹变化率惩罚减半。\n由专精带来的最大生命值惩罚和饱腹变化率惩罚减半。",
+      "Chs": "^green;从20体质开始：^reset;\n经典模式的最大生命值惩罚和饱腹变化率惩罚减半。\n由专精带来的最大生命值惩罚和饱腹变化率惩罚减半。",
       "Eng": "^green;Starting From 20 Vitality:^reset;\nClassic Mode penalty for Max Health and Food Delta halved.\nSpecialization penalty for Max Health and Food Delta halved."
     }
   }

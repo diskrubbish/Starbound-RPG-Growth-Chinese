@@ -17,16 +17,16 @@
       "explorer.config.json": 10,
       "knight.config.json": 9,
       "ninja.config.json": 12,
-      "rogue.config.json": 8,
+      "rogue.config.json": 9,
       "shared_.config.json": 1,
-      "soldier.config.json": 10,
-      "wizard.config.json": 13
+      "soldier.config.json": 12,
+      "wizard.config.json": 14
     },
     "default.config.json": 1,
-    "glitchEmotes.json": 0,
+    "glitchEmotes.json": 7,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 105
+        "RPGskillbook.config.json": 111
       }
     },
     "items": {
@@ -67,8 +67,8 @@
           },
           "wizardstaff": {
             "novastatus": {
-              "shared_.statuseffect.json": 0,
-              "wizardnovastatus.animation.json": 0
+              "shared_.statuseffect.json": 1,
+              "wizardnovastatus.animation.json": 1
             },
             "wizardnovastaff.activeitem.json": 1,
             "wizardnovastaff2.activeitem.json": 2,
@@ -107,7 +107,7 @@
             "arrows": {
               "purplearrow": {
                 "tethered": {
-                  "ivrpgtethered.animation.json": 0
+                  "ivrpgtethered.animation.json": 1
                 }
               }
             },
@@ -325,7 +325,7 @@
         }
       }
     },
-    "ivrpgtext.config.json": 0,
+    "ivrpgtext.config.json": 148,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -344,7 +344,7 @@
         "ivrpgweaken.animation.json": 1
       },
       "soldierstun": {
-        "ivrpgstun.statuseffect.json": 0,
+        "ivrpgstun.statuseffect.json": 1,
         "soldierstun.animation.json": 1,
         "soldierstun.statuseffect.json": 1
       }
@@ -383,25 +383,25 @@
     },
     "particles": {
       "damagenumbers": {
-        "shared_damagenumber.json": 0
+        "shared_damagenumber.json": 1
       }
     },
     "professions": {
       "alchemist": {
         "ivrpgalchemiststation.config.json": 1,
-        "ivrpgalchemiststation.object.json": 8
+        "ivrpgalchemiststation.object.json": 9
       },
       "alchemist.config.json": 4,
       "botanist.config.json": 3,
       "default.config.json": 1,
       "engineer": {
         "items": {
-          "acidsample.item.json": 1,
-          "electromagnet.item.json": 1,
-          "gear.item.json": 1,
-          "magmasample.item.json": 1,
-          "motor.item.json": 1,
-          "spowercell.item.json": 1
+          "acidsample.item.json": 2,
+          "electromagnet.item.json": 2,
+          "gear.item.json": 2,
+          "magmasample.item.json": 2,
+          "motor.item.json": 2,
+          "spowercell.item.json": 2
         },
         "ivrpgengineerstation.config.json": 2,
         "ivrpgengineerstation.object.json": 9,
@@ -422,10 +422,10 @@
       "miner": {
         "items": {
           "bars": {
-            "billoncoin.item.json": 1,
-            "electrumbar.item.json": 1,
-            "platinumbar.item.json": 1,
-            "steelbar.item.json": 1
+            "billoncoin.item.json": 2,
+            "electrumbar.item.json": 2,
+            "platinumbar.item.json": 2,
+            "steelbar.item.json": 2
           },
           "miningtools": {
             "electrumpickaxe.miningtool.json": 2,
@@ -435,7 +435,7 @@
         "ivrpgminerstation.config.json": 3,
         "ivrpgminerstation.object.json": 9
       },
-      "miner.config.json": 4,
+      "miner.config.json": 5,
       "professionDescriptions.config.json": 10,
       "shared_erstation.config.json": 1,
       "shared_station.config.json": 4,
@@ -503,7 +503,7 @@
       "spiraquest.questtemplate.json": 3,
       "spiraquest2.questtemplate.json": 2,
       "spiraquest3.questtemplate.json": 2,
-      "versaquest.questtemplate.json": 2,
+      "versaquest.questtemplate.json": 3,
       "versaquest2.questtemplate.json": 1,
       "versaquest3.questtemplate.json": 2
     },
@@ -546,7 +546,7 @@
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 0,
+    "specList.config.json": 38,
     "specs": {
       "abilities": {
         "adept": {
@@ -741,7 +741,7 @@
       "wraith.config.json": 9
     },
     "specs.json": 17,
-    "stats.config.json": 0,
+    "stats.config.json": 27,
     "tech": {
       "explorertech": {
         "explorerdrill": {
@@ -874,6 +874,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 75
+    "wide_spread_fields.json": 82
   }
 }
