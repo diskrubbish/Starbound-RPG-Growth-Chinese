@@ -182,6 +182,9 @@
     "/gui/upgradelayout/children/weapontext/value": "texts/wide_spread_fields.json",
     "/gui/windowtitle/title": "texts/shared_skillbook/shared_RPGskillbook..json"
   },
+  "interface/itemdescriptions/ivrpgweapon.itemdescription": {
+    "/priceLabel/value": "texts/wide_spread_fields.json"
+  },
   "interface/tooltips/ivrpgweapon.tooltip": {
     "/priceLabel/value": "texts/wide_spread_fields.json"
   },
@@ -214,6 +217,9 @@
   "items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
+  "items/active/classweapons/rogueclaw/roguesiphonclaw3e.activeitem": {
+    "/description": "texts/items/active/shared_weapons/shared_e.activeitem.json"
+  },
   "items/active/classweapons/soldiergun/soldierversa.activeitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
@@ -231,6 +237,9 @@
   },
   "items/active/specweapons/hunter/arrows/flamearrow/sear/sear.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
+  },
+  "items/active/specweapons/thief/siphonpurge.activeitem": {
+    "/description": "texts/items/active/shared_weapons/shared_e.activeitem.json"
   },
   "items/active/specweapons/wraith/combos/cursed.statuseffect": {
     "/label": "texts/wide_spread_fields.json"

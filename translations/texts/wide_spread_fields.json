@@ -339,6 +339,9 @@
         "/gui/statslayout/children/vigoramount/value",
         "/gui/statslayout/children/vitalityamount/value"
       ],
+      "interface/itemdescriptions/ivrpgweapon.itemdescription": [
+        "/priceLabel/value"
+      ],
       "interface/tooltips/ivrpgweapon.tooltip": [
         "/priceLabel/value"
       ],
@@ -554,6 +557,7 @@
       ]
     },
     "Texts": {
+      "Chs": "燃烧",
       "Eng": "Burning"
     }
   },

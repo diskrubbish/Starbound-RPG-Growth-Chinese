@@ -207,6 +207,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得吸收生命值但伤害附近敌人并吸收他们生命力的技能——无尽黑暗。",
       "Eng": "Gain access to Abounding Darkness, a Tech that drains Health but damages nearby enemies and drains their lifeforce."
     }
   },
@@ -218,6 +219,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得为团队带来属性增益但同时带来副作用的双刃剑技能——联合立场。",
       "Eng": "Gain access to Ally Stance, a Tech that functions primarily as a Stat-boost for your team that comes at a downside as well."
     }
   },
@@ -240,6 +242,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得能增强你和队友攻击和防御能力的技能——阿特拉斯的重负。",
       "Eng": "Gain access to Atlas' Burden, a Tech that increases the offensive and defensive capabilities of you and nearby allies."
     }
   },
@@ -251,6 +254,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得提供单种元素能力增幅的技能————调谐。",
       "Eng": "Gain access to Attune, a Tech that provides an amplitude of elemental abilities."
     }
   },
@@ -262,6 +266,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得能够向多个方向发射炮弹的技能———炸弹发射。",
       "Eng": "Gain access to Bombs Away, a Tech that provides the ability to shoot cannonballs in multiple directions."
     }
   },
@@ -273,6 +278,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得可以让你在任何星球上放置殖民旗帜的技能——拓殖。",
       "Eng": "Gain access to Colonize, a Tech that allows you to place down a Colony Flag on any planet."
     }
   },
@@ -285,6 +291,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得与狼共舞，一把有着可怕精度，还能撕碎附近敌人的单手冲锋枪。",
       "Eng": "Gain access to Danger Close, a One-Handed Submachine Gun that has terrible accuracy but shreds while near enemies."
     }
   },

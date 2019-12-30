@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/classweapons/rogueclaw/roguesiphonclaw3e.activeitem": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Chs": "充满能量！",
-      "Eng": "Crackling with energy!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/active/classweapons/rogueclaw/roguesiphonclaw3e.activeitem": [
         "/shortdescription"
       ]
     },

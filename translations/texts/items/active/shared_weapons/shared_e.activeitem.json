@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw3e.activeitem": [
+        "/description"
+      ],
+      "items/active/specweapons/thief/siphonpurge.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "充满能量！",
+      "Eng": "Crackling with energy!"
+    }
+  }
+]
