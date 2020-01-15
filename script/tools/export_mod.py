@@ -77,7 +77,7 @@ specials = dict()
 
 for subdir, dirs, files in walk(translations_dir):
     for thefile in files:
-        if thefile in ["substitutions.json", "totallabels.json", "translatedlabels.json"]:
+        if thefile in ["substitutions.json", "totallabels.json", "translatedlabels.json","patch_substitutions.json"]:
             continue
         filename = normpath(join(subdir, thefile))
         if filename.startswith(others_path):

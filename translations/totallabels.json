@@ -1,4 +1,17 @@
 {
+  "patches": {
+    "interface": {
+      "windowconfig": {
+        "keybindingsmenu.config.json": 2
+      }
+    },
+    "items": {
+      "categories.config.json": 7
+    },
+    "quickbar": {
+      "icons.json.json": 1
+    }
+  },
   "texts": {
     "affinities": {
       "affinityDescriptions.config.json": 5,
@@ -56,7 +69,7 @@
             "roguesiphonclaw.activeitem.json": 1,
             "roguesiphonclaw2s.activeitem.json": 2,
             "roguesiphonclaw2v.activeitem.json": 2,
-            "roguesiphonclaw3e.activeitem.json": 2,
+            "roguesiphonclaw3e.activeitem.json": 1,
             "roguesiphonclaw3s.activeitem.json": 2,
             "roguesiphonclaw3v.activeitem.json": 2
           },
@@ -74,6 +87,9 @@
             "wizardnovastaff2.activeitem.json": 2,
             "wizardnovastaff3.activeitem.json": 2
           }
+        },
+        "shared_weapons": {
+          "shared_e.activeitem.json": 1
         },
         "specweapons": {
           "adept": {
@@ -128,6 +144,9 @@
           },
           "pioneer": {
             "nautilus.activeitem.json": 2
+          },
+          "thief": {
+            "siphonpurge.activeitem.json": 1
           },
           "titan": {
             "epimetheus.activeitem.json": 2
@@ -325,7 +344,7 @@
         }
       }
     },
-    "ivrpgtext.config.json": 148,
+    "ivrpgtext.config.json": 287,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -342,6 +361,11 @@
       },
       "ivrpgweaken": {
         "ivrpgweaken.animation.json": 1
+      },
+      "rpgmonsters": {
+        "scandroid": {
+          "scandroid.monstertype.json": 2
+        }
       },
       "soldierstun": {
         "ivrpgstun.statuseffect.json": 1,
@@ -546,7 +570,7 @@
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 38,
+    "specList.config.json": 74,
     "specs": {
       "abilities": {
         "adept": {

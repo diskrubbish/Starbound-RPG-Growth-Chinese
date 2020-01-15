@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/keyActions/player/-/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "RPG Second Action ^green;[G]^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/keyActions/player/-/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "RPG Third Action ^green;[H]^reset;"
+    }
+  }
+]

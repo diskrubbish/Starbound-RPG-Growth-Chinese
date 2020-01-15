@@ -1,19 +1,20 @@
 #!/usr/bin/python3
 
-from special_cases import specialSections
 from bisect import insort_left
-from parser_settings import files_of_interest
-from json import load, dump, loads
-from os import walk, makedirs, remove
-from multiprocessing import Pool
-from re import compile as regex
-from json_tools import prepare, field_by_path, list_field_paths
-from shared_path import getSharedPath
 from codecs import open as open_n_decode
-from os.path import join, dirname, exists, relpath, abspath, basename
+from json import dump, load, loads
+from multiprocessing import Pool
+from os import makedirs, remove, walk
+from os.path import abspath, basename, dirname, exists, join, relpath
+from re import compile as regex
 from sys import platform
 
-from ignore_file import ignore_filelist
+from patch_tool import trans_patch, to_a_list
+from ignore_file import ignore_filelist, ignore_filelist_patch
+from patch_spciallist import patchfile_spciallist1, patchfile_spciallist2
+from parser_settings import files_of_interest
+from shared_path import getSharedPath
+from special_cases import specialSections
 from utils import get_answer
 
 if platform == "win32":
@@ -24,10 +25,11 @@ if platform == "win32":
 else:
     from os.path import normpath
 
-root_dir = "F:\Starbound-RPG-Growth" 
+root_dir = "F:\Starbound-RPG-Growth"
 prefix = "F:/Starbound-RPG-Growth-Chinese/translations"
-texts_prefix = "texts"
-sub_file = normpath(join(prefix, "substitutions.json"))
+texts_prefix = "patches"
+sub_file = normpath(join(prefix, "patch_substitutions.json"))
+pro_list = normpath(join(prefix, "patch_problem.txt"))
 
 glitchEmoteExtractor = regex("^([In]{,3}\s?[A-Za-z-]+\.)\s+(.*)")
 glitchIsHere = regex("^.*[gG]litch.*")
@@ -64,26 +66,34 @@ specialSharedPaths = {
     "glitchEmote": "glitchEmotes",
 }
 
+# 增加了输出不能识别的文件的列表能力！utf-8bom byebye！
 
 def parseFile(filename):
     chunk = list()
-    if basename(filename) not in ignore_filelist:
+    if basename(filename)not in ignore_filelist_patch and basename(filename).endswith('.patch'):
         print(basename(filename))
-        with open_n_decode(filename, "r", "utf-8") as f:
+        with open_n_decode(filename, "r", "utf_8_sig") as f:
             try:
-                string = prepare(f)
-                jsondata = loads(string)
+                if basename(filename) in patchfile_spciallist1:
+                    string = trans_patch(f)
+                elif basename(filename) in patchfile_spciallist2:
+                    string = trans_patch(f)
+                else:
+                    string = trans_patch(f)
             except:
                 print("Cannot parse " + filename)
+                problem_file = open(pro_list,'a')
+                problem_file.writelines(filename.replace(root_dir,'')+'\n')
+                problem_file.close()
                 return []
-            paths = list_field_paths(jsondata)
-            dialog = dirname(filename).endswith("dialog")
-            for path in paths:
+            paths = to_a_list(string, 0)
+            dialog = dirname(filename.replace('.patch', '')).endswith("dialog")
+            for i, path in enumerate(paths):
                 for k in files_of_interest.keys():
-                    if filename.endswith(k) or k == "*":
+                    if filename.replace('.patch', '').endswith(k) or k == "*":
                         for roi in files_of_interest[k]:
                             if roi.match(path) or dialog:
-                                val = field_by_path(jsondata, path)
+                                val = to_a_list(string, 1)[i]
                                 if not type(val) is str:
                                     print("File: " + filename)
                                     print("Type of " + path +
@@ -92,7 +102,8 @@ def parseFile(filename):
                                 if val == "":
                                     continue
                                 for handler in textHandlers:
-                                    res = handler(val, filename, '/' + path)
+                                    res = handler(val, filename.replace(
+                                        '.patch', ''), '/' + path)
                                     if res:
                                         chunk += res
                                         break
@@ -100,15 +111,17 @@ def parseFile(filename):
     return chunk
 
 
+
 def construct_db(assets_dir):
     print("Scanning assets at " + assets_dir)
     db = dict()
     db[""] = dict()
     foi = list()
+    patch = tuple('.patch')
     endings = tuple(files_of_interest.keys())
     for subdir, dirs, files in walk(assets_dir):
         for thefile in files:
-            if thefile.endswith(endings):
+            if thefile.endswith(patch):
                 foi.append(normpath(join(subdir, thefile)))
     with Pool(8) as p:
         r = p.imap_unordered(parseFile, foi)
@@ -121,9 +134,10 @@ def construct_db(assets_dir):
                 filename = normpath(
                     relpath(abspath(fname), abspath(assets_dir)))
                 if filename not in db[sec][val]:
-                    db[sec][val][filename] = list()
+                    db[sec][val][filename.replace('.patch', '')] = list()
                 if path not in db[sec][val][filename]:
-                    insort_left(db[sec][val][filename], path)
+                    insort_left(
+                        db[sec][val][filename.replace('.patch', '')], path)
         return db
 
 
@@ -233,7 +247,7 @@ def write_file(filename, content):
 
 # auto processing
 def final_write(file_buffer):
-    danglings = catch_danglings(join(prefix, "texts"), file_buffer)
+    danglings = catch_danglings(join(prefix, "patches"), file_buffer)
     print("These files will be deleted:")
     for d in danglings:
         print('  ' + d)
@@ -263,14 +277,23 @@ def final_write(file_buffer):
     p.close()
     p.join()
 '''
+"""
+if __name__ == "__main__":
+    thedatabase = construct_db(root_dir)
+    file_buffer = prepare_to_write(thedatabase)
+    final_write(file_buffer)
+    """
 
-def extract_labels(root_dir, prefix):
+
+def extract_patch_labels(root_dir, prefix):
+    open(pro_list,'w').truncate()
     root_dir = root_dir
     prefix = prefix
     thedatabase = construct_db(root_dir)
     file_buffer = prepare_to_write(thedatabase)
     final_write(file_buffer)
+
 if __name__ == "__main__":
-    root_dir = "F:\Starbound-RPG-Growth" 
+    root_dir = "F:\Starbound-RPG-Growth"
     prefix = "F:/Starbound-RPG-Growth-Chinese/translations"
-    extract_labels(root_dir, prefix)
+    extract_patch_labels(root_dir, prefix)
