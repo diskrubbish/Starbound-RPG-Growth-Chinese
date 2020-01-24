@@ -139,8 +139,8 @@
       ]
     },
     "Texts": {
-      "Chs": "在半空中按[空格]键踏爆空气冲刺。在跳跃后的短时间内，你不会受到伤害。只要你在空中保持能量充足，你就不会受到跌落伤害。你可以在半空中使用两次这个技能。",
-      "Eng": "Press [Space] while midair to burst forward. For a short time after jumping, you are invulnerable to damage. As long as you remain in the air with energy remaining, you are invulnerable to fall damage. You may do this twice while midair."
+      "Chs": "在半空中按[空格]键闪烁跳跃：在跳跃后的短时间内，获得伪装和无敌。只要你不使用其他的移动技能——并且在着陆前保持能量——你就不会受到跌落伤害。按住左键或右键朝指定方向爆踏。你可以在半空中使用两次这个技能。",
+      "Eng": "Press [Space] while midair to Flash Jump: for a short time after jumping, gain Camouflage and Invulnerability. As long as you don't use other movement abilities -- and have Energy remaining before you land -- you will not take Fall Damage. Hold Left or Right to burst in that direction instead of jumping up. You may Flash Jump twice while midair."
     }
   }
 ]

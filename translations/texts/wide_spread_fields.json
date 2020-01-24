@@ -10,53 +10,27 @@
         "/gui/upgradelayout/children/techtext/value",
         "/gui/upgradelayout/children/weapontext/value"
       ],
-      "professions/botanist.config": [
-        "/classic/0/text"
+      "interface/tooltips/ivrpgarmoraugment.tooltip": [
+        "/augmentNameLabel/value",
+        "/collarNameLabel/value",
+        "/reelNameLabel/value"
       ],
-      "professions/medic.config": [
-        "/classic/0/text"
-      ],
-      "specList.config": [
-        "/0/1/description",
-        "/0/1/weaponText/0",
-        "/0/2/description",
-        "/0/2/weaponText/0",
+      "ivrpgSpecList.config": [
         "/0/5/description",
-        "/0/5/weaponText/0",
         "/0/6/description",
         "/0/6/weaponText/0",
-        "/1/1/description",
-        "/1/1/weaponText/0",
-        "/1/2/description",
-        "/1/2/weaponText/0",
-        "/1/6/description",
-        "/1/6/weaponText/0",
         "/1/8/description",
         "/1/8/weaponText/0",
-        "/2/0/description",
-        "/2/0/weaponText/0",
-        "/2/1/description",
-        "/2/1/weaponText/0",
         "/2/4/description",
         "/2/4/weaponText/0",
         "/2/5/description",
         "/2/5/weaponText/0",
         "/2/6/description",
         "/2/6/weaponText/0",
-        "/3/0/description",
-        "/3/0/weaponText/0",
-        "/3/1/description",
-        "/3/1/weaponText/0",
         "/3/5/description",
         "/3/5/weaponText/0",
-        "/3/6/description",
-        "/3/6/weaponText/0",
         "/3/8/description",
         "/3/8/weaponText/0",
-        "/4/1/description",
-        "/4/1/weaponText/0",
-        "/4/2/description",
-        "/4/2/weaponText/0",
         "/4/4/description",
         "/4/6/description",
         "/4/6/weaponText/0",
@@ -64,10 +38,7 @@
         "/4/7/weaponText/0",
         "/4/8/description",
         "/4/8/weaponText/0",
-        "/5/1/description",
-        "/5/1/weaponText/0",
         "/5/3/description",
-        "/5/3/weaponText/0",
         "/5/5/description",
         "/5/5/weaponText/0",
         "/5/6/description",
@@ -76,6 +47,15 @@
         "/5/7/weaponText/0",
         "/5/8/description",
         "/5/8/weaponText/0"
+      ],
+      "professions/botanist.config": [
+        "/classic/0/text"
+      ],
+      "professions/jeweler.config": [
+        "/classic/0/text"
+      ],
+      "professions/medic.config": [
+        "/classic/0/text"
       ],
       "specs/battlemage.config": [
         "/ability/text",
@@ -89,17 +69,6 @@
         "/tech/text"
       ],
       "specs/berserker.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
-      ],
-      "specs/bountyhunter.config": [
         "/ability/text",
         "/classic/0/text",
         "/classic/1/text",
@@ -218,17 +187,6 @@
         "/effects/3/text",
         "/tech/text"
       ],
-      "specs/samurai.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
-      ],
       "specs/scout.config": [
         "/ability/text",
         "/classic/0/text",
@@ -262,7 +220,7 @@
         "/effects/3/text",
         "/tech/text"
       ],
-      "specs/technomancer.config": [
+      "specs/thief.config": [
         "/ability/text",
         "/classic/0/text",
         "/classic/1/text",
@@ -273,7 +231,7 @@
         "/effects/3/text",
         "/tech/text"
       ],
-      "specs/thief.config": [
+      "specs/trapper.config": [
         "/ability/text",
         "/classic/0/text",
         "/classic/1/text",
@@ -342,6 +300,9 @@
       "interface/itemdescriptions/ivrpgweapon.itemdescription": [
         "/priceLabel/value"
       ],
+      "interface/tooltips/ivrpgarmoraugment.tooltip": [
+        "/priceLabel/value"
+      ],
       "interface/tooltips/ivrpgweapon.tooltip": [
         "/priceLabel/value"
       ],
@@ -355,6 +316,9 @@
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
       ],
       "professions/ivrpgfakeui.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "professions/jeweler/ivrpgjewelerstation.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
       ],
       "professions/medic/ivrpgmedicstation.config": [
@@ -400,7 +364,7 @@
       ]
     },
     "Texts": {
-      "Chs": "手里剑·以太",
+      "Chs": "天拓·以太",
       "Eng": "Aether"
     }
   },
@@ -431,6 +395,9 @@
       ],
       "specs/changeling.config": [
         "/tech/transformBonusText/poptop/7/text"
+      ],
+      "specs/darktemplar.config": [
+        "/effects/3/text"
       ],
       "specs/dragoon.config": [
         "/effects/1/text"
@@ -512,7 +479,7 @@
       ]
     },
     "Texts": {
-      "Chs": "血色手里剑·以太升级。\n能量苦无会留下致人迷失的烟雾。",
+      "Chs": "血色天拓·以太升级。\n能量苦无会留下致人迷失的烟雾。",
       "Eng": "Blood Aether Upgrade.\nEnergy Kunai leave behind disorienting smoke."
     }
   },
@@ -612,7 +579,7 @@
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/statslayout/children/statdescription/value"
       ],
-      "stats.config": [
+      "ivrpgStats.config": [
         "/default/0/text"
       ]
     },
@@ -699,6 +666,20 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemydemonic/children/demonicspookit/title"
+      ],
+      "monsters/rpgmonsters/spookit/demonicspookit.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Demonic Spookit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/RPGskillbook/RPGskillbook.config": [
         "/gui/specializationslayout/children/desctext/value",
         "/gui/specializationslayout/children/desctitle/value"
@@ -748,6 +729,9 @@
       "professions/engineer.config": [
         "/scaling/0/text"
       ],
+      "professions/jeweler.config": [
+        "/scaling/1/text"
+      ],
       "professions/smith.config": [
         "/scaling/0/text"
       ],
@@ -756,6 +740,9 @@
       ],
       "specs/necromancer.config": [
         "/effects/0/text"
+      ],
+      "specs/technomancer.config": [
+        "/effects/2/text"
       ],
       "specs/valkyrie.config": [
         "/effects/0/text"
@@ -989,6 +976,62 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantelectricpetricub/title"
+      ],
+      "monsters/rpgmonsters/petricub/electricpetricub.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Electric Petricub"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantfirelumoth/title"
+      ],
+      "monsters/rpgmonsters/lumoth/firelumoth.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Fire Lumoth"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/gianticenarfin/title"
+      ],
+      "monsters/rpgmonsters/narfin/icenarfin.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Ice Narfin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantmandraflora/title"
+      ],
+      "monsters/rpgmonsters/mandraflora/mandraflora.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Mandraflora"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/upgrade chips/weapon/ivrpguchardlight.activeitem": [
         "/shortdescription"
       ],
@@ -999,6 +1042,48 @@
     "Texts": {
       "Chs": "强光",
       "Eng": "Hard Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/hardenedmasteroid/title"
+      ],
+      "monsters/rpgmonsters/masteroid/large/hardenedmasteroid.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardened Masteroid"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemyholy/children/holywisper/title"
+      ],
+      "monsters/rpgmonsters/wisper/holywisper.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holy Wisper"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/hungryparasprite/title"
+      ],
+      "monsters/rpgmonsters/parasprite/parasprite.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hungry Parasprite"
     }
   },
   {
@@ -1060,6 +1145,24 @@
     "Texts": {
       "Chs": "智力 Int",
       "Eng": "Intelligence"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/jewelertitle/value"
+      ],
+      "professions/jeweler.config": [
+        "/title"
+      ],
+      "professions/jeweler/status/ivrpgjewelerstatus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "珠宝家",
+      "Eng": "Jeweler"
     }
   },
   {
@@ -1335,6 +1438,9 @@
       "professions/engineer/ivrpgengineerstation.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
+      "professions/jeweler/ivrpgjewelerstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
       "professions/medic/ivrpgmedicstation.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
@@ -1409,6 +1515,9 @@
       "professions/ivrpgfakeui.config": [
         "/paneLayout/filter/hint"
       ],
+      "professions/jeweler/ivrpgjewelerstation.config": [
+        "/paneLayout/filter/hint"
+      ],
       "professions/medic/ivrpgmedicstation.config": [
         "/paneLayout/filter/hint"
       ],
@@ -1422,6 +1531,34 @@
     "Texts": {
       "Chs": "搜索",
       "Eng": "Search"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/shieldedchiropterror/title"
+      ],
+      "monsters/rpgmonsters/chiropterror/chiropterror.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shielded Chiropterror"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/shieldedtrifangle/title"
+      ],
+      "monsters/rpgmonsters/trifangle/trifangle.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shielded Trifangle"
     }
   },
   {
@@ -1563,6 +1700,9 @@
         "/paneLayout/btnStopCraft/caption"
       ],
       "professions/engineer/ivrpgengineerstation.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "professions/jeweler/ivrpgjewelerstation.config": [
         "/paneLayout/btnStopCraft/caption"
       ],
       "professions/medic/ivrpgmedicstation.config": [
@@ -1707,11 +1847,11 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "ivrpgSpecList.config": [
+        "/0/3/title"
+      ],
       "ivrpgtext.config": [
         "/lore/children/specialization/children/valkyrie/title"
-      ],
-      "specList.config": [
-        "/0/3/title"
       ],
       "specs/valkyrie.config": [
         "/title"
@@ -1792,6 +1932,9 @@
       "professions/alchemist.config": [
         "/scaling/1/text"
       ],
+      "professions/jeweler.config": [
+        "/scaling/0/text"
+      ],
       "specs/adept.config": [
         "/effects/1/text"
       ],
@@ -1801,6 +1944,9 @@
         "/tech/transformBonusText/giant/1/text",
         "/tech/transformBonusText/orbide/5/text",
         "/tech/transformBonusText/poptop/4/text"
+      ],
+      "specs/darktemplar.config": [
+        "/effects/4/text"
       ],
       "specs/dragoon.config": [
         "/effects/2/text"
@@ -1815,6 +1961,12 @@
         "/effects/1/text"
       ],
       "specs/paladin.config": [
+        "/effects/1/text"
+      ],
+      "specs/samurai.config": [
+        "/effects/1/text"
+      ],
+      "specs/technomancer.config": [
         "/effects/1/text"
       ],
       "specs/titan.config": [
@@ -1889,6 +2041,9 @@
       "specs/pioneer.config": [
         "/effects/0/text"
       ],
+      "specs/technomancer.config": [
+        "/effects/0/text"
+      ],
       "specs/vanguard.config": [
         "/effects/0/text"
       ],
@@ -1944,6 +2099,9 @@
         "/paneLayout/tbSpinCount/regex"
       ],
       "professions/ivrpgfakeui.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "professions/jeweler/ivrpgjewelerstation.config": [
         "/paneLayout/tbSpinCount/regex"
       ],
       "professions/medic/ivrpgmedicstation.config": [

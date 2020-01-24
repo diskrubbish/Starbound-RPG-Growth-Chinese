@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A board you can use if you don't want to accidentally drop anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "For Jewelry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I won't lose any pretty jewelry using this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a board to temporarily hold jewelry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jewelry get stuck to your clothes? Losing it when you take it off? No problem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jewelry isss not very interessting, ssso I can place it in thissss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now this thing right here? This is a mighty fine board."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This could be a very nice jewelry display if so disired."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow. It's... just a shelf? I guess it'll help me quickly remove jewelry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Jewelry 'Extractor'^white;"
+    }
+  }
+]

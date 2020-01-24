@@ -1,0 +1,83 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/aetherarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/novaarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/siphonarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/spiraarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/versaarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "CHs": "与^orange;SAIL^reset;交谈。",
+      "Eng": "Speak to ^orange;SAIL^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/aetherarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/novaarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/siphonarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/spiraarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/versaarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "CHs": "与^orange;努鲁^reset;交谈以传送到竞技场。",
+      "Eng": "Talk to ^orange;Nuru^reset; to travel to the ^orange;arena^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ],
+      "quests/aetherarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ],
+      "quests/novaarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ],
+      "quests/siphonarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ],
+      "quests/spiraarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ],
+      "quests/versaarenaquest.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Chs": "战胜竞技场试炼",
+      "Eng": "Win the arena battle"
+    }
+  }
+]

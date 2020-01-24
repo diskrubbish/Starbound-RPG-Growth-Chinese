@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/novaarenaquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs": "你击败的那些怪物正持有我所怀疑的能量源。打败他们就能驾驭住^blue;死星^reset;。现在去找一处熔炉去冶炼新星水晶，然后去铁砧处锻造你的新星法杖。", 
+      "Eng": "The monsters you fought had just the energy I suspected, and defeating them should yield ^magenta;Dying Stars^reset;. You can now craft Nova Crystals in the Furnace and the Nova Staff in your Anvil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/novaarenaquest.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "你的魔法力量正在逐步增强，我在一本远古魔术师的残破笔记中发现，有一种魔法石中含有恒星的能量。对抗某些怪物应该可以帮助我找到释放能量的方法。", 
+      "Eng": "Your magical power is growing by the second, and it triggered a collapse that let me search through a long lost archive written by old magicians. Records indicate that a magical stone holds energy fueled by stars. Fighting certain monsters should help me figure out how to extract them.^white;"
+    }
+  }
+]

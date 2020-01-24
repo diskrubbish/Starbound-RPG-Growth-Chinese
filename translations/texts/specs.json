@@ -106,7 +106,7 @@
       ]
     },
     "Texts": {
-      "Chs": "殊死一搏",
+      "Chs": "向死而生",
       "Eng": "Desperado"
     }
   },
@@ -156,6 +156,21 @@
     "Texts": {
       "Chs": "闪踏",
       "Eng": "Flash Step"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/samurai.config": [
+        "/tech/title"
+      ],
+      "specs/techs/samurai/iaijutsu.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "居合",
+      "Eng": "Iaijutsu"
     }
   },
   {

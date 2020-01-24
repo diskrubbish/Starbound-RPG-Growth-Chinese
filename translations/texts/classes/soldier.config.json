@@ -55,8 +55,8 @@
       ]
     },
     "Texts": {
-      "Chs": "在使用单单手枪械和手榴弹时基本攻击力提高至120%。",
-      "Eng": "120% Base Power while using One-Handed Guns in combination with Grenades."
+      "Chs": "在使用单独使用单手远程武器时基本攻击力提高至120%。",
+      "Eng": "120% Base Power with a One-Handed Ranged Weapon without another weapon equipped."
     }
   },
   {

@@ -22,17 +22,5 @@
       "Chs": "你对毒物的神秘渴望显然也毒害了我的电路。在我短暂的腐败状态中,我设计出了一张奇异的武器蓝图. 我的研究表明,其所需的材料来自^green;寄生虫和黏糊糊的怪物。^reset;^white;",
       "Eng": "Your uncanny desire to poison everything has apparently poisoned my circuits as well. In my brief state of corruption, schematics for a dubious weapon were created. I believe the research shows that the required materials drop from ^green;parasitic or gooey monsters.^reset;^white;"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/siphonquest.questtemplate": [
-        "/title"
-      ]
-    },
-    "Texts": {
-      "Chs": "^green;似乎很强的寄生毒素",
-      "Eng": "^green;Plausibly Powerful Parasitic Poisons"
-    }
   }
 ]

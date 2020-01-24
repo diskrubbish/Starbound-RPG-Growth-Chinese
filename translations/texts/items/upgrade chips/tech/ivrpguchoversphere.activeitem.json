@@ -7,8 +7,8 @@
       ]
     },
     "Texts": {
-      "Chs": "重力球升级。\n按住右键消耗能量朝往光标方向悬浮。",
-      "Eng": "Gravity Sphere Upgrade.\nJump while transformed to hover towards your cursor at the expense of energy."
+      "Chs": "重力球升级。\n以消耗能量为代价，变形时跳跃以悬浮在空中。",
+      "Eng": "Gravity Sphere Upgrade.\nHold jump while transformed to hover at the expense of energy."
     }
   },
   {

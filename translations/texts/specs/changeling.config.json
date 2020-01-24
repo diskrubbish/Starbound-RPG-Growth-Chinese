@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "+50%冰系，火系和电系康抗性",
+      "Chs": "+50%冰系，火系和电系抗性",
       "Eng": "+50% Ice, Fire, and Electric Resistance"
     }
   },
@@ -241,18 +241,6 @@
     "Texts": {
       "Chs": "按下[F]，[Shift]，或者 [S]变成三个怪物之一：[F]变成低语精灵，[F] + [Shift]变成吐舌娃，[F] + [S]变成鳌拜。每个形态都有一个被动和通过左键单击、右键单击、[G]和[H]触发的4个动作。 在变形过程中，选中上面的独特武器框以获得更多信息。在历经杀戮之后，你可能会注意到一道明亮的闪光：如果是这样，请按下[Shift]，[S]，和 [F]变形成神必生物。",
       "Eng": "Press [F], [Shift], or [S] to shapeshift into one of three monsters: [F] for Wisper; [F] + [Shift] for Poptop; [F] + [S] for Orbide. Each transformation has a Passive and 4 Actions via Left Click, Right Click, [G], and [H]. While transformed, check the Unique Weapon box above for more info. After getting many kills, you may notice a bright flash: if so, press [Shift], [S], and [F] to ???."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/changeling.config": [
-        "/tech/transformBonusText/poptop/3/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "Str力量 x2",
-      "Eng": "Strength x2"
     }
   },
   {

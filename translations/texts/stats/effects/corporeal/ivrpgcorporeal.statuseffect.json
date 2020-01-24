@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/corporeal/ivrpgcorporeal.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "腐化",
+      "Eng": "Corporeal"
+    }
+  }
+]

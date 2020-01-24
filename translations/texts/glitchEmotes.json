@@ -2,6 +2,18 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "professions/jeweler/ivrpgjewelerstation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs": "惊讶。",
+      "Eng": "Amazed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "items/active/weapons/patreon/mimic/object/woodenchest.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -42,6 +54,18 @@
     "Texts": {
       "Chs": "愉快。",
       "Eng": "Delighted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/extractor/extractor.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Chs": "失望。",
+      "Eng": "Disappointed."
     }
   },
   {

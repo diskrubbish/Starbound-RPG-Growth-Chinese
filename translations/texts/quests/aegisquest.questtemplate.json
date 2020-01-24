@@ -22,17 +22,5 @@
       "Chs": "我的数据库显示你的筋肉真是无与伦比！我做了一套模拟,并建议你用一种几乎无法控制的的稀有金属去打造一把量身定做的武器。我建议你从寻找^green;活动的陨石^reset;开始。",
       "Eng": "My databanks show that your physical strength is nearly unmatched! I have run a diagnostic and it suggests you would be unrivaled using a normally unwieldable, incredibly heavy metal as the base for a sword. Looking for meteoric rock from ^green;living meteorites^reset; may be the best place to start.^white;"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/aegisquest.questtemplate": [
-        "/title"
-      ]
-    },
-    "Texts": {
-      "Chs": "^green;陨铁",
-      "Eng": "^green;Meteoric Metal"
-    }
   }
 ]

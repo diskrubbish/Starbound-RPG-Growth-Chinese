@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/darktemplar.config": [
+        "/effects/8/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-20%神圣，火系和电系抗性", 
+      "Eng": "-20% Holy, Fire, and Electric Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
         "/effects/0/text"
       ]
     },
@@ -19,8 +31,20 @@
       ]
     },
     "Texts": {
-      "Chs": "使用长矛和戟时，其基础攻击力增加至150%。",
-      "Eng": "150% Base Power with Spears and Halberds"
+      "Chs": "使用双手近战武器时，其基础攻击力增加至133%。", 
+      "Eng": "133% Base Power with Two-Handed Melee Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "150%最大生命",
+      "Eng": "150% Max Health"
     }
   },
   {
@@ -31,8 +55,20 @@
       ]
     },
     "Texts": {
-      "Chs": "可以使用阔剑，戟和矛",
-      "Eng": "Can Wield Broadswords, Halberds, and Spears."
+      "Chs": "可以装备阔剑，长柄戟，长棍，巨斧，镰刀和矛。",
+      "Eng": "Can Wield Broadswords, Halberds, Polearms, Greataxes, Scythes, and Spears."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "免疫恶魔伤害",
+      "Eng": "Demonic Immunity"
     }
   },
   {
@@ -67,8 +103,20 @@
       ]
     },
     "Texts": {
-      "Chs": "按[W]开启，立即牺牲50%的最大生命值，然后转化为血池将其吸干，直到关闭技能。最初的牺牲会转化为恶魔伤害放出。随着你的生命值降低，伤害会继续扩散，会得到护甲加成。关闭技能时的的生命值的大小决定下一个最大血池，最大为1.5x，但最小为0.25x。放射出的恶魔伤害造成伤害后转换为生命值。",
-      "Eng": "Press [W] to toggle, immediately sacrificing 50% Max Health and then draining it until toggled off. The initial sacrifice turns into radial demonic damage. As your Health gets lower, damage continues to spread, and Armor is granted to you. The amount of Health you have on toggle off determines your next pool of Max Health, up to a maximum of 1.5x, but a minimum of 0.25x. The amount of Damage you dealt due to radial Demonic Damage is converted to Health."
+      "Chs": "按[G]切换，立即牺牲33%的最大生命值。",
+      "Eng": "Press [G] to toggle, immediately sacrificing 33% Max Health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "Vit体质 x2",
+      "Eng": "Vitality x2"
     }
   }
 ]

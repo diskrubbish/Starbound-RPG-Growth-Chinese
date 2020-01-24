@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/technomancer/biohazardous.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "生物危害",
+      "Eng": "Biohazardous"
+    }
+  }
+]

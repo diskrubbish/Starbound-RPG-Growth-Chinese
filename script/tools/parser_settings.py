@@ -87,7 +87,7 @@ foi = {
     "madness.config":[".+research/.+$"],
     "system_objects.config":[".*/displayName$"],
     "ivrpgtext.config": [".+children$",".+tierText/[0-9]+$"],
-    "specList.config": [".+weaponText/[0-9]+$"]
+    "ivrpgSpecList.config": [".+weaponText/[0-9]+$",'.+title/.+$']
 }
 
 files_of_interest = dict()

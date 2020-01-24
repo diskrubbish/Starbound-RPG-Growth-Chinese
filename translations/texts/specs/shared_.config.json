@@ -82,6 +82,9 @@
       ],
       "specs/kunoichi.config": [
         "/effects/0/text"
+      ],
+      "specs/samurai.config": [
+        "/effects/0/text"
       ]
     },
     "Texts": {
@@ -102,6 +105,21 @@
     "Texts": {
       "Chs": "智力Int X2",
       "Eng": "Intelligence x2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/changeling.config": [
+        "/tech/transformBonusText/poptop/3/text"
+      ],
+      "specs/samurai.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "Str力量 x2",
+      "Eng": "Strength x2"
     }
   }
 ]

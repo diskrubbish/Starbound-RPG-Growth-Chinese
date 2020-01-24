@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/samurai/iaijutsu.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "武士专属",
+      "Eng": "Samurai Only"
+    }
+  }
+]

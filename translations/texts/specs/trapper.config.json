@@ -2,24 +2,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "specs/bountyhunter.config": [
+      "specs/trapper.config": [
         "/tech/title"
       ]
     },
     "Texts": {
-      "Chs": "死或生",
+      "Chs": "非死即伤",
       "Eng": "Dead Or Alive"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "specs/bountyhunter.config": [
+      "specs/trapper.config": [
         "/weapon/title"
       ]
     },
     "Texts": {
-      "Chs": "猎头",
+      "Chs": "爆头",
       "Eng": "Headhunter"
     }
   }

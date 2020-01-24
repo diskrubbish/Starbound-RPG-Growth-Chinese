@@ -10,29 +10,5 @@
       "Chs": "这种奇怪的能量似乎像陀螺一样在旋转。我已经把它塑造成一种更加包容的可用形式，现在你也可以这样做了。去找一处铁砧去锻造你的小钻风，然后开始挖掘吧！",
       "Eng": "This strange energy seems to be spinning like a top. I've molded it into a more contained form that you can use for crafting, and you should now be able to do the same. Go craft the Spira in an anvil and start digging!"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/spiraquest.questtemplate": [
-        "/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "看起来你打算去很多地方。我现在才意识到,如果升级一下你的采矿工具，你的探险之旅会容易很多。我已经开始制作一把钻机的原型，我需要你们的帮助来制作它：如果你能从^green;可以旋转的怪物^reset; 身上收集点材料，应该可以加快我的研究进度。^white;",
-      "Eng": "You plan to visit many places it seems, and I only realized now that your travels would be made easier if your mining tools were improved. I have begun working on a prototype that I need your help to build: if you can defeat ^green;monsters that can spin,^reset; I may be able to figure something out.^white;"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/spiraquest.questtemplate": [
-        "/title"
-      ]
-    },
-    "Texts": {
-      "Chs": "^green;钻破天际",
-      "Eng": "^green;Spectacular Spin"
-    }
   }
 ]

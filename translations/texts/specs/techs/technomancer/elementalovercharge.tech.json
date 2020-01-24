@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/technomancer/elementalovercharge.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "奇械师专属",
+      "Eng": "Technomancer Only"
+    }
+  }
+]

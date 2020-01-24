@@ -5,6 +5,9 @@
       "professions/alchemist/ivrpgalchemiststation.config": [
         "/paneLayout/btnCraft/caption"
       ],
+      "professions/jeweler/ivrpgjewelerstation.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
       "professions/medic/ivrpgmedicstation.config": [
         "/paneLayout/btnCraft/caption"
       ]
@@ -21,6 +24,9 @@
         "/paneLayout/lblProduct/value"
       ],
       "professions/engineer/ivrpgengineerstation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "professions/jeweler/ivrpgjewelerstation.config": [
         "/paneLayout/lblProduct/value"
       ],
       "professions/medic/ivrpgmedicstation.config": [
@@ -47,6 +53,9 @@
       "professions/engineer/ivrpgengineerstation.config": [
         "/paneLayout/lblSchematics/value"
       ],
+      "professions/jeweler/ivrpgjewelerstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
       "professions/medic/ivrpgmedicstation.config": [
         "/paneLayout/lblSchematics/value"
       ],
@@ -69,6 +78,9 @@
         "/paneLayout/lblProducttitle/value"
       ],
       "professions/engineer/ivrpgengineerstation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "professions/jeweler/ivrpgjewelerstation.config": [
         "/paneLayout/lblProducttitle/value"
       ],
       "professions/medic/ivrpgmedicstation.config": [

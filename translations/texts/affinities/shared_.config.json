@@ -107,21 +107,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "affinities/arc.config": [
-        "/weakness/0/text"
-      ],
-      "affinities/shock.config": [
-        "/weakness/0/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "-25%冰系抗性",
-      "Eng": "-25% Ice Resistance"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "affinities/flame.config": [
         "/weakness/0/text"
       ],

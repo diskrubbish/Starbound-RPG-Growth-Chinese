@@ -55,8 +55,8 @@
       ]
     },
     "Texts": {
-      "Chs": "蜷缩2秒钟后获得5秒的隐形时间。\n使用能量后解除，获得33%流血几率增加，持续0.5秒。",
-      "Eng": "Crouching for 2 seconds grants a 5 second period of Invisibility.\nUse Energy to dispel this and gain +33% Bleed Chance for 0.5 seconds."
+      "Chs": "蜷缩2秒钟后获得5秒的隐形时间。使用能量后解除，获得33%流血几率增加，持续0.5秒。", 
+      "Eng": "Crouch for 2 seconds for 5 seconds of Invisibility. Use Energy or do Damage to dispel this and gain +33% Bleed Chance for 0.5 seconds."
     }
   },
   {

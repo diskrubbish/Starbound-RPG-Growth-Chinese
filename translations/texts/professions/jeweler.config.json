@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "+30最大能量",
+      "Eng": "+30 Max Energy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler.config": [
+        "/passive/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "只要你有超过20份的食物，就会提炼你获得的经验球的一半变成像素，每两个经验球消耗一份食物。经验球精炼的效率是50%，为每2个经验球获得1点像素。 经验球的获取是于智力有关: 由最近的智力最高的玩家决定。",
+      "Eng": "As long as you have more than 20 Food, drain 1 Food per 2 Experience Orbs to refine half of all bonus Experience Orbs you gain into Pixels. Experience Orbs are refined with 50% efficiency, for a rate of 1 Pixel per 2 Experience Orbs. Bonus Experience Orbs are gained via the Intelligence Stat: the nearest Player with the highest Intelligence determines this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler.config": [
+        "/crafting/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "珠宝商工作台允许你制作首饰或者卸下盔甲上的首饰。", 
+      "Eng": "The Jeweler Station allows you to craft jewelry and remove jewelry from armor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "佩戴与附近玩家相匹配的首饰可以给所有人带来独特的增益。 具体请查看每件首饰的更多信息。",
+      "Eng": "Wearing matching Jewelery with nearby Players grants unique effects to all of you. See each piece of Jewelry for more information."
+    }
+  }
+]
