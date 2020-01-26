@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/violiumanklet.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fashionable Violium Anklet that boosts your Power Multiplier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/violiumanklet.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violium Anklet"
+    }
+  }
+]

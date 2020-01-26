@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/feroziumanklet.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fashionable Ferozium Anklet that boosts your Max Health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/feroziumanklet.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ferozium Anklet"
+    }
+  }
+]

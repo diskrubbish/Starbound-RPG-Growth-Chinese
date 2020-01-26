@@ -2,7 +2,7 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "stats/effects/corporeal/ivrpgcorporeal.statuseffect": [
+      "stats/effects/rpg_corporeal/ivrpgcorporeal.statuseffect": [
         "/label"
       ]
     },

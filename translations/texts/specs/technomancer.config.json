@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用远程武器时，其基础攻击力增加至110%：且随智力增长。", 
+      "Chs": "使用远程武器时，其基础攻击力增加至110%：且随智力增长。",
       "Eng": "110% Base Power with Ranged Weapons: Scales with Int."
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "巫师魔法盾的升级版。提供与魔法盾相同的效果，消耗能量使伤害减半。然而，当元素过载激活时，元素抗性会达到最大，且消耗能量会使攻击+20% 。当你受到伤害时，元素过载会发射一道纯新星能量的闪电作为反击。与普通魔法盾相比，能量再生的效率只有75% 。", 
+      "Chs": "巫师魔法盾的升级版。提供与魔法盾相同的效果，消耗能量使伤害减半。然而，当元素过载激活时，元素抗性会达到最大，且消耗能量会使攻击+20% 。当你受到伤害时，元素过载会发射一道纯新星能量的闪电作为反击。与普通魔法盾相比，能量再生的效率只有75% 。",
       "Eng": "An upgrade to Wizard's Magic Shield: provides the same effect as Magic Shield, using up Energy to halve damage taken. However, while Elemental Overcharge is active, Element Resistances are maxed and Power Multiplier Increases up to +20% as Energy Decreases. Elemental Overcharge fires a bolt of pure Nova Energy in retaliation whenever you are damaged. Energy Regeneration is 75% as effective when compared to regular Magic Shield."
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "可以装备双手远程武器。", 
+      "Chs": "可以装备双手远程武器。",
       "Eng": "Can Wield Two-Handed Ranged Weapons."
     }
   },
@@ -81,18 +81,6 @@
     "Texts": {
       "Chs": "伤害有1%的几率造成超载、灼伤、中毒和脆化。这些减弱可以同时施加。",
       "Eng": "Dealing damage has a 1% chance to inflict Overload, Sear, Toxify, and Embrittle. These debuffs can occur simultaneously."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/technomancer.config": [
-        "/weapon/title"
-      ]
-    },
-    "Texts": {
-      "Chs": "全能喷射器",
-      "Eng": "OmniaThrower"
     }
   }
 ]

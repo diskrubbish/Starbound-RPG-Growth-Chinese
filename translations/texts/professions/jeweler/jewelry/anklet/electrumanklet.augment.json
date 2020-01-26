@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/electrumanklet.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrum Anklet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/electrumanklet.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fashionable Electrum Anklet that slightly boosts your Max Energy."
+    }
+  }
+]

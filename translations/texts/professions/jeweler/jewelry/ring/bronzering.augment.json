@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/ring/bronzering.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bronze Ring"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/ring/bronzering.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fashionable Bronze Ring that slightly boosts your Max Health."
+    }
+  }
+]

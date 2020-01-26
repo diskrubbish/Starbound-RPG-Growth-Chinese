@@ -2,24 +2,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "professions/jeweler/jewelry/earrings.augment": [
+      "professions/jeweler/jewelry/belt/violiumbelt.augment": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Gold Earring that slightly boosts your Max Energy."
+      "Eng": "Fashionable Violium Belt that boosts your Max Energy."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "professions/jeweler/jewelry/earrings.augment": [
+      "professions/jeweler/jewelry/belt/violiumbelt.augment": [
         "/augment/displayName",
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Gold Earring"
+      "Eng": "Violium Belt"
     }
   }
 ]

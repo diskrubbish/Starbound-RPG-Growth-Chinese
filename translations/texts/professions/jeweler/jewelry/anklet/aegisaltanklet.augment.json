@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/aegisaltanklet.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegisalt Anklet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/aegisaltanklet.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fashionable Aegisalt Anklet that slightly your Max Energy."
+    }
+  }
+]

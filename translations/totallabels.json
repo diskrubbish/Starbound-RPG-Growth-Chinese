@@ -1,6 +1,9 @@
 {
   "patches": {
     "interface": {
+      "confirmation": {
+        "teleportconfirmation.config.json": 15
+      },
       "windowconfig": {
         "keybindingsmenu.config.json": 2
       }
@@ -20,7 +23,7 @@
       "flame.config.json": 3,
       "frost.config.json": 3,
       "infernal.config.json": 5,
-      "shared_.config.json": 13,
+      "shared_.config.json": 12,
       "shock.config.json": 3,
       "toxic.config.json": 5,
       "venom.config.json": 2
@@ -36,7 +39,7 @@
       "wizard.config.json": 14
     },
     "default.config.json": 1,
-    "glitchEmotes.json": 7,
+    "glitchEmotes.json": 9,
     "interface": {
       "RPGskillbook": {
         "RPGskillbook.config.json": 111
@@ -86,6 +89,22 @@
             "wizardnovastaff.activeitem.json": 1,
             "wizardnovastaff2.activeitem.json": 2,
             "wizardnovastaff3.activeitem.json": 2
+          }
+        },
+        "protectorate": {
+          "brokendagger": {
+            "brokenprotectoratedagger.activeitem.json": 2
+          },
+          "brokenpistol": {
+            "brokenprotectoratepistol.activeitem.json": 2
+          },
+          "brokenwand": {
+            "brokenprotectoratewand.activeitem.json": 2
+          },
+          "wands": {
+            "tungstenwandelectric.activeitem.json": 2,
+            "tungstenwandfire.activeitem.json": 2,
+            "tungstenwandice.activeitem.json": 2
           }
         },
         "shared_weapons": {
@@ -144,6 +163,9 @@
           },
           "pioneer": {
             "nautilus.activeitem.json": 2
+          },
+          "technomancer": {
+            "omniathrower.activeitem.json": 2
           },
           "thief": {
             "siphonpurge.activeitem.json": 1
@@ -344,7 +366,9 @@
         }
       }
     },
-    "ivrpgtext.config.json": 287,
+    "ivrpgSpecList.config.json": 124,
+    "ivrpgStats.config.json": 30,
+    "ivrpgtext.config.json": 328,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -363,8 +387,47 @@
         "ivrpgweaken.animation.json": 1
       },
       "rpgmonsters": {
+        "chiropterror": {
+          "chiropterror.monstertype.json": 1
+        },
+        "debuffs": {
+          "noability.statuseffect.json": 1
+        },
+        "lumoth": {
+          "firelumoth.monstertype.json": 1
+        },
+        "mandraflora": {
+          "mandraflora.monstertype.json": 1
+        },
+        "masteroid": {
+          "mid": {
+            "hardenedmasteroidmid.monstertype.json": 1
+          },
+          "shared_hardenedmasteroid.json": 1
+        },
+        "monstertonpc": {
+          "monstertonpc.monstertype.json": 2
+        },
+        "narfin": {
+          "icenarfin.monstertype.json": 1
+        },
+        "parasprite": {
+          "parasprite.monstertype.json": 1
+        },
+        "petricub": {
+          "electricpetricub.monstertype.json": 1
+        },
         "scandroid": {
           "scandroid.monstertype.json": 2
+        },
+        "spookit": {
+          "demonicspookit.monstertype.json": 1
+        },
+        "trifangle": {
+          "trifangle.monstertype.json": 1
+        },
+        "wisper": {
+          "holywisper.monstertype.json": 1
         }
       },
       "soldierstun": {
@@ -435,6 +498,20 @@
         }
       },
       "engineer.config.json": 6,
+      "jeweler": {
+        "extractor": {
+          "extractor.config.json": 1,
+          "extractor.object.json": 10
+        },
+        "ivrpgjewelerstation.config.json": 2,
+        "ivrpgjewelerstation.object.json": 9,
+        "jewelry": {
+          "earrings.augment.json": 2,
+          "ghostlyring.augment.json": 2,
+          "necklace.augment.json": 2
+        }
+      },
+      "jeweler.config.json": 4,
       "medic": {
         "ivrpgmedicstation.config.json": 2,
         "ivrpgmedicstation.object.json": 9,
@@ -449,6 +526,7 @@
             "billoncoin.item.json": 2,
             "electrumbar.item.json": 2,
             "platinumbar.item.json": 2,
+            "siliconbronze.item.json": 2,
             "steelbar.item.json": 2
           },
           "miningtools": {
@@ -464,7 +542,7 @@
       "shared_erstation.config.json": 1,
       "shared_station.config.json": 4,
       "smith": {
-        "ivrpgsmithstation.config.json": 1,
+        "ivrpgsmithstation.config.json": 5,
         "ivrpgsmithstation.object.json": 9,
         "status": {
           "ivrpgsmithstatusarmor.statuseffect.json": 1,
@@ -509,24 +587,33 @@
     },
     "quests": {
       "TEMPLATE.questtemplate.json": 3,
-      "aegisquest.questtemplate.json": 3,
+      "aegisarenaquest.questtemplate.json": 2,
+      "aegisquest.questtemplate.json": 2,
       "aegisquest2.questtemplate.json": 1,
       "aegisquest3.questtemplate.json": 2,
-      "aetherquest.questtemplate.json": 3,
+      "aetherarenaquest.questtemplate.json": 1,
+      "aetherquest.questtemplate.json": 1,
       "aetherquest2.questtemplate.json": 1,
       "aetherquest3.questtemplate.json": 2,
       "ivrpgoneforall.questtemplate.json": 3,
-      "novaquest.questtemplate.json": 3,
+      "novaarenaquest.questtemplate.json": 2,
+      "novaquest.questtemplate.json": 2,
       "novaquest2.questtemplate.json": 1,
       "novaquest3.questtemplate.json": 2,
       "shared_.questtemplate.json": 1,
+      "shared_aquest.questtemplate.json": 3,
+      "shared_arenaquest.questtemplate.json": 3,
+      "shared_quest.questtemplate.json": 4,
       "shared_quest2.questtemplate.json": 1,
-      "siphonquest.questtemplate.json": 3,
+      "siphonarenaquest.questtemplate.json": 2,
+      "siphonquest.questtemplate.json": 2,
       "siphonquest2.questtemplate.json": 1,
       "siphonquest3.questtemplate.json": 2,
-      "spiraquest.questtemplate.json": 3,
+      "spiraarenaquest.questtemplate.json": 1,
+      "spiraquest.questtemplate.json": 1,
       "spiraquest2.questtemplate.json": 2,
       "spiraquest3.questtemplate.json": 2,
+      "versaarenaquest.questtemplate.json": 3,
       "versaquest.questtemplate.json": 3,
       "versaquest2.questtemplate.json": 1,
       "versaquest3.questtemplate.json": 2
@@ -554,23 +641,22 @@
         "wizardaffinity.statuseffect.json": 1
       }
     },
-    "shared_.config.json": 7,
+    "shared_.config.json": 8,
     "shared_.statuseffect.json": 1,
     "shared_explorer.json": 3,
     "shared_knight.json": 4,
     "shared_ninja.json": 4,
+    "shared_pec.json": 37,
     "shared_rogue.json": 4,
     "shared_skillbook": {
       "shared_RPGskillbook..json": 1
     },
     "shared_soldier.json": 3,
-    "shared_spec.json": 37,
     "shared_stun.json": 1,
     "shared_tech": {
       "shared_.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
-    "specList.config.json": 74,
     "specs": {
       "abilities": {
         "adept": {
@@ -591,8 +677,7 @@
           "purity.statuseffect.json": 1
         },
         "darktemplar": {
-          "corrupted.statuseffect.json": 1,
-          "corruption.statuseffect.json": 1
+          "corrupted.statuseffect.json": 1
         },
         "dragoon": {
           "flightless.statuseffect.json": 1
@@ -620,6 +705,10 @@
         "pioneer": {
           "terranova.statuseffect.json": 1
         },
+        "shared_.statuseffect.json": 1,
+        "technomancer": {
+          "biohazardous.statuseffect.json": 1
+        },
         "titan": {
           "prometheantactics.statuseffect.json": 1,
           "prometheantacticsarmorboost.statuseffect.json": 1
@@ -640,14 +729,13 @@
       "adept.config.json": 8,
       "battlemage.config.json": 2,
       "berserker.config.json": 2,
-      "bountyhunter.config.json": 2,
       "cannoneer.config.json": 8,
       "captain.config.json": 5,
-      "changeling.config.json": 26,
+      "changeling.config.json": 25,
       "cleric.config.json": 2,
       "conquistador.config.json": 2,
       "crusader.config.json": 11,
-      "darktemplar.config.json": 6,
+      "darktemplar.config.json": 10,
       "deadshot.config.json": 2,
       "dragoon.config.json": 12,
       "hunter.config.json": 8,
@@ -662,13 +750,14 @@
       "pilot.config.json": 2,
       "pioneer.config.json": 5,
       "saboteur.config.json": 2,
-      "samurai.config.json": 2,
+      "samurai.config.json": 8,
       "scout.config.json": 2,
       "shade.config.json": 2,
-      "shared_.config.json": 7,
+      "shared_.config.json": 8,
       "shared_n.config.json": 1,
+      "shared_tech.json": 1,
       "stalker.config.json": 2,
-      "technomancer.config.json": 2,
+      "technomancer.config.json": 8,
       "techs": {
         "adept": {
           "flashstep.tech.json": 1
@@ -733,6 +822,12 @@
             "flagpioneer.object.json": 9
           }
         },
+        "samurai": {
+          "iaijutsu.tech.json": 1
+        },
+        "technomancer": {
+          "elementalovercharge.tech.json": 1
+        },
         "titan": {
           "atlasburden.tech.json": 1,
           "atlasrelief.statuseffect.json": 1
@@ -756,6 +851,7 @@
       },
       "thief.config.json": 2,
       "titan.config.json": 6,
+      "trapper.config.json": 2,
       "valkyrie.config.json": 8,
       "vanguard.config.json": 11,
       "vigilante.config.json": 7,
@@ -764,8 +860,14 @@
       "warlock.config.json": 2,
       "wraith.config.json": 10
     },
-    "specs.json": 17,
-    "stats.config.json": 30,
+    "specs.json": 18,
+    "stats": {
+      "effects": {
+        "corporeal": {
+          "ivrpgcorporeal.statuseffect.json": 1
+        }
+      }
+    },
     "tech": {
       "explorertech": {
         "explorerdrill": {
@@ -898,6 +1000,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 86
+    "wide_spread_fields.json": 97
   }
 }

@@ -3,12 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/darktemplar.config": [
+        "/effects/9/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-20%电系抗性",
+      "Eng": "-20% Electric Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
         "/effects/8/text"
       ]
     },
     "Texts": {
-      "Chs": "-20%神圣，火系和电系抗性", 
-      "Eng": "-20% Holy, Fire, and Electric Resistance"
+      "Chs": "-50%神圣抗性", 
+      "Eng": "-50% Holy Resistance"
     }
   },
   {
@@ -19,20 +31,8 @@
       ]
     },
     "Texts": {
-      "Chs": "使用双头棍和斧时，其基础攻击力增加至115%。",
-      "Eng": "115% Base Power with Quarterstaves and Axes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/darktemplar.config": [
-        "/effects/1/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "使用双手近战武器时，其基础攻击力增加至133%。", 
-      "Eng": "133% Base Power with Two-Handed Melee Weapons."
+      "Chs": "使用矛和斧系武器时，其基础攻击力增加至115%。", 
+      "Eng": "115% Base Power with Spear or Axe-like Weapons."
     }
   },
   {
@@ -51,12 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/darktemplar.config": [
-        "/classic/1/text"
+        "/effects/1/text"
       ]
     },
     "Texts": {
-      "Chs": "可以装备阔剑，长柄戟，长棍，巨斧，镰刀和矛。",
-      "Eng": "Can Wield Broadswords, Halberds, Polearms, Greataxes, Scythes, and Spears."
+      "Chs": "出血几率和时长与力量相关。",
+      "Eng": "Bleed Chance and Length scales with Strength."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以双持近战武器，可以装备双手近战武器。", 
+      "Eng": "Can Dual-Wield Melee Weapons and Wield Two-Handed Melee Weapons."
     }
   },
   {
@@ -91,8 +103,8 @@
       ]
     },
     "Texts": {
-      "Chs": "用恶魔伤害击中敌人有20%的几率使其陷入摧心。被摧心的敌人会向附近的敌人辐射恶魔伤害。",
-      "Eng": "Hitting enemies with Demonic Damage has a 20% chance to corrupt them. Corrupted enemies radiate Demonic Damage to nearby enemies."
+      "Chs": "用恶魔伤害击中敌人有23%的几率使其陷入腐化。被腐化的敌人会向附近的敌人辐射恶魔伤害。", 
+      "Eng": "Hitting enemies with Demonic Damage has a 30% chance to corrupt them. Corrupted enemies radiate Demonic Damage to nearby enemies."
     }
   },
   {
@@ -103,8 +115,8 @@
       ]
     },
     "Texts": {
-      "Chs": "按[G]切换，立即牺牲33%的最大生命值。",
-      "Eng": "Press [G] to toggle, immediately sacrificing 33% Max Health."
+      "Chs": "按[H]（在按键设置中绑定[H]）发动。立即牺牲33%的最大生命值，对附近的敌人造成恶魔伤害，并获得15%的攻击机加成。激活时: HP消耗率为0.5%最大HP+2HP每秒；攻击增幅在30秒内稳步增加到100% ；出血伤害以2比1的比率回复生命；在技能发动期间你对恢复状态免疫。", 
+      "Eng": "Press [H] (Bind [H] in your Controls) to toggle, immediately sacrificing 33% Max Health, deali5ng Demonic Damage to nearby enemies, and gaining +15% Power. While active: Health drains at a rate of 0.5% Max Health + 2 Health per Second; Power increases steadily up to 100% in 30 seconds; Bleed Damage dealt regens Health at a rate of 2 Damage to 1 Health; and you are immune to Healing Status."
     }
   },
   {

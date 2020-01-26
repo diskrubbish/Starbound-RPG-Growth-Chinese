@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/hermesanklet.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Anklet with white, velvet wings that has magical properties. ^green;Provides 5% Fall Damage Resistance. ^blue;Jewelers can wear two to gain Feather Falling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/hermesanklet.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hermes' Anklet"
+    }
+  }
+]

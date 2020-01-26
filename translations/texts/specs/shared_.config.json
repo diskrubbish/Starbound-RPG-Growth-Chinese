@@ -62,21 +62,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "specs/darktemplar.config": [
-        "/classic/0/text"
-      ],
-      "specs/wraith.config": [
-        "/classic/0/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "可以双持近战武器。",
-      "Eng": "Can Dual-Wield Melee Weapons."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "specs/changeling.config": [
         "/tech/transformBonusText/orbide/4/text"
       ],

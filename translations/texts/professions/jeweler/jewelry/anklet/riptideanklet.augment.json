@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/riptideanklet.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Anklet with a cool wave design. Putting it up to your ear, you can hear people say it's not an earring. ^green;Provides 10% Ice Resistance. ^blue;Jewelers can wear two to gain Swift Swim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/riptideanklet.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Riptide Anklet"
+    }
+  }
+]

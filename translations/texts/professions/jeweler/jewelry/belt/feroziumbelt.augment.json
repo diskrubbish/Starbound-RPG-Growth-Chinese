@@ -2,24 +2,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "professions/jeweler/jewelry/necklace.augment": [
+      "professions/jeweler/jewelry/belt/feroziumbelt.augment": [
         "/description"
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Gold Necklace that slightly boosts your Max Energy."
+      "Eng": "Fashionable Ferozium Belt that boosts your Max Health."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "professions/jeweler/jewelry/necklace.augment": [
+      "professions/jeweler/jewelry/belt/feroziumbelt.augment": [
         "/augment/displayName",
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Gold Necklace"
+      "Eng": "Ferozium Belt"
     }
   }
 ]

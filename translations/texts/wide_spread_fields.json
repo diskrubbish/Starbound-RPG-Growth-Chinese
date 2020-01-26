@@ -297,10 +297,16 @@
         "/gui/statslayout/children/vigoramount/value",
         "/gui/statslayout/children/vitalityamount/value"
       ],
+      "interface/itemdescriptions/ivrpgjewelry.itemdescription": [
+        "/priceLabel/value"
+      ],
       "interface/itemdescriptions/ivrpgweapon.itemdescription": [
         "/priceLabel/value"
       ],
       "interface/tooltips/ivrpgarmoraugment.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/ivrpgjewelry.tooltip": [
         "/priceLabel/value"
       ],
       "interface/tooltips/ivrpgweapon.tooltip": [
@@ -1334,6 +1340,21 @@
     "Texts": {
       "Chs": "新星",
       "Eng": "Nova"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/technomancer/omniathrower.activeitem": [
+        "/shortdescription"
+      ],
+      "specs/technomancer.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "全能喷射器",
+      "Eng": "Omnia-Thrower"
     }
   },
   {

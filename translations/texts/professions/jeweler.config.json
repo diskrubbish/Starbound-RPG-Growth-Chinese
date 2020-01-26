@@ -27,24 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "professions/jeweler.config": [
-        "/crafting/text"
+        "/ability/text"
       ]
     },
     "Texts": {
-      "Chs": "珠宝商工作台允许你制作首饰或者卸下盔甲上的首饰。", 
-      "Eng": "The Jeweler Station allows you to craft jewelry and remove jewelry from armor."
+      "Chs": "某些首饰在你佩戴它们的时候会获得独特的效果。查看每件首饰获得更多信息。",
+      "Eng": "Certain Jewelery grants unique effects when you wear them. See each piece of Jewelry for more information."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "professions/jeweler.config": [
-        "/ability/text"
+        "/crafting/text"
       ]
     },
     "Texts": {
-      "Chs": "佩戴与附近玩家相匹配的首饰可以给所有人带来独特的增益。 具体请查看每件首饰的更多信息。",
-      "Eng": "Wearing matching Jewelery with nearby Players grants unique effects to all of you. See each piece of Jewelry for more information."
+      "Chs": "珠宝商工作台允许你制作首饰或者卸下盔甲上的首饰。",
+      "Eng": "The Jeweler Station allows you to craft jewelry and remove jewelry from armor."
     }
   }
 ]

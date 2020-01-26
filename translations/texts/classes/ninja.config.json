@@ -127,8 +127,8 @@
       ]
     },
     "Texts": {
-      "Chs": "按[G]（在按键设置中绑定[G]）以消失。2秒钟后，你将出现在光标处（如果能到达）。如果拿着锋利的武器，在出现时会发出一次砍击。在冷却过程中，失去20%的物理抵抗。能量消耗取决于距离和敏捷值。",
-      "Eng": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility."
+      "Chs": "按[G]（在按键设置中绑定[G]）以消失。2秒钟后，你将出现在光标处（如果能到达）。如果拿着锋利的武器，在出现时会发出一次砍击。在冷却过程中，失去20%的物理抵抗。能量消耗取决于距离和敏捷值。副本期间(和在你的飞船) ，影踏的分身会使用寻路来确定是否可能的心灵传输路线！",
+      "Eng": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Shadow Step uses pathfinding to determine if the teleportation route is possible!"
     }
   },
   {

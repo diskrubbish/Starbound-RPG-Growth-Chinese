@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/ring/ghostlyring.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An eering ring that glows green."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/ring/ghostlyring.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghostly Ring"
+    }
+  }
+]

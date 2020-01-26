@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/soulfireanklet.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despite the heat emanating from within, the metal feels cold to the touch. ^green;Provides 10% Fire Resistance. ^blue;Jewelers can wear two to gain Lava Immunity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/soulfireanklet.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soulfire Anklet"
+    }
+  }
+]

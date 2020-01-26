@@ -163,7 +163,7 @@
       ]
     },
     "Texts": {
-      "Chs": "用新星、火系、冰系、电系或毒系伤害击败敌人。使用火焰喷射器可以获得额外的进程。通过击败更高级别的敌人来更快地解锁。", 
+      "Chs": "用新星、火系、冰系、电系或毒系伤害击败敌人。使用火焰喷射器可以获得额外的进程。通过击败更高级别的敌人来更快地解锁。",
       "Eng": "Defeat enemied with Nova, Fire, Ice, Electric, or Poison Damage. Defeating enemies with the Flamethrower grants bonus progress. Unlocked faster by defeating higher tier enemies."
     }
   },
@@ -187,7 +187,7 @@
       ]
     },
     "Texts": {
-      "Chs": "在智力等于50的情况下击败敌人。通过击败更高级别的敌人来更快地解锁。", 
+      "Chs": "在智力等于50的情况下击败敌人。通过击败更高级别的敌人来更快地解锁。",
       "Eng": "Defeat enemies while Intelligence is 50. Unlocked faster by defeating higher tier enemies."
     }
   },
@@ -359,7 +359,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得安妮与玛丽，一对独一无二的强力手枪，配合无间。", 
+      "Chs": "获得安妮与玛丽，一对独一无二的强力手枪，配合无间。",
       "Eng": "Gain access to Anne and Marie, a pair of unique and powerful pistols that syngerize well together."
     }
   },
@@ -371,7 +371,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得火绳枪，发射爆炸子弹的十字弩。", 
+      "Chs": "获得火绳枪，发射爆炸子弹的十字弩。",
       "Eng": "Gain access to Arquebus, a Crossbow that shoots exploding bolts."
     }
   },
@@ -407,7 +407,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得赋予你和附近的盟友各种物理增幅的技能————战斗光环。", 
+      "Chs": "获得赋予你和附近的盟友各种物理增幅的技能————战斗光环。",
       "Eng": "Gain access to Battle Aura, a Tech that empowers you and nearby allies with various physical buffs."
     }
   },
@@ -419,7 +419,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得向多个方向发射炮弹的技能————炸弹发射。",  
+      "Chs": "获得向多个方向发射炮弹的技能————炸弹发射。",
       "Eng": "Gain access to Bombs Away, a Tech that provides the ability to shoot cannonballs in multiple directions."
     }
   },
@@ -431,7 +431,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得金茶花，一根能把敌人束缚在适当位置的藤鞭。",  
+      "Chs": "获得金茶花，一根能把敌人束缚在适当位置的藤鞭。",
       "Eng": "Gain access to Chrysantha, a Vine Whip that can root enemies in place."
     }
   },
@@ -443,7 +443,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得可以让你在任何星球上插殖民旗帜的技能————拓殖。",   
+      "Chs": "获得可以让你在任何星球上插殖民旗帜的技能————拓殖。",
       "Eng": "Gain access to Colonize, a Tech that allows you to place down a Colony Flag on any planet."
     }
   },
@@ -455,7 +455,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得金茶花，一根能把敌人束缚在适当位置的藤鞭。",   
+      "Chs": "获得金茶花，一根能把敌人束缚在适当位置的藤鞭。",
       "Eng": "Gain access to Crushing Meteor, a Hammer that can crush even obsidian beneath its hefty weight."
     }
   },
@@ -481,7 +481,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得取代跳跃，代之以穿墙的技能————暗黑位面。",   
+      "Chs": "获得取代跳跃，代之以穿墙的技能————暗黑位面。",
       "Eng": "Gain access to Dark Phase, a Tech that replaces jumping with the ability to hover through walls."
     }
   },
@@ -493,7 +493,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得发动时可以获得无限能量和增强力量的技能————向死而生。",    
+      "Chs": "获得发动时可以获得无限能量和增强力量的技能————向死而生。",
       "Eng": "Gain access to Desperado, a Tech that grants infinite Energy and ramps up power when used."
     }
   },
@@ -506,7 +506,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得龙之祸根，一柄双手矛，攻击范围和元素性能都十分优异。", 
+      "Chs": "获得龙之祸根，一柄双手矛，攻击范围和元素性能都十分优异。",
       "Eng": "Gain access to Dragon's Bane, a Two-handed Spear with excellent range and elemental capabilities."
     }
   },
@@ -519,7 +519,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得猛击的升级版技能：惊人的跳跃高度和更强的猛击爆炸————登龙。",     
+      "Chs": "获得猛击的升级版技能：惊人的跳跃高度和更强的猛击爆炸————登龙。",
       "Eng": "Gain access to Dragon's Leap, a Tech that upgrades Knight's Slam with phenomenal Jump Height and a better Slam explosion."
     }
   },
@@ -531,7 +531,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得月蚀，一柄发射追踪新星能量碎片的魔杖。",  
+      "Chs": "获得月蚀，一柄发射追踪新星能量碎片的魔杖。",
       "Eng": "Gain access to Eclipse, a Wand that spawns seeking shards of Nova Energy."
     }
   },
@@ -1212,8 +1212,7 @@
       ]
     },
     "Texts": {
-      "Chs": "屠杀敌人。通过击败更高等级的敌人或者通过暴击造成流血来加快解锁速度。",
-      "Eng": "Slaughter enemies. Unlocked faster by defeating higher tier enemies, or by causing Bleed via Critical Hits."
+      "Eng": "Slaughter enemies. Unlocked faster by defeating higher tier enemies, or by killing enemies via Critical Hits."
     }
   },
   {
@@ -1272,7 +1271,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用弓击败敌人。通过从远距离击败敌人或者击败更高级别的敌人来更快地解锁。", 
+      "Chs": "使用弓击败敌人。通过从远距离击败敌人或者击败更高级别的敌人来更快地解锁。",
       "Eng": "Use Bows to defeat enemies. Unlocked faster by defeating higher tier enemies or by defeating enemies from a distance."
     }
   },
@@ -1296,7 +1295,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用远程武器从远处击败敌人。通过击败更高级别的敌人来更快地解锁。", 
+      "Chs": "使用远程武器从远处击败敌人。通过击败更高级别的敌人来更快地解锁。",
       "Eng": "Use Ranged Weapons to defeat enemies from a distance. Unlocked faster by defeating higher tier enemies."
     }
   },
@@ -1308,7 +1307,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用远程武器，匕首，拳爪武器或者鞭子击败敌人。通过击败更高级别的敌人来更快地解锁。", 
+      "Chs": "使用远程武器，匕首，拳爪武器或者鞭子击败敌人。通过击败更高级别的敌人来更快地解锁。",
       "Eng": "Use Ranged Weapons, Daggers, Fists/Claws, or Whips to defeat enemies. Unlocked faster by defeating higher tier enemies."
     }
   },
@@ -1332,7 +1331,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用矛，武士刀，或者弓击败敌人。通过击败更高级别的敌人来更快地解锁。",  
+      "Chs": "使用矛，武士刀，或者弓击败敌人。通过击败更高级别的敌人来更快地解锁。",
       "Eng": "Use Spears, Katanas, or Bows to defeat enemies. Unlocked faster by defeating higher tier enemies."
     }
   },
@@ -1357,7 +1356,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用锤击败敌人。通过击败更高级别的敌人来更快地解锁。",  
+      "Chs": "使用锤击败敌人。通过击败更高级别的敌人来更快地解锁。",
       "Eng": "Use a Hammer to defeat enemies. Unlocked faster by defeating higher tier enemies."
     }
   },
@@ -1419,7 +1418,7 @@
       ]
     },
     "Texts": {
-      "Chs": "使用藤鞭击败敌人。通过击败更高级别的敌人来更快地解锁。",  
+      "Chs": "使用藤鞭击败敌人。通过击败更高级别的敌人来更快地解锁。",
       "Eng": "Use the Vine Whip to defeat enemies. Unlocked faster by defeating higher tier enemies."
     }
   },

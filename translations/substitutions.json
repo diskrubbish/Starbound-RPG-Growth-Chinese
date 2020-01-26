@@ -183,6 +183,9 @@
     "/gui/upgradelayout/children/weapontext/value": "texts/wide_spread_fields.json",
     "/gui/windowtitle/title": "texts/shared_skillbook/shared_RPGskillbook..json"
   },
+  "interface/itemdescriptions/ivrpgjewelry.itemdescription": {
+    "/priceLabel/value": "texts/wide_spread_fields.json"
+  },
   "interface/itemdescriptions/ivrpgweapon.itemdescription": {
     "/priceLabel/value": "texts/wide_spread_fields.json"
   },
@@ -191,6 +194,9 @@
     "/collarNameLabel/value": "texts/wide_spread_fields.json",
     "/priceLabel/value": "texts/wide_spread_fields.json",
     "/reelNameLabel/value": "texts/wide_spread_fields.json"
+  },
+  "interface/tooltips/ivrpgjewelry.tooltip": {
+    "/priceLabel/value": "texts/wide_spread_fields.json"
   },
   "interface/tooltips/ivrpgweapon.tooltip": {
     "/priceLabel/value": "texts/wide_spread_fields.json"
@@ -244,6 +250,9 @@
   },
   "items/active/specweapons/hunter/arrows/flamearrow/sear/sear.statuseffect": {
     "/label": "texts/wide_spread_fields.json"
+  },
+  "items/active/specweapons/technomancer/omniathrower.activeitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/active/specweapons/thief/siphonpurge.activeitem": {
     "/description": "texts/items/active/shared_weapons/shared_e.activeitem.json"
@@ -1110,7 +1119,6 @@
     "/title": "texts/shared_pec.json"
   },
   "specs/darktemplar.config": {
-    "/classic/0/text": "texts/specs/shared_.config.json",
     "/effects/3/text": "texts/wide_spread_fields.json",
     "/effects/4/text": "texts/wide_spread_fields.json",
     "/effects/7/text": "texts/shared_.config.json",
@@ -1298,7 +1306,8 @@
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/effects/2/text": "texts/wide_spread_fields.json",
     "/tech/title": "texts/specs/shared_tech.json",
-    "/title": "texts/shared_pec.json"
+    "/title": "texts/shared_pec.json",
+    "/weapon/title": "texts/wide_spread_fields.json"
   },
   "specs/techs/adept/flashstep.tech": {
     "/shortDescription": "texts/specs.json"
@@ -1475,7 +1484,6 @@
     "/title": "texts/shared_pec.json"
   },
   "specs/wraith.config": {
-    "/classic/0/text": "texts/specs/shared_.config.json",
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/effects/7/text": "texts/specs/shared_.config.json",
