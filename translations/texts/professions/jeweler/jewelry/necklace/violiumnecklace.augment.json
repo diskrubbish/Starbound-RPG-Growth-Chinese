@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Violium Necklace that boosts your Max Energy."
+      "Chs": "时尚的维奥项链，略微增加你的攻击倍乘。^green;+10%攻击倍乘。^blue;",      
+      "Eng": "Fashionable Violium Necklace that boosts your Powerful Multiplier. ^green;Provides +10% Power Multiplier. ^blue;"
     }
   },
   {
@@ -19,6 +20,7 @@
       ]
     },
     "Texts": {
+      "Chs": "维奥项链",   
       "Eng": "Violium Necklace"
     }
   }

@@ -8,6 +8,7 @@
       ]
     },
     "Texts": {
+      "Chs": "霓磷盐脚镯",
       "Eng": "Aegisalt Anklet"
     }
   },
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Aegisalt Anklet that slightly your Max Energy."
+      "Chs": "时尚的霓磷盐脚镯，略微增加你的最大能量。^green;+5最大能量。^blue;",
+      "Eng": "Fashionable Aegisalt Anklet that slightly your Max Energy. ^green;Provides +5 Max Energy. ^blue;"
     }
   }
 ]

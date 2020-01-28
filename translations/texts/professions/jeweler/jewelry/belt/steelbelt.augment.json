@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Steel Belt that slightly boosts your Power Multiplier."
+      "Chs": "时尚的钢制腰带，略微增加你的攻击倍乘。^green;+5%攻击倍乘。^blue;",    
+      "Eng": "Fashionable Steel Belt that slightly boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;"
     }
   },
   {
@@ -19,6 +20,7 @@
       ]
     },
     "Texts": {
+      "Chs": "钢制腰带", 
       "Eng": "Steel Belt"
     }
   }

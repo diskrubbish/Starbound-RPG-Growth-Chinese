@@ -5,12 +5,12 @@ F:/Starbound-RPG-Growth/monsters/flyers/tentaclespawner/tentaclespawner.monstert
 F:/Starbound-RPG-Growth/monsters/mission/moontant/moontant.monstertype.patch
 F:/Starbound-RPG-Growth/monsters/walkers/tentacleclam/tentacleclam.monstertype.patch
 F:/Starbound-RPG-Growth/scripts/testTreasure.config.patch
+F:/Starbound-RPG-Growth/treasure/shiplocker.treasurepools.patch
 F:/Starbound-RPG-Growth/treasure/Missions/cultists.treasurepools.patch
+F:/Starbound-RPG-Growth/treasure/other/avikanhunting.treasurepools.patch
+F:/Starbound-RPG-Growth/treasure/hunting.treasurepools.patch
 F:/Starbound-RPG-Growth/treasure/space.treasurepools.patch
 F:/Starbound-RPG-Growth/treasure/fumonsters.treasurepools.patch
 F:/Starbound-RPG-Growth/treasure/npcdrops.treasurepools.patch
 F:/Starbound-RPG-Growth/treasure/monster.treasurepools.patch
-F:/Starbound-RPG-Growth/treasure/shiplocker.treasurepools.patch
-F:/Starbound-RPG-Growth/treasure/other/avikanhunting.treasurepools.patch
-F:/Starbound-RPG-Growth/treasure/hunting.treasurepools.patch
 F:/Starbound-RPG-Growth/treasure/cropharvest.treasurepools.patch

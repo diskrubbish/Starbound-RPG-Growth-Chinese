@@ -8,6 +8,7 @@
       ]
     },
     "Texts": {
+      "Chs": "青铜项链",  
       "Eng": "Bronze Necklace"
     }
   },
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Bronze Necklace that slightly boosts your Max Health."
+      "Chs": "时尚的青铜项链，略微增加你的最大健康。^green;+5最大健康。^blue;",   
+      "Eng": "Fashionable Bronze Necklace that slightly boosts your Max Health. ^green;Provides +5 Max Health. ^blue;"
     }
   }
 ]

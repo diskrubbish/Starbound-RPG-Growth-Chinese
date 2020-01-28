@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "尽管金属内部散发出热量，但触摸起来还是很冷。^green;+10%火系抗性。^blue;珠宝商可以装备两个来获得熔岩免疫。",
       "Eng": "Despite the heat emanating from within, the metal feels cold to the touch. ^green;Provides 10% Fire Resistance. ^blue;Jewelers can wear two to gain Lava Immunity."
     }
   },
@@ -19,6 +20,7 @@
       ]
     },
     "Texts": {
+      "Chs": "魂火脚镯",
       "Eng": "Soulfire Anklet"
     }
   }

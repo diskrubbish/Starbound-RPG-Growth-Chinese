@@ -8,6 +8,7 @@
       ]
     },
     "Texts": {
+      "Chs": "银金耳环",   
       "Eng": "Electrum Earring"
     }
   },
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Electrum Earring that slightly boosts your Max Energy."
+      "Chs": "时尚的银金耳环，略微增加你的最大健康。^green;+2.5最大能量。^blue;",    
+      "Eng": "Fashionable Electrum Earring that slightly boosts your Max Energy. ^green;Provides +2.5 Max Energy. ^blue;"
     }
   }
 ]

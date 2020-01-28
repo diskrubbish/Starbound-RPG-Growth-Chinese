@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/earring/dusksearring.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一只明亮的蓝色耳环，唤起月亮清冷的光辉。green;+10%冰系抗性。^blue;珠宝商可以装备两个来获得在晚上+25%攻击倍乘的增益。", 
+      "Eng": "A light blue earring that evokes the cool brilliance of the moon. ^green;Provides +10% Ice Resistance. ^blue;Jewelers can wear two to gain +25% Power Multiplier during nighttime."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/earring/dusksearring.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "黄昏耳环",
+      "Eng": "Dusk's Earring"
+    }
+  }
+]

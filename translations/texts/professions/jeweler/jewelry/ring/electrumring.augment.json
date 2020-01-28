@@ -8,6 +8,7 @@
       ]
     },
     "Texts": {
+      "Chs": "银金戒指",    
       "Eng": "Electrum Ring"
     }
   },
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Electrum Ring that slightly boosts your Max Energy."
+      "Chs": "时尚的银金戒指，略微增加你的最大健康。^green;+2.5最大能量。^blue;",     
+      "Eng": "Fashionable Electrum Ring that slightly boosts your Max Energy. ^green;Provides +2.5 Max Energy. ^blue;"
     }
   }
 ]

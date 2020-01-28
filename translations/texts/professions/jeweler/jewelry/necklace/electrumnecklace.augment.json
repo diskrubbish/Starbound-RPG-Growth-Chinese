@@ -8,6 +8,7 @@
       ]
     },
     "Texts": {
+      "Chs": "银金项链",   
       "Eng": "Electrum Necklace"
     }
   },
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Electrum Necklace that slightly boosts your Max Energy."
+      "Chs": "时尚的银金项链，略微增加你的最大健康。^green;+5最大能量。^blue;",    
+      "Eng": "Fashionable Electrum Necklace that slightly boosts your Max Energy. ^green;Provides +5 Max Energy. ^blue;"
     }
   }
 ]

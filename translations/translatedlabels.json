@@ -36,7 +36,7 @@
       "rogue.config.json": 9,
       "shared_.config.json": 1,
       "soldier.config.json": 12,
-      "wizard.config.json": 14
+      "wizard.config.json": 12
     },
     "default.config.json": 1,
     "glitchEmotes.json": 9,
@@ -165,7 +165,7 @@
             "nautilus.activeitem.json": 2
           },
           "technomancer": {
-            "omniathrower.activeitem.json": 2
+            "omniathrower.activeitem.json": 1
           },
           "thief": {
             "siphonpurge.activeitem.json": 1
@@ -366,7 +366,7 @@
         }
       }
     },
-    "ivrpgSpecList.config.json": 77,
+    "ivrpgSpecList.config.json": 76,
     "ivrpgStats.config.json": 29,
     "ivrpgtext.config.json": 174,
     "monsters": {
@@ -506,9 +506,58 @@
         "ivrpgjewelerstation.config.json": 2,
         "ivrpgjewelerstation.object.json": 9,
         "jewelry": {
-          "earrings.augment.json": 0,
-          "ghostlyring.augment.json": 0,
-          "necklace.augment.json": 0
+          "anklet": {
+            "aegisaltanklet.augment.json": 0,
+            "bronzeanklet.augment.json": 0,
+            "electrumanklet.augment.json": 0,
+            "feroziumanklet.augment.json": 0,
+            "hermesanklet.augment.json": 0,
+            "riptideanklet.augment.json": 0,
+            "soulfireanklet.augment.json": 0,
+            "steelanklet.augment.json": 0,
+            "violiumanklet.augment.json": 0
+          },
+          "belt": {
+            "aegisaltbelt.augment.json": 0,
+            "bronzebelt.augment.json": 0,
+            "electrumbelt.augment.json": 0,
+            "feroziumbelt.augment.json": 0,
+            "steelbelt.augment.json": 0,
+            "violiumbelt.augment.json": 0
+          },
+          "earring": {
+            "aegisaltearring.augment.json": 0,
+            "bronzeearring.augment.json": 0,
+            "electrumearring.augment.json": 0,
+            "feroziumearring.augment.json": 0,
+            "steelearring.augment.json": 0,
+            "violiumearring.augment.json": 0
+          },
+          "necklace": {
+            "aegisaltnecklace.augment.json": 0,
+            "bronzenecklace.augment.json": 0,
+            "electrumnecklace.augment.json": 0,
+            "feroziumnecklace.augment.json": 0,
+            "steelnecklace.augment.json": 0,
+            "violiumnecklace.augment.json": 0
+          },
+          "ring": {
+            "aegisaltring.augment.json": 0,
+            "bronzering.augment.json": 0,
+            "electrumring.augment.json": 0,
+            "feroziumring.augment.json": 0,
+            "ghostlyring.augment.json": 0,
+            "steelring.augment.json": 0,
+            "violiumring.augment.json": 0
+          },
+          "watch": {
+            "aegisaltwatch.augment.json": 0,
+            "bronzewatch.augment.json": 0,
+            "electrumwatch.augment.json": 0,
+            "feroziumwatch.augment.json": 0,
+            "steelwatch.augment.json": 0,
+            "violiumwatch.augment.json": 0
+          }
         }
       },
       "jeweler.config.json": 4,
@@ -735,7 +784,7 @@
       "cleric.config.json": 2,
       "conquistador.config.json": 2,
       "crusader.config.json": 11,
-      "darktemplar.config.json": 10,
+      "darktemplar.config.json": 11,
       "deadshot.config.json": 2,
       "dragoon.config.json": 12,
       "hunter.config.json": 8,
@@ -753,11 +802,11 @@
       "samurai.config.json": 8,
       "scout.config.json": 2,
       "shade.config.json": 2,
-      "shared_.config.json": 8,
+      "shared_.config.json": 7,
       "shared_n.config.json": 1,
       "shared_tech.json": 1,
       "stalker.config.json": 2,
-      "technomancer.config.json": 8,
+      "technomancer.config.json": 7,
       "techs": {
         "adept": {
           "flashstep.tech.json": 1
@@ -858,13 +907,19 @@
       "vinetender.config.json": 2,
       "wanderer.config.json": 2,
       "warlock.config.json": 2,
-      "wraith.config.json": 10
+      "wraith.config.json": 11
     },
     "specs.json": 18,
     "stats": {
       "effects": {
-        "corporeal": {
+        "rpg_corporeal": {
           "ivrpgcorporeal.statuseffect.json": 1
+        },
+        "rpg_launched": {
+          "ivrpglaunched.statuseffect.json": 1
+        },
+        "rpg_slammed": {
+          "ivrpgslammed.statuseffect.json": 1
         }
       }
     },
@@ -1000,6 +1055,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 83
+    "wide_spread_fields.json": 84
   }
 }

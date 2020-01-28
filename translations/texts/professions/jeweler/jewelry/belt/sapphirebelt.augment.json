@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/belt/sapphirebelt.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "注入霜冻能量的暗蓝色钻石装饰在腰带上，为佩戴者带来凉意。^green;+20%火系抗性。^blue;珠宝商可以装备以获得火属性免疫。",  
+      "Eng": "Infused with Cryo Energy, Dark Blue Diamonds adorned to this belt help cool its wearer down. ^green;Provides +20% Fire Resistance. ^blue;Jewelers gain Fire Status Immunity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/belt/sapphirebelt.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "蓝宝石腰带",
+      "Eng": "Sapphire Belt"
+    }
+  }
+]

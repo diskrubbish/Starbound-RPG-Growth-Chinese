@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fashionable Violium Ring that boosts your Max Energy."
+      "Chs": "时尚的维奥戒指，略微增加你的攻击倍乘。^green;+5%攻击倍乘。^blue;",       
+      "Eng": "Fashionable Violium Ring that boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;"
     }
   },
   {
@@ -19,7 +20,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Violium Ring"
+      "Chs": "维奥戒指",    
+      "Eng": "Violiu1m Ring"
     }
   }
 ]

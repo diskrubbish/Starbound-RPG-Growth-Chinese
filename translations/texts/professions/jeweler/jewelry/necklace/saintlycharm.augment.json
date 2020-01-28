@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/necklace/saintlycharm.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一个圣洁的护身符，由或根和丝绸缝制而成，用来隔绝恶魔的灵魂。^green;+20%恶魔抗性。^blue;珠宝商可以装备以获得恶魔属性免疫。",
+      "Eng": "A Holy Charm sewn from Living Root and Silk that wards off Demonic Spirits. ^green;Provides +20% Demonic Resistance. ^blue;Jewelers gain Demonic Status Immunity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/necklace/saintlycharm.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "圣洁符咒",
+      "Eng": "Saintly Charm"
+    }
+  }
+]
