@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "如果你不想不小心把什么东西掉了，这块板子可以帮上忙。",
       "Eng": "A board you can use if you don't want to accidentally drop anything."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "珠宝",
       "Eng": "For Jewelry"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "用这个我不会弄丢任何漂亮的珠宝。",
       "Eng": "I won't lose any pretty jewelry using this."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这只是一块暂时放珠宝的板子。",
       "Eng": "It's just a board to temporarily hold jewelry."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "珠宝会粘在衣服上？脱下来就掉了？没问题。",
       "Eng": "Jewelry get stuck to your clothes? Losing it when you take it off? No problem."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "珠宝不不不是很有趣，所所所以我可以把它放在这里里里。",
       "Eng": "Jewelry isss not very interessting, ssso I can place it in thissss."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "现在这个东西在这？一块非常好的板子。",
       "Eng": "Now this thing right here? This is a mighty fine board."
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这将是一个非常好的珠宝展示台，如果这样公平。",
       "Eng": "This could be a very nice jewelry display if so disired."
     }
   },
@@ -95,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "哇，只是... 只是一个架子？我想这能帮我快速取下珠宝。",
       "Eng": "Wow. It's... just a shelf? I guess it'll help me quickly remove jewelry."
     }
   },
@@ -106,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^blue;珠宝“提取器”'^white;",
       "Eng": "^blue;Jewelry 'Extractor'^white;"
     }
   }

@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在红色格子中放置1个项以确定元素。接受以下物品: \n      ^gray;毒液样本，焦火核心，冷冻提取物，静电细胞, 玻璃(保持原来的元素属性)\n      ^white;玻璃可以在熔炉处使用沙子制作。 ^red;不要玻璃块^reset;\n      ^magenta;传说^gray;和^yellow;独一^gray;武器不能改变元素: 要么使用玻璃，要么使用他们元素的相关物品。",
       "Eng": "Place 1 Item in Red Slot to determine Element. Accepts the following:\n      ^gray;Venom Sample, Scorched Core, Cryonic Extract, Static Cell, Glass (Keeps Element)\n      ^white;Glass can be created using Sand in a Furnace. ^red;Do not use Glass Blocks.^reset;\n      ^magenta;Legendary^gray; and ^yellow;Essential^gray; Weapons can not change element: either use Glass or their element's related Item."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在灰色格子中放置5个条来决定武器等级，从1到6。 接受以下物品: \n      ^gray;铁，钨，钛，耐钢, 维奥/霓磷/菲洛，日耀\n      ^red;更高的等级将在以后推出。^reset;",
       "Eng": "Place 5 Bars in Grey Slot to determine Weapon Level, from 1 to 6. Accepts the following:\n      ^gray;Iron, Tungsten, Titanium, Durasteel, Violium/Aegisalt/Ferozium, Solarium\n      ^red;A higher tier will be introduced at a later date.^reset;"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "将银金锭放置在黄色格子中。需要^red;2个^reset;用于升级，需要^red;4个^reset;用于创建。",
       "Eng": "Place Electrum Bars in Yellow Slot. Requires ^red;exactly 2^reset; for Upgrades and ^red;exactly 4^reset; for Creation."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "要升级现有的武器，把它放在紫色格子中。\n      ^gray;否则，要制作一把新武器，请在紫色格子中放置一种物品。 接受以下物品:^reset;\n      2个的尖锐的爪子(Spear)，2个硬化甲壳(锤) ，6个钢锭(阔剑) ，\n      ^gray;1个尖锐的爪子(匕首) ，一个硬化甲壳(斧)，3个钢锭(短剑)\n      ^red;更多的武器类型将在以后引入;Mod中的武器类型，如武士刀，也将包括在内。",
       "Eng": "To upgrade an existing weapon, place it in the Purple Slot.\n      ^gray;Otherwise, to create a new weapon, place an item in the Purple Slot. Accepts the following:^reset;\n      Exactly 2 Sharpened Claw (Spear), Exactly 2 Hardened Carapace (Hammer), Exactly 6 Steel Bar (Broadsword),\n      ^gray;Exactly 1 Sharpened Claw (Dagger), Exactly 1 Hardened Carapace (Axe), Exactly 3 Steel Bar (Shortsword)\n      ^red;More Weapon Types will be introduced at a later date; Mod Weapon Types, like Katanas, will be included as well."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "要制作一把新武器，请在蓝色格子中放入^red;3块煤炭^reset;。\n      ^gray;否则，将所需的物品放置在蓝色格子中。 接受以下物品:\n      ^white;钻石(增加基础伤害) ，电池(减少能量消耗) ，3块煤(无属性改变)\n      ^gray;有些武器不接受这些改变^red; 所以如果你的武器没有升级，尝试使用3块煤。^reset;\n      ^white;您只能使用钻石或电池一次。电池可以在熔炉里制作: ^red;切记不要使用AA电池。",
       "Eng": "When creating a new weapon, place ^red;3 Coal^reset; in the Blue Slot.\n      ^gray;Otherwise, place desired Items in Blue Slot. Accepts the following:\n      ^white;Diamond (Increases Base Damage), Battery (Decreases Energy Cost), 3 Coal (No Stat Change)\n      ^gray;Some Weapons do not accept these modifications,^red; so try using 3 Coal if your weapon is not being upgraded.^reset;\n      ^white;You can only use Diamonds and Batteries once. Batteries can be crafted in a Furnace: ^red;don't use AA Batteries."
     }
   }

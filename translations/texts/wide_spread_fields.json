@@ -277,6 +277,7 @@
       ]
     },
     "Texts": {
+      "Chs": "-",
       "Eng": "-"
     }
   },
@@ -338,6 +339,7 @@
       ]
     },
     "Texts": {
+      "Chs": "0",
       "Eng": "0"
     }
   },
@@ -680,6 +682,7 @@
       ]
     },
     "Texts": {
+      "Chs": "恶魔幽灵",
       "Eng": "Demonic Spookit"
     }
   },
@@ -990,6 +993,7 @@
       ]
     },
     "Texts": {
+      "Chs": "巨型电动车",
       "Eng": "Giant Electric Petricub"
     }
   },
@@ -1004,6 +1008,7 @@
       ]
     },
     "Texts": {
+      "Chs": "巨火金蛾",
       "Eng": "Giant Fire Lumoth"
     }
   },
@@ -1018,6 +1023,7 @@
       ]
     },
     "Texts": {
+      "Chs": "巨大的冰 Narfin",
       "Eng": "Giant Ice Narfin"
     }
   },
@@ -1032,6 +1038,7 @@
       ]
     },
     "Texts": {
+      "Chs": "Giant Mandraflora",
       "Eng": "Giant Mandraflora"
     }
   },
@@ -1061,6 +1068,7 @@
       ]
     },
     "Texts": {
+      "Chs": "硬化的 Masteroid",
       "Eng": "Hardened Masteroid"
     }
   },
@@ -1075,6 +1083,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我的天哪",
       "Eng": "Holy Wisper"
     }
   },
@@ -1089,6 +1098,7 @@
       ]
     },
     "Texts": {
+      "Chs": "饥饿的 Parasprite",
       "Eng": "Hungry Parasprite"
     }
   },
@@ -1473,6 +1483,7 @@
       ]
     },
     "Texts": {
+      "Chs": "替换我",
       "Eng": "Replace Me"
     }
   },
@@ -1565,6 +1576,7 @@
       ]
     },
     "Texts": {
+      "Chs": "屏蔽手足恐怖",
       "Eng": "Shielded Chiropterror"
     }
   },
@@ -1579,6 +1591,7 @@
       ]
     },
     "Texts": {
+      "Chs": "屏蔽三角形",
       "Eng": "Shielded Trifangle"
     }
   },
@@ -2136,6 +2149,7 @@
       ]
     },
     "Texts": {
+      "Chs": "什么?-0,4}",
       "Eng": "x?\\d{0,4}"
     }
   }

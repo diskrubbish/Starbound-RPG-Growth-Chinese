@@ -271,6 +271,9 @@
           "ivrpgparasiticgoo.item.json": 2,
           "ivrpgparasiticnervebundle.item.json": 2
         },
+        "rpgexclusives": {
+          "feather.item.json": 2
+        },
         "soldier": {
           "ivrpgfiringmechanism.item.json": 2,
           "ivrpggunparts.item.json": 2
@@ -507,56 +510,70 @@
         "ivrpgjewelerstation.object.json": 9,
         "jewelry": {
           "anklet": {
-            "aegisaltanklet.augment.json": 0,
-            "bronzeanklet.augment.json": 0,
-            "electrumanklet.augment.json": 0,
-            "feroziumanklet.augment.json": 0,
-            "hermesanklet.augment.json": 0,
-            "riptideanklet.augment.json": 0,
-            "soulfireanklet.augment.json": 0,
-            "steelanklet.augment.json": 0,
-            "violiumanklet.augment.json": 0
+            "aegisaltanklet.augment.json": 2,
+            "bronzeanklet.augment.json": 2,
+            "electrumanklet.augment.json": 2,
+            "feroziumanklet.augment.json": 2,
+            "hermesanklet.augment.json": 2,
+            "riptideanklet.augment.json": 2,
+            "soulfireanklet.augment.json": 2,
+            "steelanklet.augment.json": 2,
+            "violiumanklet.augment.json": 2
           },
           "belt": {
-            "aegisaltbelt.augment.json": 0,
-            "bronzebelt.augment.json": 0,
-            "electrumbelt.augment.json": 0,
-            "feroziumbelt.augment.json": 0,
-            "steelbelt.augment.json": 0,
-            "violiumbelt.augment.json": 0
+            "aegisaltbelt.augment.json": 2,
+            "bronzebelt.augment.json": 2,
+            "electrumbelt.augment.json": 2,
+            "emeraldbelt.augment.json": 2,
+            "feroziumbelt.augment.json": 2,
+            "rubybelt.augment.json": 2,
+            "sapphirebelt.augment.json": 2,
+            "steelbelt.augment.json": 2,
+            "violiumbelt.augment.json": 2
           },
           "earring": {
-            "aegisaltearring.augment.json": 0,
-            "bronzeearring.augment.json": 0,
-            "electrumearring.augment.json": 0,
-            "feroziumearring.augment.json": 0,
-            "steelearring.augment.json": 0,
-            "violiumearring.augment.json": 0
+            "aegisaltearring.augment.json": 2,
+            "bronzeearring.augment.json": 2,
+            "dawnsearring.augment.json": 2,
+            "dusksearring.augment.json": 2,
+            "eaglesearring.augment.json": 2,
+            "electrumearring.augment.json": 2,
+            "feroziumearring.augment.json": 2,
+            "steelearring.augment.json": 2,
+            "violiumearring.augment.json": 2
           },
           "necklace": {
-            "aegisaltnecklace.augment.json": 0,
-            "bronzenecklace.augment.json": 0,
-            "electrumnecklace.augment.json": 0,
-            "feroziumnecklace.augment.json": 0,
-            "steelnecklace.augment.json": 0,
-            "violiumnecklace.augment.json": 0
+            "aegisaltnecklace.augment.json": 2,
+            "bronzenecklace.augment.json": 2,
+            "electrumnecklace.augment.json": 2,
+            "feroziumnecklace.augment.json": 2,
+            "memorylocket.augment.json": 2,
+            "purifyingpendant.augment.json": 2,
+            "saintlycharm.augment.json": 2,
+            "steelnecklace.augment.json": 2,
+            "violiumnecklace.augment.json": 2
           },
           "ring": {
-            "aegisaltring.augment.json": 0,
-            "bronzering.augment.json": 0,
-            "electrumring.augment.json": 0,
-            "feroziumring.augment.json": 0,
-            "ghostlyring.augment.json": 0,
-            "steelring.augment.json": 0,
-            "violiumring.augment.json": 0
+            "aegisaltring.augment.json": 2,
+            "bronzering.augment.json": 2,
+            "electrumring.augment.json": 2,
+            "feroziumring.augment.json": 2,
+            "fluxring.augment.json": 2,
+            "ghostlyring.augment.json": 2,
+            "spitefulring.augment.json": 2,
+            "steelring.augment.json": 2,
+            "violiumring.augment.json": 2
           },
           "watch": {
-            "aegisaltwatch.augment.json": 0,
-            "bronzewatch.augment.json": 0,
-            "electrumwatch.augment.json": 0,
-            "feroziumwatch.augment.json": 0,
-            "steelwatch.augment.json": 0,
-            "violiumwatch.augment.json": 0
+            "aegisaltwatch.augment.json": 2,
+            "bronzewatch.augment.json": 2,
+            "electrumwatch.augment.json": 2,
+            "feroziumwatch.augment.json": 2,
+            "hitechwatch.augment.json": 2,
+            "mechanicalwatch.augment.json": 2,
+            "solarpoweredwatch.augment.json": 2,
+            "steelwatch.augment.json": 2,
+            "violiumwatch.augment.json": 2
           }
         }
       },
@@ -912,6 +929,9 @@
     "specs.json": 18,
     "stats": {
       "effects": {
+        "camouflage": {
+          "ivrpgcamouflagehunter.statuseffect.json": 1
+        },
         "rpg_corporeal": {
           "ivrpgcorporeal.statuseffect.json": 1
         },
@@ -966,7 +986,10 @@
       },
       "ninjatech": {
         "flashjump": {
-          "ninjaflashjump.tech.json": 1
+          "ninjaflashjump.tech.json": 1,
+          "nofalldamage": {
+            "nofalldamage.statuseffect.json": 1
+          }
         },
         "ninjaassassinate": {
           "ninjaassassinate.tech.json": 1,

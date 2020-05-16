@@ -543,6 +543,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得能让附近盟友刀枪不入的技能————女武神祝福。",
       "Eng": "Gain access to Einherjar, a Tech that allows you to grant invulnerability to a nearby ally."
     }
   },
@@ -555,6 +556,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得魔法盾的升级版技能，提高元素抗性和力量————元素过载。",
       "Eng": "Gain access to Elemental Overcharge, a Tech that upgrades Magic Shield with improved Element Resistance and Increased Power."
     }
   },
@@ -566,6 +568,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得用致命陷阱捕捉敌人的技能————诱捕。",
       "Eng": "Gain access to Entrapment, a Tech that captures enemies in deadly traps."
     }
   },
@@ -577,6 +580,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得厄庇墨透斯，一把单手冲锋枪，属性平均，在杀死敌人时提供防御加值。",
       "Eng": "Gain access to Epimetheus, a one-handed Submachine Gun with average stats that provides defensive bonuses upon killing enemies."
     }
   },
@@ -588,6 +592,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得机械降神，一把单手火箭发射器，留下能量脉冲弧。",
       "Eng": "Gain access to Ex-Mechina, a One-Handed Rocket Launcher that leaves behind arc energy pulses."
     }
   },
@@ -599,6 +604,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得恐惧，一张能发射致命地雷和刺穿箭的弓。",
       "Eng": "Gain access to Fear, a Bow that can shoot deadly mines and piercing arrows."
     }
   },
@@ -610,6 +616,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得以非凡而定向的传送取代跳跃的技能————闪踏。", 
       "Eng": "Gain access to Flash Step, a Tech that replaces jumping with unstable, directional teleportation."
     }
   },
@@ -621,6 +628,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得全吸收，一柄恶魔镰刀，可以释放不稳定的恶魔能量。",
       "Eng": "Gain access to For Us All, a demonic Scythe that can unleash unstable Demonic Energy."
     }
   },
@@ -632,6 +640,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得永恒圣枪，一把能把敌人变成治愈之光的长矛。",
       "Eng": "Gain access to Gungnir, a Spear that turns enemies into a healing ray of light."
     }
   },
@@ -643,6 +652,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得可以高亮附近敌人、友军和敌人的技能——心跳传感器。",
       "Eng": "Gain access to Heartbeat Sensor, a Tech that highlights nearby hostiles, friendlies, and ores."
     }
   },
@@ -655,6 +665,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得无心，一把承载着深远波动的戟，可以导致巨大的爆炸。",
       "Eng": "Gain access to Heartless, a Halberd with far-reaching swings that can cause massive explosions."
     }
   },
@@ -666,6 +677,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得能够按命令进行伪装的技能————潜龙勿用",
       "Eng": "Gain access to Hidden Dragon, a Tech that enables camouflage on command."
     }
   },
@@ -677,6 +689,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得使用能量快速向前挥砍的技能————居合", 
       "Eng": "Gain access to Iaijutsu, a Tech that allows you to use Energy to quickly slash forwards."
     }
   },
@@ -688,6 +701,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得神射手的升级版技能，大大增加其力量————理想射击",  
       "Eng": "Gain access to Ideal Shot, a Tech that upgrades Marksman to greatly increase Power."
     }
   },
@@ -699,6 +713,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得提供团队支持，但需要熟练防御技术的技能————无暇之盾",   
       "Eng": "Gain access to Immaculate Shield, a Tech that provides team support but requires a skillful defense."
     }
   },
@@ -710,6 +725,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得让你在短时间内势不可挡，让你在足够快的时候甚至可以打破墙壁移动的技能————界限突破",    
       "Eng": "Gain access to Limit Break, a Tech that makes you unstoppable for a short period, letting you even break walls moving fast enough."
     }
   },
@@ -721,6 +737,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得莲花，一把狙击步枪，可以创造致命的气体云击败敌人。",
       "Eng": "Gain access to Lotus, a Sniper Rifle that can create clouds of deadly gas upon defeating enemies."
     }
   },
@@ -732,6 +749,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得花鸟风月，一把单手战扇，速度惊人，连击优雅。",
       "Eng": "Gain access to Luxuria, a One-handed War Fan with phenomenal speed and graceful combos."
     }
   },
@@ -743,6 +761,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得迈达，一把精确的狙击步枪，可以使用使用多用工具隐藏在各种元素之中。",
       "Eng": "Gain access to Mida, an accurate Sniper Rifle that can be cloaked in various elements using Multitool."
     }
   },
@@ -754,6 +773,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得能够实现各种功能，比如躲避，投掷元素手榴弹，增强迈达效果的技能————多用工具",    
       "Eng": "Gain access to Multitool, a Tech that enables a variety of functions, such as dodging, throwing elemental grenades, and enhancing Mida."
     }
   },
@@ -765,6 +785,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得完全修理受损载具的技能————纳米机过载",     
       "Eng": "Gain access to Nanobot Overcharge, a Tech that fully repairs damaged vehicles."
     }
   },
@@ -776,6 +797,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得安抚附近自然怪物的的技能————自然光环",      
       "Eng": "Gain access to Natural Aura, a Tech that pacifies nearby natural monsters."
     }
   },
@@ -787,6 +809,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得鹦鹉螺，一个单手工具，可以抵消所有的环境伤害，且减轻在所有液体中的移动阻力。",
       "Eng": "Gain access to Nautilus, a One-handed Tool that can be used to nullify all environmental damage as well as ease movement in all liquids."
     }
   },
@@ -798,6 +821,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得可以让你通过创造新星能量的粘性云来在空中行走的技能————新星之踏",
       "Eng": "Gain access to Nova Step, a Tech that allows you to walk midir by creating viscous clouds of Nova energy."
     }
   },
@@ -809,6 +833,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得守誓者，一把发射神圣能量的狂野连击阔剑。",
       "Eng": "Gain access to Oathkeeper, a Broadsword with a crazy combo and the ability to fire Holy Energy."
     }
   },
@@ -820,6 +845,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得守誓者，一把发射神圣能量的稳健连击阔剑。",
       "Eng": "Gain access to Oathkeeper, a Broadsword with a lengthy combo and the ability to fire Holy Energy."
     }
   },
@@ -832,6 +858,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得全能喷射器，一把可以在新星、火焰、电、冰和毒之间切换的火焰喷射器。",
       "Eng": "Gain access to Omnia-Thrower, a Flamethrower that can switch between Nova, Fire, Electric, Ice, and Poison Energy."
     }
   },
@@ -843,6 +870,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得星轨，一把可以召唤新星晶体并将空间撕裂的魔杖。",
       "Eng": "Gain access to Orbital, a Staff that can summon Nova crystals and pull space apart."
     }
   },
@@ -854,6 +882,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得突发和暴风之啸, 一对近距离摧毁敌人的榴弹发射器和短剑。",
       "Eng": "Gain access to Outburst and Stormhowl, a Grenade Launcher and Shortsword pair that devastates enemies up close."
     }
   },
@@ -865,6 +894,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得相移，一把单手魔杖，对敌人造成显著的范围伤害，提供神奇的范围盟友增幅。",
       "Eng": "Gain access to Phase Shift, a One-Handed Wand with phenomenal AoE damage against enemies and fantastic AoE ally support."
     }
   },
@@ -876,6 +906,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得类星体，一把在杀死敌人时制造黑暗的匕首。",
       "Eng": "Gain access to Quasar, a Dagger that causes darkness when killing ememies."
     }
   },
@@ -887,6 +918,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得立即杀死低生命值的敌人或生成一只友好怪物的技能————收割", 
       "Eng": "Gain access to Reap, a Tech that allows you to instantly kill low health enemies or spawn a friendly monster."
     }
   },
@@ -899,6 +931,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得冲刺的升级版技能，让你能死而复生————回光返照", 
       "Eng": "Gain access to Resurgence, a Tech that modifies sprint and allows you to come back from certain death."
     }
   },
@@ -911,6 +944,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得让你立即接近并攻击敌人的技能————冲冲冲",
       "Eng": "Gain access to Rush, a Tech that lets you travel towards and attack enemies near instantly."
     }
   },
@@ -922,6 +956,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得武士之心，一把武士刀，可以用来灵巧地对抗敌人。",
       "Eng": "Gain access to Samurai Heart, a Katana that can be used to deftly counter enemies."
     }
   },
@@ -933,6 +968,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得沙林，一把匕首，释放一种特殊的化学物质，可以导致有毒的爆炸。",
       "Eng": "Gain access to Sarin, a Dagger that releases a special chemical substance that can cause poisonous explosions."
     }
   },
@@ -945,6 +981,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得可以在吐舌娃，低语蛇和吐槽蛇之间转换，每种都有独特的攻击，移动和被动能力的头部技术————变形", 
       "Eng": "Gain access to Shapeshift, a Head Tech that enables transformation between Poptop, Wisper, and Orbide, each with unique attacks, movement, and passive abilities."
     }
   },
@@ -956,6 +993,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得埋设地雷的技能，其效果取决于武器装载量————榴霰弹地雷",  
       "Eng": "Gain access to Shrapnel Mine, a tech that places mines that can vary in effect depending on weapon loadout."
     }
   },
@@ -967,6 +1005,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得可以产生多个友军无人机的或者一台重型自动炮塔的技能————天网",   
       "Eng": "Gain access to Skynet, a Tech that can spawn multiple friendly drones, or a heavy, automatic turret."
     }
   },
@@ -978,6 +1017,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得至日，一把可以被新星能量增强的近战法杖。",
       "Eng": "Gain access to Solstice, a Melee Staff that can be empowered with Nova Energy."
     }
   },
@@ -990,6 +1030,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得夺魂低语，一把诅咒的爪刃，允许完成连击者向任何方向穿行。",
       "Eng": "Gain access to Soulless Whisper, a cursed Claw whose combo finisher allows for travel in any direction."
     }
   },
@@ -1001,6 +1042,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得快速向后移动，并释放令人眩晕的气体提供巨大Aoe控制的技能————羞花",    
       "Eng": "Gain access to Swirling Petal, a Tech that allows for quick backwards movement and provides great crowd control via dazing gas."
     }
   },
@@ -1012,6 +1054,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得召唤一匹可供骑乘的马的技能————骑兵在此",     
       "Eng": "Gain access to The Cavalry's Here, a Tech that summons a horse you can ride."
     }
   },
@@ -1023,6 +1066,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得第三只眼，一把增加射程的抓钩，内置弱点探测器。",
       "Eng": "Gain access to Third Eye, a Grappling Hook with increased range and a built-in weak-spot detector."
     }
   },
@@ -1034,6 +1078,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得变压矩阵，一个载具生成器，可以生成不同类型的载具。",
       "Eng": "Gain access to Transformer Matrix, a Vehicle Spawner that can spawn various types of vehicles."
     }
   },
@@ -1045,6 +1090,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得真理捍卫者，神圣力量的双手盾牌。真理捍卫者可以向外引导神圣能量，持续造成伤害并且削弱所有被它击中的敌人。",
       "Eng": "Gain access to True Aegis, a Two-Handed Shield with Holy Powers. True Aegis can channel Holy Energy outwards, dealing constant damage and debuffing all enemies it hits."
     }
   },
@@ -1056,6 +1102,7 @@
       ]
     },
     "Texts": {
+      "Chs": "获得领英之集，一面能给你的同伴们带来鼓舞的旗帜",      
       "Eng": "Gain access to the Leader's Rally, a flag that is able to send a wave of inspiration out to your comrades."
     }
   },
@@ -1212,6 +1259,7 @@
       ]
     },
     "Texts": {
+      "Chs": "屠杀敌人。通过击败更高等级的敌人或者通过暴击杀死敌人来更快解锁。",
       "Eng": "Slaughter enemies. Unlocked faster by defeating higher tier enemies, or by killing enemies via Critical Hits."
     }
   },

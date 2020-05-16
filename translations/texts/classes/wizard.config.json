@@ -127,6 +127,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按[F]开关。当激活时，受到伤害也会影减小相应的能量，但是损失的一半能量会转化为生命值。如果你所获得的生命值不足以维持生命，你就会死去。当激活时; 能量不会能锁定; 能量以每秒8% 的最大能量充能，随智力增长而增加。",
       "Eng": "Press [F] to toggle. While active, damage taken also affects Energy, but half the Energy lost is converted to Health. You will die if the amount of Health gained back would not have been enough to live. While active; Energy cannot lock; and Energy recharges at 8% Max Energy per second, which increases with Intelligence."
     }
   },
@@ -138,6 +139,7 @@
       ]
     },
     "Texts": {
+      "Chs": "按[G](在按键设置中绑定[G])传送到光标处(如果可能的话)。在你再次传送之前有一个小小的冷却时间。 能源消耗取决于距离和敏捷。在任务期间(和在你的船)，传送可以用来寻找路径，以确定是否有可能的心灵传输路线。",
       "Eng": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate uses pathfinding to determine if the teleportation route is possible!."
     }
   },

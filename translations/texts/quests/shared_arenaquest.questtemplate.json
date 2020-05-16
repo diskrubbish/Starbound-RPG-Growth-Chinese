@@ -22,7 +22,7 @@
       ]
     },
     "Texts": {
-      "CHs": "与^orange;SAIL^reset;交谈。",
+      "Chs": "与^orange;SAIL^reset;交谈。",
       "Eng": "Speak to ^orange;SAIL^reset;."
     }
   },
@@ -49,7 +49,7 @@
       ]
     },
     "Texts": {
-      "CHs": "与^orange;努鲁^reset;交谈以传送到竞技场。",
+      "CHs": "与^orange;努鲁^reset;交谈以传送到竞技场。", 
       "Eng": "Talk to ^orange;Nuru^reset; to travel to the ^orange;arena^reset;"
     }
   },
