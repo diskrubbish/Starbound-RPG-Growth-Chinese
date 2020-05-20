@@ -316,7 +316,7 @@
       ]
     },
     "Texts": {
-      "Chs": "在生命值低于最大的33%时+40%攻击倍乘", 
+      "Chs": "在生命值低于最大的33%时+40%攻击倍乘",
       "Eng": "+40% Power below 33% Max Health"
     }
   },
@@ -593,7 +593,7 @@
       ]
     },
     "Texts": {
-      "Chs": "在生命值低于最大的20%时+20%基础最大能量",  
+      "Chs": "在生命值低于最大的20%时+20%基础最大能量",
       "Eng": "120% Base Max Energy below 20% Max Health"
     }
   },
@@ -703,7 +703,7 @@
       ]
     },
     "Texts": {
-      "Chs": "在生命值低于最大的25%时+33%基础最大能量",   
+      "Chs": "在生命值低于最大的25%时+33%基础最大能量",
       "Eng": "133% Base Max Energy below 25% Max Health"
     }
   },
@@ -751,7 +751,7 @@
       ]
     },
     "Texts": {
-      "Chs": "在生命值低于最大的33%时+40%基础最大能量",    
+      "Chs": "在生命值低于最大的33%时+40%基础最大能量",
       "Eng": "140% Base Max Energy below 33% Max Health"
     }
   },
@@ -788,7 +788,7 @@
       ]
     },
     "Texts": {
-      "Chs": "生命高于90%最大生命值，90%基础生命值时+15%攻击倍乘", 
+      "Chs": "生命高于90%最大生命值，90%基础生命值时+15%攻击倍乘",
       "Eng": "15% Power Multipler above 90% Max Health, 90% Base Max Health"
     }
   },
@@ -825,7 +825,7 @@
       ]
     },
     "Texts": {
-      "Chs": "生命高于90%最大生命值，85%基础生命值时+20%攻击倍乘",  
+      "Chs": "生命高于90%最大生命值，85%基础生命值时+20%攻击倍乘",
       "Eng": "20% Power Multipler above 90% Max Health, 85% Base Max Health"
     }
   },
@@ -837,7 +837,7 @@
       ]
     },
     "Texts": {
-      "Chs": "生命高于90%最大生命值，80%基础生命值时+25%攻击倍乘",   
+      "Chs": "生命高于90%最大生命值，80%基础生命值时+25%攻击倍乘",
       "Eng": "25% Power Multipler above 90% Max Health, 80% Base Max Health"
     }
   },
@@ -849,7 +849,7 @@
       ]
     },
     "Texts": {
-      "Chs": "生命高于90%最大生命值，75%基础生命值时+33%攻击倍乘",    
+      "Chs": "生命高于90%最大生命值，75%基础生命值时+33%攻击倍乘",
       "Eng": "33% Power Multipler above 90% Max Health, 75% Base Max Health"
     }
   },
@@ -1127,7 +1127,7 @@
       ]
     },
     "Texts": {
-      "Chs": "在生命值位于25%生命值时", 
+      "Chs": "在生命值位于25%生命值时",
       "Eng": "At 25% Max Health"
     }
   },
@@ -1791,7 +1791,7 @@
       ]
     },
     "Texts": {
-      "Chs": "巨型冰霜棱光海狮冰系元素亲和，这让他们对大多数其他元素抵抗。使用冰系或者新星伤害快速的摧毁其能量盾。", 
+      "Chs": "巨型冰霜棱光海狮冰系元素亲和，这让他们对大多数其他元素抵抗。使用冰系或者新星伤害快速的摧毁其能量盾。",
       "Eng": "Giant Ice Narfin are attuned to the Ice element, giving them strength against most other elements. Using Fire, Ice, or Nova damage can make quick work of their energy shield."
     }
   },
@@ -2443,7 +2443,7 @@
       ]
     },
     "Texts": {
-      "Chs": "提供朝着相反性别化的规格1/3的进展。\n+5最大生命。", 
+      "Chs": "提供朝着相反性别化的规格1/3的进展。\n+5最大生命。",
       "Eng": "Provides 1/3 Progress Towards Opposite-Gendered Specs.\nProvides +5 Max Health."
     }
   },

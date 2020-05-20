@@ -31,12 +31,12 @@
     "classes": {
       "classDescriptions.config.json": 6,
       "explorer.config.json": 10,
-      "knight.config.json": 9,
+      "knight.config.json": 10,
       "ninja.config.json": 12,
       "rogue.config.json": 9,
       "shared_.config.json": 1,
       "soldier.config.json": 12,
-      "wizard.config.json": 12
+      "wizard.config.json": 14
     },
     "default.config.json": 1,
     "glitchEmotes.json": 9,
@@ -369,9 +369,9 @@
         }
       }
     },
-    "ivrpgSpecList.config.json": 76,
-    "ivrpgStats.config.json": 29,
-    "ivrpgtext.config.json": 174,
+    "ivrpgSpecList.config.json": 124,
+    "ivrpgStats.config.json": 30,
+    "ivrpgtext.config.json": 328,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -478,7 +478,7 @@
     },
     "professions": {
       "alchemist": {
-        "ivrpgalchemiststation.config.json": 1,
+        "ivrpgalchemiststation.config.json": 2,
         "ivrpgalchemiststation.object.json": 9
       },
       "alchemist.config.json": 4,
@@ -504,7 +504,7 @@
       "jeweler": {
         "extractor": {
           "extractor.config.json": 1,
-          "extractor.object.json": 0
+          "extractor.object.json": 10
         },
         "ivrpgjewelerstation.config.json": 2,
         "ivrpgjewelerstation.object.json": 9,
@@ -608,7 +608,7 @@
       "shared_erstation.config.json": 1,
       "shared_station.config.json": 4,
       "smith": {
-        "ivrpgsmithstation.config.json": 0,
+        "ivrpgsmithstation.config.json": 5,
         "ivrpgsmithstation.object.json": 9,
         "status": {
           "ivrpgsmithstatusarmor.statuseffect.json": 1,
@@ -652,7 +652,7 @@
       }
     },
     "quests": {
-      "TEMPLATE.questtemplate.json": 0,
+      "TEMPLATE.questtemplate.json": 3,
       "aegisarenaquest.questtemplate.json": 2,
       "aegisquest.questtemplate.json": 2,
       "aegisquest2.questtemplate.json": 1,
@@ -668,7 +668,7 @@
       "novaquest3.questtemplate.json": 2,
       "shared_.questtemplate.json": 1,
       "shared_aquest.questtemplate.json": 3,
-      "shared_arenaquest.questtemplate.json": 1,
+      "shared_arenaquest.questtemplate.json": 2,
       "shared_quest.questtemplate.json": 4,
       "shared_quest2.questtemplate.json": 1,
       "siphonarenaquest.questtemplate.json": 2,
@@ -813,7 +813,7 @@
       "necromancer.json": 1,
       "operative.config.json": 2,
       "paladin.config.json": 7,
-      "pilot.config.json": 1,
+      "pilot.config.json": 2,
       "pioneer.config.json": 5,
       "saboteur.config.json": 2,
       "samurai.config.json": 8,
@@ -1078,6 +1078,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 84
+    "wide_spread_fields.json": 98
   }
 }
