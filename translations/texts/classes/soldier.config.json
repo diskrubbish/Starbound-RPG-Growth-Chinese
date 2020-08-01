@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/soldier.config": [
-        "/weaponBonuses/1/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "使用狙击步枪、突击步枪和霰弹枪时，基础攻击提高至110%。",
-      "Eng": "110% Base Power with Sniper Rifles, Assault Rifles, and Shotguns."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "classes/soldier.config": [
         "/ability/text"
       ]
     },
@@ -55,8 +43,8 @@
       ]
     },
     "Texts": {
-      "Chs": "在使用单独使用单手远程武器时基本攻击力提高至120%。",
-      "Eng": "120% Base Power with a One-Handed Ranged Weapon without another weapon equipped."
+      "Chs": "在使用单独使用单手远程武器(或者双手FFS手枪)时基本攻击力提高至120%。使用狙击步枪、突击步枪和霰弹枪时，基础攻击提高至110%。",
+      "Eng": "120% Base Power with a One-Handed Ranged Weapon (or 2H FFS Pistol) without another weapon equipped. 110% Base Power with Sniper Rifles, Assault Rifles, and Shotguns."
     }
   },
   {
@@ -139,8 +127,9 @@
       ]
     },
     "Texts": {
-      "Chs": "按[F]恰一份MRE（军用个人野战口粮），增加一点点饱食度并回满能量。有90秒的冷却时间，当冷却激活时，你获得轻微的生命回复，但你的整体速度降低。\n如果你的右手装备了一个榴弹发射器，按[F]向光标投掷一个效果较弱的军粮复制品，只需20能量: 有2秒的冷却时间。",
-      "Eng": "Press [Shift] + [F] to eat an MRE, gaining a bit of food and all your energy: this has a 90 second cooldown. While this cooldown is active, you gain slight health regen, but your overall speed is decreased.\nIf you have a Grenade equipped in your Right Hand, press [F] to toss a weaker, generated copy towards your cursor for only 20 Energy: this has a 2 second cooldown."
+      "Chs": "按[Shift] + [F]恰一份MRE（军用个人野战口粮），增加一点点饱食度并回满能量。有90秒的冷却时间，当冷却激活时，你获得轻微的生命回复，但你的整体速度降低。\n如果你的装备了一把榴弹发射器，按[F]向光标投掷一个效果较弱的军粮复制品，只需20能量: 有2秒的冷却时间。",
+
+      "Eng": "Press [Shift] + [F] to eat an MRE, gaining a bit of food and all your energy: this has a 90 second cooldown. While this cooldown is active, you gain slight health regen, but your overall speed is decreased.\nIf you have a Grenade equipped, press [F] to toss a weaker, generated copy towards your cursor for only 20 Energy: this has a 2 second cooldown."
     }
   }
 ]

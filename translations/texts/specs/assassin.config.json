@@ -2,25 +2,37 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "specs/stalker.config": [
+      "specs/assassin.config": [
         "/tech/title"
       ]
     },
     "Texts": {
-      "Chs": "诱捕",
+      "Chs": "圈套",
       "Eng": "Entrapment"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "specs/stalker.config": [
+      "specs/assassin.config": [
         "/weapon/title"
       ]
     },
     "Texts": {
       "Chs": "恐惧",
       "Eng": "Fear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/assassin.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "追踪者",
+      "Eng": "Stalker"
     }
   }
 ]

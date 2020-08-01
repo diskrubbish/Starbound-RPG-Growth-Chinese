@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/technomancer.config": [
-        "/effects/5/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "-10%物理抗性",
-      "Eng": "-10% Physical Resistance"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/technomancer.config": [
         "/effects/3/text"
       ]
     },
@@ -81,6 +69,18 @@
     "Texts": {
       "Chs": "伤害有1%的几率造成超载、灼伤、中毒和脆化。这些减弱可以同时施加。",
       "Eng": "Dealing damage has a 1% chance to inflict Overload, Sear, Toxify, and Embrittle. These debuffs can occur simultaneously."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/technomancer.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "全能喷射器",
+      "Eng": "Omnia-Thrower"
     }
   }
 ]

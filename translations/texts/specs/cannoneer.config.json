@@ -31,8 +31,8 @@
       ]
     },
     "Texts": {
-      "Chs": "使用火箭发射器时，其基础攻击力增加至120%。",
-      "Eng": "120% Base Power With Rocket Launchers."
+      "Chs": "使用火箭发射器和(FFS)榴弹发射器时，其基础攻击力增加至120%。",
+      "Eng": "120% Base Power With Rocket Launchers and (FFS) Grenade Launchers."
     }
   },
   {
@@ -67,8 +67,8 @@
       ]
     },
     "Texts": {
-      "Chs": "可以装备火箭发射器",
-      "Eng": "Can Wield Rocket Launchers."
+      "Chs": "可以装备火箭发射器和榴弹发射器",
+      "Eng": "Can Wield Rocket Launchers and Grenade Launchers."
     }
   },
   {

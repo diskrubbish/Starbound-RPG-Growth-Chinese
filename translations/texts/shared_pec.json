@@ -95,22 +95,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/1/8/title",
-        "/5/8/title"
-      ],
-      "specs/cleric.config": [
-        "/title"
-      ]
-    },
-    "Texts": {
-      "Chs": "牧师",
-      "Eng": "Cleric"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "ivrpgSpecList.config": [
         "/0/5/title",
         "/5/5/title"
       ],
@@ -281,22 +265,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/2/5/title",
-        "/3/5/title"
-      ],
-      "specs/operative.config": [
-        "/title"
-      ]
-    },
-    "Texts": {
-      "Chs": "特工",
-      "Eng": "Operative"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "ivrpgSpecList.config": [
         "/0/0/title"
       ],
       "specs/paladin.config": [
@@ -387,30 +355,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/2/0/title"
+        "/2/1/title"
       ],
       "specs/shade.config": [
         "/title"
       ]
     },
     "Texts": {
-      "Chs": "影者",
+      "Chs": "影客",
       "Eng": "Shade"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "ivrpgSpecList.config": [
-        "/2/1/title"
-      ],
-      "specs/stalker.config": [
-        "/title"
-      ]
-    },
-    "Texts": {
-      "Chs": "追踪者",
-      "Eng": "Stalker"
     }
   },
   {

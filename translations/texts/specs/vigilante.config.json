@@ -19,8 +19,8 @@
       ]
     },
     "Texts": {
-      "Chs": "使用手枪和冲锋枪时，其基础攻击力增加至115%。",
-      "Eng": "115% Base Power with Pistols and Submachine Guns."
+      "Chs": "使用手枪和(非FFS)冲锋枪时，其基础攻击力增加至115%。",
+      "Eng": "115% Base Power with Pistols and (non-FFS) Submachine Guns."
     }
   },
   {

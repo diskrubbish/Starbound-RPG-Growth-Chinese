@@ -118,17 +118,5 @@
       "Chs": "按[H]（在按键设置中绑定[H]）发动。立即牺牲33%的最大生命值，对附近的敌人造成恶魔伤害，并获得15%的攻击机加成。激活时: HP消耗率为0.5%最大HP+2HP每秒；攻击增幅在30秒内稳步增加到100% ；出血伤害以3比1的比率回复生命；在技能发动期间你对恢复状态免疫。",
       "Eng": "Press [H] (Bind [H] in your Controls) to toggle, immediately sacrificing 33% Max Health, dealing Demonic Damage to nearby enemies, and gaining +15% Power. While active: Health drains at a rate of 0.5% Max Health + 2 Health per Second; Power increases steadily up to 100% in 30 seconds; Bleed Damage dealt regens Health at a rate of 3 Damage to 1 Health; and you are immune to Healing Status."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/darktemplar.config": [
-        "/effects/2/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "Vit体质 x2",
-      "Eng": "Vitality x2"
-    }
   }
 ]

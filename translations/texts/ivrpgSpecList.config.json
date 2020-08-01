@@ -27,12 +27,37 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/2/0/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "刺客",
+      "Eng": "Assassin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/1/1/description"
       ]
     },
     "Texts": {
       "Chs": "战斗法师放弃了纯粹的魔法，专注于他们的体格，学习熟悉地使用各种近战武器战斗。然而，即使他们不再真正使用魔法棒或法杖，他们仍然使用基本的魔法来强化他们的身体和提升他们的智慧。",
       "Eng": "Battle Mages give up on pure magic to focus on their physique, learning to fight proficiently with all kinds of melee weapons. However, even though they no longer really use magical wands or staffs, they still use rudimentary magic to strengthen their body and sharpen their mind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/0/6/description",
+        "/4/6/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "狂战士无需任何理由，而是“选择”愤怒地将敌人砍成百果馅。 只要他们使用的武器可以击穿敌人，狂暴者就会尝试使用它，无论代价是什么。",
+      "Eng": "Berserkers have lost all reason, 'choosing' instead to rage and chop enemies into mincemeat. As long as the weapon they are using can shred through enemies, a Berserker will attempt to use it, no matter the cost."
     }
   },
   {
@@ -89,6 +114,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/0/5/description",
+        "/5/5/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "征服者既是探险家又是骑士，他们四处奔走，以战斗能力征服未知的土地。经过远程和近战训练的征服者可以使用弓箭，十字弩，长矛和许多其他武器来消灭远近的敌人。",
+      "Eng": "Conquistadors are both Explorers and Knights, traveling far and wide to conquer lands unknown with their combat prowess. Trained in both ranged and melee combat, Conquistadors can use bows, crossbows, spears, and many other weapons to take out enemies both near and far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/0/4/description",
         "/1/4/description"
       ]
@@ -104,23 +142,14 @@
       "ivrpgSpecList.config": [
         "/0/5/unlockText",
         "/0/6/unlockText",
-        "/1/8/unlockText",
         "/2/4/unlockText",
-        "/2/5/unlockText",
-        "/2/6/unlockText",
-        "/3/0/unlockText",
-        "/3/5/unlockText",
-        "/3/8/unlockText",
         "/4/4/unlockText",
         "/4/6/unlockText",
         "/4/7/unlockText",
-        "/4/8/unlockText",
         "/5/1/unlockText",
         "/5/3/unlockText",
         "/5/5/unlockText",
-        "/5/6/unlockText",
-        "/5/7/unlockText",
-        "/5/8/unlockText"
+        "/5/7/unlockText"
       ]
     },
     "Texts": {
@@ -195,6 +224,32 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/2/5/unlockText",
+        "/3/5/unlockText"
+      ]
+    },
+    "Texts": {
+      "Chs": "在装备狙击步枪的情况下击败敌人。通过击败更远距离或者更高级别的敌人来更快地解锁。",
+      "Eng": "Defeat enemies while a Sniper Rifle is equipped. Unlocked faster by defeating higher tier enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/3/8/unlockText",
+        "/4/8/unlockText"
+      ]
+    },
+    "Texts": {
+      "Chs": "一手持手枪，一手持自动手枪，击败敌人。通过击败更高级别的敌人来更快地解锁。",
+      "Eng": "Defeat enemies while wielding a Pistol in one hand and a Machine Pistol in the other. Unlocked faster by defeating higher tier enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/4/0/unlockText"
       ]
     },
@@ -213,6 +268,31 @@
     "Texts": {
       "Chs": "当你目前的生命值低于你最大生命值的30%时击败敌人。生命值越低，获取的进程越多。通过击败更高级别的敌人来更快地解锁。",
       "Eng": "Defeat enemies while your current health is lower than 30% of your max health. Gain more progress the lower your Health. Unlocked faster by defeating higher tier enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/3/0/unlockText"
+      ]
+    },
+    "Texts": {
+      "Chs": "以电系伤害击败敌人。通过击败更高级别的敌人或者机械来更快地解锁。",
+      "Eng": "Defeat enemies with Electric Damage. Unlocked faster by defeating higher tier enemies, or by defeating robotic enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/1/8/unlockText",
+        "/5/8/unlockText"
+      ]
+    },
+    "Texts": {
+      "Chs": "用新星、火系、冰系、毒系、电系或神圣伤害在活力、敏捷和智力至少为20的情况下击败敌人。通过击败更高级别的敌人来更快地解锁。",
+      "Eng": "Defeat enemies with Nova, Fire, Electric, Ice, Poison, or Holy Damage while Vitality, Dexterity, and Intelligence are at least 20. Unlocked faster by defeating higher tier enemies."
     }
   },
   {
@@ -243,12 +323,25 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/2/6/unlockText",
+        "/5/6/unlockText"
+      ]
+    },
+    "Texts": {
+      "Chs": "在灵巧大于30的情况下用武士刀击败敌人。通过击败更高级别的敌人来更快地解锁。",
+      "Eng": "Defeat enemies with a Katana equipped while Dexterity is at least 30. Unlocked faster by defeating higher tier enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/1/7/unlockText",
         "/2/7/unlockText"
       ]
     },
     "Texts": {
-      "Chs": "击败敌人。低语精灵、吐舌娃和鳌拜会获取更多的进展。通过击败更高级别的敌人来更快地解锁。",
+      "Chs": "击败敌人。击败低语精灵、吐舌娃和鳌拜会获取更多的进展。通过击败更高级别的敌人来更快地解锁。",
       "Eng": "Defeat enemies. Wisper, Poptop, and Orbide give more progress. Unlocked faster by defeating higher tier enemies."
     }
   },
@@ -367,12 +460,25 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/0/5/weaponText/0"
+        "/0/5/weaponText/0",
+        "/5/5/weaponText/0"
       ]
     },
     "Texts": {
       "Chs": "获得火绳枪，发射爆炸子弹的十字弩。",
       "Eng": "Gain access to Arquebus, a Crossbow that shoots exploding bolts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/2/0/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得快速移动并可以攻击敌人的弱点的技能——暗杀。",
+      "Eng": "Gain access to Assassinate, a Tech that enables quick movement to attack enemy weak points."
     }
   },
   {
@@ -415,12 +521,38 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/0/6/weaponText/1",
+        "/4/6/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得可以将伤害转化为额外的力量和速度的技能————狂化。",
+      "Eng": "Gain access to Berserk, a Tech that can be toggled to turn damage taken into bonus Power and Speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/4/0/weaponText/1"
       ]
     },
     "Texts": {
       "Chs": "获得向多个方向发射炮弹的技能————炸弹发射。",
       "Eng": "Gain access to Bombs Away, a Tech that provides the ability to shoot cannonballs in multiple directions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/2/5/weaponText/0",
+        "/3/5/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得无息，一把发射等离子弹的双手狙击步枪。",
+      "Eng": "Gain access to Breathless, a Two-Handed Sniper Rifle that fires bolts of plasma."
     }
   },
   {
@@ -455,7 +587,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得金茶花，一根能把敌人束缚在适当位置的藤鞭。",
+      "Chs": "获得碎陨，一把甚至可以在其沉重的重量下压碎黑曜石的战锤。",
       "Eng": "Gain access to Crushing Meteor, a Hammer that can crush even obsidian beneath its hefty weight."
     }
   },
@@ -468,7 +600,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得流星碎灭，一把有着可怕精度，一把单手冲锋枪，精确度很差，但子弹在靠近敌人时会碎裂。",
+      "Chs": "获得与狼共舞，一把有着可怕精度，一把单手冲锋枪，精确度很差，但子弹在靠近敌人时会碎裂。",
       "Eng": "Gain access to Danger Close, a One-Handed Submachine Gun that has terrible accuracy but shreds while near enemies."
     }
   },
@@ -483,6 +615,19 @@
     "Texts": {
       "Chs": "获得取代跳跃，代之以穿墙的技能————暗黑位面。",
       "Eng": "Gain access to Dark Phase, a Tech that replaces jumping with the ability to hover through walls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/4/7/weaponText/1",
+        "/5/7/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得可以让你在任何星球上插殖民旗帜的技能————拓殖。",
+      "Eng": "Gain access to Dead or Alive, a Tech that lets you place down traps to capture enemies."
     }
   },
   {
@@ -527,6 +672,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/2/5/weaponText/1",
+        "/3/5/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得以各种功能升级尖刺球的的技能————EMP球。",
+      "Eng": "Gain access to EMP Sphere, a Tech that upgrades Spike Sphere with various functions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/1/3/weaponText/0"
       ]
     },
@@ -564,18 +722,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/2/1/weaponText/1"
-      ]
-    },
-    "Texts": {
-      "Chs": "获得用致命陷阱捕捉敌人的技能————诱捕。",
-      "Eng": "Gain access to Entrapment, a Tech that captures enemies in deadly traps."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "ivrpgSpecList.config": [
         "/3/3/weaponText/0"
       ]
     },
@@ -604,8 +750,8 @@
       ]
     },
     "Texts": {
-      "Chs": "获得恐惧，一张能发射致命地雷和刺穿箭的弓。",
-      "Eng": "Gain access to Fear, a Bow that can shoot deadly mines and piercing arrows."
+      "Chs": "获得恐惧，一把可以弯曲光线以躲避敌人的弓。",
+      "Eng": "Gain access to Fear, a Bow that can warp light in order to hide from enemies."
     }
   },
   {
@@ -648,6 +794,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/4/7/weaponText/0",
+        "/5/7/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得猎头者，一把可以追踪敌人的双手杠杆式步枪。",
+      "Eng": "Gain access to Headhunter, a Two-Handed Lever-Action Rifle that enables enemy tracking."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/5/1/weaponText/1"
       ]
     },
@@ -673,12 +832,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/2/0/weaponText/1"
+        "/2/0/weaponText/0"
       ]
     },
     "Texts": {
-      "Chs": "获得能够按命令进行伪装的技能————潜龙勿用",
-      "Eng": "Gain access to Hidden Dragon, a Tech that enables camouflage on command."
+      "Chs": "获得心弦，一把满足特定条件时造成致命伤害的匕首。。",
+      "Eng": "Gain access to Heartstring, a Dagger that deals fatal damage when certain conditions are met."
     }
   },
   {
@@ -721,6 +880,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/1/8/weaponText/1",
+        "/5/8/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得植根于您的身体，以赋予生命再生和增强的力量的技能————冥想归静",
+      "Eng": "Gain access to Inner Peace, a Tech that roots you in place to grant Health Regeneration and increased Power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/0/1/weaponText/1"
       ]
     },
@@ -737,7 +909,7 @@
       ]
     },
     "Texts": {
-      "Chs": "获得莲花，一把狙击步枪，可以创造致命的气体云击败敌人。",
+      "Chs": "获得莲华，一把狙击步枪，可以创造致命的气体云击败敌人。",
       "Eng": "Gain access to Lotus, a Sniper Rifle that can create clouds of deadly gas upon defeating enemies."
     }
   },
@@ -751,6 +923,19 @@
     "Texts": {
       "Chs": "获得花鸟风月，一把单手战扇，速度惊人，连击优雅。",
       "Eng": "Gain access to Luxuria, a One-handed War Fan with phenomenal speed and graceful combos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/3/8/weaponText/1",
+        "/4/8/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得每次冲刺时让榴弹都落在敌人身上的技能————弹雨",
+      "Eng": "Gain access to Make it Rain, a Tech that causes grenades to rain down on enemies with every dash."
     }
   },
   {
@@ -781,24 +966,25 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/5/3/weaponText/1"
+        "/0/6/weaponText/0",
+        "/4/6/weaponText/0"
       ]
     },
     "Texts": {
-      "Chs": "获得完全修理受损载具的技能————纳米机过载",
-      "Eng": "Gain access to Nanobot Overcharge, a Tech that fully repairs damaged vehicles."
+      "Chs": "获得杀戮手杖，一把可以像锤子一样使用的两手霰弹枪。",
+      "Eng": "Gain access to Murderstick, a 2-Handed Shotgun that can be used like a hammer."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/4/2/weaponText/1"
+        "/5/3/weaponText/1"
       ]
     },
     "Texts": {
-      "Chs": "获得安抚附近自然怪物的的技能————自然光环",
-      "Eng": "Gain access to Natural Aura, a Tech that pacifies nearby natural monsters."
+      "Chs": "获得可充当火箭背包，还能修复损坏的车辆的技能————纳米机过载",
+      "Eng": "Gain access to Nanobot Overcharge, a Tech that acts as a rocket pack and also repairs damaged vehicles."
     }
   },
   {
@@ -817,12 +1003,37 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/2/6/weaponText/0",
+        "/5/6/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得浪客之魂, 一把可以快速挥动以增加力量的双手武士刀。",
+      "Eng": "Gain access to Nomadic Soul, a Two-Handed Katana that can be drawn quickly for increased Power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/1/2/weaponText/1"
       ]
     },
     "Texts": {
       "Chs": "获得可以让你通过创造新星能量的粘性云来在空中行走的技能————新星之踏",
       "Eng": "Gain access to Nova Step, a Tech that allows you to walk midir by creating viscous clouds of Nova energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/4/2/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得可以改善空中机动性并安抚附近虚弱的怪物的技能————若虫祝福",
+      "Eng": "Gain access to Nymph's Blessing, a Tech that grants improved aerial mobility and pacifies nearby weakened monsters."
     }
   },
   {
@@ -902,12 +1113,25 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/2/0/weaponText/0"
+        "/2/1/weaponText/1"
       ]
     },
     "Texts": {
-      "Chs": "获得类星体，一把在杀死敌人时制造黑暗的匕首。",
-      "Eng": "Gain access to Quasar, a Dagger that causes darkness when killing ememies."
+      "Chs": "获得利用恶魔能量来伪装的技能————类星体",
+      "Eng": "Gain access to Quasar, a Tech that utilizes Demonic Energy for camouflage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/1/8/weaponText/0",
+        "/5/8/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得喜庆，一把单手阔剑，可根据生物群落改变元素。",
+      "Eng": "Gain access to Rapture, a One-Handed Glaive that changes element depending on the biome."
     }
   },
   {
@@ -1001,12 +1225,51 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/3/8/weaponText/0",
+        "/4/8/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得破碎者，一把混合动力SMG手枪，精度高，伤害大，射速低。",
+      "Eng": "Gain access to Shredder, an SMG-Pistol hybrid with high accuracy, high damage, but low firerate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/2/4/weaponText/0",
+        "/4/4/weaponText/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得虹吸爪·瘟疫，一把拳爪武器，每次攻击都会窃取HP，能量和饱腹度。",
+      "Eng": "Gain access to Siphon Purge, a Claw Weapon that steals Health, Energy, and Food with every strike."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/3/0/weaponText/1"
       ]
     },
     "Texts": {
       "Chs": "获得可以产生多个友军无人机的或者一台重型自动炮塔的技能————天网",
       "Eng": "Gain access to Skynet, a Tech that can spawn multiple friendly drones, or a heavy, automatic turret."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/2/6/weaponText/1",
+        "/5/6/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得每次连续击杀之后以抗性换取力量的技能————独白",
+      "Eng": "Gain access to Soliloquy, a Tech that trades Resistance for Power after every successive kill."
     }
   },
   {
@@ -1038,6 +1301,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/2/4/weaponText/1",
+        "/4/4/weaponText/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "获得使敌人的装甲和力量降低，以补充自己的装甲和力量的技能————偷窃",
+      "Eng": "Gain access to Steal, a Tech that takes Armor and Power away from enemies to supplement your own Armor and Power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/2/2/weaponText/1"
       ]
     },
@@ -1050,7 +1326,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/0/5/weaponText/1"
+        "/0/5/weaponText/1",
+        "/5/5/weaponText/1"
       ]
     },
     "Texts": {
@@ -1182,12 +1459,51 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/3/8/description",
+        "/4/8/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "雇佣兵是雇佣的枪支，只要能确保杀死目标，他们的行动就不会特别的光彩。雇佣兵更喜欢轻便的单手远程武器，以便快速部署且易于使用，佣兵还涉猎手榴弹：毕竟，炸药能以两倍的速度完成任务。",
+      "Eng": "Mercenaries are hired guns that aren't particularly honorable as long as they can secure their kills. Preferring light, one-handed ranged weapons for quick access and ease-of-use, a Mercenary also dabbles with grenades: after all, explosives get the job done twice as fast."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/1/0/description"
       ]
     },
     "Texts": {
       "Chs": "死灵法师使用恶魔法术战斗，能使死人复活，并且比大多数巫师更擅长近程战斗。由于他们对死亡的靠近和调谐，死灵法师可以有效地使用镰刀和匕首，并且可以经常从敌人那里吸取生命来治疗盟友。",
       "Eng": "Necromancers fight using demonic magic and can raise the dead, and handle close-range combat much better than most Wizards. Because of their close attunement to death, Necromancers can efficiently wield scythes and daggers, and are often able to drain life from enemies to heal allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/2/5/title",
+        "/3/5/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "特工",
+      "Eng": "Operative"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/2/5/description",
+        "/3/5/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "特工使用技术瓦解敌人，并增强自身和盟友的力量。作为拥有狙击步枪的大师们，特工更喜欢在可以保证安全的远处进行攻击，但是在困境中，他们还有很多其他的技巧。",
+      "Eng": "Operatives use technology to dismantle enemies and buff themselves and their allies. Masters with a Sniper Rifle, Operatives prefer to attack from afar where safety is guaranteed, but when in a bind, they have many other tricks up their sleeves."
     }
   },
   {
@@ -1230,6 +1546,32 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/1/8/title",
+        "/5/8/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "智者",
+      "Eng": "Sage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/1/8/description",
+        "/5/8/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "智者是开悟的僧侣。磨练自己的身体可以使他们稍微提高一点战斗潜力，使他们能够优雅而有力地挥舞近身武器。",
+      "Eng": "Sages are enlightened monks that have traveled far and wide. Honing their bodies has given them slightly hightened combat potential, enabling them to wield one-handed melee weapons with grace and power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/5/0/description"
       ]
     },
@@ -1242,12 +1584,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/2/0/description"
+        "/2/1/description"
       ]
     },
     "Texts": {
-      "Chs": "沉默的杀手，化为邪影在黑暗中消灭敌人。利用恶魔的能量，影者可以扭曲他们周围的现实，使他们消失得无影无踪，甚至对最致命的元素免疫。匕首和拳头武器的高超技巧，让其成为杀人闭口的娴熟杀手。",
-      "Eng": "Silent killers, Shades viciously dismantle enemies in a shroud of darkness. Utilizing Demonic energy, Shades can warp reality around them, causing them to vanish without a trace, even becoming immune to the most deadly of elements. Using Daggers and Fist Weapons with great skill, if you've managed to spot one, it's still already too late."
+      "Chs": "沉默的杀手，影客在黑暗的笼罩中残忍地消灭敌人。利用恶魔能量，影客可以扭曲周围的现实，使自己消失得无影无踪，甚至可以免疫最致命的元素。他们熟练使用不继强，弓箭和拳头武器，如果您设法找到其踪迹，那么为时已晚。",
+      "Eng": "Silent killers, Shades viciously dismantle enemies in a shroud of darkness. Utilizing Demonic energy, Shades can warp reality around them, causing them to vanish without a trace, even becoming immune to the most deadly of elements. Using Snipers, Bows, and Fist Weapons with great skill, if you've managed to spot one, it's still already too late."
     }
   },
   {
@@ -1279,6 +1621,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/5/3/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一飞冲天！飞行员是驾驶车辆的高手，无论是大型航天飞机之类的飞船，还是战斗机之类的专业飞机。飞行员不使用武器进攻，而是更喜欢使用自己的车辆进行战斗。",
+      "Eng": "Take to the skies! Pilots are masters at driving vehicles, whether large crafts like space shuttles or specialized ones like fighter jets. Rather than attacking via weapons, Pilots prefer to use their vehicles to do the fighting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/2/0/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "刺客总是可以找到最佳的罢工地点和时机，利用他们的敏捷性每击中一个命中点。由于刺客们对黑市的重视，并且倾向于为出价最高的人工作，因此刺客的名声相当差，但这并不能阻止他们完成每项工作。",
+      "Eng": "The Assassin can always find the perfect place and moment to strike, using their dexterity to hit vital points with every stab. Due to their conenction to the black market, and tendency to work for the highest bidder, Assassin's have quite a bad reputation, but that doesn't stop them from completing each job with finesse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/4/3/description"
       ]
     },
@@ -1291,12 +1657,13 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
-        "/2/1/description"
+        "/2/4/description",
+        "/4/4/description"
       ]
     },
     "Texts": {
-      "Chs": "追踪者耐心地远远等着，眼睛盯着一个目标。当他们最终决定了他们想要使用的方法，他们射击，让他们的箭真正地飞行。如果有必要，追踪者不会太挑剔，他们会接近猎物并诱捕他们，上帝知道他们会怎么处理这些猎物。正因为如此，他们受到了相当大的羞辱。",
-      "Eng": "The Stalker patiently waits far in the distance, eyes focused on one target. When they've finally decided the method they'd like to use, they strike, letting their arrow fly true. If necessary, Stalkers aren't too picky, and will close in to ensnare their prey, and God know what they do with it. Because of this, there is quite a stigma against them."
+      "Chs": "窃贼狡猾而敏捷，他们选择从毫无戒心的敌人中窃取，而不直面他们。但是，盗贼知道发生争执是不可避免的，因此他们确保自己可以使用无声的近距离武器和手枪，必要时会拔出手枪。",
+      "Eng": "Thieves are cunning and agile, choosing to steal from unsuspecting foes rather than directly confronting them. Knowing that altercations are inevitable, however, Thieves ensure they can use both silent close-range weapons, and pistols, which they pull out when necessary."
     }
   },
   {
@@ -1315,12 +1682,25 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgSpecList.config": [
+        "/4/7/description",
+        "/5/7/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "捕手以他们的手艺为傲，他们放置复杂的陷阱来捕获和肢解毫无戒心的敌人。手持步枪，捕手可以轻松应对设法逃脱的敌人，但是，那样的机会很小，是吗？",
+      "Eng": "Trappers take pride in their handicraft, placing complicated traps to capture and dismember unsuspecting enemies. With a rifle in hand, a Trapper can easily deal with enemies that manage to escape, but well, the chances of that are rather slim, huh?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
         "/2/1/unlockText"
       ]
     },
     "Texts": {
-      "Chs": "使用弓击败敌人。通过从远距离击败敌人或者击败更高级别的敌人来更快地解锁。",
-      "Eng": "Use Bows to defeat enemies. Unlocked faster by defeating higher tier enemies or by defeating enemies from a distance."
+      "Chs": "使用弓或拳套武器击败敌人。通过击败更高等级的敌人来更快解锁。",
+      "Eng": "Use Bows or Fist Weapons to defeat enemies. Unlocked faster by defeating higher tier enemies."
     }
   },
   {
@@ -1331,8 +1711,8 @@
       ]
     },
     "Texts": {
-      "Chs": "使用匕首或者拳套击败敌人。通过击败更高级别的敌人来更快地解锁。",
-      "Eng": "Use Daggers or Fist Weapons to defeat enemies. Unlocked faster by defeating higher tier enemies."
+      "Chs": "使用匕首击败敌人。通过击败更高等级的敌人或者通过暴击杀死敌人来更快解锁。",
+      "Eng": "Use Daggers to defeat enemies. Unlocked faster by defeating higher tier enemies, or by killing enemies via Critical Hits."
     }
   },
   {
@@ -1343,8 +1723,8 @@
       ]
     },
     "Texts": {
-      "Chs": "使用远程武器从远处击败敌人。通过击败更高级别的敌人来更快地解锁。",
-      "Eng": "Use Ranged Weapons to defeat enemies from a distance. Unlocked faster by defeating higher tier enemies."
+      "Chs": "使用远程武器在一定距离外击败敌人。通过击败更高等级的敌人或者通过暴击杀死敌人来更快解锁。",
+      "Eng": "Use Ranged Weapons to defeat enemies from a distance. Unlocked faster by defeating higher tier enemies, or by killing enemies via Critical Hits."
     }
   },
   {
@@ -1516,6 +1896,19 @@
     "Texts": {
       "Chs": "唤藤者可以轻微地改变植物中的化学成分，并使用一种特殊的魔法随意移动植物周围的氮。使用植物制作的武器使他们能够打出最大的伤害，但他们也精通鞭和弓箭。",
       "Eng": "Vinetenders can slightly alter the chemical components in plants and use a special magic to move nitrogen around at will. Using Plant-Based Weapons enables them to deal the most damage, but they are also proficient with Whips and Bows as well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgSpecList.config": [
+        "/2/6/description",
+        "/5/6/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "流浪者会随风而去，更喜欢独自行动。拥有片假名的大师，流浪者永远不会在同一个地方呆很长时间。",
+      "Eng": "Wanderers go where the wind takes them, preferring to do it alone. Masters with the Katana, a Wanderer will never stay in the same place for long."
     }
   },
   {

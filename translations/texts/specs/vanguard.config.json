@@ -91,8 +91,8 @@
       ]
     },
     "Texts": {
-      "Chs": "可以在使用自动手枪的同时使用其他武器。",
-      "Eng": "Can use Machine Pistols with other Weapons."
+      "Chs": "可以在使用自动手枪的同时使用其他(非FFS)武器。",
+      "Eng": "Can use Machine Pistols with other (non FFS) Weapons."
     }
   },
   {
@@ -103,8 +103,8 @@
       ]
     },
     "Texts": {
-      "Chs": "不能使用狙击步枪，火箭发射器和榴弹发射器",
-      "Eng": "Cannot use Sniper Rifles, Rocket Launchers, or Grenade Launchers."
+      "Chs": "不能使用狙击步枪(或FFS的DMR)，火箭发射器和榴弹发射器",
+      "Eng": "Cannot use Sniper Rifles (or FFS DMRs) or Rocket / Grenade Launchers."
     }
   },
   {

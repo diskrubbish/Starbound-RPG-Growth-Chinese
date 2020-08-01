@@ -2967,6 +2967,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/deadshot/children"
+      ]
+    },
+    "Texts": {
+      "Chs": "穿过心脏，穿透脑髓。\n\n穿过心脏，穿透脑髓。\n\n结束，再次结束，再次结束。\n\n不管他们身在何处，没有刮风，也没有黑暗：事实是，即使他们有心脏或大脑也没关系。无论是哪种情况，您仍然会直接刺穿它们，并且它们会死掉。\n\n^red;从长远来看，这才是最重要的：每次射击都会导致死亡。",
+      "Eng": "Through the heart. Through the brain.\n\nThrough the heart. Through the brain.\n\nOver. And over. And over again.\n\nDon't matter where they are, nor how windy, nor how dark: truth is, don't even matter if they have a heart or brain. Whatever the case may be, you'll still pierce right through them, and they'll be dead.\n\n^red;And that's all that matters in the long run: death with every shot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/upgrades/general/ivrpguctotalblackout/title"
       ]
     },
@@ -3246,6 +3258,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/battlemage/children"
+      ]
+    },
+    "Texts": {
+      "Chs": "什么是法师？ 学者吗？研究员吗？教授吗？哈，别让我笑！法师是力量的化身，而不是某些书呆子书虫，它们只会阅读古卷和过时的文字。法师生活在战斗中，掌握手中的魔法基础，并将其从武器重铸。法师的生活是用能量笼罩自己，提高他们的感官，歼灭他们的敌人。法师的生活被不可思议的敌人包围，而不是通过对测试目标施行普通法术来浪费潜力。对，法师为战斗而生！还有什么比拿武器然后大刀阔斧更好的方法呢？ 因此，请停止阅读并开始战斗，傻瓜！\n\n^red;这就是你所渴望的一切！",
+      "Eng": "What is a mage? A scholar? A researcher? A professor? Ha, don't make me laugh! A mage is power incarnate, not some uptight bookworm perusing archaic scrolls and obsolete texts. A mage lives to fight, to grasp the fundamentals of magic in their hands and cast it forth from their weapons. A mage lives to shroud themselves in energy, hightening their senses and annihilating their enemies. A mage lives to be surrounded by incredible foes, not to squander potential by practicing mundane spells against test targets. Right, a mage lives for battle! And what better way to do so than to grab a weapon and get slashing? So stop reading and get to fighting, fool!\n\n^red;What are you waiting for!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/skill/children/soul/children/adrenalinerush/children"
       ]
     },
@@ -3288,6 +3312,17 @@
     "Texts": {
       "Chs": "当在地面上，只有在白天，会缓慢的再生。",
       "Eng": "While above-ground, and only during the day, slowly regenerate Health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/shade/children"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whispers in the dark: a greusome chant of violent words and malicious thought. Fear creeps in as bones rattle: footsteps. They know something is there, that something is amiss: they can hear it. ^gray;But where?^reset;\n\nThe sounds echo, bouncing along the rocky, rugged walls of a massive cavern. With every passing moment, the chants crescendo, a cacophany of madness. ^gray;But still, nothing in sight.^reset; A dark, black mist emanates from the walls and from the ceiling and from the floor, like wispy tendrils twisting at their lungs, choking them. All around their comrades drop, as jagged bones like dragons fly, slicing through necks and tearing through skin. ^red;Blood pools.\n\n^gray;But still, nothing.^reset;\n\nAnd then the whispers stop, as if they had never started, and the smoke dissipates, ^red;and only bones remain."
     }
   },
   {
@@ -3546,12 +3581,59 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/operative/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Operative"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/specialization/children/paladin/title"
       ]
     },
     "Texts": {
       "Chs": "^blue;圣骑士",
       "Eng": "^blue;Paladin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/sage/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^blue;智者",
+      "Eng": "^blue;Sage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/samurai/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^blue;武士",
+      "Eng": "^blue;Samurai"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/assassin/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^gray;刺客",
+      "Eng": "^gray;Assassin"
     }
   },
   {
@@ -3588,6 +3670,70 @@
     "Texts": {
       "Chs": "^gray;迷失方向",
       "Eng": "^gray;Disorient"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/mechanist/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^gray;机械师",
+      "Eng": "^gray;Mechanist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/pilot/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^gray;飞行员",
+    
+      "Eng": "^gray;Pilot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/saboteur/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^gray;破坏者",
+
+      "Eng": "^gray;Saboteur"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/shade/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^gray;影客",
+
+      "Eng": "^gray;Shade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/trapper/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^gray;捕手",
+    
+      "Eng": "^gray;Trapper"
     }
   },
   {
@@ -3636,6 +3782,19 @@
     "Texts": {
       "Chs": "^green;中毒",
       "Eng": "^green;Toxify"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/vinetender/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^green;唤藤者",
+
+      "Eng": "^green;Vinetender"
     }
   },
   {
@@ -3858,6 +4017,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/battlemage/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^red;战斗法师",
+
+      "Eng": "^red;Battle Mage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/specialization/children/berserker/title"
       ]
     },
@@ -3888,6 +4060,31 @@
     "Texts": {
       "Chs": "^red;变形使",
       "Eng": "^red;Changeling"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/deadshot/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^red;死亡射手",
+      "Eng": "^red;Deadshot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/mercenary/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^red;雇佣兵",
+
+      "Eng": "^red;Mercenary"
     }
   },
   {
@@ -3930,6 +4127,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgtext.config": [
+        "/lore/children/specialization/children/conquistador/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;征服者",
+      "Eng": "^yellow;Conquistador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
         "/lore/children/class/children/explorer/title"
       ]
     },
@@ -3960,6 +4169,19 @@
     "Texts": {
       "Chs": "^yellow;殖民先驱",
       "Eng": "^yellow;Pioneer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgtext.config": [
+        "/lore/children/specialization/children/scout/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;斥候",
+
+      "Eng": "^yellow;Scout"
     }
   },
   {

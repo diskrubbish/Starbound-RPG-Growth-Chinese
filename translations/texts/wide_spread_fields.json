@@ -15,38 +15,8 @@
         "/collarNameLabel/value",
         "/reelNameLabel/value"
       ],
-      "ivrpgSpecList.config": [
-        "/0/5/description",
-        "/0/6/description",
-        "/0/6/weaponText/0",
-        "/1/8/description",
-        "/1/8/weaponText/0",
-        "/2/4/description",
-        "/2/4/weaponText/0",
-        "/2/5/description",
-        "/2/5/weaponText/0",
-        "/2/6/description",
-        "/2/6/weaponText/0",
-        "/3/5/description",
-        "/3/5/weaponText/0",
-        "/3/8/description",
-        "/3/8/weaponText/0",
-        "/4/4/description",
-        "/4/6/description",
-        "/4/6/weaponText/0",
-        "/4/7/description",
-        "/4/7/weaponText/0",
-        "/4/8/description",
-        "/4/8/weaponText/0",
-        "/5/3/description",
-        "/5/5/description",
-        "/5/5/weaponText/0",
-        "/5/6/description",
-        "/5/6/weaponText/0",
-        "/5/7/description",
-        "/5/7/weaponText/0",
-        "/5/8/description",
-        "/5/8/weaponText/0"
+      "professions/bard.config": [
+        "/classic/0/text"
       ],
       "professions/botanist.config": [
         "/classic/0/text"
@@ -57,7 +27,7 @@
       "professions/medic.config": [
         "/classic/0/text"
       ],
-      "specs/battlemage.config": [
+      "specs/assassin.config": [
         "/ability/text",
         "/classic/0/text",
         "/classic/1/text",
@@ -85,40 +55,7 @@
       "specs/changeling.config": [
         "/weapon/title"
       ],
-      "specs/cleric.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
-      ],
       "specs/conquistador.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
-      ],
-      "specs/deadshot.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
-      ],
-      "specs/juggernaut.config": [
         "/ability/text",
         "/classic/0/text",
         "/classic/1/text",
@@ -141,17 +78,6 @@
         "/tech/text"
       ],
       "specs/mercenary.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
-      ],
-      "specs/operative.config": [
         "/ability/text",
         "/classic/0/text",
         "/classic/1/text",
@@ -188,28 +114,6 @@
         "/tech/text"
       ],
       "specs/scout.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
-      ],
-      "specs/shade.config": [
-        "/ability/text",
-        "/classic/0/text",
-        "/classic/1/text",
-        "/classic/2/text",
-        "/effects/0/text",
-        "/effects/1/text",
-        "/effects/2/text",
-        "/effects/3/text",
-        "/tech/text"
-      ],
-      "specs/stalker.config": [
         "/ability/text",
         "/classic/0/text",
         "/classic/1/text",
@@ -414,6 +318,9 @@
       "specs/pioneer.config": [
         "/effects/2/text"
       ],
+      "specs/shade.config": [
+        "/effects/1/text"
+      ],
       "specs/valkyrie.config": [
         "/effects/1/text"
       ],
@@ -442,6 +349,21 @@
     "Texts": {
       "Chs": "炼金术士",
       "Eng": "Alchemist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/professionslayout/children/bardtitle/value"
+      ],
+      "professions/bard.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "吟游诗人",
+      "Eng": "Bard"
     }
   },
   {
@@ -797,6 +719,9 @@
         "/description",
         "/shortdescription"
       ],
+      "professions/bard.config": [
+        "/scaling/0/text"
+      ],
       "professions/miner.config": [
         "/scaling/0/text"
       ],
@@ -808,6 +733,9 @@
       ],
       "specs/dragoon.config": [
         "/effects/0/text"
+      ],
+      "specs/juggernaut.config": [
+        "/effects/2/text"
       ],
       "specs/pioneer.config": [
         "/effects/1/text"
@@ -1353,21 +1281,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/active/specweapons/technomancer/omniathrower.activeitem": [
-        "/shortdescription"
-      ],
-      "specs/technomancer.config": [
-        "/weapon/title"
-      ]
-    },
-    "Texts": {
-      "Chs": "全能喷射器",
-      "Eng": "Omnia-Thrower"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/upgrade chips/weapon/ivrpgucpassedprime.activeitem": [
         "/shortdescription"
       ],
@@ -1771,8 +1684,14 @@
       "professions/smith.config": [
         "/scaling/1/text"
       ],
+      "specs/battlemage.config": [
+        "/effects/1/text"
+      ],
       "specs/crusader.config": [
         "/effects/0/text"
+      ],
+      "specs/juggernaut.config": [
+        "/effects/1/text"
       ],
       "specs/valkyrie.config": [
         "/effects/2/text"
@@ -1964,6 +1883,9 @@
       "professions/alchemist.config": [
         "/scaling/1/text"
       ],
+      "professions/bard.config": [
+        "/scaling/1/text"
+      ],
       "professions/jeweler.config": [
         "/scaling/0/text"
       ],
@@ -1979,6 +1901,9 @@
       ],
       "specs/darktemplar.config": [
         "/effects/4/text"
+      ],
+      "specs/deadshot.config": [
+        "/effects/1/text"
       ],
       "specs/dragoon.config": [
         "/effects/2/text"
@@ -2059,6 +1984,9 @@
       "professions/tamer.config": [
         "/scaling/0/text"
       ],
+      "specs/battlemage.config": [
+        "/effects/0/text"
+      ],
       "specs/cannoneer.config": [
         "/effects/0/text"
       ],
@@ -2069,6 +1997,9 @@
       ],
       "specs/hunter.config": [
         "/effects/3/text"
+      ],
+      "specs/juggernaut.config": [
+        "/effects/0/text"
       ],
       "specs/pioneer.config": [
         "/effects/0/text"

@@ -35,14 +35,14 @@
       "ninja.config.json": 12,
       "rogue.config.json": 9,
       "shared_.config.json": 1,
-      "soldier.config.json": 12,
+      "soldier.config.json": 11,
       "wizard.config.json": 14
     },
     "default.config.json": 1,
     "glitchEmotes.json": 9,
     "interface": {
       "RPGskillbook": {
-        "RPGskillbook.config.json": 111
+        "RPGskillbook.config.json": 110
       }
     },
     "items": {
@@ -119,6 +119,9 @@
               }
             }
           },
+          "battlemage": {
+            "solstice.activeitem.json": 2
+          },
           "cannoneer": {
             "outburst.activeitem.json": 2,
             "stormhowl.activeitem.json": 2
@@ -131,6 +134,9 @@
           },
           "darktemplar": {
             "heartless.activeitem.json": 2
+          },
+          "deadshot": {
+            "lotus.activeitem.json": 2
           },
           "dragoon": {
             "dragonsbane.activeitem.json": 2
@@ -148,11 +154,17 @@
             },
             "mida.activeitem.json": 2
           },
+          "juggernaut": {
+            "cleavingmeteor.activeitem.json": 1
+          },
           "kunoichi": {
             "luxuria.activeitem.json": 2
           },
           "necromancer": {
             "forusall.activeitem.json": 2
+          },
+          "operative": {
+            "breathless.activeitem.json": 2
           },
           "paladin": {
             "ivrpgtrueaegis.activeitem.json": 2,
@@ -164,8 +176,19 @@
           "pioneer": {
             "nautilus.activeitem.json": 2
           },
+          "sage": {
+            "rapture.activeitem.json": 2
+          },
+          "shade": {
+            "fear.activeitem.json": 2,
+            "mine": {
+              "status": {
+                "blackoutcamouflage.statuseffect.json": 1
+              }
+            }
+          },
           "technomancer": {
-            "omniathrower.activeitem.json": 1
+            "omniathrower.activeitem.json": 2
           },
           "thief": {
             "siphonpurge.activeitem.json": 1
@@ -369,9 +392,9 @@
         }
       }
     },
-    "ivrpgSpecList.config.json": 124,
+    "ivrpgSpecList.config.json": 155,
     "ivrpgStats.config.json": 30,
-    "ivrpgtext.config.json": 328,
+    "ivrpgtext.config.json": 344,
     "monsters": {
       "flyers": {
         "bonepteropod": {
@@ -482,6 +505,7 @@
         "ivrpgalchemiststation.object.json": 9
       },
       "alchemist.config.json": 4,
+      "bard.config.json": 4,
       "botanist.config.json": 3,
       "default.config.json": 1,
       "engineer": {
@@ -712,7 +736,7 @@
     "shared_explorer.json": 3,
     "shared_knight.json": 4,
     "shared_ninja.json": 4,
-    "shared_pec.json": 37,
+    "shared_pec.json": 34,
     "shared_rogue.json": 4,
     "shared_skillbook": {
       "shared_RPGskillbook..json": 1
@@ -720,7 +744,8 @@
     "shared_soldier.json": 3,
     "shared_stun.json": 1,
     "shared_tech": {
-      "shared_.statuseffect.json": 1
+      "shared_.statuseffect.json": 1,
+      "shared_us.statuseffect.json": 1
     },
     "shared_wizard.json": 3,
     "specs": {
@@ -728,6 +753,9 @@
         "adept": {
           "agilemagic.statuseffect.json": 1,
           "agilemagicspeed.statuseffect.json": 1
+        },
+        "battlemage": {
+          "battletendency.statuseffect.json": 1
         },
         "cannoneer": {
           "fightinglion.statuseffect.json": 1
@@ -745,6 +773,9 @@
         "darktemplar": {
           "corrupted.statuseffect.json": 1
         },
+        "deadshot": {
+          "deadlypatience.statuseffect.json": 1
+        },
         "dragoon": {
           "flightless.statuseffect.json": 1
         },
@@ -755,6 +786,9 @@
         },
         "hunter": {
           "cloak.statuseffect.json": 1
+        },
+        "juggernaut": {
+          "inertia.statuseffect.json": 1
         },
         "kunoichi": {
           "featherfall": {
@@ -770,6 +804,9 @@
         },
         "pioneer": {
           "terranova.statuseffect.json": 1
+        },
+        "shade": {
+          "shadowscalling.statuseffect.json": 1
         },
         "shared_.statuseffect.json": 1,
         "technomancer": {
@@ -793,40 +830,45 @@
         }
       },
       "adept.config.json": 8,
-      "battlemage.config.json": 2,
+      "assassin.config.json": 3,
+      "battlemage.config.json": 6,
       "berserker.config.json": 2,
       "cannoneer.config.json": 8,
       "captain.config.json": 5,
       "changeling.config.json": 25,
-      "cleric.config.json": 2,
       "conquistador.config.json": 2,
       "crusader.config.json": 11,
-      "darktemplar.config.json": 11,
-      "deadshot.config.json": 2,
+      "darktemplar.config.json": 10,
+      "deadshot.config.json": 4,
       "dragoon.config.json": 12,
       "hunter.config.json": 8,
-      "juggernaut.config.json": 2,
+      "juggernaut.config.json": 7,
       "kunoichi.config.json": 7,
       "mechanist.config.json": 1,
       "mercenary.config.json": 2,
-      "necromancer.config.json": 8,
+      "necromancer.config.json": 7,
       "necromancer.json": 1,
-      "operative.config.json": 2,
-      "paladin.config.json": 7,
+      "paladin.config.json": 5,
       "pilot.config.json": 2,
       "pioneer.config.json": 5,
       "saboteur.config.json": 2,
       "samurai.config.json": 8,
       "scout.config.json": 2,
-      "shade.config.json": 2,
-      "shared_.config.json": 7,
+      "shade.config.json": 7,
+      "shared_.config.json": 12,
       "shared_n.config.json": 1,
       "shared_tech.json": 1,
-      "stalker.config.json": 2,
       "technomancer.config.json": 7,
       "techs": {
         "adept": {
           "flashstep.tech.json": 1
+        },
+        "battlemage": {
+          "battleaura.tech.json": 1,
+          "battleaura0.statuseffect.json": 1,
+          "battleaura1.statuseffect.json": 1,
+          "battleaura2.statuseffect.json": 1,
+          "battleaura3.statuseffect.json": 1
         },
         "cannoneer": {
           "bombsaway.tech.json": 1
@@ -851,6 +893,10 @@
         "darktemplar": {
           "aboundingdarkness.tech.json": 1
         },
+        "deadshot": {
+          "idealshot.tech.json": 1,
+          "idealshotcooldown.statuseffect.json": 1
+        },
         "dragoon": {
           "dragonsleap.tech.json": 1,
           "status": {
@@ -862,6 +908,10 @@
         },
         "hunter": {
           "multitool.tech.json": 1
+        },
+        "juggernaut": {
+          "limitbreak.tech.json": 1,
+          "limitbreakcooldown.statuseffect.json": 1
         },
         "kunoichi": {
           "ivrpgdazed": {
@@ -890,6 +940,9 @@
         },
         "samurai": {
           "iaijutsu.tech.json": 1
+        },
+        "shade": {
+          "quasar.tech.json": 1
         },
         "technomancer": {
           "elementalovercharge.tech.json": 1
@@ -926,7 +979,7 @@
       "warlock.config.json": 2,
       "wraith.config.json": 11
     },
-    "specs.json": 18,
+    "specs.json": 22,
     "stats": {
       "effects": {
         "camouflage": {
@@ -1042,7 +1095,6 @@
           "soldierenergypackcooldown.statuseffect.json": 1
         },
         "soldiermarksman": {
-          "soldierfocus.statuseffect.json": 1,
           "soldiermarksman.tech.json": 1,
           "soldiermarksmancooldown.statuseffect.json": 1
         },
@@ -1078,6 +1130,6 @@
         }
       }
     },
-    "wide_spread_fields.json": 98
+    "wide_spread_fields.json": 95
   }
 }

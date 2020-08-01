@@ -218,20 +218,8 @@
       ]
     },
     "Texts": {
-      "Chs": "你确定要重置吗？你的经验、等级、职业、亲和力等一切都将被移除。此外,你当前的精通挑战将会清零，\n你现在未专精的职业技能将被强制移除。\n专精保持不锁定状态，但是在35级之前不能使用。",
-      "Eng": "Are you sure you want to reset? Your Experience, Level, Class, Profession, Affinity, and Mastery will be removed. In addition, your Mastery Challenges will be forfeited, and your current Class' Skills will be removed.\nSpecializations remain unlocked, but are unusable until Level 35."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/professionslayout/children/bardtitle/value"
-      ]
-    },
-    "Texts": {
-      "Chs": "吟游诗人",
-      "Eng": "Bard"
+      "Chs": "你确定要重置吗？^white;你的经验、等级、职业、亲和力等一切都将被移除。此外,你当前的精通挑战将会清零，\n你现在未专精的职业技能将被强制移除。\n专精保持不锁定状态，但是在35级之前不能使用。",
+      "Eng": "Are you sure you want to reset? ^white;Your Experience, Level, Class, Profession, Affinity, and Mastery will be removed. In addition, your Mastery Challenges will be forfeited, and your current Class' Skills will be removed.\nSpecializations remain unlocked, but are unusable until Level 35."
     }
   },
   {
@@ -406,18 +394,6 @@
     "Texts": {
       "Chs": "经典模式武器可用",
       "Eng": "Classic Mode Weapon Availability"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/RPGskillbook/RPGskillbook.config": [
-        "/gui/overviewlayout/children/hardcoreweapontext/value"
-      ]
-    },
-    "Texts": {
-      "Chs": "经典模式模式已开启,非职业武器的伤害将大幅降低甚至归零。\n^red;查看信息面板(I)以了解更多信息！^reset;",
-      "Eng": "Classic Mode negates damage with certain weapons.\n^red;Check the Info Tab (I) for more information!^reset;"
     }
   },
   {
@@ -1358,6 +1334,18 @@
     "Texts": {
       "Chs": "^#b9b5b2;汝即为天选之人！",
       "Eng": "^#b9b5b2;Use it to strengthen your character!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/RPGskillbook/RPGskillbook.config": [
+        "/gui/overviewlayout/children/hardcoreweapontext/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "^red;注意！经典模会以抵消某些武器的伤害。^reset;\n检查信息栏(I)以获得更多信息！",
+      "Eng": "^red;Warning! Classic Mode negates damage with certain weapons.^reset;\nCheck the Info Tab (I) for more information!"
     }
   }
 ]

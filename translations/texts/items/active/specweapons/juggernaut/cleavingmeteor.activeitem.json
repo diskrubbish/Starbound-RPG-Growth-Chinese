@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/juggernaut/cleavingmeteor.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一层层的陨铁镀层使这把残酷的切肉刀呈现出恶魔般的红色。然而，它的重量更容易压碎敌人而不是劈开。",
+      "Eng": "Layer upon layer of molten meteoric metal gives this brutal cleaver a demonic red tint. Its weight crushes moreso than it cleaves, though."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/juggernaut/cleavingmeteor.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;碎陨^white;",
+      "Eng": "^red;Cleaving Meteor^white;"
+    }
+  }
+]

@@ -2,6 +2,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "specs/deadshot.config": [
+        "/effects/4/text"
+      ],
+      "specs/technomancer.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-10%物理抗性",
+      "Eng": "-10% Physical Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "specs/necromancer.config": [
         "/effects/6/text"
       ],
@@ -12,6 +27,21 @@
     "Texts": {
       "Chs": "-20%神圣抗性",
       "Eng": "-20% Holy Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/battlemage.config": [
+        "/effects/4/text"
+      ],
+      "specs/paladin.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "只有80%的跳跃高度",
+      "Eng": "80% Jump Height"
     }
   },
   {
@@ -62,8 +92,26 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "specs/deadshot.config": [
+        "/effects/3/text"
+      ],
+      "specs/paladin.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "只有90%的速度",
+      "Eng": "90% Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "specs/changeling.config": [
         "/tech/transformBonusText/orbide/4/text"
+      ],
+      "specs/deadshot.config": [
+        "/effects/0/text"
       ],
       "specs/kunoichi.config": [
         "/effects/0/text"
@@ -83,6 +131,9 @@
       "specs/adept.config": [
         "/effects/0/text"
       ],
+      "specs/battlemage.config": [
+        "/effects/2/text"
+      ],
       "specs/paladin.config": [
         "/effects/0/text"
       ]
@@ -90,6 +141,21 @@
     "Texts": {
       "Chs": "智力Int X2",
       "Eng": "Intelligence x2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
+        "/effects/3/text"
+      ],
+      "specs/shade.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "暗影免疫(FU)",
+      "Eng": "Shadow Immunity (FU)"
     }
   },
   {
@@ -105,6 +171,21 @@
     "Texts": {
       "Chs": "Str力量 x2",
       "Eng": "Strength x2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/2/text"
+      ],
+      "specs/shade.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "Vit体质 x2",
+      "Eng": "Vitality x2"
     }
   }
 ]

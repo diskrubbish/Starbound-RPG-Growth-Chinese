@@ -27,30 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/paladin.config": [
-        "/effects/5/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "只有80%的跳跃高度",
-      "Eng": "80% Jump Height"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/paladin.config": [
-        "/effects/4/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "只有90%的速度",
-      "Eng": "90% Speed"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/paladin.config": [
         "/ability/text"
       ]
     },

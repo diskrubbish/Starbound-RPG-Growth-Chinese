@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/juggernaut/limitbreakcooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "界限突破冷却",
+      "Eng": "Limit Break Cooldown"
+    }
+  }
+]

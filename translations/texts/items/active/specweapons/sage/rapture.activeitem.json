@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/sage/rapture.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "于山巅，您会意识到武器是无法替代外套的。然而，在战斗之中...",
+      "Eng": "Atop the mountains, you realize a weapon is no substitute for a coat. Amidst battle, however..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/sage/rapture.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^#77acc3;喜悦^white;",
+      "Eng": "^#77acc3;Rapture^white;"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/shade/shadowscalling.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "暗影呼唤",
+      "Eng": "Shadow's Calling"
+    }
+  }
+]

@@ -75,18 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
-        "/effects/3/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "暗影免疫(FU)",
-      "Eng": "Shadow Immunity (FU)"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "specs/necromancer.config": [
         "/ability/text"
       ]
     },

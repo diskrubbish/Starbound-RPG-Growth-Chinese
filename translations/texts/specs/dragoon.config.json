@@ -55,8 +55,8 @@
       ]
     },
     "Texts": {
-      "Chs": "使用矛和突击步枪时，其基础攻击力增加至120%。",
-      "Eng": "120% Base Power with Spears and Assault Rifles"
+      "Chs": "使用矛、突击步枪和来自FFS的SMG/DMR时，其基础攻击力增加至120%。",
+      "Eng": "120% Base Power with Spears, Assault Rifles and FFS SMGs/DMRs"
     }
   },
   {
@@ -79,8 +79,8 @@
       ]
     },
     "Texts": {
-      "Chs": "可以使用突击步枪",
-      "Eng": "Can use Assault Rifles."
+      "Chs": "可以使用突击步枪(和FFS的AR, SMG, 或者2DMR)",
+      "Eng": "Can use Assault Rifles (and FFS ARs, SMGs, or DMRs)"
     }
   },
   {

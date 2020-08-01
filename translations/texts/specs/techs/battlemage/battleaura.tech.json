@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/battlemage/battleaura.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "战法师专有",
+      "Eng": "Battle Mage Only"
+    }
+  }
+]

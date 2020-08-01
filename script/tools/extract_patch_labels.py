@@ -25,7 +25,7 @@ if platform == "win32":
 else:
     from os.path import normpath
 
-root_dir = "F:\Starbound-RPG-Growth"
+root_dir = "F:/Starbound-RPG-Growth"
 prefix = "F:/Starbound-RPG-Growth-Chinese/translations"
 texts_prefix = "patches"
 sub_file = normpath(join(prefix, "patch_substitutions.json"))
