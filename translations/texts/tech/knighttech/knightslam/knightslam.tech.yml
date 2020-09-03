@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/knighttech/knightslam/knightslam.tech:
+    - /description
+  Texts:
+    Chs: 猛击消耗：30能量。
+    Eng: 'Slam Cost: 30e.'

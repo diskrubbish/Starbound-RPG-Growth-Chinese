@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/tech/ivrpgucghost.activeitem:
+    - /description
+  Texts:
+    Chs: '消失球升级。
+
+      在变形时，左键刀枪不入且可穿过墙壁。'
+    Eng: 'Vanish Sphere Upgrade.
+
+      While transformed, replace invulnerability with traversal through walls.'

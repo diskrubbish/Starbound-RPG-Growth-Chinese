@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    professions/miner/items/miningtools/electrumpickaxe.miningtool:
+    - /shortdescription
+  Texts:
+    Chs: 银金镐
+    Eng: Electrum Pickaxe
+- DeniedAlternatives: []
+  Files:
+    professions/miner/items/miningtools/electrumpickaxe.miningtool:
+    - /description
+  Texts:
+    Chs: 这把镐子和银镐性能相当，但耐久是其三倍。
+    Eng: This tool mines like a Silver Pickaxe, but lasts thrice as long.

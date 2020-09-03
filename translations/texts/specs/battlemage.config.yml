@@ -1,0 +1,57 @@
+- DeniedAlternatives: []
+  Files:
+    specs/battlemage.config:
+    - /effects/3/text
+  Texts:
+    Chs: 使用双手近战武器时，其基础攻击力增加至120%：且随智力增长。
+    Eng: '120% Base Power with Two-Handed Melee Weapons: Scales with Int.'
+- DeniedAlternatives: []
+  Files:
+    specs/battlemage.config:
+    - /classic/0/text
+  Texts:
+    Chs: 可以使用双手近战武器。
+    Eng: Can use Two Handed Melee Weapons.
+- DeniedAlternatives: []
+  Files:
+    specs/battlemage.config:
+    - /classic/1/text
+  Texts:
+    Chs: 无法使用魔杖
+    Eng: Cannot use Wands.
+- DeniedAlternatives: []
+  Files:
+    specs/battlemage.config:
+    - /ability/text
+  Texts:
+    Chs: 存在多个敌人时，攻击倍乘+200％，但在附近没有敌人时-50％。
+    Eng: Power Multiplier increases up to +200% when multiple enemies are present,
+      but decreases by -50% when there are none nearby.
+- DeniedAlternatives: []
+  Files:
+    specs/battlemage.config:
+    - /tech/text
+  Texts:
+    Chs: '按[Special 1]或者[Shift] + [Special 1]在不同的光环之间循环切换。
+
+      ^red;腥红光环: 115%攻击倍乘; 75%最大生命。伤害敌人时恢复生命。
+
+      ^gray;钢铁光环: 115% 最大生命; 75%速度和跳跃高度。
+
+      伤害敌人时获得临时的护甲。
+
+      ^green;离子光环: 115%速度和跳跃高度; 75%攻击倍乘。
+
+      伤害敌人时回复能量。'
+    Eng: "Press [Special 1] or [Shift] + [Special 1] to cycle between auras. \n^red;Blood\
+      \ Aura: 115% Power Multiplier; 75% Max Health. Damaging foes regens Health.\n\
+      ^gray;Iron Aura: 115% Max Health; 75% Speed and Jump Height.\nDamaging foes\
+      \ grants temporary Armor.\n^green;Ionic Aura: 115% Speed and Jump Height; 75%\
+      \ Power Multiplier.\nDamaging foes regens Energy."
+- DeniedAlternatives: []
+  Files:
+    specs/battlemage.config:
+    - /weapon/title
+  Texts:
+    Chs: 至日
+    Eng: Solstice

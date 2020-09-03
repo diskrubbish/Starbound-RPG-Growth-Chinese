@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/battlemage/battleaura1.statuseffect:
+    - /label
+  Texts:
+    Chs: 腥红光环
+    Eng: Blood Aura

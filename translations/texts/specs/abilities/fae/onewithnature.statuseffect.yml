@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/abilities/fae/onewithnature.statuseffect:
+    - /label
+  Texts:
+    Chs: 自然之子
+    Eng: One With Nature

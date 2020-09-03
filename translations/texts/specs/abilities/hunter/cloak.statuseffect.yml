@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/abilities/hunter/cloak.statuseffect:
+    - /label
+  Texts:
+    Chs: 斗篷
+    Eng: Cloak

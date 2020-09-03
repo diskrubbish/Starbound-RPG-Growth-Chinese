@@ -1,0 +1,9 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/classweapons/wizardstaff/novastatus/starfall.statuseffect:
+    - /label
+    items/active/classweapons/wizardstaff/novastatus/wizardnovastatus.statuseffect:
+    - /label
+  Texts:
+    Chs: 星落
+    Eng: Starfall

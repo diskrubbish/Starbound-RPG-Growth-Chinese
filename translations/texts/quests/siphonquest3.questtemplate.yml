@@ -1,0 +1,17 @@
+- DeniedAlternatives: []
+  Files:
+    quests/siphonquest3.questtemplate:
+    - /text
+  Texts:
+    Chs: 训练时间到！只要你你将你的能力锻炼至巅峰，我会尝试让虹吸爪足够强大来匹配你！^white;
+    Eng: Time to train! When you have perfected your abilities, I will attempt to
+      make Siphon strong enough to match!^white;
+- DeniedAlternatives: []
+  Files:
+    quests/siphonquest3.questtemplate:
+    - /completionText
+  Texts:
+    Chs: 你已经尽你所能的变得凶残了！我已经升级了你的虹吸爪。你现在也可以在升级后的铁砧上制造虹吸爪·通量、虹吸爪·孢子和虹吸爪·剃刀了。
+    Eng: You're as dangerous as you can be! I have upgraded your Siphon. You will
+      now also be able to build Siphon Spore, Siphon Razor, and Siphon Flux in an
+      upgraded anvil.

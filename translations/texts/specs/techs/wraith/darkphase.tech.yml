@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/wraith/darkphase.tech:
+    - /description
+  Texts:
+    Chs: 幽魂专属
+    Eng: Wraith Only

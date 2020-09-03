@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    monsters/soldierstun/soldierstun.statuseffect:
+    - /label
+  Texts:
+    Chs: 士兵的击晕
+    Eng: Soldier's Stun

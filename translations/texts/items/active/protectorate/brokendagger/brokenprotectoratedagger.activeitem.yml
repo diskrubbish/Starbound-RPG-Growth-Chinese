@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/protectorate/brokendagger/brokenprotectoratedagger.activeitem:
+    - /description
+  Texts:
+    Chs: 一把非常好的匕首，但是状况很差。
+    Eng: A very nice dagger in very poor condition.
+- DeniedAlternatives: []
+  Files:
+    items/active/protectorate/brokendagger/brokenprotectoratedagger.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: 损坏的匕首
+    Eng: Broken Dagger

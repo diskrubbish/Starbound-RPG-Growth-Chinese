@@ -1,0 +1,26 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/affinity/ivrpgucaffinitytest.activeitem:
+    - /description
+    items/upgrade chips/general/ivrpgucgeneral.activeitem:
+    - /description
+    items/upgrade chips/tech/ivrpguctech.activeitem:
+    - /description
+    items/upgrade chips/weapon/ivrpgucweapon.activeitem:
+    - /description
+  Texts:
+    Chs: 描述
+    Eng: Description.
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/affinity/ivrpgucaffinitytest.activeitem:
+    - /shortdescription
+    items/upgrade chips/general/ivrpgucgeneral.activeitem:
+    - /shortdescription
+    items/upgrade chips/tech/ivrpguctech.activeitem:
+    - /shortdescription
+    items/upgrade chips/weapon/ivrpgucweapon.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: 名字
+    Eng: Name

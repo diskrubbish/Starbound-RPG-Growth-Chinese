@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    professions/tamer/status/ivrpgtamerstatuscooldown.statuseffect:
+    - /label
+  Texts:
+    Chs: 驯兽师的喂食冷却
+    Eng: Tamer's Feeding Cooldown

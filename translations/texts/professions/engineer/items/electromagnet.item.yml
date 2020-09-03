@@ -1,0 +1,15 @@
+- DeniedAlternatives: []
+  Files:
+    professions/engineer/items/electromagnet.item:
+    - /description
+  Texts:
+    Chs: 由铁、铜线和优质电池制成的电磁铁。来自RPG Growth。
+    Eng: A magnet made from iron, copper wire, and come good ol' batteries. From RPG
+      Growth.
+- DeniedAlternatives: []
+  Files:
+    professions/engineer/items/electromagnet.item:
+    - /shortdescription
+  Texts:
+    Chs: 电磁铁(RPG)
+    Eng: Electromagnet

@@ -1,0 +1,40 @@
+- DeniedAlternatives: []
+  Files:
+    professions/medic.config:
+    - /effects/1/text
+  Texts:
+    Chs: +10%毒系抗性
+    Eng: +10% Poison Resistance
+- DeniedAlternatives: []
+  Files:
+    professions/medic.config:
+    - /effects/0/text
+  Texts:
+    Chs: +20最大生命
+    Eng: +20 Max Health
+- DeniedAlternatives: []
+  Files:
+    professions/medic.config:
+    - /passive/text
+  Texts:
+    Chs: 当生命值低于25%最大生命值时，会立即使用背包中的药膏、绷带、医药包和纳米绷带。如果你有多种，效果更强，速度更快的会被首先使用。技能再次发动之前的冷却时间与所使用的治疗物品的持续时间等长，如果你已经受到治疗物品的影响，这个技能将不会发动。
+    Eng: Salves, Bandages, Medpacks, and Nanowrap Bandages in your inventory are instantly
+      used when Health falls below 25% Max Health. If you have some of each, the stronger,
+      faster ones are used first. The cooldown before this effect can happen again
+      lasts as long as the duration of the healing item that was used, and the effect
+      does not occur if you are already under the effect of a healing consumable.
+- DeniedAlternatives: []
+  Files:
+    professions/medic.config:
+    - /crafting/text
+  Texts:
+    Chs: 医者工作台允许你用更少的材料制作治疗消耗品！
+    Eng: The Medic Station allows you to craft healing consumables using fewer materials.
+- DeniedAlternatives: []
+  Files:
+    professions/medic.config:
+    - /ability/text
+  Texts:
+    Chs: 当你的生命值超过50%最大生命值时，10格附近的友好玩家和NPC会获得轻微的生命值再生。
+    Eng: When your own Health is above 50% Max Health, nearby friendly Players and
+      NPCs, up to 10 blocks away, gain slight Health Regeneration.

@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/weapon/ivrpgucquicksilver.activeitem:
+    - /description
+  Texts:
+    Chs: '起原新星升级。
+
+      满充所需时间减少。'
+    Eng: 'Primed Nova Upgrade.
+
+      Charge Time decreased.'

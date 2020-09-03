@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/classweapons/wizardstaff/wizardnovastaff3.activeitem:
+    - /description
+  Texts:
+    Chs: 炸裂吧！现实！炸裂吧！世界！
+    Eng: Explosions. Explosions everywhere.
+- DeniedAlternatives: []
+  Files:
+    items/active/classweapons/wizardstaff/wizardnovastaff3.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: ^magenta;起源新星
+    Eng: ^magenta;Primed Nova

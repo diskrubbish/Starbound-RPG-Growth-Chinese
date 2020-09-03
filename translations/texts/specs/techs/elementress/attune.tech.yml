@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/elementress/attune.tech:
+    - /shortDescription
+  Texts:
+    Chs: 调谐
+    Eng: Attune
+- DeniedAlternatives: []
+  Files:
+    specs/techs/elementress/attune.tech:
+    - /description
+  Texts:
+    Chs: 元素使专有
+    Eng: Elementress Only

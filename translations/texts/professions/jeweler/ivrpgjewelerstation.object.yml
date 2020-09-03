@@ -1,0 +1,69 @@
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.object:
+    - /description
+  Texts:
+    Chs: 一张大桌子，上面陈列着精雕细琢的宝石。桌子有许多大抽屉，可以放满珠宝。
+    Eng: A large desk displaying magnificently cut gems. It has many large drawers
+      to fill with jewelry.
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.object:
+    - /floranDescription
+  Texts:
+    Chs: 宝宝宝石不能吃！至至至少抽屉里面也该放慢肉，叶族人不感兴兴兴趣。
+    Eng: Gemsss cannot be eaten! Unlesssss drawers are filled with meat, Floran not
+      interessted.
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.object:
+    - /shortdescription
+  Texts:
+    Chs: 珠宝商工作台
+    Eng: Jeweler Station
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.object:
+    - /humanDescription
+  Texts:
+    Chs: 就像妈妈以前一样。好吧，也许比那个大一点，但是心意才是最重要的。
+    Eng: Just like mom used to have. Well, maybe a bit bigger than that, but it's
+      the thought that counts.
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.object:
+    - /novakidDescription
+  Texts:
+    Chs: 现在，虽然我可以佩戴一些非常精美的珠宝，但我打赌我可以把它们卖个好价钱。
+    Eng: Now while I can wear some mighty fine jewelry, I bet I can sell'em for a
+      good price instead.
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.object:
+    - /avianDescription
+  Texts:
+    Chs: 展出的宝石很漂亮，戴在正式的皇冠上很好看。
+    Eng: The gems displayed are beautiful. They would look good on a ceremonial crown.
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.object:
+    - /glitchDescription/glitchEmotedText
+  Texts:
+    Eng: The jewels on display have a particularly impressive hardness. Best not get
+      scratched.
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.object:
+    - /apexDescription
+  Texts:
+    Chs: 这张桌子有许多放珠宝的隔间。展示的工具可以以有趣的方式使用。
+    Eng: This desk has many compartments with which to hold jewelry. The displayed
+      tools could be used in interesting ways.
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.object:
+    - /hylotlDescription
+  Texts:
+    Chs: 通过一丝不苟的手工艺，我敢打赌我可以创造出这颗...行星上最好的珠宝...
+    Eng: With meticulous handiwork, I bet I could create the finest jewelry on the...
+      planets...

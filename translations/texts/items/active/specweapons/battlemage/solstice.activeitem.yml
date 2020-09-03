@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/battlemage/solstice.activeitem:
+    - /description
+  Texts:
+    Chs: 至高之路，即在足下。
+    Eng: The highest point you'll ever get.
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/battlemage/solstice.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: ^magenta;至日
+    Eng: ^magenta;Solstice

@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/weapon/ivrpgucpassedprime.activeitem:
+    - /description
+  Texts:
+    Chs: '起原新星升级。
+
+      起原新星可以蓄能更长时间。状态进程升级。'
+    Eng: 'Primed Nova Upgrade.
+
+      Primed Nova can be charged for longer. Status Procs upgraded.'

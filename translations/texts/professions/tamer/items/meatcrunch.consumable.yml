@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    professions/tamer/items/meatcrunch.consumable:
+    - /description
+  Texts:
+    Chs: 磨碎的骨头和肉。效果：+ 30护甲。
+    Eng: 'Ground bones and meat. Effect: +30 Armor.'
+- DeniedAlternatives: []
+  Files:
+    professions/tamer/items/meatcrunch.consumable:
+    - /shortdescription
+  Texts:
+    Chs: 大块肉(RPG)
+    Eng: Meat Crunch

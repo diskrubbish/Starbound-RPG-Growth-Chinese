@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/tech/ivrpgucwavedash.activeitem:
+    - /description
+  Texts:
+    Chs: '脱战！升级。
+
+      提高空中速度，无视地面冲刺，抵消掉落伤害。'
+    Eng: 'Escape! Upgrade.
+
+      Improves aerial stopping power, ground usage, and negates fall damage.'

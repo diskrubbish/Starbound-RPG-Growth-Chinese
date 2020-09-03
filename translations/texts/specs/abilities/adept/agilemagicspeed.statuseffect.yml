@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/abilities/adept/agilemagicspeed.statuseffect:
+    - /label
+  Texts:
+    Chs: 敏捷魔术
+    Eng: Agile Magic

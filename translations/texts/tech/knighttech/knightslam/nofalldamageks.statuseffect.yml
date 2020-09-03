@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/knighttech/knightslam/nofalldamageks.statuseffect:
+    - /label
+  Texts:
+    Chs: 骑士的猛击
+    Eng: Knight's Slam

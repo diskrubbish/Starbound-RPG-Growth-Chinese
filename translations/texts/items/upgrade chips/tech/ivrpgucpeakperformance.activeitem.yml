@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/tech/ivrpgucpeakperformance.activeitem:
+    - /description
+  Texts:
+    Chs: '猛击升级.
+
+      在半空中跳跃三次。大幅度爆炸且击退，但伤害较之前降低。'
+    Eng: 'Slam Upgrade.
+
+      Jump thrice while in mid-air. Larger Slam explosion knockback but less damage.'

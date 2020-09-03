@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    professions/miner/items/bars/electrumbar.item:
+    - /description
+  Texts:
+    Chs: 一种由银和金制成的超高能合金。来自RPG Growth。
+    Eng: A super-energetic alloy made from Silver and Gold. From RPG Growth.
+- DeniedAlternatives: []
+  Files:
+    professions/miner/items/bars/electrumbar.item:
+    - /shortdescription
+  Texts:
+    Chs: 银金锭(RPG)
+    Eng: Electrum Bar

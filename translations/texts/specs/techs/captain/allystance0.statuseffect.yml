@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/captain/allystance0.statuseffect:
+    - /label
+  Texts:
+    Chs: 立场未发动
+    Eng: No Stance

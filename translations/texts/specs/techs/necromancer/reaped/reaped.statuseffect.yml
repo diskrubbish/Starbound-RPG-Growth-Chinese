@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/necromancer/reaped/reaped.statuseffect:
+    - /label
+  Texts:
+    Chs: 收割！
+    Eng: Reaped!

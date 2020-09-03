@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/abilities/changeling/meltyblood.statuseffect:
+    - /label
+  Texts:
+    Chs: 溶解之血
+    Eng: Melty Blood

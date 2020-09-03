@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/abilities/vigilante/bymyownhands.statuseffect:
+    - /label
+  Texts:
+    Chs: 自力更生
+    Eng: By My Own Hands

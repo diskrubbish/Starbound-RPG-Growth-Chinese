@@ -1,0 +1,64 @@
+- DeniedAlternatives: []
+  Files:
+    specs/mechanist.config:
+    - /effects/4/text
+  Texts:
+    Chs: 使用榴弹/火箭发射器和机枪时，其基础攻击力增加至110%。
+    Eng: 110% Base Power with Grenade/Rocket Launchers and Machine Pistols.
+- DeniedAlternatives: []
+  Files:
+    specs/mechanist.config:
+    - /effects/5/text
+  Texts:
+    Chs: 使用你的扳手时，其基础攻击力增加至120%。
+    Eng: 120% Base Power with your Wrench.
+- DeniedAlternatives: []
+  Files:
+    specs/mechanist.config:
+    - /classic/0/text
+  Texts:
+    Chs: 可以双持榴弹发射器（和机械降神）。
+    Eng: Can Dual-Wield Grenade Launchers (and Ex Mechina).
+- DeniedAlternatives: []
+  Files:
+    specs/mechanist.config:
+    - /classic/1/text
+  Texts:
+    Chs: 可以使用一切近战武器。
+    Eng: Can use all Melee Weapons.
+- DeniedAlternatives: []
+  Files:
+    specs/mechanist.config:
+    - /effects/6/text
+  Texts:
+    Chs: 免疫感电
+    Eng: Electric Immunity
+- DeniedAlternatives: []
+  Files:
+    specs/mechanist.config:
+    - /weapon/title
+  Texts:
+    Chs: 机械降神...还有一把扳手？
+    Eng: Ex Mechina... and a wrench?
+- DeniedAlternatives: []
+  Files:
+    specs/mechanist.config:
+    - /ability/text
+  Texts:
+    Chs: '附近的友好机器人获得生命恢复和+30防御。
+
+      在友好机器人附近获得+3-防御和+50％最大能量。'
+    Eng: 'Nearby Friendly Robots gain Health Regen and +30 Protection.
+
+      Gain +30 Protection and +50% Max Energy while near Friendly Robots.'
+- DeniedAlternatives: []
+  Files:
+    specs/mechanist.config:
+    - /tech/text
+  Texts:
+    Chs: 按[Special 1]制造飞行无人机，或者蹲下建造自动炮塔：每种都有独立的60秒冷却时间。炮塔和无人机持续60秒或直到被击败。炮塔和无人机的与您自己的HP和防御成比例，而等级和攻击倍乘与智力与灵巧相关。
+    Eng: 'Press [Special 1] to build a flying drone, or do so while crouched to build
+      an automatic turret: each has an independent 60 second cooldown. Turrets and
+      drones last for 60 seconds or until they are defeated. Turret and drone Health
+      and Protection scale with your own Health and Protection, whereas Level and
+      Power Multiplier scale with Intelligence and Dexterity.'

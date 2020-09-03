@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    monsters/rpgmonsters/scandroid/scandroid.monstertype:
+    - /shortdescription
+  Texts:
+    Chs: 扫描机器人
+    Eng: Scandroid
+- DeniedAlternatives: []
+  Files:
+    monsters/rpgmonsters/scandroid/scandroid.monstertype:
+    - /description
+  Texts:
+    Chs: 扫描机器人正在进行无止境的搜索，没有人知道为什么。
+    Eng: The Scandroid is on an endless search. No one knows what for.

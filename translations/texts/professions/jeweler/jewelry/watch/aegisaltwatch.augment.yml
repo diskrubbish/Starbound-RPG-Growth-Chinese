@@ -1,0 +1,16 @@
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/jewelry/watch/aegisaltwatch.augment:
+    - /augment/displayName
+    - /shortdescription
+  Texts:
+    Chs: 霓磷盐怀表
+    Eng: Aegisalt Watch
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/jewelry/watch/aegisaltwatch.augment:
+    - /description
+  Texts:
+    Chs: 时尚的霓磷盐怀表，略微增加你的最大能量。^green;+10最大能量。^blue;
+    Eng: Fashionable Aegisalt Watch that boosts your Max Energy. ^green;Provides +10
+      Max Energy. ^blue;

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/battlemage/battleaura3.statuseffect:
+    - /label
+  Texts:
+    Chs: 离子光环
+    Eng: Ionic Aura

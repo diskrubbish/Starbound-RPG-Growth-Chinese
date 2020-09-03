@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/weapon/ivrpguchardlight.activeitem:
+    - /description
+  Texts:
+    Chs: '弹幕反抗者升级。
+
+      子弹会弹向附近的敌人。'
+    Eng: 'Versa Ricochet Upgrade.
+
+      Bullets bounce towards nearby enemies.'

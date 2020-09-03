@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    tech/explorertech/explorerdrill/explorerdrill.tech:
+    - /description
+  Texts:
+    Chs: 消耗：10能量/每秒。
+    Eng: 'Cost: 10eps.'
+- DeniedAlternatives: []
+  Files:
+    tech/explorertech/explorerdrill/explorerdrill.tech:
+    - /shortDescription
+  Texts:
+    Chs: 钻头
+    Eng: Drill

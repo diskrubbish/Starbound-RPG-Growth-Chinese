@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    objects/experience/experienceorb.currency:
+    - /shortdescription
+  Texts:
+    Chs: 经验球
+    Eng: Experience Orb
+- DeniedAlternatives: []
+  Files:
+    objects/experience/experienceorb.currency:
+    - /description
+  Texts:
+    Chs: 用于升级的经验球。
+    Eng: Experience orbs used to level up.

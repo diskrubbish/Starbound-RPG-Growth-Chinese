@@ -1,0 +1,35 @@
+- DeniedAlternatives: []
+  Files:
+    professions/tamer.config:
+    - /classic/0/text
+  Texts:
+    Chs: 可以使用鞭子
+    Eng: Can use Whips.
+- DeniedAlternatives: []
+  Files:
+    professions/tamer.config:
+    - /passive/text
+  Texts:
+    Chs: 你目前活跃的捕获怪物的健康降低到50%最大值时，在背包内的驯兽师工作台制作的怪物食品，生家禽肉，鱼，和牛排会被立即使用。生家禽肉，鱼，牛排提供健康再生，而怪物食品提供额外的加成。怪物食品会被优先使用。每次发动之间有30秒的冷却时间！
+    Eng: Monster Food crafted in the Tamer Station, Raw Poultry, Fish, and Steak in
+      your inventory are instantly used when your active Captured Monster's Health
+      falls below 50% Max Health. Raw Poultry, Fish, and Steak provide Health Regeneration,
+      while Monster Food provides extra bonuses. Monster Food is prioritized. There
+      is a 30 second cooldown between each activation!
+- DeniedAlternatives: []
+  Files:
+    professions/tamer.config:
+    - /ability/text
+  Texts:
+    Chs: 附近的友好攻击性怪物获得显著增加的护甲加成和力量移动速度的加成。随着你的健康/最大健康比率的降低，这个效果会变得更强。
+    Eng: Nearby friendly, aggressive Monsters gain Significantly Increased Armor and
+      Increased Power and Movement Speed. This effect gets stronger as your Health
+      / Max Health ratio decreases.
+- DeniedAlternatives: []
+  Files:
+    professions/tamer.config:
+    - /crafting/text
+  Texts:
+    Chs: 驯兽师工作台允许你制作捕捉舱，怪物配件，和怪物食品！
+    Eng: The Tamer Station allows you to craft Capture Pods, Monster Accessories,
+      and Monster Food!

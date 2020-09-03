@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/adept/flashstep.tech:
+    - /description
+  Texts:
+    Chs: 贤者专有
+    Eng: Adept Only

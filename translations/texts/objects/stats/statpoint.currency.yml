@@ -1,0 +1,8 @@
+- DeniedAlternatives: []
+  Files:
+    objects/stats/statpoint.currency:
+    - /description
+    - /shortdescription
+  Texts:
+    Chs: 属性点
+    Eng: Stat Point

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/abilities/captain/bythepeople.statuseffect:
+    - /label
+  Texts:
+    Chs: 源自群众
+    Eng: By The People

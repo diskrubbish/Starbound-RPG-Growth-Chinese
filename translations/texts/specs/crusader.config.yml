@@ -1,0 +1,84 @@
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /effects/3/text
+  Texts:
+    Chs: +15%电系抗性
+    Eng: +15% Electric Resistance
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /effects/2/text
+  Texts:
+    Chs: +25%火系抗性
+    Eng: +25% Fire Resistance
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /effects/6/text
+  Texts:
+    Chs: -50%毒素，恶魔和暗影(FU)抗性
+    Eng: -50% Poison, Demonic, and Shadow (FU) Resistance
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /effects/5/text
+  Texts:
+    Chs: +20%速度
+    Eng: 120% Speed
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /effects/4/text
+  Texts:
+    Chs: 使用阔剑时，其基础攻击力增加至150%。
+    Eng: 150% Base Power with Broadswords
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /ability/text
+  Texts:
+    Chs: 杀死一个敌人后，获得力量和护甲增幅，攻击命中造成审判。但是接触性伤害会降低你的速度。
+    Eng: After killing an enemy, Power and Armor increase, and hits cause Judgement.
+      Receiving Contact Damage decreases your Speed.
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /tech/text
+  Texts:
+    Chs: 骑士重击的升级版。冲刺时会发起一次审判。使用阔剑而未举起盾牌时，重击伤害加倍。当受到致命伤害时，会发动神圣爆炸，立即恢复所有的生命和能量。之后2秒内你的速度增加。冷却时间为180秒。爆炸伤害随活力增加而增加。
+    Eng: An upgrade to Knight's Bash. Cause Judgement while sprinting. Bash damage
+      is doubled while wielding a Broadsword instead of a rasied Shield. When taking
+      fatal damage, create a holy explosion and immediately regenerate all Health
+      and Energy. Speed increases for 2 seconds afterwards. Has a cooldown of 180
+      seconds. Explosion damage scales with Vigor.
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /classic/0/text
+  Texts:
+    Chs: 可以使用双手近战武器
+    Eng: Can use Two-Handed Melee Weapons.
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /effects/1/text
+  Texts:
+    Chs: 神圣庇护
+    Eng: Holy Immunity
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /weapon/title
+  Texts:
+    Chs: 守誓者
+    Eng: Oathkeeper
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /classic/1/text
+  Texts:
+    Chs: ^red;未使用阔剑时，基础攻击力降低至10%。
+    Eng: '^red;10% Base Power while a
+
+      Broadsword is not equipped'

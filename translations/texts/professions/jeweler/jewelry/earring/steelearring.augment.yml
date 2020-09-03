@@ -1,0 +1,16 @@
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/jewelry/earring/steelearring.augment:
+    - /description
+  Texts:
+    Chs: 时尚的钢制耳环，略微增加你的攻击倍乘。^green;+2.5%攻击倍乘。^blue;
+    Eng: Fashionable Steel Earring that slightly boosts your Powerful Multiplier.
+      ^green;Provides +2.5% Power Multiplier. ^blue;
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/jewelry/earring/steelearring.augment:
+    - /augment/displayName
+    - /shortdescription
+  Texts:
+    Chs: 钢制耳环
+    Eng: Steel Earring

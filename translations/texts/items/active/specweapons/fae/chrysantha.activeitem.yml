@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/fae/chrysantha.activeitem:
+    - /description
+  Texts:
+    Chs: 一束交织着罪恶鲜血的粉红恶之华。
+    Eng: A stunning array of reds and pinks to blend with vivid, crimson blood.
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/fae/chrysantha.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: ^#FFAACC;恶之华
+    Eng: ^#FFAACC;Chrysantha

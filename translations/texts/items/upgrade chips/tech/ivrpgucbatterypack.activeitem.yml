@@ -1,0 +1,12 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/tech/ivrpgucbatterypack.activeitem:
+    - /description
+  Texts:
+    Chs: '奥里给升级。
+
+      当能量全满时，奥里给的被动加成和主动增幅次数都会增加。'
+    Eng: 'Energize Upgrade.
+
+      Energize''s passive bonus and active jump count are improved when energy is
+      full.'

@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/crafting/wizard/ivrpgnovacrystal.item:
+    - /description
+  Texts:
+    Chs: 一颗散发着神秘力量的水晶。
+    Eng: A crystal that emanates a mysterious power.
+- DeniedAlternatives: []
+  Files:
+    items/crafting/wizard/ivrpgnovacrystal.item:
+    - /shortdescription
+  Texts:
+    Chs: 新星水晶
+    Eng: Nova Crystal

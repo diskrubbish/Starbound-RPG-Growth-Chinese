@@ -8,6 +8,7 @@ from os import makedirs, remove, walk
 from os.path import abspath, basename, dirname, exists, join, relpath
 from re import compile as regex
 from sys import platform
+import yaml
 
 from patch_tool import trans_patch, to_a_list, trans_patch_spcial_1
 from ignore_file import ignore_filelist
@@ -162,7 +163,7 @@ def file_by_assets(assets_fname, field, substitutions, header):
     if assets_fname in substitutions and field in substitutions[assets_fname]:
         return substitutions[assets_fname][field]
     else:
-        return normpath(join(header, assets_fname)) + ".json"
+        return normpath(join(header, assets_fname)) + ".yml"
 
 
 def process_label(combo):
@@ -183,7 +184,7 @@ def process_label(combo):
                 obj_file = normpath(specialSharedPaths[fieldend])
             if obj_file == '.':
                 obj_file = "wide_spread_fields"
-            filename = normpath(join(prefix, header, obj_file + ".json"))
+            filename = normpath(join(prefix, header, obj_file + ".yml"))
             if thefile != obj_file or fieldend in ["glitchEmotedText"]:
                 if thefile not in substitutions:
                     substitutions[thefile] = dict()
@@ -195,7 +196,7 @@ def process_label(combo):
                 olddata = []
                 try:
                     with open_n_decode(oldfile, 'r', 'utf-8') as f:
-                        olddata = load(f)
+                        olddata = yaml.load(f,Loader=yaml.FullLoader)
                 except:
                     pass
                 for oldentry in olddata:
@@ -219,7 +220,7 @@ def prepare_to_write(database, sub_file, header):
     print("Trying to merge with old "+header+" data...")
     try:
         with open_n_decode(sub_file, "r", 'utf-8') as f:
-            oldsubs = load(f)
+            oldsubs = yaml.safe_load(f)
     except:
         print("No old data found, creating new database.")
     for section, thedatabase in database.items():
@@ -252,15 +253,17 @@ def catch_danglings(target_path, file_buffer):
 
 def write_file(filename, content):
     filedir = dirname(filename)
-    if not filename.endswith("substitutions.json"):
+    if not filename.endswith("substitutions.yml"):
         content = sorted(content, key=lambda x: x["Texts"]["Eng"])
     if len(filedir) > 0:
         makedirs(filedir, exist_ok=True)
     else:
         raise Exception("Filename without dir: " + filename)
     with open_n_decode(filename, "w", 'utf-8') as f:
-        dump(content, f, ensure_ascii=False, indent=2, sort_keys=True)
+        #dump(content, f, ensure_ascii=False, indent=2, sort_keys=True)
         # print("Written " + filename)
+        yaml.dump(content, f,default_flow_style=False,encoding='utf-8',allow_unicode=True)
+
 
 
 # auto processing

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/ninjatech/ninjaassassinate/ninjaassassinatecooldown.statuseffect:
+    - /label
+  Texts:
+    Chs: 暗杀冷却
+    Eng: Assassinate Cooldown

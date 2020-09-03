@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/scrolls/specs/knight/scrollpaladin.activeitem:
+    - /description
+  Texts:
+    Chs: 为那些想成为一堵永不破碎的墙的骑士准备。
+    Eng: For the Knight who wants to be a wall that never breaks.
+- DeniedAlternatives: []
+  Files:
+    items/scrolls/specs/knight/scrollpaladin.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: 专精：圣骑士
+    Eng: 'Specialization: Paladin'

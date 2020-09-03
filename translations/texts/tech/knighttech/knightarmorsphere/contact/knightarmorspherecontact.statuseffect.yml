@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/knighttech/knightarmorsphere/contact/knightarmorspherecontact.statuseffect:
+    - /label
+  Texts:
+    Chs: 连锁伤害
+    Eng: Contact Damage

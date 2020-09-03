@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/abilities/kunoichi/tranquilwind.statuseffect:
+    - /label
+  Texts:
+    Chs: 宁风
+    Eng: Tranquil Wind

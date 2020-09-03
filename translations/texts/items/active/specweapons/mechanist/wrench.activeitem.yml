@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/mechanist/wrench.activeitem:
+    - /description
+  Texts:
+    Chs: 只是扳手。
+    Eng: It's a wrench.
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/mechanist/wrench.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: ^orange;扳手^reset;
+    Eng: ^orange;Wrench^reset;

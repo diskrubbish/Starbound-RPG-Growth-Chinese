@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    monsters/soldierstun/ivrpgstun.statuseffect:
+    - /label
+  Texts:
+    Chs: 击晕
+    Eng: Stunned

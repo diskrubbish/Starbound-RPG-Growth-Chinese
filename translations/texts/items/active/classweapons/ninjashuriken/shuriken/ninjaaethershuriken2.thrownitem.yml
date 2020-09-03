@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/classweapons/ninjashuriken/shuriken/ninjaaethershuriken2.thrownitem:
+    - /description
+  Texts:
+    Chs: 暗影以太，一把更锋利，更阴暗的手里剑，利用暗影能量复制自我。
+    Eng: Shadow Aether, a sharper, shadowy shuriken that duplicates using dark energy.

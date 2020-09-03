@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/affinity/ivrpguceternalflame.activeitem:
+    - /description
+  Texts:
+    Chs: '火焰&狱火亲和力升级。
+
+      亲和力弱点不再影响你。'
+    Eng: 'Flame and Infernal Affinity Upgrade.
+
+      Negates all Affinity Weaknesses.'

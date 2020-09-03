@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    tech/wizardtech/wizardhover/wizardhover.tech:
+    - /shortDescription
+  Texts:
+    Chs: 可控悬停
+    Eng: Controlled Hover
+- DeniedAlternatives: []
+  Files:
+    tech/wizardtech/wizardhover/wizardhover.tech:
+    - /description
+  Texts:
+    Chs: 消耗：50能量/每秒
+    Eng: 'Cost: 50eps.'

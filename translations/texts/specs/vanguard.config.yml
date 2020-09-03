@@ -1,0 +1,83 @@
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /effects/7/text
+  Texts:
+    Chs: +10%饥饿速率
+    Eng: +10% Hunger Rate
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /effects/2/text
+  Texts:
+    Chs: +25%电系抗性
+    Eng: +25% Electric Resistance
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /effects/3/text
+  Texts:
+    Chs: +25%击退抗性
+    Eng: +25% Knockback Resistance
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /effects/6/text
+  Texts:
+    Chs: -50%毒素，火系和冰系抗性
+    Eng: -50% Poison, Fire, and Ice Resistance
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /effects/5/text
+  Texts:
+    Chs: 使用自动手枪时，其基础攻击力增加至120%。
+    Eng: 120% Base Power with Machine Pistols
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /effects/4/text
+  Texts:
+    Chs: 使用霰弹枪时，其基础攻击力增加至150%。
+    Eng: 150% Base Power with Shotguns
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /effects/8/text
+  Texts:
+    Chs: 只有75%的跳跃高度
+    Eng: 75% Jump Height
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /classic/0/text
+  Texts:
+    Chs: 可以在使用自动手枪的同时使用其他(非FFS)武器。
+    Eng: Can use Machine Pistols with other (non FFS) Weapons.
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /classic/2/text
+  Texts:
+    Chs: 不能使用狙击步枪(或FFS的DMR)，火箭发射器和榴弹发射器
+    Eng: Cannot use Sniper Rifles (or FFS DMRs) or Rocket / Grenade Launchers.
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /ability/text
+  Texts:
+    Chs: 在接近敌人时增加物理抵抗、能量和速度。在远离敌人时降低攻击和能量。
+    Eng: Increased Physical Resistance, Energy, and Speed while near enemies. Decreased
+      Power and Energy while far from enemies.
+- DeniedAlternatives: []
+  Files:
+    specs/vanguard.config:
+    - /tech/text
+  Texts:
+    Chs: 当你的光标指向敌人附近时，按下[G]键，可以让你立即接近敌人。冲刺时是无敌状态，并且可以穿墙而出。当你再次出现时，会产生一次巨大的电弧爆炸，使敌人晕眩，并在成功击杀敌人时恢复20%的最大能量。爆炸伤害与敏捷和灵巧有关。能量消耗为150。^red;你不能对被砖块包住的敌人使用此技能。
+    Eng: Pressing [G] while your cursor points near an enemy allows you to near-instantly
+      travel towards that enemy. While traveling, you are immune to damage and can
+      phase through walls. Upon reappearing, create a large electrical explosion that
+      stuns, and regenerates 20% Max Energy upon landing a killing blow. Explosion
+      Damage scales with Agility and Dexterity. Energy Cost is 150. ^red;You cannot
+      use Rush on enemies inside blocks.

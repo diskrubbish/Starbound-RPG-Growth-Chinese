@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/necromancer/reap.tech:
+    - /description
+  Texts:
+    Chs: 死灵法师专有
+    Eng: Necromancer Only.

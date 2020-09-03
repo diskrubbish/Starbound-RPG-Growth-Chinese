@@ -1,0 +1,9 @@
+- DeniedAlternatives: []
+  Files:
+    professions/engineer/ivrpgengineerstation.config:
+    - /paneLayout/btnCraft/caption
+    professions/tamer/ivrpgtamerstation.config:
+    - /paneLayout/btnCraft/caption
+  Texts:
+    Chs: 建造
+    Eng: Build

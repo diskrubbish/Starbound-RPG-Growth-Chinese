@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/abilities/cannoneer/fightinglion.statuseffect:
+    - /label
+  Texts:
+    Chs: 战斗之狮
+    Eng: Fighting Lion

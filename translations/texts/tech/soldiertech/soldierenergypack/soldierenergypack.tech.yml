@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/soldiertech/soldierenergypack/soldierenergypack.tech:
+    - /description
+  Texts:
+    Chs: 冲刺持续时间：0.20秒。
+    Eng: 'Dash Duration: 0.20s.'

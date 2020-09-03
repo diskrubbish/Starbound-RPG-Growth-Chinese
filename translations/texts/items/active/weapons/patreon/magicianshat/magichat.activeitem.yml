@@ -1,0 +1,6 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/weapons/patreon/magicianshat/magichat.activeitem:
+    - /shortdescription
+  Texts:
+    Eng: '"Caine" in a Hat'

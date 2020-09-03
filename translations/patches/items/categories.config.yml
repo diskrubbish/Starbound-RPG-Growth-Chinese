@@ -1,0 +1,49 @@
+- DeniedAlternatives: []
+  Files:
+    items/categories.config:
+    - /labels/clawWeapon
+  Texts:
+    Chs: 拳刃
+    Eng: Claw Weapon
+- DeniedAlternatives: []
+  Files:
+    items/categories.config:
+    - /labels/hybridGun
+  Texts:
+    Chs: 混合火炮
+    Eng: Hybrid Gun
+- DeniedAlternatives: []
+  Files:
+    items/categories.config:
+    - /labels/scroll
+  Texts:
+    Chs: 卷轴
+    Eng: Scroll
+- DeniedAlternatives: []
+  Files:
+    items/categories.config:
+    - /labels/shuriken
+  Texts:
+    Chs: 手里剑
+    Eng: Shuriken
+- DeniedAlternatives: []
+  Files:
+    items/categories.config:
+    - /labels/tornPage
+  Texts:
+    Chs: 撕裂的书页
+    Eng: Torn Page
+- DeniedAlternatives: []
+  Files:
+    items/categories.config:
+    - /labels/uniqueDrill
+  Texts:
+    Chs: 独特钻头
+    Eng: Unique Drill
+- DeniedAlternatives: []
+  Files:
+    items/categories.config:
+    - /labels/useScroll
+  Texts:
+    Chs: 可用卷轴
+    Eng: Useable Scroll

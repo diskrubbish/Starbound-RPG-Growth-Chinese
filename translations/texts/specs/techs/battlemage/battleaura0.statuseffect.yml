@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/battlemage/battleaura0.statuseffect:
+    - /label
+  Texts:
+    Chs: 无光环
+    Eng: No Aura

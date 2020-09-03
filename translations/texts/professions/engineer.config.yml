@@ -1,0 +1,48 @@
+- DeniedAlternatives: []
+  Files:
+    professions/engineer.config:
+    - /effects/1/text
+  Texts:
+    Chs: +10%电系抗性
+    Eng: +10% Electric Resistance
+- DeniedAlternatives: []
+  Files:
+    professions/engineer.config:
+    - /effects/0/text
+  Texts:
+    Chs: 10%冰系抗性
+    Eng: +10% Ice Resistance
+- DeniedAlternatives: []
+  Files:
+    professions/engineer.config:
+    - /passive/text
+  Texts:
+    Chs: 在能源下降到最大的25%时，会立即使用在背包里的AA电池，电池，和超能源细胞。物品以最弱到最强的优先级使用，并立即给予能量。AA电池提供20点能量，电池提供60点能量，超能源细胞提供最大能量的50%
+      。技能每次激活之间有10秒的冷却时间！
+    Eng: AA Batteries, Batteries, and S-Power Cells in your inventory are instantly
+      used when Energy falls below 25% Max Energy. Items are used from weakest to
+      strongest, and instantly grant Energy. AA Batteries give +20 Energy, Batteries
+      give +60 Energy, and S-Power Cells restore 50% of Max Energy. There is a 10
+      second cooldown between each activation!
+- DeniedAlternatives: []
+  Files:
+    professions/engineer.config:
+    - /classic/0/text
+  Texts:
+    Chs: 可以使用远程武器。
+    Eng: Can use Ranged Weapons.
+- DeniedAlternatives: []
+  Files:
+    professions/engineer.config:
+    - /crafting/text
+  Texts:
+    Chs: 工程师工作台允许你用更少的材料制作电学物品！
+    Eng: The Engineer Station allows you craft electronics using fewer materials!
+- DeniedAlternatives: []
+  Files:
+    professions/engineer.config:
+    - /ability/text
+  Texts:
+    Chs: 当饱食度接近饱足时，你和附近的玩家与NPC获得最大能量加成。
+    Eng: While Hunger is near satiated, you and nearby Players and NPCs gain increased
+      Max Energy.

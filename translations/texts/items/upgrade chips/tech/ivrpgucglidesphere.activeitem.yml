@@ -1,0 +1,18 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/tech/ivrpgucglidesphere.activeitem:
+    - /description
+  Texts:
+    Chs: '钻头球升级。
+
+      在变形过程中获得双跳和滑翔。空气动量增加。'
+    Eng: 'Drill Sphere Upgrade.
+
+      Gain a double jump and glide while transformed. In-air momentum is improved.'
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/tech/ivrpgucglidesphere.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: 滑翔球
+    Eng: Glide Sphere

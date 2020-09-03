@@ -1,0 +1,8 @@
+- DeniedAlternatives: []
+  Files:
+    monsters/rpgmonsters/trifangle/trifangle.monstertype:
+    - /description
+  Texts:
+    Chs: 一台侵略性的尖锐太空机器。他们确实有自己的个性——只是他们都是独一无二的愤怒。
+    Eng: An aggressive, pointy space machine. They do have individual personalities
+      - they're just all uniquely angry.

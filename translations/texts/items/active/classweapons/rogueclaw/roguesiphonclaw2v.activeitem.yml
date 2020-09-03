@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/classweapons/rogueclaw/roguesiphonclaw2v.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: 虹吸爪·孢囊
+    Eng: Siphon Cyst
+- DeniedAlternatives: []
+  Files:
+    items/active/classweapons/rogueclaw/roguesiphonclaw2v.activeitem:
+    - /description
+  Texts:
+    Chs: 不可思议...
+    Eng: Uncanny...

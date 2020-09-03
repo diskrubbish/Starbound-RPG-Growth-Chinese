@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/roguetech/roguetoxicaura/roguetoxicauracooldown.statuseffect:
+    - /label
+  Texts:
+    Chs: 毒素光环冷却
+    Eng: Toxic Aura Cooldown

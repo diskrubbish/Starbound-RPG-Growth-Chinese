@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    projectiles/grenades/stun/stungrenade.thrownitem:
+    - /shortdescription
+  Texts:
+    Chs: 眩晕手榴弹
+    Eng: Stun Grenade
+- DeniedAlternatives: []
+  Files:
+    projectiles/grenades/stun/stungrenade.thrownitem:
+    - /description
+  Texts:
+    Chs: 杀不死你的东西会让你变得脆弱。
+    Eng: What doesn't kill you makes you vulnerable.

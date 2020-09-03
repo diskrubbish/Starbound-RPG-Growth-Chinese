@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/vigilante/desperadocooldown.statuseffect:
+    - /label
+  Texts:
+    Chs: 殊死一搏冷却
+    Eng: Desperado Cooldown

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/classweapons/rogueclaw/roguesiphonclaw.activeitem:
+    - /description
+  Texts:
+    Chs: 小心，这爪子寒芒乍现。
+    Eng: Careful. It's sharp.

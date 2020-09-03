@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/wizardtech/wizardmagicshield/wizardmagicshield.tech:
+    - /description
+  Texts:
+    Chs: 能量回复：8%/s
+    Eng: 'Energy Regen: 8%/s.'

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    monsters/rpgmonsters/masteroid/mid/hardenedmasteroidmid.monstertype:
+    - /shortdescription
+  Texts:
+    Chs: 硬化母体(中型)
+    Eng: Hardened Masteroid (Medium)

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/weapons/melee/shortsword/magmaSaber.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: 熔岩之渊
+    Eng: Magma Gutter

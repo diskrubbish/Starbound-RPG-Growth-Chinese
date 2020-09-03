@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/weapon/ivrpgucblindingjustice.activeitem:
+    - /description
+  Texts:
+    Chs: '护主灵剑升级。
+
+      连击中的第八与第九击能击晕敌人。'
+    Eng: 'Vital Aegis Upgrade.
+
+      Certain Combo Steps stun enemies.'

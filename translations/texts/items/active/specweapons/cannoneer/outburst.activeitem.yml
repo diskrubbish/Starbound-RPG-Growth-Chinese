@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/cannoneer/outburst.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: ^#32ffb4;突发
+    Eng: ^#32ffb4;Outburst
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/cannoneer/outburst.activeitem:
+    - /description
+  Texts:
+    Chs: ^red;成 吨 伤 害！
+    Eng: ^red;NOW THAT'S A LOT OF DAMAGE!

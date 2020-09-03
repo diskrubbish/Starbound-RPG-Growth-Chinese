@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    stats/effects/rpg_slammed/ivrpgslammed.statuseffect:
+    - /label
+  Texts:
+    Chs: 猛击
+    Eng: Slammed

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    monsters/ivrpgElementEffects/ivrpgtoxify/ivrpgtoxify.statuseffect:
+    - /label
+  Texts:
+    Chs: 中毒
+    Eng: Poisoned

@@ -1,0 +1,166 @@
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgsiphonarena/message
+  Texts:
+    Chs: '
+
+
+      你确定你准备好进入竞技场了吗？ 危危危险，有毒的生物在等着你。如果你不谨慎，危险的红色飞蝇可能会变得太强大而无法杀死。'
+    Eng: '
+
+
+      Are you sure you''re ready to enter the arena? Dangerousss, toxic creatures
+      await you. If you aren''t careful, that dangerous red Parasprite might grow
+      too strong to kill.'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgnovaarena/message
+  Texts:
+    Chs: '
+
+
+      你确定你准备好进入竞技场了吗？散发着能量的怪物蜂拥而入！你可能需要携带可以应付火焰、电系、冰系或新星伤害的武器。'
+    Eng: '
+
+
+      Are you sure you''re ready to enter the arena? Energy-radiating monsters are
+      swarming inside! You''ll probably want to bring weapons that can deal Fire,
+      Electric, Ice, or Nova Damage.'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgaetherarena/message
+  Texts:
+    Chs: '
+
+
+      你确定你准备好进入竞技场了吗？看起来恶魔鬼魂紊绕在其中，你的能力可能不会像平常那样工作。也许你要先击杀他们？'
+    Eng: '
+
+
+      Are you sure you''re ready to enter the arena? It seems demonic ghosts are haunting
+      it, and your abilities might not work the way they normally do. Maybe kill them
+      first?'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgversaarena/message
+  Texts:
+    Chs: '
+
+
+      你确定你准备好进入竞技场了吗？无情的歹徒，利用失控的机器人，准备伏击你！你可能需要一把高弹药数的武器，像霰弹枪或机枪。'
+    Eng: '
+
+
+      Are you sure you''re ready to enter the arena? Ruthless outlaws, utilizing haywire
+      robots, are ready to ambush you! You might want a high-pellet count weapon,
+      like a Shotgun or Machine Pistol.'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgspiraarena/message
+  Texts:
+    Chs: '
+
+
+      你确定你准备好进入竞技场了吗？你可能会被滚动的怪物压扁！你也许想尽快干掉那个大块头。'
+    Eng: '
+
+
+      Are you sure you''re ready to enter the arena? You might get flattened by rolling
+      monsssters! You might want to take down the big guy as soon as you can.'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgaegisarena/message
+  Texts:
+    Chs: '
+
+
+      你确定你准备好进入竞技场了吗？你可能需要一些高伤害的武器，比如阔剑或者锤子，才能打倒里面的硬化机器人！'
+    Eng: '
+
+
+      Are you sure you''re ready to enter the arena? You''ll probably need high-damage
+      weapons like Broadswords or Hammers to take down the Hardened Masteroid within!'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgaetherarena/subtitle
+  Texts:
+    Chs: 竞技场试炼：以太实验
+    Eng: 'Arena Battle : Ether Experiement'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgaegisarena/subtitle
+  Texts:
+    Chs: 竞技场试炼：陨铁
+    Eng: 'Arena Battle : Meteoric Metal'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgsiphonarena/subtitle
+  Texts:
+    Chs: 竞技场试炼：寄生毒素
+    Eng: 'Arena Battle : Parasitic Poison'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgnovaarena/subtitle
+  Texts:
+    Chs: 竞技场试炼：死星碎片
+    Eng: 'Arena Battle : Shattered Stars'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgspiraarena/subtitle
+  Texts:
+    Chs: 竞技场试炼：钻破天际
+    Eng: 'Arena Battle : Spectacular Spin'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgversaarena/subtitle
+  Texts:
+    Chs: 竞技场试炼：趁手武器
+    Eng: 'Arena Battle : Worthy Weaponry'
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgaegisarena/cancelCaption
+    - /ivrpgaetherarena/cancelCaption
+    - /ivrpgnovaarena/cancelCaption
+    - /ivrpgsiphonarena/cancelCaption
+    - /ivrpgspiraarena/cancelCaption
+    - /ivrpgversaarena/cancelCaption
+  Texts:
+    Chs: 再等一下
+    Eng: Not now
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgaegisarena/okCaption
+    - /ivrpgaetherarena/okCaption
+    - /ivrpgnovaarena/okCaption
+    - /ivrpgsiphonarena/okCaption
+    - /ivrpgspiraarena/okCaption
+    - /ivrpgversaarena/okCaption
+  Texts:
+    Chs: 准备一下
+    Eng: Ready
+- DeniedAlternatives: []
+  Files:
+    interface/confirmation/teleportconfirmation.config:
+    - /ivrpgaegisarena/title
+    - /ivrpgaetherarena/title
+    - /ivrpgnovaarena/title
+    - /ivrpgsiphonarena/title
+    - /ivrpgspiraarena/title
+    - /ivrpgversaarena/title
+  Texts:
+    Chs: 传送确认
+    Eng: Teleport Confirmation

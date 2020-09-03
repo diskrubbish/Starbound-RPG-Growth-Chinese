@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/affinity/ivrpgucdischarge.activeitem:
+    - /description
+  Texts:
+    Chs: '雷霆&电弧亲和力升级。
+
+      当你潮湿时对附近敌人造成伤害。'
+    Eng: 'Shock and Arc Affinity Upgrade.
+
+      Damage nearby enemies while wet.'

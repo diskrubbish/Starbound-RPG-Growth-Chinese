@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/tech/ivrpgucphaseout.activeitem:
+    - /description
+  Texts:
+    Chs: '影踏升级。
+
+      影踏能够穿墙，且无视世界。'
+    Eng: 'Shadow Step Upgrade.
+
+      Shadow Step through walls, regardless of world.'

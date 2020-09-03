@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/knighttech/knightcharge!/knightcharge!.tech:
+    - /description
+  Texts:
+    Chs: 冲锋消耗：125能量/每秒。
+    Eng: 'Charge Cost: 125eps.'

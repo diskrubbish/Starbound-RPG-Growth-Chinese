@@ -1,0 +1,15 @@
+- DeniedAlternatives: []
+  Files:
+    items/crafting/ninja/ivrpgetherealblade.item:
+    - /description
+  Texts:
+    Chs: 别让这把刀骗了你。尽管它是透明的，但比吱吱作响的单簧管更加锋利。
+    Eng: Don't let this blade fool you. Despite it's transparency, it's sharper than
+      a squeaky clarinet.
+- DeniedAlternatives: []
+  Files:
+    items/crafting/ninja/ivrpgetherealblade.item:
+    - /shortdescription
+  Texts:
+    Chs: 空灵之刃
+    Eng: Ethereal Blade

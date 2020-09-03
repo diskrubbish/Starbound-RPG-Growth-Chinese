@@ -1,0 +1,62 @@
+- DeniedAlternatives: []
+  Files:
+    professions/alchemist/ivrpgalchemiststation.config:
+    - /paneLayout/btnCraft/caption
+    professions/jeweler/ivrpgjewelerstation.config:
+    - /paneLayout/btnCraft/caption
+    professions/medic/ivrpgmedicstation.config:
+    - /paneLayout/btnCraft/caption
+  Texts:
+    Chs: 制造
+    Eng: Craft
+- DeniedAlternatives: []
+  Files:
+    professions/alchemist/ivrpgalchemiststation.config:
+    - /paneLayout/lblProduct/value
+    professions/engineer/ivrpgengineerstation.config:
+    - /paneLayout/lblProduct/value
+    professions/jeweler/ivrpgjewelerstation.config:
+    - /paneLayout/lblProduct/value
+    professions/medic/ivrpgmedicstation.config:
+    - /paneLayout/lblProduct/value
+    professions/miner/ivrpgminerstation.config:
+    - /paneLayout/lblProduct/value
+    professions/tamer/ivrpgtamerstation.config:
+    - /paneLayout/lblProduct/value
+  Texts:
+    Chs: 可用材料
+    Eng: MATERIALS AVAILABLE
+- DeniedAlternatives: []
+  Files:
+    professions/alchemist/ivrpgalchemiststation.config:
+    - /paneLayout/lblSchematics/value
+    professions/engineer/ivrpgengineerstation.config:
+    - /paneLayout/lblSchematics/value
+    professions/jeweler/ivrpgjewelerstation.config:
+    - /paneLayout/lblSchematics/value
+    professions/medic/ivrpgmedicstation.config:
+    - /paneLayout/lblSchematics/value
+    professions/miner/ivrpgminerstation.config:
+    - /paneLayout/lblSchematics/value
+    professions/tamer/ivrpgtamerstation.config:
+    - /paneLayout/lblSchematics/value
+  Texts:
+    Chs: ^#b9b5b2;蓝图
+    Eng: ^#b9b5b2;BLUEPRINT
+- DeniedAlternatives: []
+  Files:
+    professions/alchemist/ivrpgalchemiststation.config:
+    - /paneLayout/lblProducttitle/value
+    professions/engineer/ivrpgengineerstation.config:
+    - /paneLayout/lblProducttitle/value
+    professions/jeweler/ivrpgjewelerstation.config:
+    - /paneLayout/lblProducttitle/value
+    professions/medic/ivrpgmedicstation.config:
+    - /paneLayout/lblProducttitle/value
+    professions/miner/ivrpgminerstation.config:
+    - /paneLayout/lblProducttitle/value
+    professions/tamer/ivrpgtamerstation.config:
+    - /paneLayout/lblProducttitle/value
+  Texts:
+    Chs: ^#b9b5b2;产品
+    Eng: ^#b9b5b2;PRODUCT

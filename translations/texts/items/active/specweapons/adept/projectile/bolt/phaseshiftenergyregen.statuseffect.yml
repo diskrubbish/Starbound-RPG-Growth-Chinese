@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/adept/projectile/bolt/phaseshiftenergyregen.statuseffect:
+    - /label
+  Texts:
+    Chs: 相位再生
+    Eng: Phase Regeneration

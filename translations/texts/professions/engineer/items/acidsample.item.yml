@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    professions/engineer/items/acidsample.item:
+    - /description
+  Texts:
+    Chs: 一种由强效毒液制成的酸的样品。来自RPG Growth。
+    Eng: A sample of acid made from some potent venom. From RPG Growth.
+- DeniedAlternatives: []
+  Files:
+    professions/engineer/items/acidsample.item:
+    - /shortdescription
+  Texts:
+    Chs: 酸液样品(RPG)
+    Eng: Acid Sample

@@ -1,0 +1,52 @@
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
+    - /effects/4/text
+  Texts:
+    Chs: +20%毒素和恶魔抗性
+    Eng: +20% Poison and Demonic Resistance
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
+    - /effects/3/text
+  Texts:
+    Chs: 使用拳套时，其基础攻击力增加至110%，使用刃武时，其基础攻击力增加至120%：且随智力增长。
+    Eng: '110% Base Power with Fist Weapons and 120% Base Power with Glaives: Scales
+      with Int.'
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
+    - /classic/0/text
+  Texts:
+    Chs: 可以使用法杖和刃武。
+    Eng: Can use Staves and Glaives.
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
+    - /ability/text
+  Texts:
+    Chs: 附近被击败的敌人会释放灵魂精华，其会寻找生命值较低的盟友，并立即恢复生命值。
+    Eng: Nearby defeated enemies release Soul Essence that seeks out allies with low
+      Health and grants immediate Health Regeneration.
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
+    - /tech/text
+  Texts:
+    Chs: 按[Special 1]召唤灵魂。 造成^orange;火系，^blue;冰系，^white;或^yellow;电系^reset;伤害以填充灵魂：充满灵魂的灵魂获得^green;+20％自身元素^red;（但-10％其他元素）^green;的抗性和+5％物理抗性^red;但-5%攻击倍乘^white;。用^magenta;新星伤害^white;击杀敌人一消除充满灵魂的攻击和抗性降低。
+      再按一次[Special 1]可以爆裂每个灵魂，使附近的友军获得增强效果： ^orange;火炎之魂^reset;赋予+12秒狂怒，^blue;寒冰之魂^reset;赋予+3s生命恢复，^yellow;闪电之魂^reset;+6s能量恢复。
+    Eng: 'Press [Special 1] to summon Souls. Deal ^orange;Fire, ^blue;Ice, ^white;or
+      ^yellow;Electric ^reset;damage to fill a soul: filled souls grant ^green;+20%
+      own Element ^red;(but -10% other Element)^green; Resistance, and +5% Physical
+      Resistance ^red;but -5% Power Multiplier^white;. Kill a foe with ^magenta;Nova
+      damage^white; to remove a filled soul''s power and resistance reduction. Press
+      [Special 1] again to burst each soul, granting buffs to nearby allies: +12s
+      Rage from ^orange;Fire^reset;; +3s Health Regen from ^blue;Ice^reset;; +6s Energy
+      Regen from ^yellow;Electric.^reset;'
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
+    - /weapon/title
+  Texts:
+    Chs: 喜悦
+    Eng: Rapture

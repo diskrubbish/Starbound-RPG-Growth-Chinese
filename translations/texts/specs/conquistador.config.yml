@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    specs/conquistador.config:
+    - /weapon/title
+  Texts:
+    Chs: 火绳枪
+    Eng: Arquebus
+- DeniedAlternatives: []
+  Files:
+    specs/conquistador.config:
+    - /tech/title
+  Texts:
+    Chs: 骑兵在此
+    Eng: The Cavalrys Here

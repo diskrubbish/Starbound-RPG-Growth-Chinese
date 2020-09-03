@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    professions/engineer/status/ivrpgengineerenergy.statuseffect:
+    - /label
+  Texts:
+    Chs: 工程师的充盈能量
+    Eng: Engineer's Energy

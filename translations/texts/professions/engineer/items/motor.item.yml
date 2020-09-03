@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    professions/engineer/items/motor.item:
+    - /shortdescription
+  Texts:
+    Chs: 发动机(RPG)
+    Eng: Motor
+- DeniedAlternatives: []
+  Files:
+    professions/engineer/items/motor.item:
+    - /description
+  Texts:
+    Chs: 任何旋转机械都需要这台发动机。来自RPG Growth。
+    Eng: You'll need this motor for any rotating machinery. From RPG Growth.

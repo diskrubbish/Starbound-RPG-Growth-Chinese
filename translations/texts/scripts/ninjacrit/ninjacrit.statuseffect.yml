@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    scripts/ninjacrit/ninjacrit.statuseffect:
+    - /label
+  Texts:
+    Chs: 忍者的精准
+    Eng: Ninja's Precision

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    stats/effects/rpg_launched/ivrpglaunched.statuseffect:
+    - /label
+  Texts:
+    Chs: 发射
+    Eng: Launched

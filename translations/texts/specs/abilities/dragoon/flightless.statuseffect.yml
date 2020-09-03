@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/abilities/dragoon/flightless.statuseffect:
+    - /label
+  Texts:
+    Chs: 禁飞
+    Eng: Flightless

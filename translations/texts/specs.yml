@@ -1,0 +1,235 @@
+- DeniedAlternatives: []
+  Files:
+    specs/darktemplar.config:
+    - /tech/title
+    specs/techs/darktemplar/aboundingdarkness.tech:
+    - /shortDescription
+  Texts:
+    Chs: 无尽黑暗
+    Eng: Abounding Darkness
+- DeniedAlternatives: []
+  Files:
+    specs/captain.config:
+    - /tech/title
+    specs/techs/captain/allystance.tech:
+    - /shortDescription
+  Texts:
+    Chs: 联合立场
+    Eng: Ally Stance
+- DeniedAlternatives: []
+  Files:
+    specs/techs/titan/atlasburden.statuseffect:
+    - /label
+    specs/techs/titan/atlasburden.tech:
+    - /shortDescription
+    specs/titan.config:
+    - /tech/title
+  Texts:
+    Chs: 阿特拉斯的重负
+    Eng: Atlas' Burden
+- DeniedAlternatives: []
+  Files:
+    specs/battlemage.config:
+    - /tech/title
+    specs/techs/battlemage/battleaura.tech:
+    - /shortDescription
+  Texts:
+    Chs: 战斗光环
+    Eng: Battle Aura
+- DeniedAlternatives: []
+  Files:
+    specs/cannoneer.config:
+    - /tech/title
+    specs/techs/cannoneer/bombsaway.tech:
+    - /shortDescription
+  Texts:
+    Chs: 炸弹发射
+    Eng: Bombs Away
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
+    - /tech/title
+    specs/techs/sage/chrysalis.tech:
+    - /shortDescription
+  Texts:
+    Chs: 恶之华
+    Eng: Chrysalis
+- DeniedAlternatives: []
+  Files:
+    specs/pioneer.config:
+    - /tech/title
+    specs/techs/pioneer/colonize.tech:
+    - /shortDescription
+  Texts:
+    Chs: 拓殖
+    Eng: Colonize
+- DeniedAlternatives: []
+  Files:
+    specs/techs/wraith/darkphase.tech:
+    - /shortDescription
+    specs/wraith.config:
+    - /tech/title
+  Texts:
+    Chs: 暗黑位面
+    Eng: Dark Phase
+- DeniedAlternatives: []
+  Files:
+    specs/techs/vigilante/desperado.tech:
+    - /shortDescription
+    specs/techs/vigilante/desperadostatus.statuseffect:
+    - /label
+    specs/vigilante.config:
+    - /tech/title
+  Texts:
+    Chs: 向死而生
+    Eng: Desperado
+- DeniedAlternatives: []
+  Files:
+    specs/dragoon.config:
+    - /tech/title
+    specs/techs/dragoon/dragonsleap.tech:
+    - /shortDescription
+  Texts:
+    Chs: 登龙
+    Eng: Dragon's Leap
+- DeniedAlternatives: []
+  Files:
+    specs/operative.config:
+    - /tech/title
+    specs/techs/operative/empsphere.tech:
+    - /shortDescription
+  Texts:
+    Eng: EMP Sphere
+- DeniedAlternatives: []
+  Files:
+    specs/techs/valkyrie/einherjar.tech:
+    - /shortDescription
+    specs/techs/valkyrie/status/einherjar.statuseffect:
+    - /label
+    specs/valkyrie.config:
+    - /tech/title
+  Texts:
+    Chs: 女武神加护
+    Eng: Einherjar
+- DeniedAlternatives: []
+  Files:
+    specs/adept.config:
+    - /tech/title
+    specs/techs/adept/flashstep.tech:
+    - /shortDescription
+  Texts:
+    Chs: 闪踏
+    Eng: Flash Step
+- DeniedAlternatives: []
+  Files:
+    specs/samurai.config:
+    - /tech/title
+    specs/techs/samurai/iaijutsu.tech:
+    - /shortDescription
+  Texts:
+    Chs: 居合
+    Eng: Iaijutsu
+- DeniedAlternatives: []
+  Files:
+    specs/deadshot.config:
+    - /tech/title
+    specs/techs/deadshot/idealshot.tech:
+    - /shortDescription
+  Texts:
+    Chs: 理想射击
+    Eng: Ideal Shot
+- DeniedAlternatives: []
+  Files:
+    specs/paladin.config:
+    - /tech/title
+    specs/techs/paladin/immaculateshield.tech:
+    - /shortDescription
+    specs/techs/paladin/immaculateshieldstatus.statuseffect:
+    - /label
+  Texts:
+    Chs: 无暇之盾
+    Eng: Immaculate Shield
+- DeniedAlternatives: []
+  Files:
+    specs/juggernaut.config:
+    - /tech/title
+    specs/techs/juggernaut/limitbreak.tech:
+    - /shortDescription
+    specs/techs/juggernaut/limitbreakstatus.statuseffect:
+    - /label
+  Texts:
+    Chs: 界限突破
+    Eng: Limit Break
+- DeniedAlternatives: []
+  Files:
+    specs/hunter.config:
+    - /tech/title
+    specs/techs/hunter/multitool.tech:
+    - /shortDescription
+  Texts:
+    Chs: 多用工具
+    Eng: Multitool
+- DeniedAlternatives: []
+  Files:
+    specs/fae.config:
+    - /tech/title
+    specs/techs/fae/nymphsblessing.tech:
+    - /shortDescription
+  Texts:
+    Eng: Nymph's Blessing
+- DeniedAlternatives: []
+  Files:
+    specs/shade.config:
+    - /tech/title
+    specs/techs/shade/quasar.tech:
+    - /shortDescription
+    specs/techs/shade/quasarcamouflage.statuseffect:
+    - /label
+  Texts:
+    Chs: 类星体
+    Eng: Quasar
+- DeniedAlternatives: []
+  Files:
+    specs/necromancer.config:
+    - /tech/title
+    specs/techs/necromancer/reap.tech:
+    - /shortDescription
+  Texts:
+    Chs: 收割
+    Eng: Reap
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /tech/title
+    specs/techs/crusader/resurgence.tech:
+    - /shortDescription
+  Texts:
+    Chs: 回光返照
+    Eng: Resurgence
+- DeniedAlternatives: []
+  Files:
+    specs/techs/vanguard/rush.tech:
+    - /shortDescription
+    specs/vanguard.config:
+    - /tech/title
+  Texts:
+    Chs: 冲冲冲
+    Eng: Rush
+- DeniedAlternatives: []
+  Files:
+    specs/changeling.config:
+    - /tech/title
+    specs/techs/changeling/shapeshift.tech:
+    - /shortDescription
+  Texts:
+    Chs: 变形
+    Eng: Shapeshift
+- DeniedAlternatives: []
+  Files:
+    specs/kunoichi.config:
+    - /tech/title
+    specs/techs/kunoichi/swirlingpetal.tech:
+    - /shortDescription
+  Texts:
+    Chs: 羞花
+    Eng: Swirling Petal

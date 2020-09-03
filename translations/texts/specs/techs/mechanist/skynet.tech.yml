@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/mechanist/skynet.tech:
+    - /description
+  Texts:
+    Chs: 机械师专有
+    Eng: Mechanist Only

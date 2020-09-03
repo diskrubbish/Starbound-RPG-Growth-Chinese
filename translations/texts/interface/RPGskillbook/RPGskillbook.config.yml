@@ -1,0 +1,1013 @@
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/refinetext/value
+  Texts:
+    Chs: '
+
+
+      把你额外的经验提炼成一种强大的物质。
+
+      ^red;每10000经验值可转化为1专精点！^reset;'
+    Eng: '
+
+
+      Refine your extra Experience into a powerful substance.
+
+      ^red;Every 10000 Experience refines into 1 Mastery!^reset;'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/weapontext/value
+  Texts:
+    Chs: +20% 你是怎么来的?.
+    Eng: +20% with how did you get here.
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/effecttext/value
+  Texts:
+    Chs: +20% 别再浪费你的时间了!
+    Eng: +20% with the stop screwing around!
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/passivetext/value
+    - /gui/classlayout/children/passivetext/value
+  Texts:
+    Chs: +20% 和谁在一起?
+    Eng: +20% with the what 'an who now?
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/hardcoretext/value
+  Texts:
+    Chs: -10%
+    Eng: -10%
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/classweapontext/value
+    - /gui/specializationlayout/children/specweapontext/value
+  Texts:
+    Chs: '...'
+    Eng: '...'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/challenge1progress/value
+    - /gui/masterylayout/children/challenge2progress/value
+    - /gui/masterylayout/children/challenge3progress/value
+  Texts:
+    Chs: 0 / 0
+    Eng: 0 / 0
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/xpover/value
+  Texts:
+    Chs: '250000'
+    Eng: '250000'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/effecttext/value
+  Texts:
+    Chs: 此处显示能力文本
+    Eng: Ability Text Goes Here
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/aestheticstoggletext/value
+    - /gui/classlayout/children/classabilitytoggletext/value
+    - /gui/overviewlayout/children/hardcoretoggletext/value
+    - /gui/overviewlayout/children/rallymodeactive/value
+  Texts:
+    Chs: 激活
+    Eng: Active
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/passivetitle/value
+  Texts:
+    Chs: 主动能力
+    Eng: Active Ability
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/aesthetictitle/value
+  Texts:
+    Chs: 元素效果
+    Eng: Aesthetics
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/upgradelayout/children/affinitytitle/value
+  Texts:
+    Chs: 元素亲和
+    Eng: Affinity
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/upgradetitle/value
+  Texts:
+    Chs: 进阶属性
+    Eng: After Upgrade
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/infolayout/children/displaystats/value
+  Texts:
+    Chs: "统计:\n\n            生命值加成:\n\n            能量加成:\n\n            能量回复速度:\n\n\
+      \            再充能延迟:\n\n            饱食度:\n\n            物理抗性:\n\n           \
+      \ 剧毒抗性:\n\n            冰霜抗性:\n\n            火焰抗性:\n\n            电击抗性:\n\n \
+      \           击退抵抗:\n\n            伤害加成:\n\n            护盾耐久加成:\n\n          \
+      \  出血几率:\n\n            出血持续时间:\n"
+    Eng: "Amount:\n\n            Bonus Health:\n\n            Bonus Energy:\n\n  \
+      \          Energy Recharge Rate:\n\n            Energy Recharge Delay:\n\n \
+      \           Hunger:\n\n            Physical Resistance:\n\n            Poison\
+      \ Resistance:\n\n            Frost Resistance:\n\n            Fire Resistance:\n\
+      \n            Electric Resistance:\n\n            Knockback Resistance:\n\n\
+      \            Fall Damage Multiplier:\n\n            Shield Health Multiplier:\n\
+      \n            Bleed Chance:\n\n            Bleed Length:\n"
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/infolayout/children/displaystatsFU/value
+  Texts:
+    Chs: "环境免疫:\n            辐射:\n            暗影:\n            宇宙:\n            状态:\n\
+      \            EH:\n            EC:\n            ER:"
+    Eng: "Amount:\n            Radiation:\n            Shadow:\n            Cosmic:\n\
+      \n            Status:\n            EH:\n            EC:\n            ER:"
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/areyousure/value
+  Texts:
+    Chs: 你确定要重置吗？这会重置你的职业和未专精的技能（同时也会清除职业buff）。
+    Eng: Are you sure you want to reset? This will reset your Class and unlocked Class
+      Techs (This will also remove the stats gained from choosing a class).
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/areyousure/value
+  Texts:
+    Chs: '你确定要重置吗？^white;你的经验、等级、职业、亲和力等一切都将被移除。此外,你当前的精通挑战将会清零，
+
+      你现在未专精的职业技能将被强制移除。
+
+      专精保持不锁定状态，但是在35级之前不能使用。'
+    Eng: 'Are you sure you want to reset? ^white;Your Experience, Level, Class, Profession,
+      Affinity, and Mastery will be removed. In addition, your Mastery Challenges
+      will be forfeited, and your current Class'' Skills will be removed.
+
+      Specializations remain unlocked, but are unusable until Level 35.'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/benefittext/value
+    - /gui/specializationlayout/children/benefittext/value
+  Texts:
+    Chs: 增益清单
+    Eng: Benefit list
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/skillslayout/children/bodybutton/caption
+  Texts:
+    Chs: 躯体
+    Eng: Body
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/benefittitle/value
+    - /gui/specializationlayout/children/benefittitle/value
+  Texts:
+    Chs: 强化
+    Eng: Bonuses
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/toggleclassabilitytitle/value
+  Texts:
+    Chs: 自身边缘发光
+    Eng: Border/Light
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/challenge1/value
+  Texts:
+    Chs: 挑战 1
+    Eng: Challenge 1
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/challenge2/value
+  Texts:
+    Chs: 挑战 2
+    Eng: Challenge 2
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/challenge3/value
+  Texts:
+    Chs: 挑战 3
+    Eng: Challenge 3
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/challengetitle/value
+  Texts:
+    Chs: 挑战
+    Eng: Challenges
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionslayout/children/cheftitle/value
+  Texts:
+    Chs: 大厨
+    Eng: Chef
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlockedlayout/children/locked/value
+  Texts:
+    Chs: 需要职业！
+    Eng: Class Required!
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/classweapontitle/value
+  Texts:
+    Chs: 职业武器
+    Eng: Class Weapon
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/hardcoretitle/value
+    - /gui/professionlayout/children/classictext/value
+    - /gui/professionlayout/children/classictitle/value
+    - /gui/specializationlayout/children/classictext/value
+    - /gui/specializationlayout/children/classictitle/value
+  Texts:
+    Chs: 经典模式
+    Eng: Classic Mode
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/infolayout/children/displayWeapons/value
+  Texts:
+    Chs: 经典模式武器可用
+    Eng: Classic Mode Weapon Availability
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitieslayout/children/affinitydescription/value
+  Texts:
+    Chs: 点击任意亲和力图标查看亲和力特性。
+    Eng: Click an Affinity's icon to see how that Affinity plays.
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/craftingtext/value
+  Texts:
+    Chs: 手工制造
+    Eng: Crafting
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/craftingtitle/value
+  Texts:
+    Chs: 制作技能
+    Eng: Crafting Skill
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/shoptext/value
+  Texts:
+    Chs: '获取大师书桌,在这可以制作与升级相关的的卷轴，物品和职业道具。祝你游戏愉快！
+
+      ^red;消耗5精通点。^reset;'
+    Eng: 'Create a Master''s Desk, which provides the ability to create Scrolls, Items,
+      and Class related Upgrades. Place it down and have fun!.
+
+      ^red;Costs 5 Mastery Points.^reset;'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/lorelayout/children/creditsbutton/caption
+  Texts:
+    Chs: 鸣谢
+    Eng: Credits
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/detrimenttext/value
+  Texts:
+    Chs: 有害列表
+    Eng: Detriment list
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/skillslayout/children/skilltext/value
+  Texts:
+    Chs: '每升一级，就可以获得一点可再这里使用的技能点。
+
+      ^red;更多的技能将在未来的更新中添加。^reset;'
+    Eng: 'Every Level Up, gain 1 Skill Point that can be spent here.
+
+      ^red;More Skills will be added in future updates.^reset;'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/xpovertitle/value
+  Texts:
+    Chs: '溢出的经验值:'
+    Eng: 'Extra XP:'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationslayout/children/locked/value
+  Texts:
+    Chs: 请找到并使用专精卷轴！
+    Eng: Find and use a Specialization Scroll!
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/upgradelayout/children/generaltitle/value
+  Texts:
+    Chs: 一般
+    Eng: General
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/infolayout/children/displayFU/value
+  Texts:
+    Chs: '环境免疫:
+
+      ^red;燃烧:
+
+      岩浆:
+
+      高温 [极端]:^reset;
+
+      ^blue;冻僵:
+
+      低温 [极端]:
+
+      缺氧:^reset;
+
+      ^green;中毒:
+
+      辐射 [极端]:^reset;
+
+      ^yellow;触电:^reset;
+
+      ^gray;物理伤害:^reset;'
+    Eng: 'Hazards:
+
+      ^red;Fire Status:
+
+      Lava:
+
+      Heat [Extreme]:^reset;
+
+      ^blue;Ice Status:
+
+      Cold [Extreme]:
+
+      Breathing:^reset;
+
+      ^green;Poison Status:
+
+      Radiation [Extreme]:^reset;
+
+      ^yellow;Electric Status:^reset;
+
+      ^gray;Damage;^reset;'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/immunitytitle/value
+  Texts:
+    Chs: 免疫
+    Eng: Immunities
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/passiveactive/value
+  Texts:
+    Chs: 未激活
+    Eng: Inactive
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/upgradelayout/children/upgradetext/value
+  Texts:
+    Chs: '请留意升级芯片，它可以通过击杀怪物掉落，
+
+      或通过精通商店使用精通点数购买。
+
+      当你激活升级芯片时，
+
+      其将出现在此。你可以使用此页面来查看详细信息，
+
+      以及卸下升级芯片。
+
+      ^red;未来更新中将加入更多升级芯片。^reset;'
+    Eng: 'Keep an eye out for Upgrade Chips, which can drop from monsters,
+
+      or be purchased using Mastery via the Mastery Shop.
+
+      When you use an Upgrade Chip (like a consumable),
+
+      it will be equipped here. You can use this Tab to read exact details,
+
+      as well as unequip Upgrade Chips.
+
+      ^red;More Upgrades will be added in future updates.^reset;'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/levelLabel/value
+    - /gui/overviewlayout/children/levellabel/value
+  Texts:
+    Chs: 等级 1
+    Eng: Level 1
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlockedlayout/children/locked/value
+  Texts:
+    Chs: 10级解锁!
+    Eng: Locked until Level 10!
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylockedlayout/children/locked/value
+  Texts:
+    Chs: 25级解锁!
+    Eng: Locked until Level 25!
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylockedlayout/children/locked/value
+  Texts:
+    Chs: 50级解锁!
+    Eng: Locked until Level 50!
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/masterytitle/value
+  Texts:
+    Chs: 专精点
+    Eng: Mastery
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/skillslayout/children/mindbutton/caption
+  Texts:
+    Chs: 神智
+    Eng: Mind
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/rallymodetext/value
+  Texts:
+    Chs: 在多人模式中使用拉力模式会带来更多挑战。
+    Eng: Multiple players using Rally Mode strengthens the effect.
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/affinitytitle/value
+  Texts:
+    Chs: 无亲和力
+    Eng: No Affinity Yet
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/classtitle/value
+  Texts:
+    Chs: 未选择职业
+    Eng: No Class Yet
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/proftitle/value
+  Texts:
+    Chs: 未选择职业
+    Eng: No Profession Yet
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/spectitle/value
+  Texts:
+    Chs: 无专精
+    Eng: No Specialization
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/spectitle/value
+  Texts:
+    Chs: 未选择专精
+    Eng: No Specialization Yet
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/tabLabel/value
+  Texts:
+    Chs: 概述
+    Eng: Overview
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/passivetitle/value
+    - /gui/classlayout/children/passivetitle/value
+  Texts:
+    Chs: 被动增益：
+    Eng: 'Passive Bonus:'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/passivetext/value
+  Texts:
+    Chs: 被动文本
+    Eng: Passive Text
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/detrimenttitle/value
+  Texts:
+    Chs: 惩罚
+    Eng: Penalties
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/prestigetitle/value
+  Texts:
+    Chs: 职业专精
+    Eng: Prestige
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionslayout/children/title/value
+  Texts:
+    Chs: 副职选择
+    Eng: Profession Select
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionslayout/children/subtitle/value
+  Texts:
+    Chs: '副职可以通过支付^yellow;1000^reset;像素来选择。
+
+      ^red;你可以随时退出你当前的副职，并重新支付像素来选择新的职业！'
+    Eng: 'Professions are a valuable asset and can be selected for ^yellow;1000 Pixels.
+
+      ^red;You can quit your Profession at any time, but must pay again to re-select!'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/rallymodetitle/value
+  Texts:
+    Chs: 拉力模式：当你升级时，敌人也会变得更强！
+    Eng: 'Rally Mode: enemies become stronger as you level up!'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/reqlvl/value
+  Texts:
+    Chs: '需要等级.:'
+    Eng: 'Req. Level:'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/weaponreqlvl/value
+  Texts:
+    Chs: '需求等级:'
+    Eng: 'Required Level:'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/prestigetext/value
+  Texts:
+    Chs: '一键转生，但是
+
+      ^green;你将失去所有经验,亲和力,专精等属性。
+
+      此操作不可逆。
+
+      ^red;消耗3精通点.^reset;'
+    Eng: 'Reset progress. However,
+
+      ^green;Class Skills and the Mastery Tab remain unlocked, and current Specialization
+      Progress
+
+      is not removed.
+
+      ^red;Costs 3 Mastery Points.^reset;'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/scalingtext/value
+  Texts:
+    Chs: 缩放列表
+    Eng: Scaling list
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/techtext/value
+  Texts:
+    Chs: 选择一个技能来查看和解锁.
+    Eng: Select a skill to read about it and unlock it if possible.
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/techtitle/value
+  Texts:
+    Chs: 技能
+    Eng: Skill
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/techname/value
+  Texts:
+    Chs: 技能名称
+    Eng: Skill Name
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/skillslayout/children/skilltitle/value
+  Texts:
+    Chs: 技能概览
+    Eng: Skill Overview
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/techname/value
+  Texts:
+    Chs: 技能名称
+    Eng: Skill Title
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/techtext/value
+  Texts:
+    Chs: 技能描述
+    Eng: Skill description
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/techtitle/value
+  Texts:
+    Chs: 技能
+    Eng: Skills
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/skillslayout/children/soulbutton/caption
+  Texts:
+    Chs: 灵魂
+    Eng: Soul
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationslayout/children/title/value
+  Texts:
+    Chs: 专精选择
+    Eng: Specialization Select
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationslayout/children/spectitle/value
+  Texts:
+    Chs: 专精名称
+    Eng: Specialization Title
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationslayout/children/subtitle/value
+  Texts:
+    Chs: '你可以通过完成某些任务来解锁专精。
+
+      使用指针来浏览可用的专精。'
+    Eng: 'Specializations can be unlocked by accomplishing certain tasks.
+
+      Use the arrows to navigate through available Specializations.'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/immunitytext/value
+    - /gui/affinitylayout/children/statscalingtext/value
+    - /gui/affinitylayout/children/statscalingtitle/value
+    - /gui/affinitylayout/children/upgradetext/value
+    - /gui/affinitylayout/children/weaknesstext/value
+  Texts:
+    Chs: 属性加成
+    Eng: Stat Bonus
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/statslayout/children/statpointslefttext/value
+  Texts:
+    Chs: 剩余属性点
+    Eng: Stat Points Remaining
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/statpointsremaining/value
+  Texts:
+    Chs: '剩余属性点: 0'
+    Eng: 'Stat Points Remaining: 0'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/statscalingtext/value
+    - /gui/classlayout/children/statscalingtitle/value
+    - /gui/professionlayout/children/scalingtitle/value
+    - /gui/specializationlayout/children/statscalingtext/value
+    - /gui/specializationlayout/children/statscalingtitle/value
+  Texts:
+    Chs: 职业方向
+    Eng: Stat Scaling
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/infolayout/children/display/value
+  Texts:
+    Chs: '属性
+
+      ^red;生命值加成:^reset;
+
+      ^green;能量加成:
+
+      能量回复速度:
+
+      能量回复延迟:^reset;
+
+      ^orange;饱食度消耗:^reset;
+
+      ^gray;击退抗性:
+
+      跌落伤害:
+
+      护盾耐久:^reset;
+
+      ^red;出血几率:
+
+      出血持续时间:^reset;
+
+
+
+      伤害抗性:
+
+      ^gray;物理:^reset;
+
+      ^magenta;毒:^reset;
+
+      ^blue;冰:^reset;
+
+      ^red;火:^reset;
+
+      ^yellow;电:^reset;
+
+      ^green;辐射 (FU):^reset;
+
+      ^gray;暗影 (FU):^reset;
+
+      ^magenta;射线 (FU ):^reset;'
+    Eng: 'Stat:
+
+      ^red;Health Multiplier:^reset;
+
+      ^green;Energy Multiplier:
+
+      Energy Recharge Rate:
+
+      Energy Recharge Delay:^reset;
+
+      ^orange;Hunger Rate Deduction:^reset;
+
+      ^gray;Knockback Resistance:
+
+      Fall Damage Multiplier:
+
+      Shield Health Multiplier:^reset;
+
+      ^red;Bleed Chance:
+
+      Bleed Length:^reset;
+
+
+
+      Damage Resistance:
+
+      ^gray;Physical:^reset;
+
+      ^green;Poison:^reset;
+
+      ^blue;Ice:^reset;
+
+      ^red;Fire:^reset;
+
+      ^yellow;Electric:^reset;
+
+      ^magenta;Nova:
+
+      ^black;Demonic:
+
+      ^yellow;Holy:
+
+      ^green;Radioactive (FU):^reset;
+
+      ^gray;Shadow (FU):^reset;
+
+      ^magenta;Cosmic (FU):^reset;'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/upgradelayout/children/techtitle/value
+  Texts:
+    Chs: 科技
+    Eng: Tech
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/techtype/value
+    - /gui/specializationlayout/children/techtype/value
+  Texts:
+    Chs: 技能类型
+    Eng: Tech Type
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/challengetext/value
+  Texts:
+    Chs: '通过完成挑战来证明你的能力! 下面将显示三个随机生成的任务,每个任务的难度都会增加。
+
+      完成后,点击“同意”按钮获取奖励。
+
+      ^red;奖励总数是随机的，只能选择其中一个或两个。^reset;'
+    Eng: 'Test your might by completing challenges! Three randomly generated tasks
+      will appear below, each with increasing difficulty.
+
+      Once completed, press the ''Accept'' button to grab your rewards.
+
+      ^red;Reward total is randomized, and only one or two items are chosen.^reset;'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/floatinglevellabel/value
+  Texts:
+    Chs: 切换浮动XP工具条
+    Eng: Toggle Floating XP Bar
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/statslayout/children/totalstatstext/value
+  Texts:
+    Chs: 总计
+    Eng: Total
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/xptotallabel/value
+  Texts:
+    Chs: 总XP
+    Eng: Total XP
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/masterylayout/children/masterytotal/value
+  Texts:
+    Chs: '总计:'
+    Eng: 'Total:'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/upgradelayout/children/affinityname/value
+    - /gui/upgradelayout/children/generalname/value
+    - /gui/upgradelayout/children/techname/value
+    - /gui/upgradelayout/children/weaponname/value
+  Texts:
+    Chs: 未使用
+    Eng: UNUSED
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/uniquetitle/value
+  Texts:
+    Chs: 独特能力
+    Eng: Unique Ability
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/professionlayout/children/uniquetext/value
+  Texts:
+    Chs: 独特列表
+    Eng: Unique List
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/unlockedtext/value
+  Texts:
+    Chs: 解锁
+    Eng: Unlocked
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationslayout/children/unlocktext/value
+  Texts:
+    Chs: 解锁方式：
+    Eng: Unlocked Via
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/unlockedtext/value
+  Texts:
+    Chs: 已解锁！请前往科技工作台装备！
+    Eng: Unlocked! Go to the Tech Station to equip it!
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/effecttext/value
+  Texts:
+    Chs: 使用亲和升级卷轴升级你的亲和力！击败相应属性的Boss有机会掉落！ 需要等级:45！
+    Eng: 'Upgrade your Affinity by using their respective Upgrade Scroll! Fight Guardians
+      that control your affinity for a chance to get one! Required Level: 45!'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/affinitylayout/children/weaknesstitle/value
+  Texts:
+    Chs: 弱点
+    Eng: Weaknesses
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/specweaponicontitle/value
+    - /gui/specializationslayout/children/weapontext/value
+    - /gui/upgradelayout/children/weapontitle/value
+  Texts:
+    Chs: 武器
+    Eng: Weapon
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationslayout/children/weapontitle/value
+  Texts:
+    Chs: 武器&科技
+    Eng: Weapon & Tech
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/classlayout/children/weapontitle/value
+  Texts:
+    Chs: 武器增益
+    Eng: 'Weapon Bonus:'
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/specializationlayout/children/specweapontitle/value
+  Texts:
+    Chs: 武器名称
+    Eng: Weapon Title
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/xpLabel/value
+  Texts:
+    Chs: 经验值
+    Eng: XP
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/xptglabel/value
+  Texts:
+    Chs: 升级所需经验值
+    Eng: XP To Go
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/statslayout/children/statprevention/value
+  Texts:
+    Chs: 你必选先选择一个职业！
+    Eng: You must choose a Class before you can raise stats!
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/windowtitle/subtitle
+  Texts:
+    Chs: ^#b9b5b2;汝即为天选之人！
+    Eng: ^#b9b5b2;Use it to strengthen your character!
+- DeniedAlternatives: []
+  Files:
+    interface/RPGskillbook/RPGskillbook.config:
+    - /gui/overviewlayout/children/hardcoreweapontext/value
+  Texts:
+    Chs: '^red;注意！经典模会以抵消某些武器的伤害。^reset;
+
+      检查信息栏(I)以获得更多信息！'
+    Eng: '^red;Warning! Classic Mode negates damage with certain weapons.^reset;
+
+      Check the Info Tab (I) for more information!'

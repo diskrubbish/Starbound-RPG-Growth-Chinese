@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/operative/beacon/status/energyregen.statuseffect:
+    - /label
+  Texts:
+    Chs: 电磁信标
+    Eng: Magnetic Beacon

@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/affinity/ivrpguccoldheart.activeitem:
+    - /description
+  Texts:
+    Chs: '霜冻&霜结亲和力升级。
+
+      脆化的敌人进一步对伤害失去抗性。'
+    Eng: 'Frost and Cryo Affinity Upgrade.
+
+      Embrittled enemies further weakened to damage.'

@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/tech/ivrpgucfourthwall.activeitem:
+    - /description
+  Texts:
+    Chs: '闪烁升级。
+
+      传送现在在任意世界都可以穿墙。'
+    Eng: 'Translocate Upgrade.
+
+      Translocate through walls in any world.'

@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/wraith/soullesswhisper.activeitem:
+    - /description
+  Texts:
+    Chs: 你听到了吗？
+    Eng: Do you hear that?
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/wraith/soullesswhisper.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: ^gray;夺魂低语
+    Eng: ^gray;Soulless Whisper

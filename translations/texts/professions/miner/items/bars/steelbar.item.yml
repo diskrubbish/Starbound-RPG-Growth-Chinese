@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    professions/miner/items/bars/steelbar.item:
+    - /description
+  Texts:
+    Chs: 铁和煤制成的实用合金。来自RPG Growth。
+    Eng: A useful alloy made from Iron and Coal. From RPG Growth.
+- DeniedAlternatives: []
+  Files:
+    professions/miner/items/bars/steelbar.item:
+    - /shortdescription
+  Texts:
+    Chs: 钢锭(RPG)
+    Eng: Steel Bar

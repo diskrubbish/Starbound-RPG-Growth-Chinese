@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/affinity/ivrpgucplasmacore.activeitem:
+    - /description
+  Texts:
+    Chs: '雷霆&电弧亲和力升级。
+
+      亲和力弱点不再影响你。'
+    Eng: 'Shock and Arc Affinity Upgrade.
+
+      Negates all Affinity Weaknesses.'

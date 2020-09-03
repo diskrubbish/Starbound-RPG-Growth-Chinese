@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/soldiertech/soldiertanksphere/shield/soldiertanksphereimmune.statuseffect:
+    - /label
+  Texts:
+    Chs: 坦克
+    Eng: Tank

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/shade/mine/status/blackoutcamouflage.statuseffect:
+    - /label
+  Texts:
+    Chs: 晕眩迷彩
+    Eng: Blackout Camo

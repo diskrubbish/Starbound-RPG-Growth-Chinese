@@ -1,0 +1,15 @@
+- DeniedAlternatives: []
+  Files:
+    items/throwables/caltrops/gravitrops.thrownitem:
+    - /description
+  Texts:
+    Chs: 注入了相位物质的三角钉,使它们对飞行的目标更有效。
+    Eng: Caltrops infused with phase matter, making them more effective against flying
+      enemies.
+- DeniedAlternatives: []
+  Files:
+    items/throwables/caltrops/gravitrops.thrownitem:
+    - /shortdescription
+  Texts:
+    Chs: 重力藜
+    Eng: Gravitrops

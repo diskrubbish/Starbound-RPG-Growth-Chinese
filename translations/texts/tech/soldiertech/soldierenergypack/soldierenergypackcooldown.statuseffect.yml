@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    tech/soldiertech/soldierenergypack/soldierenergypackcooldown.statuseffect:
+    - /label
+  Texts:
+    Chs: 能量包冷却
+    Eng: Energy Pack Cooldown

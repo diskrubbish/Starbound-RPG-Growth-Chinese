@@ -1,0 +1,11 @@
+- DeniedAlternatives: []
+  Files:
+    items/upgrade chips/tech/ivrpgucmoreenhanced.activeitem:
+    - /description
+  Texts:
+    Chs: '动作增强升级。
+
+      冲刺持续时间更长，冲刺更快。'
+    Eng: 'Enhanced Movement Upgrade.
+
+      Dashing lasts longer, and Sprinting is faster.'

@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/changeling/shapeshift.tech:
+    - /description
+  Texts:
+    Chs: 变形使专有
+    Eng: Changeling Only

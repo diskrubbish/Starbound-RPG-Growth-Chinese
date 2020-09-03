@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    scripts/levelup/ivrpglevelup.animation:
+    - /particleEmitters/statustext/particles/0/particle/text
+  Texts:
+    Chs: 升级了！
+    Eng: Level Up!

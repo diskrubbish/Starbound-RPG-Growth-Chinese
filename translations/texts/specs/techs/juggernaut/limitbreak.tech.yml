@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    specs/techs/juggernaut/limitbreak.tech:
+    - /description
+  Texts:
+    Chs: 剑圣专属
+    Eng: Juggernaut Only

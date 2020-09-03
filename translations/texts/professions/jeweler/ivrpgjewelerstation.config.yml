@@ -1,0 +1,14 @@
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.config:
+    - /paneLayout/windowtitle/title
+  Texts:
+    Chs: ' 珠宝商工作台'
+    Eng: ' Jeweler''s Crafting Station'
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/ivrpgjewelerstation.config:
+    - /paneLayout/windowtitle/subtitle
+  Texts:
+    Chs: ' ^#b9b5b2;只有有经验的珠宝商才知道如何使用这些工具！'
+    Eng: ' ^#b9b5b2;Only experienced Jewelers know what to do with these tools!'

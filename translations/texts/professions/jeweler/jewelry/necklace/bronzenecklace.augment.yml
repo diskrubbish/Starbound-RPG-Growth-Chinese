@@ -1,0 +1,16 @@
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/jewelry/necklace/bronzenecklace.augment:
+    - /augment/displayName
+    - /shortdescription
+  Texts:
+    Chs: 青铜项链
+    Eng: Bronze Necklace
+- DeniedAlternatives: []
+  Files:
+    professions/jeweler/jewelry/necklace/bronzenecklace.augment:
+    - /description
+  Texts:
+    Chs: 时尚的青铜项链，略微增加你的最大健康。^green;+5最大健康。^blue;
+    Eng: Fashionable Bronze Necklace that slightly boosts your Max Health. ^green;Provides
+      +5 Max Health. ^blue;

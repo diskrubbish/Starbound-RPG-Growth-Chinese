@@ -1,0 +1,19 @@
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/operative/breathless.activeitem:
+    - /description
+  Texts:
+    Chs: '寂静。随着脉冲发出光光，四周仅剩嗡嗡声。爆发。雷鸣般的破风声；闪亮的电子流阵列。
+
+      ^red;重归寂静。'
+    Eng: 'Quiet. The only sound a pulsing hum as light begins to glow. Loud. A thunderous
+      clap; a bright array of electronic flow.
+
+      ^red;Quiet.'
+- DeniedAlternatives: []
+  Files:
+    items/active/specweapons/operative/breathless.activeitem:
+    - /shortdescription
+  Texts:
+    Chs: ^blue;无息
+    Eng: ^blue;Breathless

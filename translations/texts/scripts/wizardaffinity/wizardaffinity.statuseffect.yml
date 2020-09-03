@@ -1,0 +1,7 @@
+- DeniedAlternatives: []
+  Files:
+    scripts/wizardaffinity/wizardaffinity.statuseffect:
+    - /label
+  Texts:
+    Chs: 巫师的亲魔
+    Eng: Wizard's Affinity
