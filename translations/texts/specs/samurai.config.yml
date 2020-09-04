@@ -54,7 +54,29 @@
 - DeniedAlternatives: []
   Files:
     specs/samurai.config:
+    - /weapon/text/2
+  Texts:
+    Chs: '被动：使用此武器杀死的敌人会在短时间内增加挥舞频率。'
+    Eng: 'Passive: Kills with this weapon increase swing-rate for a short period.'
+- DeniedAlternatives: []
+  Files:
+    specs/samurai.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：一系列的快速挥舞。'
+    Eng: 'Primary Fire: A long chain of quick swings.'
+- DeniedAlternatives: []
+  Files:
+    specs/samurai.config:
     - /weapon/title
   Texts:
     Chs: 武士之心
     Eng: Samurai Heart
+- DeniedAlternatives: []
+  Files:
+    specs/samurai.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '次要攻击：如果被击中则招架并进行反击。招架失败后，身体会短暂虚弱。'
+    Eng: 'Secondary Fire: Parry and counterattack if hit. Suffer a brief period of
+      physical weakness after a failed parry.'

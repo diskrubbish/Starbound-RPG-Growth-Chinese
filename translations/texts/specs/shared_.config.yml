@@ -95,6 +95,32 @@
     Eng: Intelligence x2
 - DeniedAlternatives: []
   Files:
+    specs/assassin.config:
+    - /weapon/text/0
+    specs/berserker.config:
+    - /weapon/text/0
+    specs/conquistador.config:
+    - /weapon/text/0
+    specs/mercenary.config:
+    - /weapon/text/0
+    specs/pilot.config:
+    - /weapon/text/0
+    specs/saboteur.config:
+    - /weapon/text/0
+    specs/scout.config:
+    - /weapon/text/0
+    specs/thief.config:
+    - /weapon/text/0
+    specs/trapper.config:
+    - /weapon/text/0
+    specs/wanderer.config:
+    - /weapon/text/0
+    specs/warlock.config:
+    - /weapon/text/0
+  Texts:
+    Eng: 'Primary Fire: '
+- DeniedAlternatives: []
+  Files:
     specs/necromancer.config:
     - /effects/3/text
     specs/shade.config:

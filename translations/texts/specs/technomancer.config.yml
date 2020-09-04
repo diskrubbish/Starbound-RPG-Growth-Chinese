@@ -54,3 +54,19 @@
   Texts:
     Chs: 全能喷射器
     Eng: Omnia-Thrower
+- DeniedAlternatives: []
+  Files:
+    specs/technomancer.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击： 发射一股元素能量。'
+    Eng: 'Primary Fire: Fire a stream of elemental energy.'
+- DeniedAlternatives: []
+  Files:
+    specs/technomancer.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '次要攻击：切换元素。全能喷射器可以在新星，火，电，冰和毒之间切换。 按住Shift键的同时使用呲牙攻击在新星和最后使用的元素之间切换。'
+    Eng: 'Secondary Fire: Switch Elements. Omnia-Thrower can switch between Nova,
+      Fire, Electric, Ice, and Poison. Using Secondary Fire while holding Shift switches
+      between Nova and the last used Element.'

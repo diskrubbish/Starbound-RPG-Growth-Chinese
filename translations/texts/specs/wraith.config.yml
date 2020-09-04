@@ -36,6 +36,15 @@
 - DeniedAlternatives: []
   Files:
     specs/wraith.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '连击终结技：使用能量削向您的瞄准方向。造成诅咒状态，使敌人受到随机疾病的折磨，例如无法移动或失去生命的Debuff。'
+    Eng: 'Combo Finisher: uses Energy to slash towards your aiming direction. Causes
+      the ''Cursed'' status, which afflicts enemies with random ailments, like the
+      inability to move or a health debuff.'
+- DeniedAlternatives: []
+  Files:
+    specs/wraith.config:
     - /ability/text
   Texts:
     Chs: 重力几乎不会影响你。受到伤害后，在短时间内变得无敌和空灵。
@@ -48,6 +57,13 @@
   Texts:
     Chs: 毒素，火炎，恶魔和暗影(FU)免疫
     Eng: Poison, Fire, Demonic and Shadow (FU) Immunity
+- DeniedAlternatives: []
+  Files:
+    specs/wraith.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：造成最小恶魔伤害的短距离刺击。'
+    Eng: 'Primary Fire: a short stab that does minimal Demonic Damage.'
 - DeniedAlternatives: []
   Files:
     specs/wraith.config:

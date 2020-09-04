@@ -70,6 +70,14 @@
 - DeniedAlternatives: []
   Files:
     classes/knight.config:
+    - /weapon/text/1
+  Texts:
+    Chs: 攻击动画由^blue;Ribs^reset;制作。记得去了解一下^blue;Project Blade Dance^reset;！
+    Eng: Attack Animations by ^blue;Ribs^reset;. Check out ^blue;Project Blade Dance^reset;
+      if you haven't already!
+- DeniedAlternatives: []
+  Files:
+    classes/knight.config:
     - /classic/0/text
   Texts:
     Chs: '无法装备远程或魔法武器。
@@ -85,3 +93,12 @@
   Texts:
     Chs: 完美格挡后在短时间内+20%的伤害。
     Eng: Perfect Shields increase Damage by +20% for a short period.
+- DeniedAlternatives: []
+  Files:
+    classes/knight.config:
+    - /weapon/text/0
+  Texts:
+    Chs: 护主剑是可以用作盾牌的大刀。完美格挡回触发骑士的职业能力。借助致命护主剑完美阻挡，可以恢复健康。
+    Eng: The Aegis is a broadsword that can be used as a shield. Perfect Blocking
+      triggers the Knight's class ability. Perfect Blocking with the Vital Aegis restores
+      health.

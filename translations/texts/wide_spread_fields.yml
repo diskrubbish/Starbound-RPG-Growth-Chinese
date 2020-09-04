@@ -42,6 +42,7 @@
     specs/captain.config:
     - /classic/0/text
     specs/changeling.config:
+    - /weapon/text/0
     - /weapon/title
     specs/conquistador.config:
     - /ability/text

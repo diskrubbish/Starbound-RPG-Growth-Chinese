@@ -22,6 +22,20 @@
 - DeniedAlternatives: []
   Files:
     specs/kunoichi.config:
+    - /weapon/text/3
+  Texts:
+    Chs: '伏势/翔空：百花缭乱幻蝶转。'
+    Eng: 'Crouching/Aerial: Fast swings in both directions.'
+- DeniedAlternatives: []
+  Files:
+    specs/kunoichi.config:
+    - /weapon/text/4
+  Texts:
+    Chs: '按住Shift：取消方向输入。'
+    Eng: 'Holding Shift: Cancels directional input.'
+- DeniedAlternatives: []
+  Files:
+    specs/kunoichi.config:
     - /effects/2/text
   Texts:
     Chs: 使用鞭和战扇时，移动速度提高。
@@ -44,6 +58,14 @@
 - DeniedAlternatives: []
   Files:
     specs/kunoichi.config:
+    - /weapon/text/5
+  Texts:
+    Chs: '被动：主要攻击和踏前攻击的连锁会提高伤害和攻击速度。'
+    Eng: 'Passive: Chaining from Primary and Forward Attacks raises Damage and Attack
+      Speed.'
+- DeniedAlternatives: []
+  Files:
+    specs/kunoichi.config:
     - /tech/text
   Texts:
     Chs: '按[W]向后空翻，同时向空气中释放甜气。这种气体使击中的敌人眼花缭乱，导致他们移动速度变慢。 在空翻过程中，你不会受到任何伤害，落地后会立即停止翻转。
@@ -55,3 +77,24 @@
       stops the flip.
 
       ^red;Cooldown: 1s. Energy Cost: 50e. Does not protect from Status Damage.'
+- DeniedAlternatives: []
+  Files:
+    specs/kunoichi.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：风压破敌一线斩。'
+    Eng: 'Primary Fire: A slash of pressurized wind.'
+- DeniedAlternatives: []
+  Files:
+    specs/kunoichi.config:
+    - /weapon/text/2
+  Texts:
+    Chs: '向后撤步：落花无情血染泥。'
+    Eng: 'Walking Backward: A petal explosion.'
+- DeniedAlternatives: []
+  Files:
+    specs/kunoichi.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '向前踏步：势如迅雷踏前闪。'
+    Eng: 'Walking Forward: A quick thrust forwards.'

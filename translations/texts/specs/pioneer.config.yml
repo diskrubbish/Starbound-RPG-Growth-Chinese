@@ -19,9 +19,9 @@
     specs/pioneer.config:
     - /ability/text
   Texts:
-    Chs: '在已经书签过的星球上获得125%的攻击倍乘和最大能量。
+    Chs: '在已经标记书签的星球上获得125%的攻击倍乘和最大能量。
 
-      在未书签过的星球上获得125%的速度10%的抗性加成。'
+      在未标记书签的星球上获得125%的速度10%的抗性加成。'
     Eng: '125% Power Multiplier and Max Energy on Bookmarked Planets.
 
       120% Speed and +10% Resistance on Non-Bookmarked Planets.'
@@ -35,9 +35,26 @@
 - DeniedAlternatives: []
   Files:
     specs/pioneer.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '被动：鹦鹉螺在持有时会大大提高攻击和火系抗性，并且其气泡会消除状态和环境伤害'
+    Eng: 'Passive: Nautilus greatly increases Power and Fire Resistance while held,
+      and its bubble nullifies status and environmental damage.'
+- DeniedAlternatives: []
+  Files:
+    specs/pioneer.config:
     - /tech/text
   Texts:
     Chs: 如果可能的话，按[F]可放置一个殖民地标志。殖民地标志可以设置为一个传送点。技能有600秒冷却。传送到新位置会立即重置冷却时间。
     Eng: Pressing [F] places a Colony Flag if possible. Colony Flags can be set as
       waypoints for easy teleportation access. 600 second cooldown. Teleporting to
       a new location immediately resets cooldown.
+- DeniedAlternatives: []
+  Files:
+    specs/pioneer.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：将自己包围在气泡中，使气泡能够穿过液体，增加跳跃高度并降低重力。气泡的耐久等于玩家的最大HP。在液体中时，按[Shift]下降。'
+    Eng: 'Primary Fire: Surrounds you in a bubble that eases traversal through liquids,
+      increases Jump Height, and decreases Gravity. The bubble''s health is your Max
+      Health. Press [Shift] to descend while in liquid.'

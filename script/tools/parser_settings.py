@@ -15,7 +15,7 @@ foi = {
                 ".+Title$", "^paneLayout/.+/value$", "areYouSure/value$", "^blueprintUnlock$",
                 "^blueprintAlreadyKnown$", "^rotTimeDescriptions/.+/1$", "^[a-zA-Z]*[mM]essages/[a-zA-Z]+$",
                 ".+[mM]essage$", "^.*(hint|regex|([a-zA-Z]*(Caption|[Tt]itle)))$", "^defaultPetNameLabel$",
-                ".*descriptions/[0-9]+$", "^(un)?trackLabel$", "^modeTypeTextAndColor/[0-9]+/[0-9]+$","^.+/weapon/text$"],
+                ".*descriptions/[0-9]+$", "^(un)?trackLabel$", "^modeTypeTextAndColor/[0-9]+/[0-9]+$","^weapon/text/[0-9]+$"],
     "themes.config": ["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
     "dungeonitems.config": ["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
     "threats.config": ["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
@@ -83,11 +83,11 @@ foi = {
     ".itemdescription": [],
     ".collection": [],
     ".animation": [],
-    ".aicommand":['.+buttonText/.+$'],
-    "madness.config":[".+research/.+$"],
-    "system_objects.config":[".*/displayName$"],
-    "ivrpgtext.config": [".+children$",".+tierText/[0-9]+$"],
-    "ivrpgSpecList.config": [".+weaponText/[0-9]+$",'.+title/.+$']
+    ".aicommand": ['.+buttonText/.+$'],
+    "madness.config": [".+research/.+$"],
+    "system_objects.config": [".*/displayName$"],
+    "ivrpgtext.config": [".+children$", ".+tierText/[0-9]+$"],
+    "ivrpgSpecList.config": [".+weaponText/[0-9]+$", '.+title/.+$']
 }
 
 files_of_interest = dict()

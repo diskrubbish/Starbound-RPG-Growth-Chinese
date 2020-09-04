@@ -29,6 +29,15 @@
 - DeniedAlternatives: []
   Files:
     specs/vigilante.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '安妮：一把每次使用消耗16.7％的最大能量的授权，但会造成高额伤害和击退。与玛丽配对时，每发射击都会使用12.5％的最大能量，并令敌人着火。'
+    Eng: 'Anne: a pistol that uses 16.7% Max Energy per shot, but does massive damage
+      and knockback. Paired with Marie, each shot uses 12.5% Max Energy instead, and
+      sets enemies ablaze.'
+- DeniedAlternatives: []
+  Files:
+    specs/vigilante.config:
     - /classic/0/text
   Texts:
     Chs: 可以双持单手远程武器。
@@ -44,6 +53,14 @@
     Eng: 'Increased Speed and Power while near aggressive NPCs.
 
       Nearby allies recharge 10% Energy when you kill an Outlaw or Bandit.'
+- DeniedAlternatives: []
+  Files:
+    specs/vigilante.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '玛丽：一把具有高RoF的授权，低能耗和低伤害。子弹穿透并造成流血。与安妮配对时，获得+20％物理和击退抗性。'
+    Eng: 'Marie: a pistol with High RoF, Low Energy Usage, and Low Damage. Bullets
+      pierce and cause bleed. Paired with Anne, gain +20% Physical and Knockback Resistance.'
 - DeniedAlternatives: []
   Files:
     specs/vigilante.config:

@@ -70,6 +70,16 @@
 - DeniedAlternatives: []
   Files:
     classes/rogue.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '虹吸爪是一只拳刃，它的终结技会消耗能量造成成吨的伤害。
+         终结技：暴击切裂会导致流血并填充饥饿感。 涂毒切裂会引起中毒，恢复HP。 闪电切裂会产生静电并充满能量。'
+    Eng: 'The Siphon is a claw that uses energy to deal massive damage for its finisher.
+      Finishers: Critical Slice causes bleed and fills hunger. Venom Slice causes
+      poison and fills health. Lightning Slice causes static and fills energy.'
+- DeniedAlternatives: []
+  Files:
+    classes/rogue.config:
     - /ability/text
   Texts:
     Chs: 当你的饱腹度至少半满时，+20%的毒抗。

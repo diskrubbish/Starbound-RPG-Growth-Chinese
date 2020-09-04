@@ -8,6 +8,15 @@
 - DeniedAlternatives: []
   Files:
     specs/battlemage.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '次要攻击: 向至日充能，增加其威力，并使其在每次挥动中造成新星伤害。充能时再按一次，以释放具有破坏性的爆炸能量。'
+    Eng: 'Alt Fire: charge Solstice, increasing its potency and causing it to deal
+      Nova Damage with every swing. Press again while charged to discharge the energy
+      with a damaging explosion.'
+- DeniedAlternatives: []
+  Files:
+    specs/battlemage.config:
     - /classic/0/text
   Texts:
     Chs: 可以使用双手近战武器。
@@ -24,7 +33,7 @@
     specs/battlemage.config:
     - /ability/text
   Texts:
-    Chs: 存在多个敌人时，攻击倍乘+200％，但在附近没有敌人时-50％。
+    Chs: 存在多个敌人时，攻击倍乘+200%，但在附近没有敌人时-50%。
     Eng: Power Multiplier increases up to +200% when multiple enemies are present,
       but decreases by -50% when there are none nearby.
 - DeniedAlternatives: []
@@ -48,6 +57,13 @@
       ^gray;Iron Aura: 115% Max Health; 75% Speed and Jump Height.\nDamaging foes\
       \ grants temporary Armor.\n^green;Ionic Aura: 115% Speed and Jump Height; 75%\
       \ Power Multiplier.\nDamaging foes regens Energy."
+- DeniedAlternatives: []
+  Files:
+    specs/battlemage.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：横扫连击穿插着快速刺击。'
+    Eng: 'Primary Fire: a wide sweeping combo interspersed with quick stabs.'
 - DeniedAlternatives: []
   Files:
     specs/battlemage.config:

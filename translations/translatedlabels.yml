@@ -1,848 +1,889 @@
-﻿patches:
+patches:
   interface:
     confirmation:
-      teleportconfirmation.config.json: 15
+      teleportconfirmation.config.yml: 15
     windowconfig:
-      keybindingsmenu.config.json: 0
+      keybindingsmenu.config.yml: 0
   items:
-    categories.config.json: 7
+    categories.config.yml: 7
   quickbar:
-    icons.json.json: 0
+    icons.json.yml: 0
 texts:
   affinities:
-    affinityDescriptions.config.json: 5
-    arc.config.json: 6
-    cryo.config.json: 6
-    flame.config.json: 3
-    frost.config.json: 3
-    infernal.config.json: 5
-    shared_.config.json: 12
-    shock.config.json: 3
-    toxic.config.json: 5
-    venom.config.json: 2
+    affinityDescriptions.config.yml: 5
+    arc.config.yml: 6
+    cryo.config.yml: 6
+    flame.config.yml: 3
+    frost.config.yml: 3
+    infernal.config.yml: 5
+    shared_.config.yml: 12
+    shock.config.yml: 3
+    toxic.config.yml: 5
+    venom.config.yml: 2
   classes:
-    classDescriptions.config.json: 6
-    explorer.config.json: 10
-    knight.config.json: 10
-    ninja.config.json: 12
-    rogue.config.json: 9
-    shared_.config.json: 1
-    soldier.config.json: 11
-    wizard.config.json: 14
-  default.config.json: 1
-  glitchEmotes.json: 9
+    classDescriptions.config.yml: 6
+    explorer.config.yml: 10
+    knight.config.yml: 10
+    ninja.config.yml: 12
+    rogue.config.yml: 9
+    shared_.config.yml: 1
+    soldier.config.yml: 11
+    wizard.config.yml: 14
+  default.config.yml: 1
+  glitchEmotes.yml: 9
   interface:
     RPGskillbook:
-      RPGskillbook.config.json: 110
+      RPGskillbook.config.yml: 109
   items:
     active:
       classweapons:
         explorerdrill:
-          explorerspiradrill.activeitem.json: 1
-          explorerspiradrill2.activeitem.json: 2
-          explorerspiradrill3.activeitem.json: 2
+          explorerspiradrill.activeitem.yml: 1
+          explorerspiradrill2.activeitem.yml: 2
+          explorerspiradrill3.activeitem.yml: 2
         knightsword:
-          knightaegissword.activeitem.json: 1
-          knightaegissword2.activeitem.json: 2
-          knightaegissword3.activeitem.json: 2
-          knightaegissword4.activeitem.json: 2
+          knightaegissword.activeitem.yml: 1
+          knightaegissword2.activeitem.yml: 2
+          knightaegissword3.activeitem.yml: 2
+          knightaegissword4.activeitem.yml: 2
         ninjashuriken:
-          aethertanto1.activeitem.json: 1
-          aethertanto2.activeitem.json: 1
+          aethertanto1.activeitem.yml: 1
+          aethertanto2.activeitem.yml: 1
           shuriken:
-            ninjaaethershuriken.thrownitem.json: 1
-            ninjaaethershuriken2.thrownitem.json: 1
-        ninjashuriken.json: 3
+            ninjaaethershuriken.thrownitem.yml: 1
+            ninjaaethershuriken2.thrownitem.yml: 1
+        ninjashuriken.yml: 3
         rogueclaw:
-          roguesiphonclaw.activeitem.json: 1
-          roguesiphonclaw2s.activeitem.json: 2
-          roguesiphonclaw2v.activeitem.json: 2
-          roguesiphonclaw3e.activeitem.json: 1
-          roguesiphonclaw3s.activeitem.json: 2
-          roguesiphonclaw3v.activeitem.json: 2
+          roguesiphonclaw.activeitem.yml: 1
+          roguesiphonclaw2s.activeitem.yml: 2
+          roguesiphonclaw2v.activeitem.yml: 2
+          roguesiphonclaw3e.activeitem.yml: 1
+          roguesiphonclaw3s.activeitem.yml: 2
+          roguesiphonclaw3v.activeitem.yml: 2
         soldiergun:
-          soldierversa.activeitem.json: 1
-          soldierversa2.activeitem.json: 2
-          soldierversa3.activeitem.json: 2
+          soldierversa.activeitem.yml: 1
+          soldierversa2.activeitem.yml: 2
+          soldierversa3.activeitem.yml: 2
         wizardstaff:
           novastatus:
-            shared_.statuseffect.json: 1
-            wizardnovastatus.animation.json: 1
-          wizardnovastaff.activeitem.json: 1
-          wizardnovastaff2.activeitem.json: 2
-          wizardnovastaff3.activeitem.json: 2
+            shared_.statuseffect.yml: 1
+            wizardnovastatus.animation.yml: 1
+          wizardnovastaff.activeitem.yml: 1
+          wizardnovastaff2.activeitem.yml: 2
+          wizardnovastaff3.activeitem.yml: 2
       protectorate:
         brokendagger:
-          brokenprotectoratedagger.activeitem.json: 2
+          brokenprotectoratedagger.activeitem.yml: 2
         brokenpistol:
-          brokenprotectoratepistol.activeitem.json: 2
+          brokenprotectoratepistol.activeitem.yml: 2
         brokenwand:
-          brokenprotectoratewand.activeitem.json: 2
+          brokenprotectoratewand.activeitem.yml: 2
         wands:
-          tungstenwandelectric.activeitem.json: 2
-          tungstenwandfire.activeitem.json: 2
-          tungstenwandice.activeitem.json: 2
+          tungstenwandelectric.activeitem.yml: 2
+          tungstenwandfire.activeitem.yml: 2
+          tungstenwandice.activeitem.yml: 2
       shared_weapons:
-        shared_e.activeitem.json: 1
+        shared_e.activeitem.yml: 1
       specweapons:
         adept:
-          phaseshift.activeitem.json: 2
+          phaseshift.activeitem.yml: 2
           projectile:
             bolt:
-              phaseshiftenergyregen.statuseffect.json: 1
+              phaseshiftenergyregen.statuseffect.yml: 1
         battlemage:
-          solstice.activeitem.json: 2
+          solstice.activeitem.yml: 2
         cannoneer:
-          outburst.activeitem.json: 2
-          stormhowl.activeitem.json: 2
+          outburst.activeitem.yml: 2
+          stormhowl.activeitem.yml: 2
         captain:
-          leadersrally.activeitem.json: 2
+          leadersrally.activeitem.yml: 2
         crusader:
-          oathkeeper.activeitem.json: 2
+          oathkeeper.activeitem.yml: 2
         darktemplar:
-          heartless.activeitem.json: 2
+          heartless.activeitem.yml: 2
         deadshot:
-          lotus.activeitem.json: 2
+          lotus.activeitem.yml: 2
         dragoon:
-          dragonsbane.activeitem.json: 2
+          dragonsbane.activeitem.yml: 2
         elementress:
-          eclipse.activeitem.json: 2
+          eclipse.activeitem.yml: 2
+        fae:
+          chrysantha.activeitem.yml: 2
+          rooted:
+            rooted.animation.yml: 1
+            rooted.statuseffect.yml: 1
         hunter:
           arrows:
             purplearrow:
               tethered:
-                ivrpgtethered.animation.json: 1
-          mida.activeitem.json: 2
+                ivrpgtethered.animation.yml: 1
+          mida.activeitem.yml: 2
         juggernaut:
-          cleavingmeteor.activeitem.json: 1
+          cleavingmeteor.activeitem.yml: 2
         kunoichi:
-          luxuria.activeitem.json: 2
+          luxuria.activeitem.yml: 2
+        mechanist:
+          exmechina.activeitem.yml: 2
+          wrench.activeitem.yml: 2
         necromancer:
-          forusall.activeitem.json: 2
+          forusall.activeitem.yml: 2
         operative:
-          breathless.activeitem.json: 2
+          breathless.activeitem.yml: 2
         paladin:
-          ivrpgtrueaegis.activeitem.json: 2
+          ivrpgtrueaegis.activeitem.yml: 2
           judgement:
-            ivrpgjudgement.animation.json: 1
-            ivrpgjudgement.statuseffect.json: 1
+            ivrpgjudgement.animation.yml: 1
+            ivrpgjudgement.statuseffect.yml: 1
         pioneer:
-          nautilus.activeitem.json: 2
+          nautilus.activeitem.yml: 2
         sage:
-          rapture.activeitem.json: 2
+          rapture.activeitem.yml: 2
         shade:
-          fear.activeitem.json: 2
+          fear.activeitem.yml: 2
           mine:
             status:
-              blackoutcamouflage.statuseffect.json: 1
+              blackoutcamouflage.statuseffect.yml: 1
         technomancer:
-          omniathrower.activeitem.json: 2
+          omniathrower.activeitem.yml: 2
         thief:
-          siphonpurge.activeitem.json: 1
+          siphonpurge.activeitem.yml: 1
         titan:
-          epimetheus.activeitem.json: 2
+          epimetheus.activeitem.yml: 2
         valkyrie:
-          gungnir.activeitem.json: 2
+          gungnir.activeitem.yml: 2
           mark:
             gungnirthrown:
-              holymark.statuseffect.json: 1
+              holymark.statuseffect.yml: 1
           odinsblessing:
-            odinsblessing.statuseffect.json: 1
+            odinsblessing.statuseffect.yml: 1
         vanguard:
-          dangerclose.activeitem.json: 2
+          dangerclose.activeitem.yml: 2
         vigilante:
-          anne.activeitem.json: 2
-          marie.activeitem.json: 2
+          anne.activeitem.yml: 2
+          marie.activeitem.yml: 2
         wraith:
-          soullesswhisper.activeitem.json: 2
+          soullesswhisper.activeitem.yml: 2
       weapons:
         crit:
-          ivcrithit.animation.json: 1
+          ivcrithit.animation.yml: 1
         melee:
           broadsword:
-            abhorrentstygiansword.activeitem.json: 1
-            goldcleaver.activeitem.json: 1
-            heartofdissolve.activeitem.json: 1
-            ivrpgferoziumkatana.activeitem.json: 1
-            manashortsword.activeitem.json: 1
-            obsidianSword.activeitem.json: 2
-            obsidianSword2.activeitem.json: 2
-            osteonScythe.activeitem.json: 2
-            royalSword.activeitem.json: 2
-            shared_.activeitem.json: 2
-            spiderblade.activeitem.json: 2
-            stygianbardiche.activeitem.json: 1
-            ultrameshsword.activeitem.json: 1
+            abhorrentstygiansword.activeitem.yml: 1
+            goldcleaver.activeitem.yml: 1
+            heartofdissolve.activeitem.yml: 1
+            ivrpgferoziumkatana.activeitem.yml: 1
+            manashortsword.activeitem.yml: 1
+            obsidianSword.activeitem.yml: 2
+            obsidianSword2.activeitem.yml: 2
+            osteonScythe.activeitem.yml: 2
+            royalSword.activeitem.yml: 2
+            shared_.activeitem.yml: 2
+            spiderblade.activeitem.yml: 2
+            stygianbardiche.activeitem.yml: 1
+            ultrameshsword.activeitem.yml: 1
           hammer:
-            darkcleaver.activeitem.json: 2
-            manaaxe.activeitem.json: 2
+            darkcleaver.activeitem.yml: 2
+            manaaxe.activeitem.yml: 2
           shared_sword:
-            shared_.activeitem.json: 1
+            shared_.activeitem.yml: 1
           shortsword:
-            bluemanabroadsword.activeitem.json: 1
-            easternGlaive.activeitem.json: 2
-            halberd1h.activeitem.json: 2
-            honor.activeitem.json: 1
-            magmaSaber.activeitem.json: 1
-            silvermace.activeitem.json: 1
+            bluemanabroadsword.activeitem.yml: 1
+            easternGlaive.activeitem.yml: 2
+            halberd1h.activeitem.yml: 2
+            honor.activeitem.yml: 1
+            magmaSaber.activeitem.yml: 1
+            silvermace.activeitem.yml: 1
           spear:
-            darktrident.activeitem.json: 2
+            darktrident.activeitem.yml: 2
         patreon:
+          magicianshat:
+            magichat.activeitem.yml: 1
           mimic:
-            cainesmimic.activeitem.json: 2
+            cainesmimic.activeitem.yml: 2
             object:
-              shared_woodenchest.json: 8
-              woodenchest.object.json: 1
-              woodenchestmimic.object.json: 1
+              shared_woodenchest.yml: 8
+              woodenchest.object.yml: 1
+              woodenchestmimic.object.yml: 1
         ranged:
-          fuelrod.activeitem.json: 1
-          fuelrod2.activeitem.json: 1
-          shared_.activeitem.json: 1
+          fuelrod.activeitem.yml: 1
+          fuelrod2.activeitem.yml: 1
+          shared_.activeitem.yml: 1
     armors:
-      patreonspiritmask.head.json: 2
+      patreonspiritmask.head.yml: 2
     crafting:
       explorer:
-        ivrpgspiralenergy.item.json: 2
-        ivrpgspiralpower.item.json: 2
+        ivrpgspiralenergy.item.yml: 2
+        ivrpgspiralpower.item.yml: 2
       knight:
-        ivrpgmeteoricmetal.item.json: 2
-        ivrpgmeteoricmetalbar.item.json: 2
+        ivrpgmeteoricmetal.item.yml: 2
+        ivrpgmeteoricmetalbar.item.yml: 2
       ninja:
-        ivrpgether.item.json: 2
-        ivrpgetherealblade.item.json: 2
+        ivrpgether.item.yml: 2
+        ivrpgetherealblade.item.yml: 2
       rogue:
-        ivrpgparasiticgoo.item.json: 2
-        ivrpgparasiticnervebundle.item.json: 2
+        ivrpgparasiticgoo.item.yml: 2
+        ivrpgparasiticnervebundle.item.yml: 2
       rpgexclusives:
-        feather.item.json: 2
+        feather.item.yml: 2
       soldier:
-        ivrpgfiringmechanism.item.json: 2
-        ivrpggunparts.item.json: 2
+        ivrpgfiringmechanism.item.yml: 2
+        ivrpggunparts.item.yml: 2
       wizard:
-        ivrpgdyingstar.item.json: 2
-        ivrpgnovacrystal.item.json: 2
+        ivrpgdyingstar.item.yml: 2
+        ivrpgnovacrystal.item.yml: 2
     scrolls:
-      scrolladdstatpoint.activeitem.json: 2
-      scrollarc.activeitem.json: 2
-      scrollcryo.activeitem.json: 2
-      scrollinfernal.activeitem.json: 2
-      scrollresetaffinity.activeitem.json: 2
-      scrollresetclass.activeitem.json: 2
-      scrollresetstats.activeitem.json: 2
-      scrolltoxic.activeitem.json: 2
+      scrolladdstatpoint.activeitem.yml: 2
+      scrollarc.activeitem.yml: 2
+      scrollcryo.activeitem.yml: 2
+      scrollinfernal.activeitem.yml: 2
+      scrollresetaffinity.activeitem.yml: 2
+      scrollresetclass.activeitem.yml: 2
+      scrollresetstats.activeitem.yml: 2
+      scrolltoxic.activeitem.yml: 2
       specs:
         knight:
-          scrollpaladin.activeitem.json: 2
+          scrollpaladin.activeitem.yml: 2
     throwables:
       caltrops:
-        caltrops.thrownitem.json: 2
-        gravitrops.thrownitem.json: 2
+        caltrops.thrownitem.yml: 2
+        gravitrops.thrownitem.yml: 2
       shurikens:
         arcshuriken:
-          arcshuriken.thrownitem.json: 2
+          arcshuriken.thrownitem.yml: 2
         cryoshuriken:
-          cryoshuriken.thrownitem.json: 2
+          cryoshuriken.thrownitem.yml: 2
         durasteelshuriken:
-          durasteelshuriken.thrownitem.json: 2
+          durasteelshuriken.thrownitem.yml: 2
         infernalshuriken:
-          infernalshuriken.thrownitem.json: 2
+          infernalshuriken.thrownitem.yml: 2
         toxicshuriken:
-          toxicshuriken.thrownitem.json: 2
+          toxicshuriken.thrownitem.yml: 2
     upgrade chips:
       affinity:
-        ivrpgucbloom.activeitem.json: 1
-        ivrpguccoldheart.activeitem.json: 1
-        ivrpguccontagion.activeitem.json: 1
-        ivrpgucdischarge.activeitem.json: 1
-        ivrpguceternalflame.activeitem.json: 1
-        ivrpgucevergreen.activeitem.json: 1
-        ivrpgucfeedbackloop.activeitem.json: 1
-        ivrpgucicequeen.activeitem.json: 1
-        ivrpgucincurable.activeitem.json: 1
-        ivrpgucmiasma.activeitem.json: 1
-        ivrpgucplasmacore.activeitem.json: 1
-        ivrpgucskadisblessing.activeitem.json: 1
-        ivrpgucvikingfuneral.activeitem.json: 1
-      shared_.activeitem.json: 2
+        ivrpgucbloom.activeitem.yml: 1
+        ivrpguccoldheart.activeitem.yml: 1
+        ivrpguccontagion.activeitem.yml: 1
+        ivrpgucdischarge.activeitem.yml: 1
+        ivrpguceternalflame.activeitem.yml: 1
+        ivrpgucevergreen.activeitem.yml: 1
+        ivrpgucfeedbackloop.activeitem.yml: 1
+        ivrpgucicequeen.activeitem.yml: 1
+        ivrpgucincurable.activeitem.yml: 1
+        ivrpgucmiasma.activeitem.yml: 1
+        ivrpgucplasmacore.activeitem.yml: 1
+        ivrpgucskadisblessing.activeitem.yml: 1
+        ivrpgucvikingfuneral.activeitem.yml: 1
+      shared_.activeitem.yml: 2
       tech:
-        ivrpgucbatterypack.activeitem.json: 1
-        ivrpgucfourthwall.activeitem.json: 1
-        ivrpgucghost.activeitem.json: 1
-        ivrpgucglidesphere.activeitem.json: 2
-        ivrpguchoversphere.activeitem.json: 2
-        ivrpgucmoreenhanced.activeitem.json: 1
-        ivrpgucpeakperformance.activeitem.json: 1
-        ivrpgucphaseout.activeitem.json: 1
-        ivrpgucpinpointaccuracy.activeitem.json: 1
-        ivrpgucstunningsphere.activeitem.json: 1
-        ivrpgucwalljump.activeitem.json: 2
-        ivrpgucwavedash.activeitem.json: 1
+        ivrpgucbatterypack.activeitem.yml: 1
+        ivrpgucfourthwall.activeitem.yml: 1
+        ivrpgucghost.activeitem.yml: 1
+        ivrpgucglidesphere.activeitem.yml: 2
+        ivrpguchoversphere.activeitem.yml: 2
+        ivrpgucmoreenhanced.activeitem.yml: 1
+        ivrpgucpeakperformance.activeitem.yml: 1
+        ivrpgucphaseout.activeitem.yml: 1
+        ivrpgucpinpointaccuracy.activeitem.yml: 1
+        ivrpgucstunningsphere.activeitem.yml: 1
+        ivrpgucwalljump.activeitem.yml: 2
+        ivrpgucwavedash.activeitem.yml: 1
       weapon:
-        ivrpgucblindingjustice.activeitem.json: 1
-        ivrpgucbloodseeker.activeitem.json: 1
-        ivrpguccharger.activeitem.json: 1
-        ivrpguccombobreaker.activeitem.json: 1
-        ivrpguchardlight.activeitem.json: 1
-        ivrpgucpassedprime.activeitem.json: 1
-        ivrpgucquicksilver.activeitem.json: 1
-        ivrpgucrighteousness.activeitem.json: 1
-        ivrpgucrighthandman.activeitem.json: 1
-        ivrpgucspintowin.activeitem.json: 1
-        ivrpgucsymbiosis.activeitem.json: 1
-        ivrpguctriggerhappy.activeitem.json: 1
-        ivrpgucvampirescaress.activeitem.json: 1
-  ivrpgSpecList.config.json: 155
-  ivrpgStats.config.json: 30
-  ivrpgtext.config.json: 344
+        ivrpgucblindingjustice.activeitem.yml: 1
+        ivrpgucbloodseeker.activeitem.yml: 1
+        ivrpguccharger.activeitem.yml: 1
+        ivrpguccombobreaker.activeitem.yml: 1
+        ivrpguchardlight.activeitem.yml: 1
+        ivrpgucpassedprime.activeitem.yml: 1
+        ivrpgucquicksilver.activeitem.yml: 1
+        ivrpgucrighteousness.activeitem.yml: 1
+        ivrpgucrighthandman.activeitem.yml: 1
+        ivrpgucspintowin.activeitem.yml: 1
+        ivrpgucsymbiosis.activeitem.yml: 1
+        ivrpguctriggerhappy.activeitem.yml: 1
+        ivrpgucvampirescaress.activeitem.yml: 1
+  ivrpgSpecList.config.yml: 153
+  ivrpgStats.config.yml: 30
+  ivrpgtext.config.yml: 351
+  ivrpgversion.config.yml: 0
   monsters:
     flyers:
       bonepteropod:
-        bonepteropod.monstertype.json: 2
+        bonepteropod.monstertype.yml: 2
     ivrpgElementEffects:
       ivrpgoverload:
-        ivrpgoverload.statuseffect.json: 1
+        ivrpgoverload.statuseffect.yml: 1
       ivrpgtoxify:
-        ivrpgtoxify.statuseffect.json: 1
+        ivrpgtoxify.statuseffect.yml: 1
     ivrpgweaken:
-      ivrpgweaken.animation.json: 1
+      ivrpgweaken.animation.yml: 1
     rpgmonsters:
       chiropterror:
-        chiropterror.monstertype.json: 1
+        chiropterror.monstertype.yml: 1
       debuffs:
-        noability.statuseffect.json: 1
+        noability.statuseffect.yml: 1
       lumoth:
-        firelumoth.monstertype.json: 1
+        firelumoth.monstertype.yml: 1
       mandraflora:
-        mandraflora.monstertype.json: 1
+        mandraflora.monstertype.yml: 1
       masteroid:
         mid:
-          hardenedmasteroidmid.monstertype.json: 1
-        shared_hardenedmasteroid.json: 1
+          hardenedmasteroidmid.monstertype.yml: 1
+        shared_hardenedmasteroid.yml: 1
+      mechanist:
+        drone:
+          drone.monstertype.yml: 1
+        shared_.monstertype.yml: 1
+        turret:
+          turret.monstertype.yml: 1
       monstertonpc:
-        monstertonpc.monstertype.json: 2
+        monstertonpc.monstertype.yml: 2
       narfin:
-        icenarfin.monstertype.json: 1
+        icenarfin.monstertype.yml: 1
       parasprite:
-        parasprite.monstertype.json: 1
+        parasprite.monstertype.yml: 1
       petricub:
-        electricpetricub.monstertype.json: 1
+        electricpetricub.monstertype.yml: 1
       scandroid:
-        scandroid.monstertype.json: 2
+        scandroid.monstertype.yml: 2
       spookit:
-        demonicspookit.monstertype.json: 1
+        demonicspookit.monstertype.yml: 1
       trifangle:
-        trifangle.monstertype.json: 1
+        trifangle.monstertype.yml: 1
       wisper:
-        holywisper.monstertype.json: 1
+        holywisper.monstertype.yml: 1
     soldierstun:
-      ivrpgstun.statuseffect.json: 1
-      soldierstun.animation.json: 1
-      soldierstun.statuseffect.json: 1
+      ivrpgstun.statuseffect.yml: 1
+      soldierstun.animation.yml: 1
+      soldierstun.statuseffect.yml: 1
   objects:
     affinity:
-      affinitytype.currency.json: 2
+      affinitytype.currency.yml: 2
     class:
-      classtype.currency.json: 2
+      classtype.currency.yml: 2
     experience:
-      currentlevel.currency.json: 1
-      experienceorb.currency.json: 2
+      currentlevel.currency.yml: 1
+      experienceorb.currency.yml: 2
     mastery:
-      masterypoint.currency.json: 2
+      masterypoint.currency.yml: 2
       shop:
-        ivrpgmasteryshop.config.json: 6
-        masteryshop.object.json: 8
+        ivrpgmasteryshop.config.yml: 6
+        masteryshop.object.yml: 8
     profession:
-      proftype.currency.json: 2
+      proftype.currency.yml: 2
     skillbook:
-      RPGskillbook.activeitem.json: 1
-      skillbookopen.currency.json: 2
+      RPGskillbook.activeitem.yml: 1
+      skillbookopen.currency.yml: 2
     specialization:
-      spectype.currency.json: 2
+      spectype.currency.yml: 2
     stats:
-      statpoint.currency.json: 1
+      statpoint.currency.yml: 1
   particles:
     damagenumbers:
-      shared_damagenumber.json: 1
+      shared_damagenumber.yml: 1
   professions:
     alchemist:
-      ivrpgalchemiststation.config.json: 2
-      ivrpgalchemiststation.object.json: 9
-    alchemist.config.json: 4
-    bard.config.json: 4
-    botanist.config.json: 3
-    default.config.json: 1
+      ivrpgalchemiststation.config.yml: 2
+      ivrpgalchemiststation.object.yml: 9
+    alchemist.config.yml: 4
+    bard.config.yml: 4
+    botanist.config.yml: 3
+    default.config.yml: 1
     engineer:
       items:
-        acidsample.item.json: 2
-        electromagnet.item.json: 2
-        gear.item.json: 2
-        magmasample.item.json: 2
-        motor.item.json: 2
-        spowercell.item.json: 2
-      ivrpgengineerstation.config.json: 2
-      ivrpgengineerstation.object.json: 9
+        acidsample.item.yml: 2
+        electromagnet.item.yml: 2
+        gear.item.yml: 2
+        magmasample.item.yml: 2
+        motor.item.yml: 2
+        spowercell.item.yml: 2
+      ivrpgengineerstation.config.yml: 2
+      ivrpgengineerstation.object.yml: 9
       status:
-        ivrpgengineerenergy.statuseffect.json: 1
-        ivrpgengineerstatuscooldown.statuseffect.json: 1
-    engineer.config.json: 6
+        ivrpgengineerenergy.statuseffect.yml: 1
+        ivrpgengineerstatuscooldown.statuseffect.yml: 1
+    engineer.config.yml: 6
     jeweler:
       extractor:
-        extractor.config.json: 1
-        extractor.object.json: 10
-      ivrpgjewelerstation.config.json: 2
-      ivrpgjewelerstation.object.json: 9
+        extractor.config.yml: 1
+        extractor.object.yml: 10
+      ivrpgjewelerstation.config.yml: 2
+      ivrpgjewelerstation.object.yml: 9
       jewelry:
         anklet:
-          aegisaltanklet.augment.json: 2
-          bronzeanklet.augment.json: 2
-          electrumanklet.augment.json: 2
-          feroziumanklet.augment.json: 2
-          hermesanklet.augment.json: 2
-          riptideanklet.augment.json: 2
-          soulfireanklet.augment.json: 2
-          steelanklet.augment.json: 2
-          violiumanklet.augment.json: 2
+          aegisaltanklet.augment.yml: 2
+          bronzeanklet.augment.yml: 2
+          electrumanklet.augment.yml: 2
+          feroziumanklet.augment.yml: 2
+          hermesanklet.augment.yml: 2
+          riptideanklet.augment.yml: 2
+          soulfireanklet.augment.yml: 2
+          steelanklet.augment.yml: 2
+          violiumanklet.augment.yml: 2
         belt:
-          aegisaltbelt.augment.json: 2
-          bronzebelt.augment.json: 2
-          electrumbelt.augment.json: 2
-          emeraldbelt.augment.json: 2
-          feroziumbelt.augment.json: 2
-          rubybelt.augment.json: 2
-          sapphirebelt.augment.json: 2
-          steelbelt.augment.json: 2
-          violiumbelt.augment.json: 2
+          aegisaltbelt.augment.yml: 2
+          bronzebelt.augment.yml: 2
+          electrumbelt.augment.yml: 2
+          emeraldbelt.augment.yml: 2
+          feroziumbelt.augment.yml: 2
+          rubybelt.augment.yml: 2
+          sapphirebelt.augment.yml: 2
+          steelbelt.augment.yml: 2
+          violiumbelt.augment.yml: 2
         earring:
-          aegisaltearring.augment.json: 2
-          bronzeearring.augment.json: 2
-          dawnsearring.augment.json: 2
-          dusksearring.augment.json: 2
-          eaglesearring.augment.json: 2
-          electrumearring.augment.json: 2
-          feroziumearring.augment.json: 2
-          steelearring.augment.json: 2
-          violiumearring.augment.json: 2
+          aegisaltearring.augment.yml: 2
+          bronzeearring.augment.yml: 2
+          dawnsearring.augment.yml: 2
+          dusksearring.augment.yml: 2
+          eaglesearring.augment.yml: 2
+          electrumearring.augment.yml: 2
+          feroziumearring.augment.yml: 2
+          steelearring.augment.yml: 2
+          violiumearring.augment.yml: 2
         necklace:
-          aegisaltnecklace.augment.json: 2
-          bronzenecklace.augment.json: 2
-          electrumnecklace.augment.json: 2
-          feroziumnecklace.augment.json: 2
-          memorylocket.augment.json: 2
-          purifyingpendant.augment.json: 2
-          saintlycharm.augment.json: 2
-          steelnecklace.augment.json: 2
-          violiumnecklace.augment.json: 2
+          aegisaltnecklace.augment.yml: 2
+          bronzenecklace.augment.yml: 2
+          electrumnecklace.augment.yml: 2
+          feroziumnecklace.augment.yml: 2
+          memorylocket.augment.yml: 2
+          purifyingpendant.augment.yml: 2
+          saintlycharm.augment.yml: 2
+          steelnecklace.augment.yml: 2
+          violiumnecklace.augment.yml: 2
         ring:
-          aegisaltring.augment.json: 2
-          bronzering.augment.json: 2
-          electrumring.augment.json: 2
-          feroziumring.augment.json: 2
-          fluxring.augment.json: 2
-          ghostlyring.augment.json: 2
-          spitefulring.augment.json: 2
-          steelring.augment.json: 2
-          violiumring.augment.json: 2
+          aegisaltring.augment.yml: 2
+          bronzering.augment.yml: 2
+          electrumring.augment.yml: 2
+          feroziumring.augment.yml: 2
+          fluxring.augment.yml: 2
+          ghostlyring.augment.yml: 2
+          spitefulring.augment.yml: 2
+          steelring.augment.yml: 2
+          violiumring.augment.yml: 2
         watch:
-          aegisaltwatch.augment.json: 2
-          bronzewatch.augment.json: 2
-          electrumwatch.augment.json: 2
-          feroziumwatch.augment.json: 2
-          hitechwatch.augment.json: 2
-          mechanicalwatch.augment.json: 2
-          solarpoweredwatch.augment.json: 2
-          steelwatch.augment.json: 2
-          violiumwatch.augment.json: 2
-    jeweler.config.json: 4
+          aegisaltwatch.augment.yml: 2
+          bronzewatch.augment.yml: 2
+          electrumwatch.augment.yml: 2
+          feroziumwatch.augment.yml: 2
+          hitechwatch.augment.yml: 2
+          mechanicalwatch.augment.yml: 2
+          solarpoweredwatch.augment.yml: 2
+          steelwatch.augment.yml: 2
+          violiumwatch.augment.yml: 2
+    jeweler.config.yml: 4
     medic:
-      ivrpgmedicstation.config.json: 2
-      ivrpgmedicstation.object.json: 9
+      ivrpgmedicstation.config.yml: 2
+      ivrpgmedicstation.object.yml: 9
       status:
-        ivrpgmedicregeneration.statuseffect.json: 1
-    medic.config.json: 5
+        ivrpgmedicregeneration.statuseffect.yml: 1
+    medic.config.yml: 5
     miner:
       items:
         bars:
-          billoncoin.item.json: 2
-          electrumbar.item.json: 2
-          platinumbar.item.json: 2
-          siliconbronze.item.json: 2
-          steelbar.item.json: 2
+          billoncoin.item.yml: 2
+          electrumbar.item.yml: 2
+          platinumbar.item.yml: 2
+          siliconbronze.item.yml: 2
+          steelbar.item.yml: 2
         miningtools:
-          electrumpickaxe.miningtool.json: 2
-          steelpickaxe.miningtool.json: 2
-      ivrpgminerstation.config.json: 3
-      ivrpgminerstation.object.json: 9
-    miner.config.json: 5
-    professionDescriptions.config.json: 10
-    shared_erstation.config.json: 1
-    shared_station.config.json: 4
+          electrumpickaxe.miningtool.yml: 2
+          steelpickaxe.miningtool.yml: 2
+      ivrpgminerstation.config.yml: 3
+      ivrpgminerstation.object.yml: 9
+    miner.config.yml: 5
+    professionDescriptions.config.yml: 10
+    shared_erstation.config.yml: 1
+    shared_station.config.yml: 4
     smith:
-      ivrpgsmithstation.config.json: 5
-      ivrpgsmithstation.object.json: 9
+      ivrpgsmithstation.config.yml: 5
+      ivrpgsmithstation.object.yml: 9
       status:
-        ivrpgsmithstatusarmor.statuseffect.json: 1
-        ivrpgsmithstatusresistance.statuseffect.json: 1
-    smith.config.json: 5
+        ivrpgsmithstatusarmor.statuseffect.yml: 1
+        ivrpgsmithstatusresistance.statuseffect.yml: 1
+    smith.config.yml: 5
     tamer:
       items:
-        advancedcapturepod.thrownitem.json: 2
-        meatcrunch.consumable.json: 2
-        tripletreat.consumable.json: 2
-        veggiemix.consumable.json: 2
-      ivrpgtamerstation.config.json: 2
-      ivrpgtamerstation.object.json: 9
+        advancedcapturepod.thrownitem.yml: 2
+        meatcrunch.consumable.yml: 2
+        tripletreat.consumable.yml: 2
+        veggiemix.consumable.yml: 2
+      ivrpgtamerstation.config.yml: 2
+      ivrpgtamerstation.object.yml: 9
       status:
-        ivrpgtamermonsterstatus.statuseffect.json: 1
-        ivrpgtamerstatuscooldown.statuseffect.json: 1
-    tamer.config.json: 4
+        ivrpgtamermonsterstatus.statuseffect.yml: 1
+        ivrpgtamerstatuscooldown.statuseffect.yml: 1
+    tamer.config.yml: 4
   projectiles:
     grenades:
       shock:
-        shockcharge.thrownitem.json: 2
+        shockcharge.thrownitem.yml: 2
       skitter:
-        skittergrenade.thrownitem.json: 2
+        skittergrenade.thrownitem.yml: 2
       stun:
-        stungrenade.thrownitem.json: 2
+        stungrenade.thrownitem.yml: 2
       tripmine:
-        tripmine.thrownitem.json: 2
+        tripmine.thrownitem.yml: 2
     multiplayerxppulse:
-      multiplayerxppulse.statuseffect.json: 1
+      multiplayerxppulse.statuseffect.yml: 1
   quests:
-    TEMPLATE.questtemplate.json: 3
-    aegisarenaquest.questtemplate.json: 2
-    aegisquest.questtemplate.json: 2
-    aegisquest2.questtemplate.json: 1
-    aegisquest3.questtemplate.json: 2
-    aetherarenaquest.questtemplate.json: 1
-    aetherquest.questtemplate.json: 1
-    aetherquest2.questtemplate.json: 1
-    aetherquest3.questtemplate.json: 2
-    ivrpgoneforall.questtemplate.json: 3
-    novaarenaquest.questtemplate.json: 2
-    novaquest.questtemplate.json: 2
-    novaquest2.questtemplate.json: 1
-    novaquest3.questtemplate.json: 2
-    shared_.questtemplate.json: 1
-    shared_aquest.questtemplate.json: 3
-    shared_arenaquest.questtemplate.json: 2
-    shared_quest.questtemplate.json: 4
-    shared_quest2.questtemplate.json: 1
-    siphonarenaquest.questtemplate.json: 2
-    siphonquest.questtemplate.json: 2
-    siphonquest2.questtemplate.json: 1
-    siphonquest3.questtemplate.json: 2
-    spiraarenaquest.questtemplate.json: 1
-    spiraquest.questtemplate.json: 1
-    spiraquest2.questtemplate.json: 2
-    spiraquest3.questtemplate.json: 2
-    versaarenaquest.questtemplate.json: 3
-    versaquest.questtemplate.json: 3
-    versaquest2.questtemplate.json: 1
-    versaquest3.questtemplate.json: 2
+    TEMPLATE.questtemplate.yml: 3
+    aegisarenaquest.questtemplate.yml: 2
+    aegisquest.questtemplate.yml: 2
+    aegisquest2.questtemplate.yml: 1
+    aegisquest3.questtemplate.yml: 2
+    aetherarenaquest.questtemplate.yml: 1
+    aetherquest.questtemplate.yml: 1
+    aetherquest2.questtemplate.yml: 1
+    aetherquest3.questtemplate.yml: 2
+    ivrpgoneforall.questtemplate.yml: 3
+    novaarenaquest.questtemplate.yml: 2
+    novaquest.questtemplate.yml: 2
+    novaquest2.questtemplate.yml: 1
+    novaquest3.questtemplate.yml: 2
+    shared_.questtemplate.yml: 1
+    shared_aquest.questtemplate.yml: 3
+    shared_arenaquest.questtemplate.yml: 3
+    shared_quest.questtemplate.yml: 4
+    shared_quest2.questtemplate.yml: 1
+    siphonarenaquest.questtemplate.yml: 2
+    siphonquest.questtemplate.yml: 2
+    siphonquest2.questtemplate.yml: 1
+    siphonquest3.questtemplate.yml: 2
+    spiraarenaquest.questtemplate.yml: 1
+    spiraquest.questtemplate.yml: 1
+    spiraquest2.questtemplate.yml: 2
+    spiraquest3.questtemplate.yml: 2
+    versaarenaquest.questtemplate.yml: 3
+    versaquest.questtemplate.yml: 3
+    versaquest2.questtemplate.yml: 1
+    versaquest3.questtemplate.yml: 2
   scripts:
     explorerglow:
-      shared_.statuseffect.json: 1
+      shared_.statuseffect.yml: 1
     knightblock:
-      knightblock.statuseffect.json: 1
+      knightblock.statuseffect.yml: 1
     levelup:
-      ivrpglevelup.animation.json: 1
+      ivrpglevelup.animation.yml: 1
     ninjacrit:
-      ninjacrit.statuseffect.json: 1
+      ninjacrit.statuseffect.yml: 1
     roguepoison:
-      roguepoison.statuseffect.json: 1
+      roguepoison.statuseffect.yml: 1
     soldierdiscipline:
-      soldierdiscipline.statuseffect.json: 1
+      soldierdiscipline.statuseffect.yml: 1
     wizardaffinity:
-      wizardaffinity.statuseffect.json: 1
-  shared_.config.json: 8
-  shared_.statuseffect.json: 1
-  shared_explorer.json: 3
-  shared_knight.json: 4
-  shared_ninja.json: 4
-  shared_pec.json: 34
-  shared_rogue.json: 4
+      wizardaffinity.statuseffect.yml: 1
+  shared_.config.yml: 8
+  shared_.statuseffect.yml: 1
+  shared_explorer.yml: 3
+  shared_knight.yml: 4
+  shared_ninja.yml: 4
+  shared_pec.yml: 36
+  shared_rogue.yml: 4
   shared_skillbook:
-    shared_RPGskillbook..json: 1
-  shared_soldier.json: 3
-  shared_stun.json: 1
+    shared_RPGskillbook..yml: 1
+  shared_soldier.yml: 3
+  shared_stun.yml: 1
   shared_tech:
-    shared_.statuseffect.json: 1
-    shared_us.statuseffect.json: 1
-  shared_wizard.json: 3
+    shared_.statuseffect.yml: 1
+    shared_us.statuseffect.yml: 1
+  shared_wizard.yml: 3
   specs:
     abilities:
       adept:
-        agilemagic.statuseffect.json: 1
-        agilemagicspeed.statuseffect.json: 1
+        agilemagic.statuseffect.yml: 1
+        agilemagicspeed.statuseffect.yml: 1
       battlemage:
-        battletendency.statuseffect.json: 1
+        battletendency.statuseffect.yml: 1
       cannoneer:
-        fightinglion.statuseffect.json: 1
+        fightinglion.statuseffect.yml: 1
       captain:
-        bythepeople.statuseffect.json: 1
-        forthepeople.statuseffect.json: 1
+        bythepeople.statuseffect.yml: 1
+        forthepeople.statuseffect.yml: 1
       changeling:
-        meltyblood.statuseffect.json: 1
+        meltyblood.statuseffect.yml: 1
       crusader:
-        purity.statuseffect.json: 1
+        purity.statuseffect.yml: 1
       darktemplar:
-        corrupted.statuseffect.json: 1
+        corrupted.statuseffect.yml: 1
       deadshot:
-        deadlypatience.statuseffect.json: 1
+        deadlypatience.statuseffect.yml: 1
       dragoon:
-        flightless.statuseffect.json: 1
+        flightless.statuseffect.yml: 1
       elementress:
-        elementalweaveelectric.statuseffect.json: 1
-        elementalweavefire.statuseffect.json: 1
-        elementalweaveice.statuseffect.json: 1
+        elementalweaveelectric.statuseffect.yml: 1
+        elementalweavefire.statuseffect.yml: 1
+        elementalweaveice.statuseffect.yml: 1
+      fae:
+        onewithnature.statuseffect.yml: 1
       hunter:
-        cloak.statuseffect.json: 1
+        cloak.statuseffect.yml: 1
       juggernaut:
-        inertia.statuseffect.json: 1
+        inertia.statuseffect.yml: 1
       kunoichi:
         featherfall:
-          tranquilwindfeatherfall.statuseffect.json: 1
-        tranquilwind.statuseffect.json: 1
+          tranquilwindfeatherfall.statuseffect.yml: 1
+        tranquilwind.statuseffect.yml: 1
+      mechanist:
+        fortify.statuseffect.yml: 1
       necromancer:
-        raiseundead.statuseffect.json: 1
+        raiseundead.statuseffect.yml: 1
+      operative:
+        guerrillatactics.statuseffect.yml: 1
       paladin:
-        perfectbarrier.statuseffect.json: 1
+        perfectbarrier.statuseffect.yml: 1
       pioneer:
-        terranova.statuseffect.json: 1
+        terranova.statuseffect.yml: 1
+      sage:
+        soulconversion.statuseffect.yml: 1
+        status:
+          soulconversionstatus.statuseffect.yml: 1
       shade:
-        shadowscalling.statuseffect.json: 1
-      shared_.statuseffect.json: 1
+        shadowscalling.statuseffect.yml: 1
+      shared_.statuseffect.yml: 1
       technomancer:
-        biohazardous.statuseffect.json: 1
+        biohazardous.statuseffect.yml: 1
       titan:
-        prometheantactics.statuseffect.json: 1
-        prometheantacticsarmorboost.statuseffect.json: 1
+        prometheantactics.statuseffect.yml: 1
+        prometheantacticsarmorboost.statuseffect.yml: 1
       valkyrie:
-        flightofthevalkyrie.statuseffect.json: 1
+        flightofthevalkyrie.statuseffect.yml: 1
       vanguard:
-        inthefray.statuseffect.json: 1
+        inthefray.statuseffect.yml: 1
       vigilante:
-        bymyownhands.statuseffect.json: 1
+        bymyownhands.statuseffect.yml: 1
       wraith:
-        betweenworlds.statuseffect.json: 1
-    adept.config.json: 8
-    assassin.config.json: 3
-    battlemage.config.json: 6
-    berserker.config.json: 2
-    cannoneer.config.json: 8
-    captain.config.json: 5
-    changeling.config.json: 25
-    conquistador.config.json: 2
-    crusader.config.json: 11
-    darktemplar.config.json: 10
-    deadshot.config.json: 4
-    dragoon.config.json: 12
-    hunter.config.json: 8
-    juggernaut.config.json: 7
-    kunoichi.config.json: 7
-    mechanist.config.json: 1
-    mercenary.config.json: 2
-    necromancer.config.json: 7
-    necromancer.json: 1
-    paladin.config.json: 5
-    pilot.config.json: 2
-    pioneer.config.json: 5
-    saboteur.config.json: 2
-    samurai.config.json: 8
-    scout.config.json: 2
-    shade.config.json: 7
-    shared_.config.json: 12
-    shared_n.config.json: 1
-    shared_tech.json: 1
-    technomancer.config.json: 7
+        betweenworlds.statuseffect.yml: 1
+    adept.config.yml: 8
+    assassin.config.yml: 3
+    battlemage.config.yml: 6
+    berserker.config.yml: 2
+    cannoneer.config.yml: 8
+    captain.config.yml: 5
+    changeling.config.yml: 25
+    conquistador.config.yml: 2
+    crusader.config.yml: 11
+    darktemplar.config.yml: 10
+    deadshot.config.yml: 5
+    dragoon.config.yml: 12
+    fae.config.yml: 8
+    hunter.config.yml: 8
+    juggernaut.config.yml: 7
+    kunoichi.config.yml: 7
+    mechanist.config.yml: 8
+    mercenary.config.yml: 2
+    necromancer.config.yml: 7
+    necromancer.yml: 1
+    operative.config.yml: 8
+    paladin.config.yml: 5
+    pilot.config.yml: 2
+    pioneer.config.yml: 5
+    saboteur.config.yml: 2
+    sage.config.yml: 6
+    samurai.config.yml: 8
+    scout.config.yml: 2
+    shade.config.yml: 7
+    shared_.config.yml: 12
+    shared_ech.yml: 1
+    shared_n.config.yml: 1
+    shared_tech.yml: 1
+    technomancer.config.yml: 7
     techs:
       adept:
-        flashstep.tech.json: 1
+        flashstep.tech.yml: 1
       battlemage:
-        battleaura.tech.json: 1
-        battleaura0.statuseffect.json: 1
-        battleaura1.statuseffect.json: 1
-        battleaura2.statuseffect.json: 1
-        battleaura3.statuseffect.json: 1
+        battleaura.tech.yml: 1
+        battleaura0.statuseffect.yml: 1
+        battleaura1.statuseffect.yml: 1
+        battleaura2.statuseffect.yml: 1
+        battleaura3.statuseffect.yml: 1
       cannoneer:
-        bombsaway.tech.json: 1
+        bombsaway.tech.yml: 1
       captain:
-        allystance.tech.json: 1
-        allystance0.statuseffect.json: 1
-        allystance1.statuseffect.json: 1
-        allystance2.statuseffect.json: 1
-        allystance3.statuseffect.json: 1
+        allystance.tech.yml: 1
+        allystance0.statuseffect.yml: 1
+        allystance1.statuseffect.yml: 1
+        allystance2.statuseffect.yml: 1
+        allystance3.statuseffect.yml: 1
       changeling:
         poptop:
-          poptoppower.statuseffect.json: 1
-        shapeshift.tech.json: 1
+          poptoppower.statuseffect.yml: 1
+        shapeshift.tech.yml: 1
       crusader:
-        resurgence.tech.json: 1
-        resurgencecooldown.statuseffect.json: 1
+        resurgence.tech.yml: 1
+        resurgencecooldown.statuseffect.yml: 1
       darktemplar:
-        aboundingdarkness.tech.json: 1
+        aboundingdarkness.tech.yml: 1
       deadshot:
-        idealshot.tech.json: 1
-        idealshotcooldown.statuseffect.json: 1
+        idealshot.tech.yml: 1
+        idealshotcooldown.statuseffect.yml: 1
       dragoon:
-        dragonsleap.tech.json: 1
+        dragonsleap.tech.yml: 1
         status:
-          dragonscrash.statuseffect.json: 1
+          dragonscrash.statuseffect.yml: 1
       elementress:
-        attune.tech.json: 2
+        attune.tech.yml: 2
+      fae:
+        nymphsblessing.tech.yml: 1
       hunter:
-        multitool.tech.json: 1
+        multitool.tech.yml: 1
       juggernaut:
-        limitbreak.tech.json: 1
-        limitbreakcooldown.statuseffect.json: 1
+        limitbreak.tech.yml: 1
+        limitbreakcooldown.statuseffect.yml: 1
       kunoichi:
         ivrpgdazed:
-          ivrpgdazed.animation.json: 1
-        swirlingpetal.tech.json: 1
+          ivrpgdazed.animation.yml: 1
+        swirlingpetal.tech.yml: 1
+      mechanist:
+        skynet.tech.yml: 1
       necromancer:
-        reap.tech.json: 1
+        reap.tech.yml: 1
         reaped:
-          reaped.statuseffect.json: 1
+          reaped.statuseffect.yml: 1
         reapedexplosion:
-          demonicregeneration.statuseffect.json: 1
+          demonicregeneration.statuseffect.yml: 1
+      operative:
+        beacon:
+          status:
+            energyregen.statuseffect.yml: 1
+        empsphere.tech.yml: 1
       paladin:
-        immaculateshield.tech.json: 1
+        immaculateshield.tech.yml: 1
       pioneer:
-        colonize.statuseffect.json: 1
-        colonize.tech.json: 1
+        colonize.statuseffect.yml: 1
+        colonize.tech.yml: 1
         flag:
-          flagpioneer.object.json: 9
+          flagpioneer.object.yml: 9
+      sage:
+        chrysalis.tech.yml: 1
       samurai:
-        iaijutsu.tech.json: 1
+        iaijutsu.tech.yml: 1
       shade:
-        quasar.tech.json: 1
+        quasar.tech.yml: 1
       technomancer:
-        elementalovercharge.tech.json: 1
+        elementalovercharge.tech.yml: 1
       titan:
-        atlasburden.tech.json: 1
-        atlasrelief.statuseffect.json: 1
+        atlasburden.tech.yml: 1
+        atlasrelief.statuseffect.yml: 1
       valkyrie:
-        einherjar.tech.json: 1
+        einherjar.tech.yml: 1
         status:
-          einherjarcooldown.statuseffect.json: 1
+          einherjarcooldown.statuseffect.yml: 1
       vanguard:
-        rush.tech.json: 1
+        rush.tech.yml: 1
       vigilante:
-        desperado.tech.json: 1
-        desperadocooldown.statuseffect.json: 1
+        desperado.tech.yml: 1
+        desperadocooldown.statuseffect.yml: 1
       wraith:
-        darkphase.tech.json: 1
-    thief.config.json: 2
-    titan.config.json: 6
-    trapper.config.json: 2
-    valkyrie.config.json: 8
-    vanguard.config.json: 11
-    vigilante.config.json: 7
-    vinetender.config.json: 2
-    wanderer.config.json: 2
-    warlock.config.json: 2
-    wraith.config.json: 11
-  specs.json: 22
+        darkphase.tech.yml: 1
+    thief.config.yml: 2
+    titan.config.yml: 6
+    trapper.config.yml: 2
+    valkyrie.config.yml: 8
+    vanguard.config.yml: 11
+    vigilante.config.yml: 7
+    wanderer.config.yml: 2
+    warlock.config.yml: 2
+    wraith.config.yml: 11
+  specs.yml: 25
   stats:
     effects:
       camouflage:
-        ivrpgcamouflagehunter.statuseffect.json: 1
+        ivrpgcamouflagehunter.statuseffect.yml: 1
       rpg_corporeal:
-        ivrpgcorporeal.statuseffect.json: 1
+        ivrpgcorporeal.statuseffect.yml: 1
       rpg_launched:
-        ivrpglaunched.statuseffect.json: 1
+        ivrpglaunched.statuseffect.yml: 1
       rpg_slammed:
-        ivrpgslammed.statuseffect.json: 1
+        ivrpgslammed.statuseffect.yml: 1
   tech:
     explorertech:
       explorerdrill:
-        explorerdrill.tech.json: 2
+        explorerdrill.tech.yml: 2
       explorerdrillsphere:
-        explorerdrillsphere.tech.json: 1
+        explorerdrillsphere.tech.yml: 1
       explorerenhancedjump:
-        explorerenhancedjump.tech.json: 1
+        explorerenhancedjump.tech.yml: 1
       explorerenhancedmovement:
-        explorerenhancedmovement.tech.json: 1
-        explorermovementsprint.statuseffect.json: 1
+        explorerenhancedmovement.tech.yml: 1
+        explorermovementsprint.statuseffect.yml: 1
       shared_explorer:
-        shared_explorer.json: 1
+        shared_explorer.yml: 1
     ivrpgremove:
-      ivrpgremove.tech.json: 2
-    ivrpgsparks.tech.json: 2
+      ivrpgremove.tech.yml: 2
+    ivrpgsparks.tech.yml: 2
     knighttech:
       knightarmorsphere:
         contact:
-          knightarmorspherecontact.statuseffect.json: 1
-        knightarmorsphere.tech.json: 1
+          knightarmorspherecontact.statuseffect.yml: 1
+        knightarmorsphere.tech.yml: 1
       knightbash:
-        knightbash.tech.json: 1
+        knightbash.tech.yml: 1
       knightcharge!:
-        knightcharge!.tech.json: 1
+        knightcharge!.tech.yml: 1
       knightslam:
-        knightslam.tech.json: 1
-        nofalldamageks.statuseffect.json: 1
+        knightslam.tech.yml: 1
+        nofalldamageks.statuseffect.yml: 1
     ninjatech:
       flashjump:
-        ninjaflashjump.tech.json: 1
+        ninjaflashjump.tech.yml: 1
         nofalldamage:
-          nofalldamage.statuseffect.json: 1
+          nofalldamage.statuseffect.yml: 1
       ninjaassassinate:
-        ninjaassassinate.tech.json: 1
-        ninjaassassinatecooldown.statuseffect.json: 1
+        ninjaassassinate.tech.yml: 1
+        ninjaassassinatecooldown.statuseffect.yml: 1
       ninjawallcling:
-        ninjawallcling.tech.json: 1
+        ninjawallcling.tech.yml: 1
       vanishsphere:
-        ninjavanishsphere.tech.json: 1
+        ninjavanishsphere.tech.yml: 1
     roguetech:
       roguecloudjump:
-        cloudjump.tech.json: 2
-        roguecloudjumpcooldown.statuseffect.json: 1
+        cloudjump.tech.yml: 2
+        roguecloudjumpcooldown.statuseffect.yml: 1
       rogueescape:
         ivrpgdisoriented:
-          ivrpgdisoriented.animation.json: 1
-        rogueescape.tech.json: 1
+          ivrpgdisoriented.animation.yml: 1
+        rogueescape.tech.yml: 1
       roguepoisondash:
-        roguepoisondash.tech.json: 2
+        roguepoisondash.tech.yml: 2
       roguetoxicaura:
-        roguetoxicauracooldown.statuseffect.json: 1
-        rogueweaken.statuseffect.json: 1
-        rtoxicaura.statuseffect.json: 1
+        roguetoxicauracooldown.statuseffect.yml: 1
+        rogueweaken.statuseffect.yml: 1
+        rtoxicaura.statuseffect.yml: 1
       roguetoxiccapsule:
-        roguetoxiccapsule.tech.json: 1
-        roguetoxiccapsulecooldown.statuseffect.json: 1
-        shared_capsule..json: 1
+        roguetoxiccapsule.tech.yml: 1
+        roguetoxiccapsulecooldown.statuseffect.yml: 1
+        shared_capsule..yml: 1
       roguetoxicsphere:
         hunger:
-          roguetoxicsphereconsume.statuseffect.json: 1
-        roguetoxicsphere.tech.json: 1
+          roguetoxicsphereconsume.statuseffect.yml: 1
+        roguetoxicsphere.tech.yml: 1
       shared_rogue:
-        shared_rogue.json: 1
+        shared_rogue.yml: 1
     soldiertech:
       soldierenergypack:
-        soldierenergypack.tech.json: 1
-        soldierenergypackcooldown.statuseffect.json: 1
+        soldierenergypack.tech.yml: 1
+        soldierenergypackcooldown.statuseffect.yml: 1
       soldiermarksman:
-        soldiermarksman.tech.json: 1
-        soldiermarksmancooldown.statuseffect.json: 1
+        soldiermarksman.tech.yml: 1
+        soldiermarksmancooldown.statuseffect.yml: 1
       soldiermissilestrike:
-        soldiermissilestrike.tech.json: 2
-        soldiermissilestrikecooldown.statuseffect.json: 1
+        soldiermissilestrike.tech.yml: 2
+        soldiermissilestrikecooldown.statuseffect.yml: 1
       soldiermre:
-        soldiermre.statuseffect.json: 1
-        soldiermre.tech.json: 2
+        soldiermre.statuseffect.yml: 1
+        soldiermre.tech.yml: 2
       soldiertanksphere:
         shield:
-          soldiertanksphereimmune.statuseffect.json: 1
-        soldiertanksphere.tech.json: 1
+          soldiertanksphereimmune.statuseffect.yml: 1
+        soldiertanksphere.tech.yml: 1
     wizardtech:
       wizardgravitysphere:
-        wizardgravitysphere.tech.json: 1
-        wizardlowgrav.statuseffect.json: 1
+        wizardgravitysphere.tech.yml: 1
+        wizardlowgrav.statuseffect.yml: 1
       wizardhover:
-        wizardhover.tech.json: 2
+        wizardhover.tech.yml: 2
       wizardmagicshield:
-        wizardmagicshield.tech.json: 1
-        wizardmagicshieldcooldown.statuseffect.json: 1
+        wizardmagicshield.tech.yml: 1
+        wizardmagicshieldcooldown.statuseffect.yml: 1
       wizardtranslocate:
-        wizardtranslocate.tech.json: 1
-  wide_spread_fields.json: 95
+        wizardtranslocate.tech.yml: 1
+  wide_spread_fields.yml: 96

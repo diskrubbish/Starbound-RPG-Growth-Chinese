@@ -182,11 +182,11 @@
   Texts:
     Chs: '^green;从20灵巧开始：^reset;
 
-      对于双手远程武器，经典模式惩罚降低至-50％，
+      对于双手远程武器，经典模式惩罚降低至-50%，
 
-      双持远程和近战武器的惩罚降低至-50％，
+      双持远程和近战武器的惩罚降低至-50%，
 
-      单手近战和远程武器的惩罚降低至-25％。'
+      单手近战和远程武器的惩罚降低至-25%。'
     Eng: '^green;Starting From 20 Dexterity:^reset;
 
       Classic Mode penalty lowered to -50% for Two-Handed Ranged Weapons,
@@ -231,7 +231,7 @@
   Texts:
     Chs: '^green;从20力量开始：^reset;
 
-      双手近战武器的经典模式惩罚降低至-50％，单手单持近战武器的经典模式惩罚降低至-25％。'
+      双手近战武器的经典模式惩罚降低至-50%，单手单持近战武器的经典模式惩罚降低至-25%。'
     Eng: '^green;Starting From 20 Strength:^reset;
 
       Classic Mode penalty lowered to -50% for Two-Handed Melee Weapons,

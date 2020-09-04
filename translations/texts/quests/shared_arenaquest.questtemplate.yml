@@ -30,7 +30,7 @@
     quests/versaarenaquest.questtemplate:
     - /scriptConfig/descriptions/enterInstance
   Texts:
-    Chs: 与^orange;努努^reset;交谈以传送到^orange;竞技场^reset; 
+    Chs: 与^orange;努努^reset;交谈以传送到^orange;竞技场^reset;
     Eng: Talk to ^orange;Nuru^reset; to travel to the ^orange;arena^reset;
 - DeniedAlternatives: []
   Files:

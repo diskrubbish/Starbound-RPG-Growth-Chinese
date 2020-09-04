@@ -53,3 +53,20 @@
       Armor Stance: +15 Armor but 75% Speed and Jump Height.
 
       Speed Stance: 125% Speed and Jump Height but 75% Power Multiplier.'
+- DeniedAlternatives: []
+  Files:
+    specs/captain.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：按住挥动，召集附近的盟友参加战斗。挥动时，能量会迅速消耗掉，但对自身和盟友皆有增益。'
+    Eng: 'Primary Fire: Hold to wave, rallying nearby allies into battle. While holding,
+      energy drains quickly, but various benefits are applied to both you and your
+      allies.'
+- DeniedAlternatives: []
+  Files:
+    specs/captain.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '举旗期间：获得轻微的生命恢复。附近的盟友获得150%的攻击增幅，+25%所有伤害类型抗性以及轻微的能量回复。'
+    Eng: 'While Held: Gain slight Health Regeneration. Nearby allies gain 150% Power
+      Multiplier, +25% Resistance to all damage types, and slight Energy Regeneration.'

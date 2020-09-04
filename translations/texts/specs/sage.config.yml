@@ -31,9 +31,17 @@
 - DeniedAlternatives: []
   Files:
     specs/sage.config:
+    - /weapon/text/2
+  Texts:
+    Chs: '被动：在每次攻击之前按住Shift，在物理，火，冰，电和新星之间改变喜悦的元素。'
+    Eng: 'Passive: holding shift before each attack changes Rapture''s element between
+      Physical, Fire, Ice, Electric, and Nova.'
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
     - /tech/text
   Texts:
-    Chs: 按[Special 1]召唤灵魂。 造成^orange;火系，^blue;冰系，^white;或^yellow;电系^reset;伤害以填充灵魂：充满灵魂的灵魂获得^green;+20％自身元素^red;（但-10％其他元素）^green;的抗性和+5％物理抗性^red;但-5%攻击倍乘^white;。用^magenta;新星伤害^white;击杀敌人一消除充满灵魂的攻击和抗性降低。
+    Chs: 按[Special 1]召唤灵魂。 造成^orange;火系，^blue;冰系，^white;或^yellow;电系^reset;伤害以填充灵魂：充满灵魂的灵魂获得^green;+20%自身元素^red;（但-10%其他元素）^green;的抗性和+5%物理抗性^red;但-5%攻击倍乘^white;。用^magenta;新星伤害^white;击杀敌人一消除充满灵魂的攻击和抗性降低。
       再按一次[Special 1]可以爆裂每个灵魂，使附近的友军获得增强效果： ^orange;火炎之魂^reset;赋予+12秒狂怒，^blue;寒冰之魂^reset;赋予+3s生命恢复，^yellow;闪电之魂^reset;+6s能量恢复。
     Eng: 'Press [Special 1] to summon Souls. Deal ^orange;Fire, ^blue;Ice, ^white;or
       ^yellow;Electric ^reset;damage to fill a soul: filled souls grant ^green;+20%
@@ -46,7 +54,22 @@
 - DeniedAlternatives: []
   Files:
     specs/sage.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：一连串的攻击。'
+    Eng: 'Primary Fire: A flurry of attacks.'
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
     - /weapon/title
   Texts:
     Chs: 喜悦
     Eng: Rapture
+- DeniedAlternatives: []
+  Files:
+    specs/sage.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '次要攻击：充满法杖深处的能量，以释放以神圣伤害消灭敌人的光束。'
+    Eng: 'Secondary Fire: Charge up the energy deep within the staff to call down
+      beams of light that scorch enemies with Holy Damage.'

@@ -110,3 +110,12 @@
 
       If you have a Grenade equipped, press [F] to toss a weaker, generated copy towards
       your cursor for only 20 Energy: this has a 2 second cooldown.'
+- DeniedAlternatives: []
+  Files:
+    classes/soldier.config:
+    - /weapon/text/0
+  Texts:
+    Chs: 反抗者是一把有两种开火模式的枪支。 铭刻反抗者和弹幕反抗者的霰弹可以蓄力以增加伤害并狙击敌人。弹幕反抗者的子弹每次弹跳都会增加攻击。
+    Eng: The Versa is a gun that can fire in two modes. Versa Impact and Ricochet's
+      shotgun blast can be held to increase damage and snipe enemies. Versa Ricochet's
+      bullets bounce and increase in power everytime they do.

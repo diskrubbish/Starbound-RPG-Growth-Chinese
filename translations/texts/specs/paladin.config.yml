@@ -17,6 +17,14 @@
 - DeniedAlternatives: []
   Files:
     specs/paladin.config:
+    - /weapon/text/2
+  Texts:
+    Chs: '被动：连续的完美格挡增加伤害和光束长度。普通格挡（不在攻击时）会降低此加成，而格挡失败会重置加成。'
+    Eng: 'Passive: Successive Perfect Shields increase Damage and Beam Length. Normal
+      Shield Hits (not while firing) lower this bonus, and Shield Breaks reset it.'
+- DeniedAlternatives: []
+  Files:
+    specs/paladin.config:
     - /ability/text
   Texts:
     Chs: 完美格挡后恢复10%最大护盾耐久，并给予20%物理、暗影、恶魔和毒素抗性加成，持续5秒。
@@ -34,6 +42,21 @@
       Shields provide a 110% increase to your Max Health for 3 seconds and 7% of your
       Max Health as instant Health gain to nearby allies. This scales up to 12% with
       Strength and Intelligence. '
+- DeniedAlternatives: []
+  Files:
+    specs/paladin.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：发射一道造成审判的光束，审判状态会增加重力并降低神圣抵抗。最长保持时间：2秒。'
+    Eng: 'Primary Fire: Hold to fire a beam that causes Judgement, a status that increases
+      Gravity and lowers Holy Resistance. Max hold time: 2 seconds.'
+- DeniedAlternatives: []
+  Files:
+    specs/paladin.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '次要攻击：防御来敌。'
+    Eng: 'Secondary Fire: Defend against incoming attacks.'
 - DeniedAlternatives: []
   Files:
     specs/paladin.config:

@@ -76,6 +76,22 @@
 - DeniedAlternatives: []
   Files:
     specs/crusader.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：18击连击，每次挥动都消耗能量。其中的一些链接命中会造成审判状态。'
+    Eng: 'Primary Fire: An 18 hit combo that uses up Energy on each swing. Some hits
+      cause Judgement Status.'
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '次要攻击：按住以发射一束圣光。释放以摆动，让能量尖峰沿光束传导。圣光会消耗大量能量。'
+    Eng: 'Secondary Fire: Hold to fire a beam of holy energy. Release to swing, causing
+      energy spikes along the beam''s length. Uses up a lot of Energy.'
+- DeniedAlternatives: []
+  Files:
+    specs/crusader.config:
     - /classic/1/text
   Texts:
     Chs: ^red;未使用阔剑时，基础攻击力降低至10%。

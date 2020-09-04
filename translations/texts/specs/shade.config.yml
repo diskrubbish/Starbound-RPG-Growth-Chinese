@@ -22,6 +22,15 @@
 - DeniedAlternatives: []
   Files:
     specs/shade.config:
+    - /weapon/text/1
+  Texts:
+    Chs: '次要攻击：发射一道释放粘性屏蔽气体的地雷 站在这种气体中会进入伪装，但也会降低攻击倍乘并阻止能量再生。'
+    Eng: 'Alt Fire: fire a mine that pumps out a viscous blackout gas. Standing in
+      this gas grants camouflage, but also decreases Power Multiplier and prevents
+      Energy Regen.'
+- DeniedAlternatives: []
+  Files:
+    specs/shade.config:
     - /classic/0/text
   Texts:
     Chs: 可以使用狙击步枪
@@ -44,6 +53,14 @@
 - DeniedAlternatives: []
   Files:
     specs/shade.config:
+    - /weapon/text/2
+  Texts:
+    Chs: '被动：完美释放会让箭头和屏蔽气体造成牺牲状态。'
+    Eng: 'Passive: Perfect Release causes both arrows and blackout gas to cause Sacrifice
+      Status.'
+- DeniedAlternatives: []
+  Files:
+    specs/shade.config:
     - /tech/text
   Texts:
     Chs: 按[W]键切换消耗能量的不稳定隐身：激活时造成伤害会立即吸收所有剩余的能量，从而在该伤害点造成局部崩溃。这次崩溃对附近的敌人造成恶魔伤害，伤害的大小与吸收的能量成比例。如果在能量完全耗尽或关断该技能之前未造成任何伤害，则您会虚弱到能量再生为止。
@@ -53,3 +70,11 @@
       to nearby enemies, and the amount of damage scales with the amount of Energy
       that was absorbed. If no damage is dealt before Energy drains completely or
       the ability is toggled off, you are weakened until Energy regenerates.'
+- DeniedAlternatives: []
+  Files:
+    specs/shade.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '主要攻击：发射强大的骨箭，造成巨大伤害，射程更远。'
+    Eng: 'Primary Fire: fire a powerful bone arrow that deals massive damage and travels
+      much farther.'

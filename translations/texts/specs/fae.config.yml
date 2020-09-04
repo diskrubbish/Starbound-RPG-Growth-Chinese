@@ -24,7 +24,7 @@
     specs/fae.config:
     - /ability/text
   Texts:
-    Chs: 在白日的地表，获得125％基本最大能量和-0.25s能量再生延迟的增益。站在土或草地上时，获得+25％攻击。
+    Chs: 在白日的地表，获得125%基本最大能量和-0.25s能量再生延迟的增益。站在土或草地上时，获得+25%攻击。
     Eng: 125% Base Max Energy and -0.25 Energy Regen Delay while daytime and aboveground.
       Gain +25% Power when standing on Dirt or Grass.
 - DeniedAlternatives: []
@@ -41,6 +41,23 @@
   Texts:
     Chs: 恶之华
     Eng: Chrysantha
+- DeniedAlternatives: []
+  Files:
+    specs/fae.config:
+    - /weapon/text/0
+  Texts:
+    Chs: '在着陆到有效点后按住主要攻击会将玩家拉到该点：被该点击中的敌人会短暂缠身。击败缠身的敌人可以使附近的盟友恢复生命。'
+    Eng: 'Holding Primary Fire after landing the sweetspot pulls you to that position:
+      enemies hit by the sweetspot are rooted for a brief period. Defeating rooted
+      enemies grants Health Regeneration to nearby allies.'
+- DeniedAlternatives: []
+  Files:
+    specs/fae.config:
+    - /weapon/text/1
+  Texts:
+    Chs: 如果装备了拳套武器，则在拉动后按住主要攻击来使用其终结技。
+    Eng: If a Fist Weapon is equipped, use its finisher by holding Primary Fire after
+      being pulled.
 - DeniedAlternatives: []
   Files:
     specs/fae.config:

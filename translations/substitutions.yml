@@ -1,4 +1,4 @@
-﻿affinities/arc.config:
+affinities/arc.config:
   /immunity/1/text: texts/wide_spread_fields.yml
   /immunity/2/text: texts/affinities/shared_.config.yml
   /weakness/0/text: texts/shared_.config.yml
@@ -119,6 +119,7 @@ interface/RPGskillbook/RPGskillbook.config:
   /gui/classeslayout/children/roguetitle/value: texts/wide_spread_fields.yml
   /gui/classeslayout/children/soldiertitle/value: texts/wide_spread_fields.yml
   /gui/classeslayout/children/wizardtitle/value: texts/wide_spread_fields.yml
+  /gui/lorelayout/children/changelogbutton/caption: texts/wide_spread_fields.yml
   /gui/lorelayout/children/lorebutton/caption: texts/wide_spread_fields.yml
   /gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/title/value: texts/wide_spread_fields.yml
   /gui/lorelayout/children/scrollArea/children/text/value: texts/wide_spread_fields.yml
@@ -361,10 +362,12 @@ ivrpgSpecList.config:
   /1/5/title: texts/shared_pec.yml
   /1/6/title: texts/shared_pec.yml
   /1/7/title: texts/shared_pec.yml
+  /1/8/title: texts/shared_pec.yml
   /2/1/title: texts/shared_pec.yml
   /2/2/title: texts/shared_pec.yml
   /2/3/title: texts/shared_pec.yml
   /2/4/title: texts/shared_pec.yml
+  /2/5/title: texts/shared_pec.yml
   /2/6/title: texts/shared_pec.yml
   /2/7/title: texts/shared_pec.yml
   /2/8/title: texts/shared_pec.yml
@@ -373,6 +376,7 @@ ivrpgSpecList.config:
   /3/2/title: texts/shared_pec.yml
   /3/3/title: texts/shared_pec.yml
   /3/4/title: texts/shared_pec.yml
+  /3/5/title: texts/shared_pec.yml
   /3/6/title: texts/shared_pec.yml
   /3/7/title: texts/shared_pec.yml
   /3/8/title: texts/shared_pec.yml
@@ -393,6 +397,7 @@ ivrpgSpecList.config:
   /5/5/title: texts/shared_pec.yml
   /5/6/title: texts/shared_pec.yml
   /5/7/title: texts/shared_pec.yml
+  /5/8/title: texts/shared_pec.yml
 ivrpgStats.config:
   /default/0/text: texts/wide_spread_fields.yml
 ivrpgtext.config:
@@ -463,6 +468,8 @@ ivrpgtext.config:
   /upgrades/weapon/ivrpgucsymbiosis/title: texts/wide_spread_fields.yml
   /upgrades/weapon/ivrpguctriggerhappy/title: texts/wide_spread_fields.yml
   /upgrades/weapon/ivrpgucvampirescaress/title: texts/wide_spread_fields.yml
+ivrpgversion.config:
+  /changelog/title: texts/wide_spread_fields.yml
 monsters/ivrpgElementEffects/ivrpgembrittle/ivrpgembrittle.statuseffect:
   /label: texts/wide_spread_fields.yml
 monsters/ivrpgElementEffects/ivrpgsear/ivrpgsear.statuseffect:
@@ -478,6 +485,10 @@ monsters/rpgmonsters/masteroid/large/hardenedmasteroid.monstertype:
   /shortdescription: texts/wide_spread_fields.yml
 monsters/rpgmonsters/masteroid/mid/hardenedmasteroidmid.monstertype:
   /description: texts/monsters/rpgmonsters/masteroid/shared_hardenedmasteroid.yml
+monsters/rpgmonsters/mechanist/drone/drone.monstertype:
+  /description: texts/monsters/rpgmonsters/mechanist/shared_.monstertype.yml
+monsters/rpgmonsters/mechanist/turret/turret.monstertype:
+  /description: texts/monsters/rpgmonsters/mechanist/shared_.monstertype.yml
 monsters/rpgmonsters/narfin/icenarfin.monstertype:
   /shortdescription: texts/wide_spread_fields.yml
 monsters/rpgmonsters/parasprite/parasprite.monstertype:
@@ -804,6 +815,7 @@ specs/assassin.config:
   /effects/2/text: texts/wide_spread_fields.yml
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/battlemage.config:
   /effects/0/text: texts/wide_spread_fields.yml
   /effects/1/text: texts/wide_spread_fields.yml
@@ -822,6 +834,7 @@ specs/berserker.config:
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/cannoneer.config:
   /effects/0/text: texts/wide_spread_fields.yml
   /effects/1/text: texts/wide_spread_fields.yml
@@ -858,6 +871,7 @@ specs/changeling.config:
   /tech/transformBonusText/poptop/7/text: texts/wide_spread_fields.yml
   /tech/transformBonusText/wisper/0/text: texts/shared_.config.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/wide_spread_fields.yml
   /weapon/title: texts/wide_spread_fields.yml
 specs/conquistador.config:
   /ability/text: texts/wide_spread_fields.yml
@@ -870,6 +884,7 @@ specs/conquistador.config:
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/crusader.config:
   /effects/0/text: texts/wide_spread_fields.yml
   /tech/title: texts/specs.yml
@@ -894,6 +909,12 @@ specs/dragoon.config:
   /effects/2/text: texts/wide_spread_fields.yml
   /tech/title: texts/specs.yml
   /title: texts/shared_pec.yml
+specs/fae.config:
+  /effects/0/text: texts/wide_spread_fields.yml
+  /effects/1/text: texts/wide_spread_fields.yml
+  /effects/6/text: texts/specs/shared_.config.yml
+  /tech/title: texts/specs.yml
+  /title: texts/shared_pec.yml
 specs/hunter.config:
   /effects/0/text: texts/wide_spread_fields.yml
   /effects/1/text: texts/wide_spread_fields.yml
@@ -916,15 +937,13 @@ specs/kunoichi.config:
   /tech/title: texts/specs.yml
   /title: texts/shared_pec.yml
 specs/mechanist.config:
-  /ability/text: texts/wide_spread_fields.yml
-  /classic/0/text: texts/wide_spread_fields.yml
-  /classic/1/text: texts/wide_spread_fields.yml
-  /classic/2/text: texts/wide_spread_fields.yml
   /effects/0/text: texts/wide_spread_fields.yml
   /effects/1/text: texts/wide_spread_fields.yml
   /effects/2/text: texts/wide_spread_fields.yml
   /effects/3/text: texts/wide_spread_fields.yml
-  /tech/text: texts/wide_spread_fields.yml
+  /effects/7/text: texts/specs/shared_.config.yml
+  /effects/8/text: texts/specs/shared_.config.yml
+  /tech/title: texts/specs/shared_ech.yml
   /title: texts/shared_pec.yml
 specs/mercenary.config:
   /ability/text: texts/wide_spread_fields.yml
@@ -937,12 +956,20 @@ specs/mercenary.config:
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/necromancer.config:
   /effects/0/text: texts/wide_spread_fields.yml
   /effects/1/text: texts/wide_spread_fields.yml
   /effects/3/text: texts/specs/shared_.config.yml
   /effects/5/text: texts/shared_.config.yml
   /effects/6/text: texts/specs/shared_.config.yml
+  /tech/title: texts/specs.yml
+  /title: texts/shared_pec.yml
+specs/operative.config:
+  /effects/0/text: texts/wide_spread_fields.yml
+  /effects/1/text: texts/wide_spread_fields.yml
+  /effects/2/text: texts/wide_spread_fields.yml
+  /effects/3/text: texts/wide_spread_fields.yml
   /tech/title: texts/specs.yml
   /title: texts/shared_pec.yml
 specs/paladin.config:
@@ -965,6 +992,7 @@ specs/pilot.config:
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/pioneer.config:
   /classic/0/text: texts/wide_spread_fields.yml
   /effects/0/text: texts/wide_spread_fields.yml
@@ -982,6 +1010,14 @@ specs/saboteur.config:
   /effects/2/text: texts/wide_spread_fields.yml
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
+  /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
+specs/sage.config:
+  /effects/0/text: texts/wide_spread_fields.yml
+  /effects/1/text: texts/wide_spread_fields.yml
+  /effects/2/text: texts/wide_spread_fields.yml
+  /effects/5/text: texts/specs/shared_.config.yml
+  /tech/title: texts/specs.yml
   /title: texts/shared_pec.yml
 specs/samurai.config:
   /effects/0/text: texts/specs/shared_.config.yml
@@ -1001,6 +1037,7 @@ specs/scout.config:
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/shade.config:
   /effects/0/text: texts/specs/shared_.config.yml
   /effects/1/text: texts/wide_spread_fields.yml
@@ -1036,6 +1073,8 @@ specs/techs/deadshot/idealshotstatus.statuseffect:
   /label: texts/shared_tech/shared_us.statuseffect.yml
 specs/techs/dragoon/dragonsleap.tech:
   /shortDescription: texts/specs.yml
+specs/techs/fae/nymphsblessing.tech:
+  /shortDescription: texts/specs.yml
 specs/techs/hunter/multitool.tech:
   /shortDescription: texts/specs.yml
 specs/techs/juggernaut/limitbreak.tech:
@@ -1044,12 +1083,16 @@ specs/techs/juggernaut/limitbreakstatus.statuseffect:
   /label: texts/specs.yml
 specs/techs/kunoichi/swirlingpetal.tech:
   /shortDescription: texts/specs.yml
+specs/techs/mechanist/skynet.tech:
+  /shortDescription: texts/specs/shared_ech.yml
 specs/techs/necromancer/reap.tech:
   /shortDescription: texts/specs.yml
 specs/techs/necromancer/sacrifice/bonemonster.statuseffect:
   /label: texts/specs/necromancer.yml
 specs/techs/necromancer/sacrifice/sacrifice.statuseffect:
   /label: texts/wide_spread_fields.yml
+specs/techs/operative/empsphere.tech:
+  /shortDescription: texts/specs.yml
 specs/techs/paladin/immaculateshield.tech:
   /shortDescription: texts/specs.yml
 specs/techs/paladin/immaculateshieldstatus.statuseffect:
@@ -1059,6 +1102,8 @@ specs/techs/pioneer/colonize.tech:
 specs/techs/pioneer/flag/flagpioneer.object:
   /glitchDescription/glitchEmote: texts/glitchEmotes.yml
   /glitchDescription/glitchEmotedText: texts/specs/techs/pioneer/flag/flagpioneer.object.yml
+specs/techs/sage/chrysalis.tech:
+  /shortDescription: texts/specs.yml
 specs/techs/samurai/iaijutsu.tech:
   /shortDescription: texts/specs.yml
 specs/techs/shade/quasar.tech:
@@ -1094,6 +1139,7 @@ specs/thief.config:
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/titan.config:
   /classic/0/text: texts/specs/shared_n.config.yml
   /effects/0/text: texts/wide_spread_fields.yml
@@ -1113,6 +1159,7 @@ specs/trapper.config:
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/valkyrie.config:
   /effects/0/text: texts/wide_spread_fields.yml
   /effects/1/text: texts/wide_spread_fields.yml
@@ -1133,17 +1180,6 @@ specs/vigilante.config:
   /effects/6/text: texts/shared_.config.yml
   /tech/title: texts/specs.yml
   /title: texts/shared_pec.yml
-specs/vinetender.config:
-  /ability/text: texts/wide_spread_fields.yml
-  /classic/0/text: texts/wide_spread_fields.yml
-  /classic/1/text: texts/wide_spread_fields.yml
-  /classic/2/text: texts/wide_spread_fields.yml
-  /effects/0/text: texts/wide_spread_fields.yml
-  /effects/1/text: texts/wide_spread_fields.yml
-  /effects/2/text: texts/wide_spread_fields.yml
-  /effects/3/text: texts/wide_spread_fields.yml
-  /tech/text: texts/wide_spread_fields.yml
-  /title: texts/shared_pec.yml
 specs/wanderer.config:
   /ability/text: texts/wide_spread_fields.yml
   /classic/0/text: texts/wide_spread_fields.yml
@@ -1155,6 +1191,7 @@ specs/wanderer.config:
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/warlock.config:
   /ability/text: texts/wide_spread_fields.yml
   /classic/0/text: texts/wide_spread_fields.yml
@@ -1166,6 +1203,7 @@ specs/warlock.config:
   /effects/3/text: texts/wide_spread_fields.yml
   /tech/text: texts/wide_spread_fields.yml
   /title: texts/shared_pec.yml
+  /weapon/text/0: texts/specs/shared_.config.yml
 specs/wraith.config:
   /effects/0/text: texts/wide_spread_fields.yml
   /effects/1/text: texts/wide_spread_fields.yml
