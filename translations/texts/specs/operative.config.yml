@@ -32,7 +32,7 @@
     specs/operative.config:
     - /weapon/text/1
   Texts:
-    Chs: '次要攻击：持续发射会聚在奇点的短距离等离子束。'
+    Chs: 次要攻击：持续发射会聚在奇点的短距离等离子束。
     Eng: 'Alt Fire: hold to continuously fire short-range plasma beams that converge
       at a singular point.'
 - DeniedAlternatives: []
@@ -74,7 +74,7 @@
     specs/operative.config:
     - /weapon/text/2
   Texts:
-    Chs: '被动：无息会再生能量并防止其被锁定。 击中感电或超载的敌人会返回能量。'
+    Chs: 被动：无息会再生能量并防止其被锁定。 击中感电或超载的敌人会返回能量。
     Eng: 'Passive: Breathless regenerates Energy and prevents it from locking. Hitting
       Electrified or Overloaded enemies returns Energy.'
 - DeniedAlternatives: []
@@ -84,7 +84,7 @@
   Texts:
     Chs: '主火：发射大口径子弹。
 
-    蹲伏时精度会提高。'
+      蹲伏时精度会提高。'
     Eng: 'Primary Fire: fire a high-caliber bullet.
 
       Accuracy increases when crouching.'

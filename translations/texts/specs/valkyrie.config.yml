@@ -53,7 +53,7 @@
     specs/valkyrie.config:
     - /weapon/text/2
   Texts:
-    Chs: "被动：被永恒圣枪击败后标记的的敌人会爆炸，并向附近的盟友提供生命恢复和133%魔杖和法杖的攻击加成。"
+    Chs: 被动：被永恒圣枪击败后标记的的敌人会爆炸，并向附近的盟友提供生命恢复和133%魔杖和法杖的攻击加成。
     Eng: 'Passive: Enemies marked then defeated by Gungnir burst and grant Health
       Regeneration and 133% Power with Wands and Staves to nearby allies.'
 - DeniedAlternatives: []
@@ -72,7 +72,7 @@
     specs/valkyrie.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：一次三击的连击，以爆炸结束，造成审判。'
+    Chs: 主要攻击：一次三击的连击，以爆炸结束，造成审判。
     Eng: 'Primary Fire: A three-hit combo that ends with an explosion that causes
       Judgement.'
 - DeniedAlternatives: []
@@ -80,6 +80,6 @@
     specs/valkyrie.config:
     - /weapon/text/1
   Texts:
-    Chs: '次要攻击：掷出一枚以圣光标记敌人的武器。充能时间增长会增加跟踪能力并导致永恒圣枪弹跳。'
+    Chs: 次要攻击：掷出一枚以圣光标记敌人的武器。充能时间增长会增加跟踪能力并导致永恒圣枪弹跳。
     Eng: 'Secondary Fire: Charge a throw that marks enemies with Holy Light. Charging
       longer adds tracking and causes Gungnir to bounce.'

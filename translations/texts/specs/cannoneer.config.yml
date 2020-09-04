@@ -65,8 +65,7 @@
     specs/cannoneer.config:
     - /weapon/text/0
   Texts:
-    Chs: '突发：发射五枚榴弹。榴弹漂浮在适当的位置，但在与敌人碰撞时引爆。
-    每颗榴弹造成不同的状态。分别为剧毒，冰毒，电击，迷惑和流血。
+    Chs: '突发：发射五枚榴弹。榴弹漂浮在适当的位置，但在与敌人碰撞时引爆。 每颗榴弹造成不同的状态。分别为剧毒，冰毒，电击，迷惑和流血。
 
       ^red;能量降低时，伤害减少！'
     Eng: 'Outburst: Fires five grenades. Grenades float in place, but detonate on
@@ -79,6 +78,6 @@
     specs/cannoneer.config:
     - /weapon/text/1
   Texts:
-    Chs: '暴风之啸：具有扩展范围的弓形弹道，后接定向刺击。攻击导致脆化。'
+    Chs: 暴风之啸：具有扩展范围的弓形弹道，后接定向刺击。攻击导致脆化。
     Eng: 'Stormhowl: An arching slash with extended ranged followed by a directional
       stab. Causes Embrittle.'

@@ -24,7 +24,7 @@
     specs/shade.config:
     - /weapon/text/1
   Texts:
-    Chs: '次要攻击：发射一道释放粘性屏蔽气体的地雷 站在这种气体中会进入伪装，但也会降低攻击倍乘并阻止能量再生。'
+    Chs: 次要攻击：发射一道释放粘性屏蔽气体的地雷 站在这种气体中会进入伪装，但也会降低攻击倍乘并阻止能量再生。
     Eng: 'Alt Fire: fire a mine that pumps out a viscous blackout gas. Standing in
       this gas grants camouflage, but also decreases Power Multiplier and prevents
       Energy Regen.'
@@ -55,7 +55,7 @@
     specs/shade.config:
     - /weapon/text/2
   Texts:
-    Chs: '被动：完美释放会让箭头和屏蔽气体造成牺牲状态。'
+    Chs: 被动：完美释放会让箭头和屏蔽气体造成牺牲状态。
     Eng: 'Passive: Perfect Release causes both arrows and blackout gas to cause Sacrifice
       Status.'
 - DeniedAlternatives: []
@@ -75,6 +75,6 @@
     specs/shade.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：发射强大的骨箭，造成巨大伤害，射程更远。'
+    Chs: 主要攻击：发射强大的骨箭，造成巨大伤害，射程更远。
     Eng: 'Primary Fire: fire a powerful bone arrow that deals massive damage and travels
       much farther.'

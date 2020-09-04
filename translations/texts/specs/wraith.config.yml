@@ -38,7 +38,7 @@
     specs/wraith.config:
     - /weapon/text/1
   Texts:
-    Chs: '连击终结技：使用能量削向您的瞄准方向。造成诅咒状态，使敌人受到随机疾病的折磨，例如无法移动或失去生命的Debuff。'
+    Chs: 连击终结技：使用能量削向您的瞄准方向。造成诅咒状态，使敌人受到随机疾病的折磨，例如无法移动或失去生命的Debuff。
     Eng: 'Combo Finisher: uses Energy to slash towards your aiming direction. Causes
       the ''Cursed'' status, which afflicts enemies with random ailments, like the
       inability to move or a health debuff.'
@@ -62,7 +62,7 @@
     specs/wraith.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：造成最小恶魔伤害的短距离刺击。'
+    Chs: 主要攻击：造成最小恶魔伤害的短距离刺击。
     Eng: 'Primary Fire: a short stab that does minimal Demonic Damage.'
 - DeniedAlternatives: []
   Files:

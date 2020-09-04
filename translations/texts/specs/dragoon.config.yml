@@ -93,7 +93,7 @@
     specs/dragoon.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：比普通矛更远的刺击，击中造成枯萎。按住射出火焰。'
+    Chs: 主要攻击：比普通矛更远的刺击，击中造成枯萎。按住射出火焰。
     Eng: 'Primary Fire: A stab with more range than normal Spears that Sears whatever
       it hits. Hold to shoot flames.'
 - DeniedAlternatives: []
@@ -101,7 +101,7 @@
     specs/dragoon.config:
     - /weapon/text/1
   Texts:
-    Chs: '次要攻击：按住充能，进行高伤害的冲锋。释放冲刺时会隐藏在闪电中，获得高额的免伤。闪电沿着你的步伐前进。'
+    Chs: 次要攻击：按住充能，进行高伤害的冲锋。释放冲刺时会隐藏在闪电中，获得高额的免伤。闪电沿着你的步伐前进。
     Eng: 'Secondary Fire: Hold to charge a high-damage lunge. Release to lunge while
       cloaked in lightning, greatly protecting you from damage. Lightning follows
       your lunging path.'

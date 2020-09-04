@@ -53,7 +53,7 @@
     specs/adept.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：按住以创建一个坍塌点，向附近的敌人发射挥发性物质。 坍塌也可以瞄准盟友，并且可以提供短暂的无敌和能量回复。 蓄力时间越长，坍塌持续的时间越长。'
+    Chs: 主要攻击：按住以创建一个坍塌点，向附近的敌人发射挥发性物质。 坍塌也可以瞄准盟友，并且可以提供短暂的无敌和能量回复。 蓄力时间越长，坍塌持续的时间越长。
     Eng: 'Primary Fire: Hold to create a point of collapse that shoots volatile matter
       at nearby enemies. The collapse can also target allies, and provided short invulnerability
       and energy regen when it does. The longer fire is held, the longer the collapse

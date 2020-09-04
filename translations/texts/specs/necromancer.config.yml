@@ -54,7 +54,7 @@
     specs/necromancer.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：巨大的弧形斜线斩击，造成恶魔伤害并造成流血。'
+    Chs: 主要攻击：巨大的弧形斜线斩击，造成恶魔伤害并造成流血。
     Eng: 'Primary Fire: A large arching slash that deals Demonic Damage and causes
       Bleed.'
 - DeniedAlternatives: []
@@ -62,7 +62,7 @@
     specs/necromancer.config:
     - /weapon/text/1
   Texts:
-    Chs: '次要攻击：按住充能，释放以爆发出恶魔能量。蓄力时间越长，释放的恶魔能量就越多越强。'
+    Chs: 次要攻击：按住充能，释放以爆发出恶魔能量。蓄力时间越长，释放的恶魔能量就越多越强。
     Eng: 'Secondary Fire: Hold to charge, and release to release Demonic Energy. The
       longer you hold the more Demonic Energy is released.'
 - DeniedAlternatives: []

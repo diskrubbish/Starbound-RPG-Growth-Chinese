@@ -1,105 +1,100 @@
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /ability/text
+    - /ability/text
   Texts:
     Chs: 在夜间或在地下时+10%的出血几率和0.5秒的出血时间。
     Eng: +10% Bleed Chance and 0.5s Bleed Length during Nighttime or while Underground.
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /passive/1/text
+    - /passive/1/text
   Texts:
     Chs: -10%坠落伤害。
     Eng: -10% Fall Damage.
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /passive/0/text
+    - /passive/0/text
   Texts:
     Chs: 110%的速度和跳跃高度。
     Eng: 110% Speed and Jump Height.
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /weaponBonuses/0/text
+    - /weaponBonuses/0/text
   Texts:
     Chs: 使用匕首、刀子、苦无、星镖或手里剑时基础伤害提高至115%。
     Eng: 115% Base Power while using Throwing Daggers, Knives, Kunai, Stars, or Shurikens.
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /weaponBonuses/1/text
+    - /weaponBonuses/1/text
   Texts:
     Chs: 使用武士刀、环刃、匕首或鞭子时基础伤害提高至120%。
     Eng: 120% Base Power while using Tantōs, Chakrams, Daggers, or Whips.
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /techs/3/text
+    - /techs/3/text
   Texts:
     Chs: 闪烁跳跃的升级版。在跳跃过程中靠近墙壁可以紧贴墙壁，之后你就能再次跳跃。按住[S]可向下滑动。按住[空格键]再次跳跃。离开墙后技能结束。
-    Eng:
-      An upgrade to Flash Jump. Cling to walls by moving against them during a
+    Eng: An upgrade to Flash Jump. Cling to walls by moving against them during a
       jump, and refresh your jumps upon doing so. Press [S] to slide down while clinging.
       Press [Space] while clinging or sliding to jump. Move away from the wall to
       get off.
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /classic/1/text
+    - /classic/1/text
   Texts:
-    Chs: "可以使用狩猎弓和
+    Chs: '可以使用狩猎弓和
 
-      破损的守护者之剑"
-    Eng: "Can use Hunting Bows and the
+      破损的守护者之剑'
+    Eng: 'Can use Hunting Bows and the
 
-      Broken Protectorate Broadsword."
+      Broken Protectorate Broadsword.'
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /classic/2/text
+    - /classic/2/text
   Texts:
-    Chs: "可以使用可改装的十字弓，
+    Chs: '可以使用可改装的十字弓，
 
-      能量鞭和所有武士刀"
-    Eng: "Can use the Adaptable Crossbow,
+      能量鞭和所有武士刀'
+    Eng: 'Can use the Adaptable Crossbow,
 
-      Energy Whips, and all Katanas"
+      Energy Whips, and all Katanas'
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /classic/0/text
+    - /classic/0/text
   Texts:
-    Chs: "不能使用双手武器。
+    Chs: '不能使用双手武器。
 
       不能使用远程武器。
 
-      不能使用魔法武器"
-    Eng:
-      "Cannot use Two-Handed Weapons.\nCannot use Ranged Weapons.\n Cannot use\
+      不能使用魔法武器'
+    Eng: "Cannot use Two-Handed Weapons.\nCannot use Ranged Weapons.\n Cannot use\
       \ Magic Weapons."
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /techs/1/text
+    - /techs/1/text
   Texts:
     Chs: 按[F]变成一个无敌的荆刺球。启动时能量消耗很快。当你能量耗尽或在转化过程中按[F]键时，无敌就结束了。与其他荆刺球不同，消失球的速度取决于敏捷值。
-    Eng:
-      Press [F] to morph into an invulnerable spike ball. Energy drains quickly
+    Eng: Press [F] to morph into an invulnerable spike ball. Energy drains quickly
       while active. The invulnerability ends when you run out of energy or press [F]
       while transformed. Unlike other Spike Spheres, Vanish Sphere's speed scales
       with Aglity.
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /techs/2/text
+    - /techs/2/text
   Texts:
-    Chs:
-      按[G]（在按键设置中绑定[G]）以消失。2秒钟后，你将出现在光标处（如果能到达）。如果拿着锋利的武器，在出现时会发出一次砍击。在冷却过程中，失去20%的物理抵抗。能量消耗取决于距离和敏捷值。副本期间(和在你的飞船)
+    Chs: 按[G]（在按键设置中绑定[G]）以消失。2秒钟后，你将出现在光标处（如果能到达）。如果拿着锋利的武器，在出现时会发出一次砍击。在冷却过程中，失去20%的物理抵抗。能量消耗取决于距离和敏捷值。副本期间(和在你的飞船)
       ，影踏的分身会使用寻路来确定是否可能的心灵传输路线！
-    Eng:
-      Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear
+    Eng: Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear
       at your cursor (if possible). If holding a sharp weapon, slash where you appear.
       During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance
       and Agility. During Missions (and in your ship), Shadow Step uses pathfinding
@@ -107,22 +102,20 @@
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /techs/0/text
+    - /techs/0/text
   Texts:
     Chs: 在半空中按[空格]键闪烁跳跃：在跳跃后的短时间内，获得伪装和无敌。只要你不使用其他的移动技能——并且在着陆前保持能量——你就不会受到跌落伤害。按住左键或右键朝指定方向爆踏。你可以在半空中使用两次这个技能。
-    Eng:
-      "Press [Space] while midair to Flash Jump: for a short time after jumping,
-      gain Camouflage and Invulnerability. As long as you don't use other movement
+    Eng: 'Press [Space] while midair to Flash Jump: for a short time after jumping,
+      gain Camouflage and Invulnerability. As long as you don''t use other movement
       abilities -- and have Energy remaining before you land -- you will not take
       Fall Damage. Hold Left or Right to burst in that direction instead of jumping
-      up. You may Flash Jump twice while midair."
+      up. You may Flash Jump twice while midair.'
 - DeniedAlternatives: []
   Files:
     classes/ninja.config:
-      - /weapon/text/0
+    - /weapon/text/0
   Texts:
     Chs: 以太是一把刃出血流的天拓。暗影以太的最后一击会生成能量苦无。当你击中敌人时，鲜血以太会增加攻击，并且会消耗更多能量来使苦无穿过墙壁！
-    Eng:
-      The Aether is a tantō that always causes Bleed. Shadow Aether's final swing
+    Eng: The Aether is a tantō that always causes Bleed. Shadow Aether's final swing
       forms an energy kunai. Blood Aether increases Power as you hit enemies, and
       uses more energy to make the kunai phase through walls!

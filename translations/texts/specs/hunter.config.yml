@@ -39,7 +39,7 @@
     specs/hunter.config:
     - /weapon/text/1
   Texts:
-    Chs: '死堕射击：长射程，低伤害，50点能量。造成束缚。被束缚的敌人减速并受到伤害。'
+    Chs: 死堕射击：长射程，低伤害，50点能量。造成束缚。被束缚的敌人减速并受到伤害。
     Eng: 'Deadfall: Long Draw, Low Damage, 50 Energy. Tethers. Tethered foes slow
       and share damage.'
 - DeniedAlternatives: []
@@ -61,14 +61,14 @@
     specs/hunter.config:
     - /weapon/text/0
   Texts:
-    Chs: '迈达：30能量。发射强大的箭矢。'
+    Chs: 迈达：30能量。发射强大的箭矢。
     Eng: 'Mida: 30 Energy. Fires powerful arrows.'
 - DeniedAlternatives: []
   Files:
     specs/hunter.config:
     - /weapon/text/4
   Texts:
-    Chs: '被动：完美释放降低一半能量消耗。'
+    Chs: 被动：完美释放降低一半能量消耗。
     Eng: 'Passive: Perfect Release halves Energy Cost.'
 - DeniedAlternatives: []
   Files:
@@ -96,8 +96,7 @@
     specs/hunter.config:
     - /weapon/text/2
   Texts:
-    Chs: '脉冲射击：中等射程，中等伤害，40点能量。发射三支震撼箭头。
-        激活时爆裂。'
+    Chs: 脉冲射击：中等射程，中等伤害，40点能量。发射三支震撼箭头。 激活时爆裂。
     Eng: 'Pulsar: Medium Draw, Medium Damage, 40 Energy. Fires three shocking arrows.
       Bursts on activation.'
 - DeniedAlternatives: []
@@ -105,6 +104,6 @@
     specs/hunter.config:
     - /weapon/text/3
   Texts:
-    Chs: '灼日射击：短射程，高伤害，20点能量。穿透。杀敌会引起爆炸并返还能量。'
+    Chs: 灼日射击：短射程，高伤害，20点能量。穿透。杀敌会引起爆炸并返还能量。
     Eng: 'Sunshot: Short Draw, High Damage, 20 Energy. Pierces. Kills cause explosions
       and refund Energy.'

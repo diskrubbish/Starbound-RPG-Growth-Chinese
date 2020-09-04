@@ -42,7 +42,8 @@
     specs/titan.config:
     - /weapon/text/1
   Texts:
-    Chs: '被动：使用此武器杀死敌人后，最大生命值提高2.5％，持续20秒，最高生命值最高提高至120％。装备此武器时的完美格挡可以使最大能量提高3％，持续10秒，最高可达130％。 换下厄庇墨透斯时，这些效果会消失。'
+    Chs: 被动：使用此武器杀死敌人后，最大生命值提高2.5％，持续20秒，最高生命值最高提高至120％。装备此武器时的完美格挡可以使最大能量提高3％，持续10秒，最高可达130％。
+      换下厄庇墨透斯时，这些效果会消失。
     Eng: 'Passive: Getting kills with this weapon increases Max Health by 2.5% for
       20 seconds, up to 120% Max Health. Perfect Shielding while this weapon is equipped
       increases Max Energy by 3% for 10 seconds, up to 130% Max Energy. These effects
@@ -64,5 +65,5 @@
     specs/titan.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：以平均射击速度和准确度射击子弹。'
+    Chs: 主要攻击：以平均射击速度和准确度射击子弹。
     Eng: 'Primary Fire: Hold to fire bullets with an average rate of fire and accuracy.'

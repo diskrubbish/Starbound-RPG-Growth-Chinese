@@ -33,7 +33,7 @@
     specs/sage.config:
     - /weapon/text/2
   Texts:
-    Chs: '被动：在每次攻击之前按住Shift，在物理，火，冰，电和新星之间改变喜悦的元素。'
+    Chs: 被动：在每次攻击之前按住Shift，在物理，火，冰，电和新星之间改变喜悦的元素。
     Eng: 'Passive: holding shift before each attack changes Rapture''s element between
       Physical, Fire, Ice, Electric, and Nova.'
 - DeniedAlternatives: []
@@ -56,7 +56,7 @@
     specs/sage.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：一连串的攻击。'
+    Chs: 主要攻击：一连串的攻击。
     Eng: 'Primary Fire: A flurry of attacks.'
 - DeniedAlternatives: []
   Files:
@@ -70,6 +70,6 @@
     specs/sage.config:
     - /weapon/text/1
   Texts:
-    Chs: '次要攻击：充满法杖深处的能量，以释放以神圣伤害消灭敌人的光束。'
+    Chs: 次要攻击：充满法杖深处的能量，以释放以神圣伤害消灭敌人的光束。
     Eng: 'Secondary Fire: Charge up the energy deep within the staff to call down
       beams of light that scorch enemies with Holy Damage.'

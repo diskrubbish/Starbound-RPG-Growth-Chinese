@@ -37,7 +37,7 @@
     specs/pioneer.config:
     - /weapon/text/1
   Texts:
-    Chs: '被动：鹦鹉螺在持有时会大大提高攻击和火系抗性，并且其气泡会消除状态和环境伤害'
+    Chs: 被动：鹦鹉螺在持有时会大大提高攻击和火系抗性，并且其气泡会消除状态和环境伤害。
     Eng: 'Passive: Nautilus greatly increases Power and Fire Resistance while held,
       and its bubble nullifies status and environmental damage.'
 - DeniedAlternatives: []
@@ -54,7 +54,7 @@
     specs/pioneer.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：将自己包围在气泡中，使气泡能够穿过液体，增加跳跃高度并降低重力。气泡的耐久等于玩家的最大HP。在液体中时，按[Shift]下降。'
+    Chs: 主要攻击：将自己包围在气泡中，使气泡能够穿过液体，增加跳跃高度并降低重力。气泡的耐久等于玩家的最大HP。在液体中时，按[Shift]下降。
     Eng: 'Primary Fire: Surrounds you in a bubble that eases traversal through liquids,
       increases Jump Height, and decreases Gravity. The bubble''s health is your Max
       Health. Press [Shift] to descend while in liquid.'

@@ -62,7 +62,7 @@
     specs/battlemage.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：横扫连击穿插着快速刺击。'
+    Chs: 主要攻击：横扫连击穿插着快速刺击。
     Eng: 'Primary Fire: a wide sweeping combo interspersed with quick stabs.'
 - DeniedAlternatives: []
   Files:

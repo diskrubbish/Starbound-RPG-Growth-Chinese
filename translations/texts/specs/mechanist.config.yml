@@ -45,7 +45,7 @@
     specs/mechanist.config:
     - /weapon/text/0
   Texts:
-    Chs: '机械降神：单手火箭发射器。发射一枚在敌人附近爆炸的火箭。爆炸时，会留下一小部分电弧能量，伤害附近的敌人。'
+    Chs: 机械降神：单手火箭发射器。发射一枚在敌人附近爆炸的火箭。爆炸时，会留下一小部分电弧能量，伤害附近的敌人。
     Eng: 'Ex Mechina: a One-Handed Rocket Launcher. Fires a rocket that explodes near
       enemies. Upon exploding, a small sphere of arc energy is left behind that hurts
       nearby enemies.'
@@ -76,6 +76,6 @@
     specs/mechanist.config:
     - /weapon/text/1
   Texts:
-    Chs: '扳手：单手扳手。用这把武器击败敌对机器人会使其变得友善。'
+    Chs: 扳手：单手扳手。用这把武器击败敌对机器人会使其变得友善。
     Eng: 'Wrench: a One-Handed Wrench. Defeating robotic enemies with this weapon
       makes them friendly.'

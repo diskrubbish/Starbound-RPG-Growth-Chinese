@@ -74,7 +74,7 @@
     specs/vanguard.config:
     - /weapon/text/1
   Texts:
-    Chs: '被动：离敌人越近，射速越高。随着时间的推移，使用这种武器杀死敌人会减少一小部分的HP和能量。当您的生命值低于30％时，该武器会向您发出警告，并在接近敌人或接近生命值较低时改变颜色。'
+    Chs: 被动：离敌人越近，射速越高。随着时间的推移，使用这种武器杀死敌人会减少一小部分的HP和能量。当您的生命值低于30％时，该武器会向您发出警告，并在接近敌人或接近生命值较低时改变颜色。
     Eng: 'Passive: Rate of fire increases the closer you are to enemies. Getting a
       kill with this weapon gives back a small percentage of Health and Energy over
       time. This weapon warns you when your Health goes below 30% and changes color
@@ -96,5 +96,5 @@
     specs/vanguard.config:
     - /weapon/text/0
   Texts:
-    Chs: '主要攻击：按住以快速射击子弹，但准确性极差。'
+    Chs: 主要攻击：按住以快速射击子弹，但准确性极差。
     Eng: 'Primary Fire: Hold to quickly fire bullets but with terrible accuracy.'
