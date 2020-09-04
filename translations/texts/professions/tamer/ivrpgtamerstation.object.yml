@@ -3,6 +3,7 @@
     professions/tamer/ivrpgtamerstation.object:
     - /glitchDescription/glitchEmotedText
   Texts:
+    Chs: 即使这张桌子看起来很吸引人，它也可以容纳大多数怪物。
     Eng: Even though this table looks uninviting, it is able to accomodate for most
       monsters.
 - DeniedAlternatives: []

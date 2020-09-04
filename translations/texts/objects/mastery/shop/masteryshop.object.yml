@@ -26,6 +26,7 @@
     objects/mastery/shop/masteryshop.object:
     - /glitchDescription/glitchEmotedText
   Texts:
+    Chs: 猛的踢一脚，这张桌子可能会炸掉。
     Eng: One swift kick and this table might implode.
 - DeniedAlternatives: []
   Files:

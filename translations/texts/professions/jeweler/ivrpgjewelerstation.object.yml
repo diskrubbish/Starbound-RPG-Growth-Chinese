@@ -49,6 +49,7 @@
     professions/jeweler/ivrpgjewelerstation.object:
     - /glitchDescription/glitchEmotedText
   Texts:
+    Chs: 展出的珠宝具有特别令人印象深刻的硬度。最好不要抓挠。
     Eng: The jewels on display have a particularly impressive hardness. Best not get
       scratched.
 - DeniedAlternatives: []

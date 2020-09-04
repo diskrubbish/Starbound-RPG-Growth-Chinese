@@ -24,6 +24,7 @@
     professions/jeweler/extractor/extractor.object:
     - /glitchDescription/glitchEmotedText
   Texts:
+    Chs: 这只是张暂时存放珠宝的板子。
     Eng: It's just a board to temporarily hold jewelry.
 - DeniedAlternatives: []
   Files:

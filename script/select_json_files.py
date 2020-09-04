@@ -26,6 +26,7 @@ import os
 import os.path
 import json
 import re
+import yaml
 
 class Handler:
     # 默认的Texts路径
@@ -36,7 +37,7 @@ class Handler:
     not_translated_json_list = []
 
     # 匹配未翻译文本的字符串
-    patten = r'"Texts":\s*{\n\s*"Eng":'
+    patten = r'Texts:\s*\n\s*Eng:'
     # 对应的Patten对象
     pat = None
     
@@ -49,8 +50,8 @@ class Handler:
         """遍历扫描指定的目录"""
         for root,dirnames,filenames in os.walk(self.texts_path):
             for filename in filenames:
-                #如果是JSON文件
-                if str(filename).lower().endswith(".json"):
+                #如果是YML文件
+                if str(filename).lower().endswith(".yml"):
                     fullpath = os.path.join(root,filename)
                     self._handle_doc(fullpath)
                     
@@ -110,7 +111,10 @@ class Handler:
                 if str(filename).lower().endswith((".json",".patch")):
                     with open(os.path.join(root, filename), 'r', encoding='utf-8') as f:
                         try:
-                            json.load(f)
+                            if str(filename).lower().endswith((".patch")):
+                                json.load(f)
+                            elif  str(filename).lower().endswith((".yml")):
+                                yaml.safe_load(f)
                         except ValueError as e:
                             if flag: flag = False 
                             print('错误：' + os.path.join(root, filename) + '\t错误信息：' + str(e))

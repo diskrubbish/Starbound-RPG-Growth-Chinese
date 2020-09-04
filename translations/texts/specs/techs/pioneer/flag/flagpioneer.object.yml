@@ -10,6 +10,7 @@
     specs/techs/pioneer/flag/flagpioneer.object:
     - /glitchDescription/glitchEmotedText
   Texts:
+    Chs: 附在此先锋标志上的一个小型定位器模块使它可以被加书签以进行传送。
     Eng: A small locator module attached to this Pioneer flag allows it to be bookmarked
       for teleportation.
 - DeniedAlternatives: []

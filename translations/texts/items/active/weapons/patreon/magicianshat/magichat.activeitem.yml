@@ -1,6 +1,7 @@
 - DeniedAlternatives: []
   Files:
     items/active/weapons/patreon/magicianshat/magichat.activeitem:
-    - /shortdescription
+      - /shortdescription
   Texts:
+    Chs: "帽中“坚牢”"
     Eng: '"Caine" in a Hat'

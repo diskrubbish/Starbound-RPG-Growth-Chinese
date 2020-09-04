@@ -99,6 +99,7 @@
     specs/techs/operative/empsphere.tech:
     - /shortDescription
   Texts:
+    Chs: EMP球
     Eng: EMP Sphere
 - DeniedAlternatives: []
   Files:
@@ -176,6 +177,7 @@
     specs/techs/fae/nymphsblessing.tech:
     - /shortDescription
   Texts:
+    Chs: 若虫的祝福
     Eng: Nymph's Blessing
 - DeniedAlternatives: []
   Files:

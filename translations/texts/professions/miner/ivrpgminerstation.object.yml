@@ -54,6 +54,7 @@
     professions/miner/ivrpgminerstation.object:
     - /glitchDescription/glitchEmotedText
   Texts:
+    Chs: 这张桌子似乎和我很相似。也许这是一个久违的亲戚。
     Eng: This table seems to be quite similar to me. Perhaps it is a long lost relative.
 - DeniedAlternatives: []
   Files:

@@ -45,6 +45,7 @@
     professions/alchemist/ivrpgalchemiststation.object:
     - /glitchDescription/glitchEmotedText
   Texts:
+    Chs: 这里有许多腐蚀性液体可能会使我的电路融化。
     Eng: There are many caustic liquids here that could melt my circuits.
 - DeniedAlternatives: []
   Files:

@@ -45,6 +45,7 @@
     professions/smith/ivrpgsmithstation.object:
     - /glitchDescription/glitchEmotedText
   Texts:
+    Chs: 这个铁砧能让我升级武器。 我想知道我是否可以升级自己。
     Eng: This anvil will let me upgrade my weapons. I wonder if I can upgrade myself.
 - DeniedAlternatives: []
   Files:

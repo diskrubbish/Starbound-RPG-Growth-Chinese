@@ -10,6 +10,7 @@
     professions/medic/ivrpgmedicstation.object:
     - /glitchDescription/glitchEmotedText
   Texts:
+    Chs: 尽管我是机械，但我仍然可以以某种方式使用这张桌子上的绷带。
     Eng: Despite being mechanical, I can somehow still use the bandages from this
       table.
 - DeniedAlternatives: []
