@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/shade/quasar.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "影客专有",
+      "Eng": "Shade Only"
+    }
+  }
+]

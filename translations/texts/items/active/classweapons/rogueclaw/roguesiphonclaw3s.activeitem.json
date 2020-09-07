@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw3s.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "寒芒如常...",
+      "Eng": "Sharper still..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/rogueclaw/roguesiphonclaw3s.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^red;虹吸爪·剃刀",
+      "Eng": "^red;Siphon Razor"
+    }
+  }
+]

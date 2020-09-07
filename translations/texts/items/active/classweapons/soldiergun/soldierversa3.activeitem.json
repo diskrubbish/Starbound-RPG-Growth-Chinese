@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/soldiergun/soldierversa3.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "有时候你也需要杀死身后的敌人。",
+      "Eng": "Sometimes you need to kill enemies behind you, too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/soldiergun/soldierversa3.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^orange;弹幕反抗者",
+      "Eng": "^orange;Versa Ricochet"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucbloodseeker.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "诡计",
+      "Eng": "Subterfuge"
+    }
+  }
+]

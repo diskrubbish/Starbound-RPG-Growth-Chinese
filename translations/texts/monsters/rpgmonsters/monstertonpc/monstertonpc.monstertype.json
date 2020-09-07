@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/rpgmonsters/monstertonpc/monstertonpc.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "模仿者(RPG)",
+      "Eng": "Mimic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/rpgmonsters/monstertonpc/monstertonpc.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "生成一个可变参数的NPC。",
+      "Eng": "Spawns an NPC with variable parameters."
+    }
+  }
+]

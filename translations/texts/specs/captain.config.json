@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "附近友军+15护甲",
+      "Eng": "+15 Armor to nearby allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用单手武器时，其基础攻击力增加至115%。",
+      "Eng": "115% Base Power with One-Handed Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/effects/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "附近友军获得25%的攻击增幅。",
+      "Eng": "125% Power Multiplier to nearby allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "孤军作战时，耐力和敏捷会降低。\n靠近队友时，活力和体质增加。",
+      "Eng": "Endurance and Agility Scaling decrease when alone.\nVigor and Vitality Scaling increase when near allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[F]来改变立场，让附近的盟友得到不同增幅。\n没有立场：无事发生。\n威力立场：+25%攻击，但是-15护甲。\n防御立场：+15护甲但是只有75%的速度和跳跃高度。\n速度立场：+25%的速度和跳跃高度，但-25%的攻击。",
+      "Eng": "Press [F] to change stances, making nearby allies behave differently.\nNo Stance: No Change.\nPower Stance: 125% Power Multplier but -15 Armor.\nArmor Stance: +15 Armor but 75% Speed and Jump Height.\nSpeed Stance: 125% Speed and Jump Height but 75% Power Multiplier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "主要攻击：按住挥动，召集附近的盟友参加战斗。挥动时，能量会迅速消耗掉，但对自身和盟友皆有增益。",
+      "Eng": "Primary Fire: Hold to wave, rallying nearby allies into battle. While holding, energy drains quickly, but various benefits are applied to both you and your allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/captain.config": [
+        "/weapon/text/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "举旗期间：获得轻微的生命恢复。附近的盟友获得150%的攻击增幅，+25%所有伤害类型抗性以及轻微的能量回复。",
+      "Eng": "While Held: Gain slight Health Regeneration. Nearby allies gain 150% Power Multiplier, +25% Resistance to all damage types, and slight Energy Regeneration."
+    }
+  }
+]

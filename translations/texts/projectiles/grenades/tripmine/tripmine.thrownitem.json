@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/tripmine/tripmine.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "激光绊雷",
+      "Eng": "Tripmine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/tripmine/tripmine.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "小心脚下。",
+      "Eng": "Watch your step."
+    }
+  }
+]

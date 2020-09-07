@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/operative/guerrillatactics.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "游击战术",
+      "Eng": "Guerilla Tactics"
+    }
+  }
+]

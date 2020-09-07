@@ -1,8 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    objects/experience/currentlevel.currency:
-    - /description
-    - /shortdescription
-  Texts:
-    Chs: 等级。
-    Eng: Levels.

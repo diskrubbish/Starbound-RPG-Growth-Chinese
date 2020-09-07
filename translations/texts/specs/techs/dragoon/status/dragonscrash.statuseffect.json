@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/dragoon/status/dragonscrash.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "龙裔冲撞",
+      "Eng": "Dragon's Crash"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardgravitysphere/wizardlowgrav.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "低重力",
+      "Eng": "Low Grav"
+    }
+  }
+]

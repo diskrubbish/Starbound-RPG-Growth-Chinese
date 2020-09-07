@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    items/active/specweapons/fae/rooted/rooted.animation:
-    - /particleEmitters/statustext/particles/0/particle/text
-  Texts:
-    Chs: 扎根！
-    Eng: Rooted!

@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    items/active/weapons/melee/broadsword/ivrpgferoziumkatana.activeitem:
-    - /shortdescription
-  Texts:
-    Chs: ^#77acc3;星刻之刃^white;
-    Eng: ^#77acc3;Star-Carve Blade^white;

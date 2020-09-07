@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/soldiertech/soldiermre/soldiermre.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "恰军粮冷却",
+      "Eng": "MRE Cooldown"
+    }
+  }
+]

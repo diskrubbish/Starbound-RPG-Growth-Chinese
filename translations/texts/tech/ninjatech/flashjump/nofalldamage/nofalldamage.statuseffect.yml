@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    tech/ninjatech/flashjump/nofalldamage/nofalldamage.statuseffect:
-    - /label
-  Texts:
-    Chs: 闪烁跳跃安全落地
-    Eng: Flash Jump Safe Fall

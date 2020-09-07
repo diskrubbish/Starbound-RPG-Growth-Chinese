@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/venom.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "造成伤害时+10%几率使敌人染毒。染毒的敌人-25%最大生命，并在染毒期间中毒掉血。",
+      "Eng": "+10% chance to Toxify enemies when dealing damage. Toxified enemies have -25% Max Health and are Poisoned for the duration of Toxify."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/venom.config": [
+        "/immunity/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "中毒",
+      "Eng": "Poison Status"
+    }
+  }
+]

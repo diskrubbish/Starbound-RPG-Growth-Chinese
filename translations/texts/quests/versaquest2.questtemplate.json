@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/versaquest2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs": "你现在更加精准了！我已经升级了你的反抗者。你现在也可以在升级的铁砧上制造铭刻反抗者了。",
+      "Eng": "You're a lot more accurate now! I have upgraded your Versa. You will now also be able to build Versa Impact in an upgraded anvil."
+    }
+  }
+]

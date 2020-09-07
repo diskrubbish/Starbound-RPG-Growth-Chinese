@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/saboteur.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "沙林",
+      "Eng": "Sarin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/saboteur.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "榴霰弹地雷",
+      "Eng": "Shrapnel Mine"
+    }
+  }
+]

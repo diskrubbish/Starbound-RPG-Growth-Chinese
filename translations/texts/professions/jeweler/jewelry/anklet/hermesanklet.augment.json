@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/hermesanklet.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一只带有白色天鹅绒翅膀的脚镯，具有神奇的特性。^green;+5%掉落伤害抗性。^blue;珠宝商可以装备两个来获得羽落。",
+      "Eng": "An Anklet with white, velvet wings that has magical properties. ^green;Provides 5% Fall Damage Resistance. ^blue;Jewelers can wear two to gain Feather Falling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/anklet/hermesanklet.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "赫尔墨斯脚镯",
+      "Eng": "Hermes' Anklet"
+    }
+  }
+]

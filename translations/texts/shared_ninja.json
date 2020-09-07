@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/0/title"
+      ],
+      "tech/ninjatech/flashjump/ninjaflashjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "闪烁跳跃",
+      "Eng": "Flash Jump"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/2/title"
+      ],
+      "tech/ninjatech/ninjaassassinate/ninjaassassinate.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "影踏",
+      "Eng": "Shadow Step"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/1/title"
+      ],
+      "tech/ninjatech/vanishsphere/ninjavanishsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "消失球",
+      "Eng": "Vanish Sphere"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
+        "/techs/3/title"
+      ],
+      "tech/ninjatech/ninjawallcling/ninjawallcling.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "壁挂",
+      "Eng": "Wall Cling"
+    }
+  }
+]

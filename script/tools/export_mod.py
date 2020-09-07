@@ -8,7 +8,6 @@ from json_tools import field_by_path
 from re import compile as regex
 from codecs import open as copen
 import configparser
-import yaml
 
 
 def uopen(path, mode):
@@ -78,7 +77,7 @@ specials = dict()
 
 for subdir, dirs, files in walk(translations_dir):
     for thefile in files:
-        if thefile in ["substitutions.yml", "totallabels.yml", "translatedlabels.yml", "patch_substitutions.yml","parse_problem.txt"]:
+        if thefile in ["substitutions.json", "totallabels.json", "translatedlabels.json","patch_substitutions.json,parse_problem.txt"]:
             continue
         filename = normpath(join(subdir, thefile))
         if filename.startswith(others_path):
@@ -91,7 +90,7 @@ for subdir, dirs, files in walk(translations_dir):
         jsondata = list()
         try:
             with uopen(filename, "r") as f:
-                jsondata = yaml.load(f, Loader=yaml.FullLoader)
+                jsondata = load(f)
         except:
             print("Cannot parse file: " + filename)
             continue
@@ -103,7 +102,7 @@ for subdir, dirs, files in walk(translations_dir):
 
             add_count(labelsTranslated, filename, 1)
             translation = label["Texts"]["Chs"]
-            if filename.endswith("codex.yml") and not check_translation_length(translation):
+            if filename.endswith("codex.json") and not check_translation_length(translation):
                 print("Warning! String too long in file: " + filename)
 
             for originfile, jsonpaths in label["Files"].items():
@@ -142,7 +141,7 @@ for pfile, content in patchfiles.items():
     thecontent = content
     if exists(pfile):
         with uopen(pfile, 'r') as f:
-            thecontent += yaml.load(f, Loader=yaml.FullLoader)
+            thecontent += load(f)
     with uopen(pfile, "w") as f:
         dump(thecontent, f, ensure_ascii=False, indent=2)
 
@@ -152,15 +151,10 @@ labelsTotalN = 0
 labelsTotalN = sum_up_counter(labelsTotal)
 labelsTranslatedN = sum_up_counter(labelsTranslated)
 
-with uopen(join(translations_dir, "translatedlabels.yml"), "w") as f:
-    ##dump(labelsTranslated, f, indent=2, sort_keys=True)
-    yaml.dump(labelsTranslated, f, default_flow_style=False,
-              encoding='utf-8', allow_unicode=True)
-with uopen(join(translations_dir, "totallabels.yml"), "w") as f:
-    ##dump(labelsTotal, f, indent=2, sort_keys=True)
-    yaml.dump(labelsTotal, f, default_flow_style=False,
-              encoding='utf-8', allow_unicode=True)
-
+with uopen(join(translations_dir, "translatedlabels.json"), "w") as f:
+    dump(labelsTranslated, f, indent=2, sort_keys=True)
+with uopen(join(translations_dir, "totallabels.json"), "w") as f:
+    dump(labelsTotal, f, indent=2, sort_keys=True)
 
 '''
 pex = '/home/sky/script/main/'

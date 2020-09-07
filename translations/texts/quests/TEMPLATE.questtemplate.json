@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/TEMPLATE.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs": "完成。",
+      "Eng": "Completed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/TEMPLATE.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "描述。^white;",
+      "Eng": "Description.^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/TEMPLATE.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "^green;标题",
+      "Eng": "^green;Title"
+    }
+  }
+]

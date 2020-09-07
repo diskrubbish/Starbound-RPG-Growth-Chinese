@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/necklace/purifyingpendant.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "净体吊坠",
+      "Eng": "Purifying Pendant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/necklace/purifyingpendant.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这个吊坠使用魔法能量(和科学!)来净化周围的毒素。^green;+20%毒素抗性。^blue;珠宝商可以装备以获得毒属性免疫。",
+      "Eng": "This Pendant uses magical energy (and science!) to purify surrounding toxins. ^green;Provides +20% Poison Resistance. ^blue;Jewelers gain Poison Status Immunity."
+    }
+  }
+]

@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    items/active/specweapons/thief/siphonpurge.activeitem:
-    - /shortdescription
-  Texts:
-    Chs: ^yellow;虹吸爪·净化
-    Eng: ^yellow;Siphon Purge

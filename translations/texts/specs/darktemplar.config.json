@@ -1,0 +1,158 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/9/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-20%电系抗性",
+      "Eng": "-20% Electric Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/8/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-50%神圣抗性",
+      "Eng": "-50% Holy Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用矛和斧系武器时，其基础攻击力增加至115%。",
+      "Eng": "115% Base Power with Spear or Axe-like Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "150%最大生命",
+      "Eng": "150% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "出血几率和时长与力量相关。",
+      "Eng": "Bleed Chance and Length scales with Strength."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以双持近战武器，可以装备双手近战武器。",
+      "Eng": "Can Dual-Wield Melee Weapons and Wield Two-Handed Melee Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "免疫恶魔伤害",
+      "Eng": "Demonic Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "无心",
+      "Eng": "Heartless"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "用恶魔伤害击中敌人有23%的几率使其陷入腐化。被腐化的敌人会向附近的敌人辐射恶魔伤害。",
+      "Eng": "Hitting enemies with Demonic Damage has a 30% chance to corrupt them. Corrupted enemies radiate Demonic Damage to nearby enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/weapon/text/2"
+      ]
+    },
+    "Texts": {
+      "Chs": "被动：杀敌会贮存恶魔能量。到达某个点会释放这种能量，每次挥动都会造成魔性爆发。",
+      "Eng": "Passive: Getting kills builds Demonic Energy. Reaching a certain point unleashes this energy, causing Demonic explosions with each swing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[H]（在按键设置中绑定[H]）发动。立即牺牲33%的最大生命值，对附近的敌人造成恶魔伤害，并获得15%的攻击机加成。激活时: HP消耗率为0.5%最大HP+2HP每秒；攻击增幅在30秒内稳步增加到100%；出血伤害以3比1的比率回复生命；在技能发动期间你对恢复状态免疫。",
+      "Eng": "Press [H] (Bind [H] in your Controls) to toggle, immediately sacrificing 33% Max Health, dealing Demonic Damage to nearby enemies, and gaining +15% Power. While active: Health drains at a rate of 0.5% Max Health + 2 Health per Second; Power increases steadily up to 100% in 30 seconds; Bleed Damage dealt regens Health at a rate of 3 Damage to 1 Health; and you are immune to Healing Status."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "主要攻击：大杀四方的连击。\n第一次挥动可以衔接次要攻击。",
+      "Eng": "Primary Fire: A combo of far-reaching swings.\nThe first swing can be chained into Secondary Fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/darktemplar.config": [
+        "/weapon/text/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "次要攻击：强大的冲锋穿刺。\n可以衔接在主要攻击之后。\n冲刺时增加护甲。",
+      "Eng": "Secondary Fire: A powerful lunging jab.\nCan be chained into Primary Fire's upwards swing.\nIncreased Armor while lunging."
+    }
+  }
+]

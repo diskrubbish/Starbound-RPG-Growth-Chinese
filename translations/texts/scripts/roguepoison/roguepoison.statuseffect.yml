@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    scripts/roguepoison/roguepoison.statuseffect:
-    - /label
-  Texts:
-    Chs: 盗贼的经验
-    Eng: Rogue's Experience

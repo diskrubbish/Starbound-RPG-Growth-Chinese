@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ninjatech/vanishsphere/ninjavanishsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "变形消耗：25能量。维持消耗：50能量/每秒。",
+      "Eng": "Transformation Cost: 25e. Active Cost: 50eps."
+    }
+  }
+]

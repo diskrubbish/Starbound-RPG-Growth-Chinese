@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/mechanist.config": [
+        "/tech/title"
+      ],
+      "specs/techs/mechanist/skynet.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "天网",
+      "Eng": "Skynet"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/versaquest3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "训练时间到！只要你你将你的能力锻炼至巅峰，我会尝试让反抗者足够强大来匹配你！^white;",
+      "Eng": "Time to train! When you have perfected your abilities, I will attempt to make Versa strong enough to match!^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/versaquest3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs": "你已经尽你所能的变得精准了！我已经升级了你的反抗者。你现在也可以在升级后的铁砧上制造弹幕反抗者了。",
+      "Eng": "You're as accurate as you can be! I have upgraded your Versa. You will now also be able to build Versa Ricochet in an upgraded anvil."
+    }
+  }
+]

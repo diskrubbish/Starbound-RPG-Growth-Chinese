@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/platinumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一种由耐刚和钛制成的合金，其性能与铂相当。来自RPG Growth。",
+      "Eng": "An alloy made from Durasteel and Titanium that behaves quite like platinum. From RPG Growth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/bars/platinumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "耐铂锭(RPG)",
+      "Eng": "D-Platinum Bar"
+    }
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acknowledgements"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/4/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "General Design"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/children/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "JSON"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/children/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lua Scripting"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/changelog/children/1.61/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patch 1.61"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/changelog/children/1.62/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patch 1.62"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/changelog/children/1.63/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patch 1.63"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/changelog/children/1.64/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patch 1.64"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/changelog/children/1.71/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patch 1.71"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/changelog/children/1.6/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Update 1.6"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/changelog/children/1.7/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Update 1.7"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/children/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#882288;Nagoek"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/children/1/children/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ffaafa;Chaika? Yes. Chaika."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/children/2/children/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Azure Fang"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/children/5/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;DocDewrill"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/children/1/children/5/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Mighty Annihilator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/children/2/children/2/title",
+        "/credits/children/4/children/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Ribs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^blue;Spriting"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/children/3/title",
+        "/credits/children/4/children/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Caine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/children/6/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Caladbolg"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/4/children/5/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Mohl"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/changelog/children/1.72/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Patch 1.72"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Programming"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/children/1/children/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;DanMan"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/4/children/4/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;RatElemental"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/children/1/children/3/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^magenta;Rylasasin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/1/children/1/children/4/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Alberto-Rota"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/children/7/title",
+        "/credits/children/4/children/6/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;JM401"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Patrons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/4/children/7/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;SushiSquid"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/children/9/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Wrench"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/changelog/children/knownbugs/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Known Bugs and Issues"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/children/2/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Steven Steel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/children/4/title",
+        "/credits/children/4/children/3/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Banny"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
+        "/credits/children/3/children/8/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Samey the Hedgehog"
+    }
+  }
+]

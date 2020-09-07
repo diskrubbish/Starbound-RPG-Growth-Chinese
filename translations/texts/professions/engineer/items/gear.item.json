@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/gear.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "钢制齿轮(RPG)",
+      "Eng": "Steel Gear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/items/gear.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "你需要这些来制造更复杂的机器。来自RPG Growth。",
+      "Eng": "You'll need these to make more complex machinery. From RPG Growth."
+    }
+  }
+]

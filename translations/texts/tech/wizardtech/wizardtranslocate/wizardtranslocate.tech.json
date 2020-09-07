@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/wizardtech/wizardtranslocate/wizardtranslocate.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "消耗：20-100%最大能量。冷却：2s。",
+      "Eng": "Cost: 20-100% Max Energy. Cooldown: 2s."
+    }
+  }
+]

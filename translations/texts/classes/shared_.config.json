@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/classic/1/text"
+      ],
+      "classes/rogue.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以装备狩猎弓。",
+      "Eng": "Can equip Hunting Bows."
+    }
+  }
+]

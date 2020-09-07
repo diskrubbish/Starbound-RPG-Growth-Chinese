@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/darktemplar/corrupted.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "腐化",
+      "Eng": "Corrupted"
+    }
+  }
+]

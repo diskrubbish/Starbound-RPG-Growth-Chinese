@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/battlemage/battleaura2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "钢铁光环",
+      "Eng": "Iron Aura"
+    }
+  }
+]

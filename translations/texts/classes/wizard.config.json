@@ -1,0 +1,182 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "击中敌人时有6%的几率使其冻结、燃烧或者通电。这些效果可以叠加。",
+      "Eng": "+6% Chance to Freeze, Burn, or Electrify enemies on hit. These effects can stack."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/classic/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-20%物理抗性",
+      "Eng": "-20% Physical Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/weaponBonuses/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "在一只手上使用魔杖而没有任何其他武器装备的情况下，魔杖的基础攻击力提升至110%。",
+      "Eng": "110% Base Power while using a Wand in either hand without any other weapon equipped."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/weaponBonuses/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用法杖时其基础攻击力增加至110%。",
+      "Eng": "110% Base Power with Staves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/classic/4/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "只有80%的速度和跳跃高度",
+      "Eng": "80% Speed and Jump Height"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "荆刺球的升级版，变形期间不但会稍稍回血，受到的重力也变小。此外，按住鼠标左键消耗一定的能量创建一个屏障，将敌人推开。",
+      "Eng": "An upgrade to Spike Sphere, while transformed you regen slightly and are affected by low gravity. In addition, hold left click to create a barrier that pushes enemies away, draining energy to do so."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以使用狩猎弓和\n破损的守护者之剑",
+      "Eng": "Can equip Hunting Bows and the\nBroken Protectorate Broadsword."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以使用厄尔吉斯之眼、恶魔之眼和磁力珠和土星警棍",
+      "Eng": "Can equip the Erchius Eye, Evil Eye, Magnorbs, and Saturn Batons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "不能使用远程武器。\n不能使用双持近战武器。\n不能使用双持非魔法武器。",
+      "Eng": "Cannot use Ranged Weapons.\nCannot use Two-Handed Melee Weapons.\nCannot Dual-Wield Non-Magic Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/1/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "悬停",
+      "Eng": "Hover"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[F]开关。当激活时，受到伤害也会影减小相应的能量，但是损失的一半能量会转化为生命值。如果你所获得的生命值不足以维持生命，你就会死去。当激活时; 能量不会能锁定; 能量以每秒8% 的最大能量充能，随智力增长而增加。",
+      "Eng": "Press [F] to toggle. While active, damage taken also affects Energy, but half the Energy lost is converted to Health. You will die if the amount of Health gained back would not have been enough to live. While active; Energy cannot lock; and Energy recharges at 8% Max Energy per second, which increases with Intelligence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[G](在按键设置中绑定[G])传送到光标处(如果可能的话)。在你再次传送之前有一个小小的冷却时间。 能源消耗取决于距离和敏捷。在任务期间(和在你的船)，传送可以用来寻找路径，以确定是否有可能的心灵传输路线。",
+      "Eng": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate uses pathfinding to determine if the teleportation route is possible!."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "在空中按[空格]悬停。按方向键向各个方向移动。悬停消耗能量。向下悬停显著降低能量消耗，在适当位置悬停大幅降低能量消耗，向上悬停则会显著增加能量消耗，悬停的速度与最大距离随敏捷而变化，也稍稍受智力影响",
+      "Eng": "Press [Space] while in air to hover, using your directional keys to move in every direction. Energy drains while hovering. Hovering downwards significantly decreases energy cost, hovering in place greatly decreases energy cost, and hovering upwards greatly increases energy cost. Hover speed largely scales with Agility, but also marginally with Intelligence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "新星是可以一把可以更换元素的法杖。法杖属性会在新星，火，电和冰之间循环。 新星削弱敌人的火，电和冰抗性。被起源新星杀死的敌人会爆炸。",
+      "Eng": "The Nova is a staff that can change elements. The staff cycles between Nova, Fire, Electric, and Ice. Nova weakens enemies to Fire, Electricity, and Ice. Enemies killed by Primed Nova explode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用魔杖或法杖时，获得+10%的火、电和冰抗性。",
+      "Eng": "While using Wands or Staves, gain +10% Fire, Electric, and Ice Resistance."
+    }
+  }
+]

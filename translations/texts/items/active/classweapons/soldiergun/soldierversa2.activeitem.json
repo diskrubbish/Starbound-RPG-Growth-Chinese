@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/soldiergun/soldierversa2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "所以...现在还是把狙击枪了？",
+      "Eng": "So... It's a sniper now too?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/soldiergun/soldierversa2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "铭刻反抗者",
+      "Eng": "Versa Impact"
+    }
+  }
+]

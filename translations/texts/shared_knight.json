@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/2/title"
+      ],
+      "tech/knighttech/knightarmorsphere/knightarmorsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "装甲球",
+      "Eng": "Armor Sphere"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/0/title"
+      ],
+      "tech/knighttech/knightbash/knightbash.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "重击",
+      "Eng": "Bash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/3/title"
+      ],
+      "tech/knighttech/knightcharge!/knightcharge!.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "冲锋！",
+      "Eng": "Charge!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/knight.config": [
+        "/techs/1/title"
+      ],
+      "tech/knighttech/knightslam/knightslam.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "猛击",
+      "Eng": "Slam"
+    }
+  }
+]

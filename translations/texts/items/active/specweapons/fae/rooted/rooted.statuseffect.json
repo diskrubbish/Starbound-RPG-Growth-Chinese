@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/fae/rooted/rooted.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "扎根",
+      "Eng": "Rooted"
+    }
+  }
+]

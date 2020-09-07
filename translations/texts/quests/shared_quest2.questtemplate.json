@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisquest2.questtemplate": [
+        "/text"
+      ],
+      "quests/aetherquest2.questtemplate": [
+        "/text"
+      ],
+      "quests/novaquest2.questtemplate": [
+        "/text"
+      ],
+      "quests/siphonquest2.questtemplate": [
+        "/text"
+      ],
+      "quests/versaquest2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "现在你有了一张改进的强力武器升级蓝图。当你准备好的时候我会告诉你的。^white;",
+      "Eng": "Now that you have the blueprint for a powerful weapon, you may be able to upgrade it. I will let you know when that time comes.^white;"
+    }
+  }
+]

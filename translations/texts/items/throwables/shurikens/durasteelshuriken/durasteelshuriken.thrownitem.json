@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一枚掌心大的致命手里剑。",
+      "Eng": "A shuriken, pocket-sized and deadly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/durasteelshuriken/durasteelshuriken.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "耐刚手里剑",
+      "Eng": "Durasteel Shuriken"
+    }
+  }
+]

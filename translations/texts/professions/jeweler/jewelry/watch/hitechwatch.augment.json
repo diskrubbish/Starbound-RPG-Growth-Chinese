@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/watch/hitechwatch.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "高科技怀表",
+      "Eng": "Hi-Tech Watch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/watch/hitechwatch.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "它有许多令人惊叹的特性，但它相当亮瞎眼的光芒才是男人的浪漫！^green;提供发光。^blue;珠宝商可以装备来增强智力收益。",
+      "Eng": "This has a ton of awesome features, but its rather bright glow is what's really impressive. ^green;Provides Glow. ^blue;Jewelers gain increased Intelligence Scaling."
+    }
+  }
+]

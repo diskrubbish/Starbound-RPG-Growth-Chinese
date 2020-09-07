@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    tech/soldiertech/soldiermarksman/soldiermarksmancooldown.statuseffect:
-    - /label
-  Texts:
-    Chs: 神射手冷却
-    Eng: Marksman Cooldown

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguecloudjump/roguecloudjumpcooldown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "登云跳冷却",
+      "Eng": "Cloud Jump Cooldown"
+    }
+  }
+]

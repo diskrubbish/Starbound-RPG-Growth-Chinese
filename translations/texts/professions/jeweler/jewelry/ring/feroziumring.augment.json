@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/ring/feroziumring.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "时尚的菲洛戒指，略微增加你的最大健康。^green;+5最大健康。^blue;",
+      "Eng": "Fashionable Ferozium Ring that boosts your Max Health. ^green;Provides +5 Max Health. ^blue;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/ring/feroziumring.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "菲洛戒指",
+      "Eng": "Ferozium Ring"
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "+25%电系，火系和新星抗性。",
+      "Eng": "+25% Electric, Fire, and Nova Resistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/effects/8/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-5格挡",
+      "Eng": "-5 Protection"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用枪和匕首时，其基础攻击力增加至115%。",
+      "Eng": "115% Base Power with Pistols and Daggers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用弓和步枪时，其基础攻击力增加至120%。",
+      "Eng": "120% Base Power with Bows and Sniper Rifles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "蜷缩2秒钟后获得5秒的隐形时间。使用能量后解除，获得33%流血几率增加，持续0.5秒。",
+      "Eng": "Crouch for 2 seconds for 5 seconds of Invisibility. Use Energy or do Damage to dispel this and gain +33% Bleed Chance for 0.5 seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/weapon/text/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "死堕射击：长射程，低伤害，50点能量。造成束缚。被束缚的敌人减速并受到伤害。",
+      "Eng": "Deadfall: Long Draw, Low Damage, 50 Energy. Tethers. Tethered foes slow and share damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以使用双手远程武器",
+      "Eng": "Enables Two-Handed Ranged Weapons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "迈达",
+      "Eng": "Mida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "迈达：30能量。发射强大的箭矢。",
+      "Eng": "Mida: 30 Energy. Fires powerful arrows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/weapon/text/4"
+      ]
+    },
+    "Texts": {
+      "Chs": "被动：完美释放降低一半能量消耗。",
+      "Eng": "Passive: Perfect Release halves Energy Cost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[Shift] + [G]在火炎，电击和新星属性之间切换。\n按[G]向光标处投掷烟雾弹(消耗50能量，6秒冷却)。双击[A]或[D]闪避(无能量消耗，3秒冷却)。\n当能量满的时候使用右键激活迈达(新星 -> 死堕射击，电击 -> 脉冲射击， 火炎 -> 灼日射击)：这次射击消耗能量，然后效果消失。\n烟雾弹，闪避和充能效果取决于多用工具的当前元素属性。",
+      "Eng": "Press [Shift] + [G] to switch between Fire, Electric, and Nova.\nPress [G] to lob a Smokebomb towards your cursor (50 Energy, 6 Second Cooldown). Double-tap [A] or [D] to Dodge (No Energy, 3 Second Cooldown).\nUse Alt Fire when Energy is full to Energize Mida (Nova -> Deadfall, Electric -> Pulsar, Fire -> Sunshot): this effect drains Energy and then dissipates.\nGrenade, Dodge, and Energize effects depend on Multitool Element."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/weapon/text/2"
+      ]
+    },
+    "Texts": {
+      "Chs": "脉冲射击：中等射程，中等伤害，40点能量。发射三支震撼箭头。 激活时爆裂。",
+      "Eng": "Pulsar: Medium Draw, Medium Damage, 40 Energy. Fires three shocking arrows. Bursts on activation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/hunter.config": [
+        "/weapon/text/3"
+      ]
+    },
+    "Texts": {
+      "Chs": "灼日射击：短射程，高伤害，20点能量。穿透。杀敌会引起爆炸并返还能量。",
+      "Eng": "Sunshot: Short Draw, High Damage, 20 Energy. Pierces. Kills cause explosions and refund Energy."
+    }
+  }
+]

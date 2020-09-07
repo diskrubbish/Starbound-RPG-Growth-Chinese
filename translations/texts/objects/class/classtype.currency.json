@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/class/classtype.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一份蕴含神秘力量的液滴。",
+      "Eng": "A droplet of mysterious power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/class/classtype.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "职业液滴",
+      "Eng": "Class Droplet"
+    }
+  }
+]

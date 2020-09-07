@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/paladin.config": [
+        "/classic/1/text"
+      ],
+      "specs/titan.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "未装备盾牌时，基础攻击力降低至50%",
+      "Eng": "^red;50% Base Power while a\nShield is not equipped."
+    }
+  }
+]

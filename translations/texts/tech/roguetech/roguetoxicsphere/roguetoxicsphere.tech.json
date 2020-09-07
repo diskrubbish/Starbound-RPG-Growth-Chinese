@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguetoxicsphere/roguetoxicsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "变形消耗：50能量。攻击消耗：10能量。",
+      "Eng": "Transformation Cost: 50e. Attack Cost: 10e."
+    }
+  }
+]

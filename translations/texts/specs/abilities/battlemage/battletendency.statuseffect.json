@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/battlemage/battletendency.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "战斗趋向",
+      "Eng": "Battle Tendency"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/miningtools/steelpickaxe.miningtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "钢镐",
+      "Eng": "Steel Pickaxe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/miner/items/miningtools/steelpickaxe.miningtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这把镐子挖掘比银镐稍慢，但更具耐久。",
+      "Eng": "This tool mines a bit slower than a Silver Pickaxe, but lasts longer!"
+    }
+  }
+]

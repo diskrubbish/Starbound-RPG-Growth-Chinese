@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/paladin/judgement/ivrpgjudgement.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "神圣审判",
+      "Eng": "Divine Judgement"
+    }
+  }
+]

@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    professions/default.config:
-    - /title
-  Texts:
-    Chs: 没有副职
-    Eng: No Profession

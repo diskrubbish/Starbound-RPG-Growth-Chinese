@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/smith/status/ivrpgsmithstatusresistance.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "铁匠的忍耐",
+      "Eng": "Smith's Resistance"
+    }
+  }
+]

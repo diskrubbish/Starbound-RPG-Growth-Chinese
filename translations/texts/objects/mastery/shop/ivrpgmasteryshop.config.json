@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Chs": " 大师书桌",
+      "Eng": " Master's Desk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs": " ^#b9b5b2;为制造东西需要不寻常的技能和丰富的经验。",
+      "Eng": " ^#b9b5b2;For making things that require incredible skill and lots of experience."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "专精激活",
+      "Eng": "MASTERY AVAILABLE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Chs": "技能",
+      "Eng": "Manifest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Chs": "^#b9b5b2;大师打印机",
+      "Eng": "^#b9b5b2;MASTER BLUEPRINT"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mastery/shop/ivrpgmasteryshop.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Chs": " ^#b9b5b2;大师工厂",
+      "Eng": "^#b9b5b2;MASTER PRODUCT"
+    }
+  }
+]

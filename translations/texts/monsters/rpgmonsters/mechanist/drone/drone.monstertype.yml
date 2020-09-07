@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    monsters/rpgmonsters/mechanist/drone/drone.monstertype:
-    - /shortdescription
-  Texts:
-    Chs: 机械师的无人机
-    Eng: Mechanist's Drone

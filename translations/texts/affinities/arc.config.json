@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "造成伤害时有30%的几率使敌人过载。过载的敌人-25%的速度，并放射出链式闪电伤害附近的其他敌人。",
+      "Eng": "+30% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/weakness/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "在水下时最大生命值为70%",
+      "Eng": "70% Max Health while submerged"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "电弧",
+      "Eng": "Arc"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/immunity/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "电系伤害",
+      "Eng": "Electric Damage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/immunity/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "暗影(FU)",
+      "Eng": "Shadow (FU)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/passive/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;当消耗所有能量时，释放出一个会造成成吨伤害并导致敌人过载的电弧爆炸。",
+      "Eng": "^yellow;Upon expending all Energy, release an Electric explosion that deals massive damage and causes Overload."
+    }
+  }
+]

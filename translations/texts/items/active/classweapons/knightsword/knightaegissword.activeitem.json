@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/knightsword/knightaegissword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "大多数剑只能砍几下。这把剑可不是。\n^blue;六下连击之中第三下连击为下戳。",
+      "Eng": "Most swords only last a couple swings. Not this one.\n^blue;Attack Combo by Ribs."
+    }
+  }
+]

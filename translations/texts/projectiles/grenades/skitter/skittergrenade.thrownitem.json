@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/skitter/skittergrenade.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "掠行兽",
+      "Eng": "Skitter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/grenades/skitter/skittergrenade.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "警告！释放扰乱和毒性气体。",
+      "Eng": "Warning! Releases disorienting and toxic gas."
+    }
+  }
+]

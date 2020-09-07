@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/rpgmonsters/debuffs/noability.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "沉默",
+      "Eng": "Silenced"
+    }
+  }
+]

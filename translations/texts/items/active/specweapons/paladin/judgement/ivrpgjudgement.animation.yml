@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    items/active/specweapons/paladin/judgement/ivrpgjudgement.animation:
-    - /particleEmitters/statustext/particles/0/particle/text
-  Texts:
-    Chs: 审判！
-    Eng: Judgement!

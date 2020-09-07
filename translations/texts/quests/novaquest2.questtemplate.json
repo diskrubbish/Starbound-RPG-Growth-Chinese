@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/novaquest2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs": "你现在更加睿智了！我已经升级了你的新星。你现在也可以在升级的铁砧上制造超级新星了。",
+      "Eng": "You're a lot more intelligent now! I have upgraded your Nova. You will now also be able to build Super Nova in an upgraded anvil."
+    }
+  }
+]

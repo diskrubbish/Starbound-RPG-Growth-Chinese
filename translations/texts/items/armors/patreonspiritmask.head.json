@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/patreonspiritmask.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "精怪面具",
+      "Eng": "Spirit Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/patreonspiritmask.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "这个面具让你看起来很诡异！",
+      "Eng": "This mask makes you look quite spooky!"
+    }
+  }
+]

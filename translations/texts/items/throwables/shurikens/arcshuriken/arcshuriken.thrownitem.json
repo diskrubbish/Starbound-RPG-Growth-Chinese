@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/arcshuriken/arcshuriken.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一枚嗡嗡作响的手里剑，确保让敌人触电。",
+      "Eng": "A humming shuriken, sure to shock enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/shurikens/arcshuriken/arcshuriken.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "电弧手里剑",
+      "Eng": "Arc Shuriken"
+    }
+  }
+]

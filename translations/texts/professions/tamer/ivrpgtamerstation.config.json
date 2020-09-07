@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Chs": " 驯兽师工作站",
+      "Eng": " Tamer's Crafting Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs": " ^#b9b5b2;只有有经验的驯兽师才知道如何使用这些工具！",
+      "Eng": " ^#b9b5b2;Only experienced Tamers know what to do with these tools!"
+    }
+  }
+]

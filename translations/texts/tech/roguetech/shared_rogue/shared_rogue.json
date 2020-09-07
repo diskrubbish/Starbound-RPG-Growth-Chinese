@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/roguetech/roguedeadlystance/roguedeadlystance.tech": [
+        "/description"
+      ],
+      "tech/roguetech/roguetoxicaura/roguetoxicaura.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "光环消耗：10能量/每秒。",
+      "Eng": "Aura Cost: 10eps."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/affinity/affinitytype.currency": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "亲和力类型",
+      "Eng": "Affinity Type"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/affinity/affinitytype.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "点击以选择亲和力。",
+      "Eng": "Points that change your Affinity."
+    }
+  }
+]

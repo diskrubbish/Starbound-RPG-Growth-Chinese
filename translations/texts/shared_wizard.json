@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/0/title"
+      ],
+      "tech/wizardtech/wizardgravitysphere/wizardgravitysphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "重力球",
+      "Eng": "Gravity Sphere"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/3/title"
+      ],
+      "tech/wizardtech/wizardmagicshield/wizardmagicshield.tech": [
+        "/shortDescription"
+      ],
+      "tech/wizardtech/wizardmagicshield/wizardshield.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "魔法盾",
+      "Eng": "Magic Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/wizard.config": [
+        "/techs/2/title"
+      ],
+      "tech/wizardtech/wizardtranslocate/wizardtranslocate.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "闪烁",
+      "Eng": "Translocate"
+    }
+  }
+]

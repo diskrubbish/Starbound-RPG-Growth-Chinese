@@ -1,9 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    specs/technomancer.config:
-    - /tech/title
-    specs/techs/technomancer/elementalovercharge.tech:
-    - /shortDescription
-  Texts:
-    Chs: 元素过载
-    Eng: Elemental Overcharge

@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/techs/2/title"
+      ],
+      "tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "钻头球",
+      "Eng": "Drill Sphere"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/techs/1/title"
+      ],
+      "tech/explorertech/explorerenhancedmovement/explorerenhancedmovement.tech": [
+        "/shortDescription"
+      ],
+      "tech/explorertech/explorerenhancedmovement/explorermovementdash.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "强化冲刺",
+      "Eng": "Enhanced Dash"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/explorer.config": [
+        "/techs/0/title"
+      ],
+      "tech/explorertech/explorerglide/explorerglide.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "滑翔",
+      "Eng": "Glide"
+    }
+  }
+]

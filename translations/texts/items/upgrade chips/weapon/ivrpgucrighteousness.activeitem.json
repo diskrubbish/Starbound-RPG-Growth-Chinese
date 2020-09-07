@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucrighteousness.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "护主灵剑升级。\n完美格挡后增加伤害。",
+      "Eng": "Vital Aegis Upgrade.\nPerfect Shielding increases damage."
+    }
+  }
+]

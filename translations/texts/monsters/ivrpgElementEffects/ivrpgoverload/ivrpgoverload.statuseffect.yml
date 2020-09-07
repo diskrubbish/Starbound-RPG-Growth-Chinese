@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    monsters/ivrpgElementEffects/ivrpgoverload/ivrpgoverload.statuseffect:
-    - /label
-  Texts:
-    Chs: 过载
-    Eng: Electrified

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/patreon/mimic/object/woodenchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "不要把贵重物品放在这里面: 它会让你想起一些... 不好的事情。千万别小瞧它。",
+      "Eng": "Don't put valuables in this: it reminds you of something... bad. Don't lose sight of it."
+    }
+  }
+]

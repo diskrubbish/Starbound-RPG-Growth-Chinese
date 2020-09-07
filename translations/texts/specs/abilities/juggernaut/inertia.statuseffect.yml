@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    specs/abilities/juggernaut/inertia.statuseffect:
-    - /label
-  Texts:
-    Chs: 惯性
-    Eng: Inertia

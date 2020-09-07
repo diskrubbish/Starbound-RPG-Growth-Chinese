@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ninja/ivrpgether.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "一种几乎无形的物质...尽管如此，还能是有形体的吗？",
+      "Eng": "A substance that appears to be almost intangible... Though, still corporeal?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ninja/ivrpgether.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "以太",
+      "Eng": "Ether"
+    }
+  }
+]

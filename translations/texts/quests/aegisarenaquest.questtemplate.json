@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisarenaquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs": "看来分裂者是这种金属的重要来源。我简单将其地称之为^blue;陨铁^reset;现在去找一处熔炉去冶炼陨铁，然后去铁砧处锻造你的护主剑。",
+      "Eng": "Looks like Masteroids are a great source of this metal, which I've simply dubbed ^blue;Meteoric Metal^reset;. You can now craft Meteoric Metal Bars in the Furnace and the Aegis Broadsword in your Anvil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/aegisarenaquest.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "我的数据库显示你的筋肉真是无与伦比！我做了一套模拟,并建议你用一种几乎无法控制的的稀有金属去打造一把量身定做的武器。我建议你去击败一些^green;活动的陨石^reset;，看看他们的坚硬外壳能不能用。",
+      "Eng": "My databanks show that your physical strength is nearly unmatched! I have run a diagnostic and it suggests you would be unrivaled using a normally unwieldable, incredibly heavy metal as the base for a sword. Try fighting ^green;living meteorites^reset; to see if their hard carapace can be used.^white;"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ivrpgremove/ivrpgremove.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "角色修复",
+      "Eng": "Character Fix"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ivrpgremove/ivrpgremove.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[F]后请退出游戏。",
+      "Eng": "Press [F] and then quit."
+    }
+  }
+]

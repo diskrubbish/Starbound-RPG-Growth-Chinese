@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    tech/soldiertech/soldiermissilestrike/soldiermissilestrikecooldown.statuseffect:
-    - /label
-  Texts:
-    Chs: 导弹打击冷却
-    Eng: Missile Strike Cooldown

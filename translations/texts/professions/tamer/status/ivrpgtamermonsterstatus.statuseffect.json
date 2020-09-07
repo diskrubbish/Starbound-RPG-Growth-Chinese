@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/status/ivrpgtamermonsterstatus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "驯兽师的宠物",
+      "Eng": "Tamer's Pet"
+    }
+  }
+]

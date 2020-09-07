@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/vigilante/desperado.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "义贼专属",
+      "Eng": "Vigilante Only"
+    }
+  }
+]

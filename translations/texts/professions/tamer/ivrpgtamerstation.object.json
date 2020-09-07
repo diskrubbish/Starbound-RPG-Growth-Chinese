@@ -1,0 +1,110 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Chs": "即使这张桌子看起来很吸引人，它也可以容纳大多数怪物。",
+      "Eng": "Even though this table looks uninviting, it is able to accomodate for most monsters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "叶族人能看到肉和骨头头头上的血血血斑。遗憾的是，肉是给怪怪怪物吃的。",
+      "Eng": "Floran can see sstains from meat and bonesss. Ssadly, meat is for monssters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "我从来不喜欢鞭打。好吧... 也许有一点。",
+      "Eng": "I was never into whip-play. Well... maybe a bit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "我可不想待在那个笼子里。",
+      "Eng": "I wouldn't want to be in that cage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "起初看起来可能有点吓人，但驯兽师对待他们的宠物很好。",
+      "Eng": "It might look a bit scary at first, but a Tamer treats their pets right."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "现在有一一根看起来很结实的鞭子！",
+      "Eng": "Now that there's a sturdy lookin' whip!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "驯兽师工作站",
+      "Eng": "Tamer Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "笼子有点不舒服，但总的来说是一张结实的桌子。",
+      "Eng": "The cage is a bit unpleasant, but overall a solid table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/tamer/ivrpgtamerstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "这张桌子虽然不符合我的标准，但也只能凑合了。",
+      "Eng": "This table just doesn't meet my standards, but it will have to do."
+    }
+  }
+]

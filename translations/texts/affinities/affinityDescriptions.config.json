@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/affinityDescriptions.config": [
+        "/default/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "单击亲和的图标查看该亲和的作用。",
+      "Eng": "Click an Affinity's icon to see what that Affinity does."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/affinityDescriptions.config": [
+        "/fire/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "火焰，代表力量的亲和力。这种亲和力给予给予火系的免疫和抗性，以及中等的活力值提升。升级后提供更强的免疫力和更大的力量提升。不过请小心，因为选择这种亲和力会削弱你潜入水中的能力，使你毒液的抗性下降。",
+      "Eng": "Flame, the Powerful Affinity. This Affinity grants Fire based Immunities and Resistances, and a Medium Vigor Stat Boost. Provides better Immunities and a Large Strength Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Poison."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/affinityDescriptions.config": [
+        "/ice/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "霜冻，代表保护的亲和力。这种亲和力给予给予冰系的免疫和抗性，以及中等的体质值提升。升级后提供更强的免疫力和更大的耐力提升。不过请小心，因为选择这种亲和力会降低你的速度和跳跃高度，并使你面对火焰时很弱。",
+      "Eng": "Frost, the Protective Affinity. This Affinity grants Ice based Immunities and Resistances, and a Medium Vitality Stat Boost. Provides better Immunities and a Large Endurance Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Speed and Jump Height, and makes you weak to Fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/affinityDescriptions.config": [
+        "/electric/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "雷霆，代表敏锐的亲和力。这种亲和力给予给予电系的免疫和抗性，以及中等敏捷值提升。升级后提供更强的免疫力和更大的智力提升。不过请小心，因为选择这种亲和力会削弱你在水下的能力，并且降低你对霜冻的抗性。",
+      "Eng": "Shock, the Perceptive Affinity. This Affinity grants Electric based Immunities and Resistances, and a Medium Agility Stat Boost. Provides better Immunities and a Large Intelligence Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Frost."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/affinityDescriptions.config": [
+        "/poison/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "毒液，代表娴熟的亲和力。这种亲和力给予基于毒素的免疫和抗性，以及小的活力、敏捷和灵巧属性的提升。在升级时提供更强的免疫力和更大的灵巧提升。不过请小心，因为选择这种亲和力会降低你的最大生命水平，并使你对雷霆很弱。",
+      "Eng": "Venom, the Proficient Affinity. This Affinity grants Poison based Immunities and Resistances, and a Small Vigor, Dexterity, and Agility Stat Boost. Provides better Immunities and a Large Dexterity Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Max Health and makes you weak to Electricity."
+    }
+  }
+]

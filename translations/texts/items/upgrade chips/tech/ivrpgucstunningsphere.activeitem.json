@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucstunningsphere.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "装甲球升级。\n在变形时使用能量击晕附近的敌人。",
+      "Eng": "Armor Sphere Upgrade.\nUse energy to stun nearby enemies while transformed."
+    }
+  }
+]

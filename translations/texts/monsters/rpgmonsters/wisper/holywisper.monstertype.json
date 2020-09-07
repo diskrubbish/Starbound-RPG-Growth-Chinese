@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/rpgmonsters/wisper/holywisper.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "有些人认为低语精灵是迷失的灵魂，在夜晚它们的光芒会使探险者误入歧途。",
+      "Eng": "Some believe Wispers are lost spirits. At night their glow can lead explorers astray."
+    }
+  }
+]

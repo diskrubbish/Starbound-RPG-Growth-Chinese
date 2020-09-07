@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    specs/techs/pioneer/colonize.statuseffect:
-    - /label
-  Texts:
-    Chs: 拓殖冷却
-    Eng: Colonize Cooldown

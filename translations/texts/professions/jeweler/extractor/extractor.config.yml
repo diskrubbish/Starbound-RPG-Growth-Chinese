@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    professions/jeweler/extractor/extractor.config:
-    - /gui/lblText/value
-  Texts:
-    Chs: ^#b9b5b2;将装甲放置在左边的槽中。
-    Eng: ^#b9b5b2;Place Armor in the left slot.

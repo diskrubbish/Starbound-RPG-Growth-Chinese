@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/captain/allystance3.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "加速立场",
+      "Eng": "Speed Stance"
+    }
+  }
+]

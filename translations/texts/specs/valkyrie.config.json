@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "+10%冰系和电系抗性",
+      "Eng": "+10% Ice and Electric Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-10%火系和毒素抗性",
+      "Eng": "-10% Fire and Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用短剑时，其基础攻击力增加至115%。",
+      "Eng": "115% Base Power with Shortswords."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用矛时，其基础攻击力增加至120%：且随灵巧增长。",
+      "Eng": "120% Base Power with Spears: Scales with Dex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以双持短剑。",
+      "Eng": "Can dual-wield Shortswords."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "跳跃时获得短时间的低重力。保持空中飞行会触发生命再生。",
+      "Eng": "Gain a short period of Low-Gravity upon jumping. Staying airborne triggers Health Regeneration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "永恒圣枪",
+      "Eng": "Gungnir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/weapon/text/2"
+      ]
+    },
+    "Texts": {
+      "Chs": "被动：被永恒圣枪击败后标记的的敌人会爆炸，并向附近的盟友提供生命恢复和133%魔杖和法杖的攻击加成。",
+      "Eng": "Passive: Enemies marked then defeated by Gungnir burst and grant Health Regeneration and 133% Power with Wands and Staves to nearby allies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[F]以瞄准视线内除了自己以外距离你光标最近的队友。技能发动后这个队友将获得无敌状态和150%的攻击力加成，持续5秒。使用技能会消耗你最大生命的20%，并立即消耗所有能量，并阻止你能量再生。使用成功后冷却时间为30秒。",
+      "Eng": "Press [F] to target the ally nearest your cursor, other than you, that is within your line of sight. This ally is granted Invulnerability and +150% Power for 5 seconds. Doing so costs 20% of your Max Health, instantly drains all energy, and prevents you from regenerating Energy. The cooldown after successfully using Einherjar is 30 seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "主要攻击：一次三击的连击，以爆炸结束，造成审判。",
+      "Eng": "Primary Fire: A three-hit combo that ends with an explosion that causes Judgement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/valkyrie.config": [
+        "/weapon/text/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "次要攻击：掷出一枚以圣光标记敌人的武器。充能时间增长会增加跟踪能力并导致永恒圣枪弹跳。",
+      "Eng": "Secondary Fire: Charge a throw that marks enemies with Holy Light. Charging longer adds tracking and causes Gungnir to bounce."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpguchoversphere.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "重力球升级。\n以消耗能量为代价，变形时跳跃以悬浮在空中。",
+      "Eng": "Gravity Sphere Upgrade.\nHold jump while transformed to hover at the expense of energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpguchoversphere.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "悬浮球",
+      "Eng": "Hover Sphere"
+    }
+  }
+]

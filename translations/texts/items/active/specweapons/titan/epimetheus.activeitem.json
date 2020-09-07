@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/titan/epimetheus.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "杀得他们片甲不留。",
+      "Eng": "Don't leave even one enemy alive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/titan/epimetheus.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^orange;厄庇墨透斯",
+      "Eng": "^orange;Epimetheus"
+    }
+  }
+]

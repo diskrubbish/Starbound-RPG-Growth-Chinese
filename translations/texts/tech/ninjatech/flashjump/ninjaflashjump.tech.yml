@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    tech/ninjatech/flashjump/ninjaflashjump.tech:
-    - /description
-  Texts:
-    Chs: 跳跃消耗：10能量
-    Eng: 'Jump Cost: 10e.'

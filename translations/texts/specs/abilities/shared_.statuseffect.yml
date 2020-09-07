@@ -1,9 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    specs/abilities/darktemplar/corruption.statuseffect:
-    - /label
-    specs/abilities/samurai/swordswill.statuseffect:
-    - /label
-  Texts:
-    Chs: 腐败
-    Eng: Corruption

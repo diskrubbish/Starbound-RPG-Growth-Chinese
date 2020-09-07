@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/belt/bronzebelt.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "青铜腰带",
+      "Eng": "Bronze Belt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/belt/bronzebelt.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "时尚的青铜腰带，略微增加你的最大健康。^green;+5最大健康。^blue;",
+      "Eng": "Fashionable Bronze Belt that slightly boosts your Max Health. ^green;Provides +5 Max Health. ^blue;"
+    }
+  }
+]

@@ -8,7 +8,6 @@ from os.path import join, dirname, exists, relpath, abspath, basename, isfile
 from sys import platform
 from json_tools import prepare, field_by_path, list_field_paths
 from utils import get_answer
-import yaml
 
 from patch_tool import trans_patch
 if platform == "win32":
@@ -18,15 +17,15 @@ if platform == "win32":
 def import_patch(patch_dir, file_dir):
     for path, d, filelist in os.walk(file_dir):
         for thefile in filelist:
-            if thefile in ["substitutions.yml", "totallabels.yml", "translatedlabels.yml", "patch_substitutions.yml", "parse_problem.txt"]:
+            if thefile in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt"]:
                 continue
-            if thefile.endswith(".yml"):
-                yml_file = join(path, thefile)
-                with open(yml_file, "rb+", "utf-8") as f:
-                    yaml_dict = yaml.safe_load(f)
-                    print(basename(yml_file))
-                for i, v in enumerate(yaml_dict):
-                    for w in yaml_dict[i]['Files'].keys():
+            if thefile.endswith(".json"):
+                json_file = join(path, thefile)
+                with open(json_file, "rb+", "utf-8") as f:
+                    json_dict = json.load(f)
+                    print(basename(json_file))
+                for i, v in enumerate(json_dict):
+                    for w in json_dict[i]['Files'].keys():
                         patch_file = join(patch_dir, w)+".patch"
                         try:
                             patch_data = json.load(
@@ -34,14 +33,14 @@ def import_patch(patch_dir, file_dir):
                         except:
                             continue
                         for y, z in enumerate(patch_data):
-                            if yaml_dict[i]['Files'][w][0] == patch_data[y]["path"]:
-                                yaml_dict[i]['Texts']['Chs'] = patch_data[y]["value"]
-                f = open(yml_file, "rb+", "utf-8")
-                yaml.dump(
-                    yaml_dict, f, default_flow_style=False, encoding='utf-8', allow_unicode=True)
+                            if json_dict[i]['Files'][w][0] == patch_data[y]["path"]:
+                                json_dict[i]['Texts']['Chs'] = patch_data[y]["value"]
+                f = open(json_file, "rb+", "utf-8")
+                json.dump(
+                    json_dict, f, ensure_ascii=False, indent=2, sort_keys=True)
 
 
 if __name__ == "__main__":
-    patch_dir_1 = "E:/SteamLibrary/steamapps/workshop/content/211820/1929019607/RPG_Growth_Chinese_Reborn"
-    file_dir_1 = "F:/Starbound-RPG-Growth-Chinese/translations/texts"
+    patch_dir_1 = "F:/FFS-sChinese-Project/mods"
+    file_dir_1 = "F:/FFS-sChinese-Project/translations"
     import_patch(patch_dir_1, file_dir_1)

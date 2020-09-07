@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetaffinity.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "亲和力复位卷轴",
+      "Eng": "Affinity Reset Scroll"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetaffinity.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "看起来就像是漂亮元素的诱人宣传广告！也许你想试试新的？",
+      "Eng": "Looks like enticing blurbs on awesome elements! Maybe you want to try out a new one?"
+    }
+  }
+]

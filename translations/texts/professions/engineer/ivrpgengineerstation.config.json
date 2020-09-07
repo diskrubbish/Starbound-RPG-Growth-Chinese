@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Chs": " 工程师工作台",
+      "Eng": " Engineer's Crafting Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/engineer/ivrpgengineerstation.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Chs": " ^#b9b5b2;只有有经验的工程师才知道如何使用这些工具！",
+      "Eng": " ^#b9b5b2;Only experienced Engineers know what to do with these tools!"
+    }
+  }
+]

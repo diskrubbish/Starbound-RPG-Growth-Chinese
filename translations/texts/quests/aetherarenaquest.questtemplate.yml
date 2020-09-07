@@ -1,9 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    quests/aetherarenaquest.questtemplate:
-    - /completionText
-  Texts:
-    Chs: 你对抗的那些鬼魂是相位物质组成成的。但它们也产生了一种物质，我称之为^red;以太^reset;。现在去找一处熔炉去冶炼以太碎片，然后去铁砧处锻造你的天拓·以太。
-    Eng: The ghosts you fought were made of Phase Matter, but they also produced a
-      substance I've named ^red;Ether^reset;. You can now craft Ethereal Blades in
-      the Furnace and the Aether Tanto in your Anvil.

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/classweapons/explorerdrill/explorerspiradrill.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "有啥挡路？",
+      "Eng": "What blocks?"
+    }
+  }
+]

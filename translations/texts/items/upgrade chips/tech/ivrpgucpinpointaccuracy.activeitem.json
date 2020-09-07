@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucpinpointaccuracy.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "坦克球升级。\n坦克球获得索敌导弹。",
+      "Eng": "Tank Sphere Upgrade.\nTank Sphere gains targeting missiles."
+    }
+  }
+]

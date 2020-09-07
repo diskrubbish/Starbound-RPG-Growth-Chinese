@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ivrpgsparks.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "花火",
+      "Eng": "Sparks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/ivrpgsparks.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "按^green;[F]^white;发射火花！",
+      "Eng": "Tap ^green;[F]^white; to shoot sparks!"
+    }
+  }
+]

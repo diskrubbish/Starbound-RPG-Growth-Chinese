@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/spiraquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs": "这种奇怪的能量似乎像陀螺一样在旋转。我已经把它塑造成一种更加包容的可用形式，现在你也可以这样做了。去找一处铁砧去锻造你的小钻风，然后开始挖掘吧！",
+      "Eng": "This strange energy seems to be spinning like a top. I've molded it into a more contained form that you can use for crafting, and you should now be able to do the same. Go craft the Spira in an anvil and start digging!"
+    }
+  }
+]

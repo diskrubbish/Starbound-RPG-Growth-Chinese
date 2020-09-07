@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/paladin/immaculateshield.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "圣骑士专有",
+      "Eng": "Paladin Only"
+    }
+  }
+]

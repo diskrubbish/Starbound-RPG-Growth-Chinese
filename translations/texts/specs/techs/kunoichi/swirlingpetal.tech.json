@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/kunoichi/swirlingpetal.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "女忍专有",
+      "Eng": "Kunoichi Only"
+    }
+  }
+]

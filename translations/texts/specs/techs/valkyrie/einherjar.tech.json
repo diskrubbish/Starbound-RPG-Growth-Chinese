@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/valkyrie/einherjar.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "女武神专有",
+      "Eng": "Valkyrie Only"
+    }
+  }
+]

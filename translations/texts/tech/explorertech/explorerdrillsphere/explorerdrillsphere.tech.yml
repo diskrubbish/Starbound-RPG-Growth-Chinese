@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    tech/explorertech/explorerdrillsphere/explorerdrillsphere.tech:
-    - /description
-  Texts:
-    Chs: 变形消耗：25能量。维持消耗：5能量/每秒。
-    Eng: 'Transformation Cost: 25e. Active Cost: 5eps.'

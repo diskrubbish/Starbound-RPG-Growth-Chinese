@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/belt/steelbelt.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "时尚的钢制腰带，略微增加你的攻击倍乘。^green;+5%攻击倍乘。^blue;",
+      "Eng": "Fashionable Steel Belt that slightly boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/belt/steelbelt.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "钢制腰带",
+      "Eng": "Steel Belt"
+    }
+  }
+]

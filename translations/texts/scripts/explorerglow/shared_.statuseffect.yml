@@ -1,9 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    scripts/explorerglow/explorerglow.statuseffect:
-    - /label
-    scripts/explorerglow/explorerresist.statuseffect:
-    - /label
-  Texts:
-    Chs: 探索者的发现
-    Eng: Explorer's Discovery

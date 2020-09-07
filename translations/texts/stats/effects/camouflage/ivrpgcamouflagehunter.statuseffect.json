@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/camouflage/ivrpgcamouflagehunter.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "猎人的伪装",
+      "Eng": "Hunter's Camouflage"
+    }
+  }
+]

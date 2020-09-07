@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/tech/ivrpgucstunningsphere.activeitem": [
+        "/shortdescription"
+      ],
+      "tech/knighttech/knightarmorsphere/stun/knightarmorspherecontact.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "击晕球",
+      "Eng": "Stunning Sphere"
+    }
+  }
+]

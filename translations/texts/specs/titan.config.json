@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "装备盾牌时+10点护甲。\n在完美防御之后，附近的盟友+5护甲，持续10秒。",
+      "Eng": "+10 Armor with a Shield equipped.\nAfter Perfect Shielding, nearby allies gain +5 Armor for 10 seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "110%盾牌耐久",
+      "Eng": "110% Shield Stamina"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "115%护甲",
+      "Eng": "115% Armor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "双持机枪和盾牌时，其基础攻击力增加至150%。",
+      "Eng": "150% Base Power While Dual-Wielding Machine Pistols and Shields."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "厄庇墨透斯",
+      "Eng": "Epimetheus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/weapon/text/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "被动：使用此武器杀死敌人后，最大生命值提高2.5％，持续20秒，最高生命值最高提高至120％。装备此武器时的完美格挡可以使最大能量提高3％，持续10秒，最高可达130％。 换下厄庇墨透斯时，这些效果会消失。",
+      "Eng": "Passive: Getting kills with this weapon increases Max Health by 2.5% for 20 seconds, up to 120% Max Health. Perfect Shielding while this weapon is equipped increases Max Energy by 3% for 10 seconds, up to 130% Max Energy. These effects disappear upon switching off of Epimetheus."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[W]可以切换阿特拉斯的重负，这个buff以盾牌耐久和跳跃高度减半为代价，为你的盾提供加成。当阿特拉斯的重负处于激活状态时，击中你盾牌的敌人有25%的几率被震晕0.5秒，完美格挡会震晕所有附近的敌人1秒，完美格挡给予你和附近的盟友110%基础攻击力倍增、120%护甲和击退免疫，持续5秒。",
+      "Eng": "Pressing [W] toggles Atlas' Burden, a buff that halves Shield Stamina and Jump Height, but provides bonuses for your shield. While Atlas' Burden is active, enemies that hit your Shield have a 25% chance to be stunned for half a second; Perfect Shields stun all nearby enemies for one second; and Perfect Shields grant you and nearby allies 110% Base Power Multiplier, 120% Armor, and Knockback Immunity for five seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/titan.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "主要攻击：以平均射击速度和准确度射击子弹。",
+      "Eng": "Primary Fire: Hold to fire bullets with an average rate of fire and accuracy."
+    }
+  }
+]

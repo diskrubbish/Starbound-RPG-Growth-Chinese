@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/rpgmonsters/mechanist/turret/turret.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "机械师的炮塔",
+      "Eng": "Mechanist's Turret"
+    }
+  }
+]

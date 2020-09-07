@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/sage/status/soulconversionstatus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "死亡缠绕",
+      "Eng": "Mortal Coil"
+    }
+  }
+]

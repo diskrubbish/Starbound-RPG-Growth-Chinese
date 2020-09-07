@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    items/active/classweapons/rogueclaw/roguesiphonclaw3e.activeitem:
-    - /shortdescription
-  Texts:
-    Chs: yellow;虹吸爪·通量
-    Eng: ^yellow;Siphon Flux

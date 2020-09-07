@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/techs/pioneer/colonize.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "殖民先驱专有",
+      "Eng": "Pioneer Only"
+    }
+  }
+]

@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    specs/techs/kunoichi/ivrpgdazed/ivrpgdazed.animation:
-    - /particleEmitters/statustext/particles/0/particle/text
-  Texts:
-    Chs: 头昏眼花！
-    Eng: Dazed!

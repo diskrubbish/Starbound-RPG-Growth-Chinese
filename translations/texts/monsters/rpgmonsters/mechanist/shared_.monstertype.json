@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/rpgmonsters/mechanist/drone/drone.monstertype": [
+        "/description"
+      ],
+      "monsters/rpgmonsters/mechanist/turret/turret.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "量产的自主防御炮塔。 它会尽力戮敌。",
+      "Eng": "A mass-produced autonomous defense turret. It tries very hard not to miss."
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/effects/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用步枪和弓时，其基础攻击力增加至120%。",
+      "Eng": "120% Base Power with Rifles and Bows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/weapon/text/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "次要射击：使用所有剩余的能量射出可在墙壁周围弯曲的中等伤害的射击。",
+      "Eng": "Alt Fire: use all remaining Energy to fire a medium-damage shot that can curve around walls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "士兵神射手的升级版：理想射击启用时，攻击倍乘增加150%，但会完全失去行动能力。受到攻击会提前打破此效果，且不会正常降低冷却时间。必须在地面上才能激活。",
+      "Eng": "An upgrade to Marksman: while Ideal Shot is active, Power Multiplier is increased by 150%, but movement is completely disabled. Getting hit prematurely breaks this effect without the normal reduction to cooldown. Must be on ground to activate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "无法使用近战武器",
+      "Eng": "Cannot use Melee Weapons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "驻足的每秒，流血几率增加+2.5%，直至+50%，流血时长增加+0.05秒，直至+1秒。",
+      "Eng": "Every second while still, Bleed Chance increases by +2.5% up to +50%, and Bleed Length increases by +0.05 seconds, up to +1 second."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "莲华",
+      "Eng": "Lotus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/weapon/text/2"
+      ]
+    },
+    "Texts": {
+      "Chs": "被动：以流血伤害击败敌人会使下一枪的伤害提高1.25倍。否则，击败敌人会获得+5%的最大能量（最高+50%最大能量），直到被击中或放下武器为止。",
+      "Eng": "Passive: defeating an enemy with Bleed Damage increases the next shot's damage by 1.25x. Otherwise, defeating an enemy grants +5% Max Energy (scaling up to +50% Max Energy) until you are hit or this weapon is holstered."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/deadshot.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "主要攻击：准确，高伤害的射击。",
+      "Eng": "Primary Fire: an accurate, high-damage shot."
+    }
+  }
+]

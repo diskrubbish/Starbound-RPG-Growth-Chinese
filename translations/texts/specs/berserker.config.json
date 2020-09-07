@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/berserker.config": [
+        "/tech/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "狂暴",
+      "Eng": "Berserk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/berserker.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "杀戮之杖",
+      "Eng": "Murderstick"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrolladdstatpoint.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "看起来这个卷轴里包含着各种有趣的信息.",
+      "Eng": "Looks like this scroll contains information on all sorts of interesting stuff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrolladdstatpoint.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "卷轴：+1属性点",
+      "Eng": "Scroll: +1 Stat Point"
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/9/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "+33%能量\n和能量重充能延迟",
+      "Eng": "+33% Energy\nRecharge Delay"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/8/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-33%能量\n和能量重充能延迟",
+      "Eng": "-33% Energy\nRecharge Rate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/7/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-33%冰系抗性",
+      "Eng": "-33% Ice Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/6/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用双头棍时，其基础攻击力增加至110%。",
+      "Eng": "110% Base Power with Quarterstaves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用矛、突击步枪和来自FFS的SMG/DMR时，其基础攻击力增加至120%。",
+      "Eng": "120% Base Power with Spears, Assault Rifles and FFS SMGs/DMRs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "骑士猛击的升级版。在地面时按住[SHIFT]和[SPACE]向空中弹射。之后在你开始坠落和落地之前获得无敌状态。使用技能时可以防止你在半空中双跳。在半空中按[G]键，朝光标处向下冲击，且不受掉落伤害。着陆时，火焰会从地面喷出，坠落的时间越长，造成的伤害越大，且伤害会随着力量的增长而增加。",
+      "Eng": "An upgrade to Knight's Slam. Hold [Shift] and [Space] while grounded to shoot into the air. Doing so provides Invulnerability until you start to fall or hit the ground. Using this prevents you from double jumping in midair. Press [G] in midair to crash downwards towards your cursor, invulnerable while doing so. Upon landing, flame erupts from the ground, dealing more damage the longer you fell, and scaling with Strength."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/classic/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以使用突击步枪(和FFS的AR, SMG, 或者2DMR)",
+      "Eng": "Can use Assault Rifles (and FFS ARs, SMGs, or DMRs)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以使用矛和双头棍",
+      "Eng": "Can use Spears and Quarterstaves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "龙之祸根",
+      "Eng": "Dragon's Bane"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "免疫坠落伤害",
+      "Eng": "Fall Damage Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "免疫火炎和熔岩",
+      "Eng": "Fire and Lava Immunity"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "主要攻击：比普通矛更远的刺击，击中造成枯萎。按住射出火焰。",
+      "Eng": "Primary Fire: A stab with more range than normal Spears that Sears whatever it hits. Hold to shoot flames."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/weapon/text/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "次要攻击：按住充能，进行高伤害的冲锋。释放冲刺时会隐藏在闪电中，获得高额的免伤。闪电沿着你的步伐前进。",
+      "Eng": "Secondary Fire: Hold to charge a high-damage lunge. Release to lunge while cloaked in lightning, greatly protecting you from damage. Lightning follows your lunging path."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/dragoon.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "当从15格以上的高度落地时，获得攻击和护甲增强，持续6秒，且增幅量随着坠落距离而增加。",
+      "Eng": "Upon landing from more than 15 blocks up, gain Increased Power and Armor for up to six seconds, scaling with fall distance."
+    }
+  }
+]

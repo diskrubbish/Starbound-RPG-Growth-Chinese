@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/spiraarenaquest.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Chs": "这些生物体内似乎嵌入了某种奇怪的螺旋能量，或者就以^yellow;螺旋能量^reset;为简称。我已经把它塑造成一种你可以用来制作的更加包容的可用形式。现在去找一处熔炉去冶炼螺旋能量，然后去铁砧处锻造你的小钻风。",
+      "Eng": "There seems to be some strange spiraling energy embedded withing these creatures, or ^yellow;Spiral Energy^reset; for short. I've molded it into a more contained form that you can use for crafting. You can now craft Spiral Power in the Furnace and the Spira Drill in your Anvil."
+    }
+  }
+]

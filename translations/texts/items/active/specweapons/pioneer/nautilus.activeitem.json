@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/pioneer/nautilus.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "在这个海螺里面有着一股休眠的力量: 问题是，这是谁的力量？",
+      "Eng": "Within the spiral lies a dormant power: the questions is, whose?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/specweapons/pioneer/nautilus.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "^yellow;鹦鹉螺",
+      "Eng": "^yellow;Nautilus"
+    }
+  }
+]

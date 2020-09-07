@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/abilities/valkyrie/flightofthevalkyrie.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "女武神翔空",
+      "Eng": "Flight of the Valkryie"
+    }
+  }
+]

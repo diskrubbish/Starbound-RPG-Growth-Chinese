@@ -1,9 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    specs/techs/deadshot/idealshotstatus.statuseffect:
-    - /label
-    tech/soldiertech/soldiermarksman/soldierfocus.statuseffect:
-    - /label
-  Texts:
-    Chs: 枪械额外伤害
-    Eng: Extra Damage With Firearms

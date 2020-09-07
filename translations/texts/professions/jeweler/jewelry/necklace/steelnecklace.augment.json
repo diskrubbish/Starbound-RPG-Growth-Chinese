@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/necklace/steelnecklace.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "时尚的钢制项链，略微增加你的攻击倍乘。^green;+5%攻击倍乘。^blue;",
+      "Eng": "Fashionable Steel Necklace that slightly boosts your Powerful Multiplier. ^green;Provides +5% Power Multiplier. ^blue;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "professions/jeweler/jewelry/necklace/steelnecklace.augment": [
+        "/augment/displayName",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "钢制项链",
+      "Eng": "Steel Necklace"
+    }
+  }
+]

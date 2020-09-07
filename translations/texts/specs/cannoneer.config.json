@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "+50%火系抗性",
+      "Eng": "+50% Fire Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/7/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-20%毒素抗性",
+      "Eng": "-20% Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用火箭发射器和(FFS)榴弹发射器时，其基础攻击力增加至120%。",
+      "Eng": "120% Base Power With Rocket Launchers and (FFS) Grenade Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/effects/4/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "使用双手短剑和榴弹发射器时，其基础攻击力增加至125%。",
+      "Eng": "125% Base Power While Dual-Wielding Shortswords and Grenade Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/tech/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "升级版的二段跳，按[SHIFT]+[SPACE]向光标处发射炮弹，炮弹穿过敌人并在受到阻挡时爆炸。在空中时不按[SHIFT]=而只按[SPACE]会使炮弹朝下发射，而且与你所按的水平方向键的水平方向相反，可以发射两次。伤害随灵巧增加。^red;地面发射冷：2.5秒。空中发射冷：0.5秒。",
+      "Eng": "An upgrade to Double Jump. Pressing [Shift] + [Space] fires a cannonball towards your cursor that blasts through enemies and explodes on impact with blocks. While aerial, pressing [Space] without [Shift] sends the cannonball flying downwards, in the opposite direction of your held horizontal movement key, allowing you to launch yourself twice. Damage scales with Dexterity. ^red;Grounded Fire Cooldown: 2.5 Seconds. Aerial Fire Cooldown: 0.5 Seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "可以装备火箭发射器和榴弹发射器",
+      "Eng": "Can Wield Rocket Launchers and Grenade Launchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "用短剑和榴弹发射器攻击时，获得50%的攻击和10%的每秒能量回复加成，和 ^green;杀敌爆炸^white;，持续2秒。",
+      "Eng": "Hits with a Shortsword - Grenade Launcher in hand - grant +50% Power, 10% Energy/Second, and ^green;explosive kills^white; for two seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/weapon/title"
+      ]
+    },
+    "Texts": {
+      "Chs": "突发&暴风之啸",
+      "Eng": "Outburst & Stormhowl"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "突发：发射五枚榴弹。榴弹漂浮在适当的位置，但在与敌人碰撞时引爆。 每颗榴弹造成不同的状态。分别为剧毒，冰毒，电击，迷惑和流血。\n^red;能量降低时，伤害减少！",
+      "Eng": "Outburst: Fires five grenades. Grenades float in place, but detonate on impact with enemies. Each grenade deals a different status; Poison, Ice, Electric, Disorient, and Bleed.\n^red;Does less damage as Energy ratio decreases!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/cannoneer.config": [
+        "/weapon/text/1"
+      ]
+    },
+    "Texts": {
+      "Chs": "暴风之啸：具有扩展范围的弓形弹道，后接定向刺击。攻击导致脆化。",
+      "Eng": "Stormhowl: An arching slash with extended ranged followed by a directional stab. Causes Embrittle."
+    }
+  }
+]

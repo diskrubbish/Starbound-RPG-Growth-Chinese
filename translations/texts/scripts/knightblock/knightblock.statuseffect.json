@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "scripts/knightblock/knightblock.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Chs": "骑士的盾",
+      "Eng": "Knight's Shield"
+    }
+  }
+]

@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    monsters/ivrpgweaken/ivrpgweaken.animation:
-    - /particleEmitters/statustext/particles/0/particle/text
-  Texts:
-    Chs: 流血！
-    Eng: Bleeding!

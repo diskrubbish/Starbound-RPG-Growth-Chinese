@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgrade chips/weapon/ivrpgucvampirescaress.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "血色天拓·以太升级。\n杀死敌人后回复生命。",
+      "Eng": "Blood Aether Upgrade.\nGain Regenaration upon killing an enemy."
+    }
+  }
+]

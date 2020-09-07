@@ -1,0 +1,182 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/weakness/2/text"
+      ],
+      "affinities/shock.config": [
+        "/weakness/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "在水下时每秒-1能量",
+      "Eng": "-1 E/s while submerged"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/flame.config": [
+        "/weakness/2/text"
+      ],
+      "affinities/infernal.config": [
+        "/weakness/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "在水下时每秒-1HP",
+      "Eng": "-1 HP/s while submerged"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/weakness/1/text"
+      ],
+      "affinities/venom.config": [
+        "/weakness/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-15%最大生命",
+      "Eng": "-15% Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/cryo.config": [
+        "/weakness/2/text"
+      ],
+      "affinities/frost.config": [
+        "/weakness/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-15%跳跃距离",
+      "Eng": "-15% Jump"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/cryo.config": [
+        "/weakness/1/text"
+      ],
+      "affinities/frost.config": [
+        "/weakness/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-15%速度",
+      "Eng": "-15% Speed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/weakness/0/text"
+      ],
+      "affinities/venom.config": [
+        "/weakness/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-25%电系抗性",
+      "Eng": "-25% Electric Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/cryo.config": [
+        "/weakness/0/text"
+      ],
+      "affinities/frost.config": [
+        "/weakness/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-25%火系抗性",
+      "Eng": "-25% Fire Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/flame.config": [
+        "/weakness/0/text"
+      ],
+      "affinities/infernal.config": [
+        "/weakness/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "-25%毒素抗性",
+      "Eng": "-25% Poison Resistance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/flame.config": [
+        "/weakness/1/text"
+      ],
+      "affinities/infernal.config": [
+        "/weakness/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "在水下时-30%能量",
+      "Eng": "-30% Energy while submerged"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/arc.config": [
+        "/immunity/2/text"
+      ],
+      "affinities/venom.config": [
+        "/immunity/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "辐射",
+      "Eng": "Radiation"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/toxic.config": [
+        "/immunity/1/text"
+      ],
+      "affinities/venom.config": [
+        "/immunity/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "焦油",
+      "Eng": "Tar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "affinities/cryo.config": [
+        "/immunity/1/text"
+      ],
+      "affinities/frost.config": [
+        "/immunity/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "湿润",
+      "Eng": "Wet"
+    }
+  }
+]

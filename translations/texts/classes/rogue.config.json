@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/passive/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "在攻击命中时有20%的几率让对方中毒。",
+      "Eng": "+20% Chance to Poison monsters on hit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/classic/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "+20%饥饿速率\n只有80%的最大生命",
+      "Eng": "+20% Hunger Rate\n80% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/weaponBonuses/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "双持单手武器时基础攻击力增加至120%。",
+      "Eng": "120% Base Power while dual-wielding One-Handed Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/techs/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "升级版的二段跳，按[空格键]将自己发射到你选择的方向，在敌人身后留下一团烟雾。失去方向感的敌人会被减速并减少其造成的伤害。未指定方向的话默认为向后发射。",
+      "Eng": "An upgrade to Double Jump, press [Space] to launch yourself in a direction of your choosing, leaving a cloud of smoke behind that disorients enemies. Disoriented enemies are slowed and do less damage. Defaults to a backwards launch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/classic/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "不能使用双手远程武器或魔法武器。",
+      "Eng": "Cannot use Two-Handed Ranged Weapons or Magic Weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/techs/1/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[F]转换成对毒免疫的荆刺球。变形状态下点击左键放出一圈毒云（随灵巧值提升伤害）。按住鼠标右键可消耗饱腹度以恢复生命和能量。",
+      "Eng": "Press [F] to transform into a poison-immune Spike Sphere. Left click while transformed to shoot out a ring of poison clouds (Damage scales with Dexterity). Hold Right Click while transformed to decrease your Hunger Bar to regenerate Health and Energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/techs/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[G]（在按键设置中绑定[G]）来制造一个毒素光环，用弱化毒药伤害敌人。这些敌人将会受到更多的毒素和流血伤害，当没有能量时关闭。",
+      "Eng": "Press [G] (Bind [G] in your Controls) to toggle a toxic field that inflicts enemies with a weakening poison. These enemies take more poison and bleed damage. Drains energy while active, and is toggled off when no energy remains."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/techs/0/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "按[G]（在按键设置中绑定[G]）以切换一种增加物理和毒性抵抗并给予击退免疫的能力。当激活时消耗能量，当没有能量时关闭。",
+      "Eng": "Press [G] (Bind [G] in your Controls) to toggle an ability that increases Physical and Poison Resistance and grants Knockback Immunity. Drains energy while active, and is toggled off when no energy remains."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/weapon/text/0"
+      ]
+    },
+    "Texts": {
+      "Chs": "虹吸爪是一只拳刃，它的终结技会消耗能量造成成吨的伤害。 终结技：暴击切裂会导致流血并填充饥饿感。 涂毒切裂会引起中毒，恢复HP。 闪电切裂会产生静电并充满能量。",
+      "Eng": "The Siphon is a claw that uses energy to deal massive damage for its finisher. Finishers: Critical Slice causes bleed and fills hunger. Venom Slice causes poison and fills health. Lightning Slice causes static and fills energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/rogue.config": [
+        "/ability/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "当你的饱腹度至少半满时，+20%的毒抗。",
+      "Eng": "While your Food Meter is filled at least halfway, gain +20% Poison Resistance."
+    }
+  }
+]

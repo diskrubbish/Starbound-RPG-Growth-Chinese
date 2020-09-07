@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollinfernal.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "卷轴：狱火",
+      "Eng": "Scroll: Infernos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollinfernal.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "记载了邪恶仪式的铭文。它的角落烧掉了一块。",
+      "Eng": "Shows inscriptions of devilish rituals. The corner is partially burnt."
+    }
+  }
+]

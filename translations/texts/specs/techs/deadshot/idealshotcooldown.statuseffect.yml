@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    specs/techs/deadshot/idealshotcooldown.statuseffect:
-    - /label
-  Texts:
-    Chs: 理想射击冷却
-    Eng: Ideal Shot Cooldown

@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/rpgmonsters/lumoth/firelumoth.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "只有在月海天蚕蛾扇动翅膀的时候火苗才会保持燃烧。",
+      "Eng": "The flame only stays lit while the Lumoth flaps its wings."
+    }
+  }
+]

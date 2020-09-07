@@ -1,7 +1,0 @@
-- DeniedAlternatives: []
-  Files:
-    specs/abilities/mechanist/fortify.statuseffect:
-    - /label
-  Texts:
-    Chs: 强化
-    Eng: Fortify
