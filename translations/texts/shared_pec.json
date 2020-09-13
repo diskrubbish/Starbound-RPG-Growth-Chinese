@@ -10,7 +10,7 @@
       ]
     },
     "Texts": {
-      "Chs": "贤者",
+      "Chs": "上贤",
       "Eng": "Adept"
     }
   },
@@ -25,7 +25,7 @@
       ]
     },
     "Texts": {
-      "Chs": "战斗法师",
+      "Chs": "奥术搏击者",
       "Eng": "Battle Mage"
     }
   },
@@ -41,7 +41,7 @@
       ]
     },
     "Texts": {
-      "Chs": "狂战士",
+      "Chs": "狂战",
       "Eng": "Berserker"
     }
   },
@@ -71,7 +71,7 @@
       ]
     },
     "Texts": {
-      "Chs": "上尉",
+      "Chs": "校尉",
       "Eng": "Captain"
     }
   },
@@ -87,7 +87,7 @@
       ]
     },
     "Texts": {
-      "Chs": "变形使",
+      "Chs": "变灵使",
       "Eng": "Changeling"
     }
   },
@@ -119,7 +119,7 @@
       ]
     },
     "Texts": {
-      "Chs": "十字军战士",
+      "Chs": "十字军",
       "Eng": "Crusader"
     }
   },
@@ -488,7 +488,7 @@
       ]
     },
     "Texts": {
-      "Chs": "前卫",
+      "Chs": "尖兵",
       "Eng": "Vanguard"
     }
   },

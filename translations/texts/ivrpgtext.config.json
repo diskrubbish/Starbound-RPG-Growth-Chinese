@@ -2527,7 +2527,7 @@
       ]
     },
     "Texts": {
-      "Chs": "对成千上万人的死亡负有责任的十字军战士们承担起了消灭不忠者的责任，结果是恶名远扬。\n而且名声还在继续溃烂: 永远都无法洗清。如此伟大的内涵，甚至仅仅是一个名字就能让一些人愤怒。从各种意义上说，它都是^blue;力量的代言词^reset;\n然而，尽管如此，这件披风还是再次准备好了可以穿戴。迫在眉睫的不洁的威胁，祸，和生物憎恶它，不能任其发展。因此，在历史的背后，十字军将再次崛起。\n\n^blue;上帝啊！",
+      "Chs": "对成千上万人的死亡负有责任的十字军们承担起了消灭不忠者的责任，结果是恶名远扬。\n而且名声还在继续溃烂: 永远都无法洗清。如此伟大的内涵，甚至仅仅是一个名字就能让一些人愤怒。从各种意义上说，它都是^blue;力量的代言词^reset;\n然而，尽管如此，这件披风还是再次准备好了可以穿戴。迫在眉睫的不洁的威胁，祸，和生物憎恶它，不能任其发展。因此，在历史的背后，十字军将再次崛起。\n\n^blue;上帝啊！",
       "Eng": "Responsible for the death of thousands, the Crusaders took it upon themselves to annihilate the unfaithful, the aftermath of which was a festering reputation.\nAnd it continued to fester: impossible to remove. A connotation so great, even the mere name could send some into rage. It was, in all senses, ^blue;a word of power.\nHowever, despite this, the mantle is once again ready to be worn. The looming threat of the unclean, of the Ruin, and the creatures like it, cannot be left unchecked. And thus, with history behind them, the Crusaders will rise again.\n\n^blue;Deus Vult!"
     }
   },
@@ -3334,7 +3334,7 @@
       ]
     },
     "Texts": {
-      "Chs": "殖民地繁荣，民兵也繁荣。 然而，与可观测宇宙的威胁相比，每个人都必须准备好面对任何来自他们的考验和磨难。 当一个帝国衰落时，往往是因为它的领导者衰落了，而大众却屈服了。 然而，如果一个领导人在战斗中倒下了...他或她很可能是鲁莽的。上尉不是君主，他们不是独裁者，他们不是可怕的、好战的军阀。上尉是一个其他人在地狱里支持的领导者。 他们是确保胜利的人。确保他们的人民、他们的同志、同伴、家人和亲人的安全是上尉的职责。",
+      "Chs": "殖民地繁荣，民兵也繁荣。 然而，与可观测宇宙的威胁相比，每个人都必须准备好面对任何来自他们的考验和磨难。 当一个帝国衰落时，往往是因为它的领导者衰落了，而大众却屈服了。 然而，如果一个领导人在战斗中倒下了...他或她很可能是鲁莽的。校尉不是君主，他们不是独裁者，他们不是可怕的、好战的军阀。校尉是一个其他人在地狱里支持的领导者。 他们是确保胜利的人。确保他们的人民、他们的同志、同伴、家人和亲人的安全是校尉的职责。",
       "Eng": "While Colonies flourish, so do the militia. However compared to the threats of the observable universe, everyone must be ready to handle whatever trials and tribulations come their way. When an empire falls, it's often due to its leaders falling, and the masses giving in. However if a leader is felled in battle... chances are he or she was reckless. A Captain is no monarch, they aren't dictators, they aren't fearsome warmongering warlords. A Captain is a leader whom others stand behind through hell. They are the ones that ensure victory. It is a Captain's duty to ensure the safety of their people, their comrades, peers, family and loved ones..."
     }
   },
@@ -3586,7 +3586,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^blue;十字军战士",
+      "Chs": "^blue;十字军",
       "Eng": "^blue;Crusader"
     }
   },
@@ -3694,7 +3694,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^gray;刺客",
+      "Chs": "^gray;暗杀者",
       "Eng": "^gray;Assassin"
     }
   },
@@ -4042,7 +4042,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^orange;前卫",
+      "Chs": "^orange;尖兵",
       "Eng": "^orange;Vanguard"
     }
   },
@@ -4066,7 +4066,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;贤者",
+      "Chs": "^red;上贤",
       "Eng": "^red;Adept"
     }
   },
@@ -4078,7 +4078,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;战斗法师",
+      "Chs": "^red;奥术搏击者",
       "Eng": "^red;Battle Mage"
     }
   },
@@ -4090,7 +4090,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;狂战士",
+      "Chs": "^red;狂战",
       "Eng": "^red;Berserker"
     }
   },
@@ -4114,7 +4114,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;变形使",
+      "Chs": "^red;变灵使",
       "Eng": "^red;Changeling"
     }
   },
@@ -4174,7 +4174,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^yellow;上尉",
+      "Chs": "^yellow;校尉",
       "Eng": "^yellow;Captain"
     }
   },
