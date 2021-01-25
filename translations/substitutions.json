@@ -82,7 +82,6 @@
     "/weapon/title": "texts/wide_spread_fields.json"
   },
   "classes/ninja.config": {
-    "/classic/3/text": "texts/shared_.config.json",
     "/scaling/0/text": "texts/wide_spread_fields.json",
     "/scaling/1/text": "texts/wide_spread_fields.json",
     "/techs/0/title": "texts/shared_ninja.json",
@@ -1180,7 +1179,6 @@
     "/effects/0/text": "texts/wide_spread_fields.json",
     "/effects/1/text": "texts/wide_spread_fields.json",
     "/effects/3/text": "texts/specs/shared_.config.json",
-    "/effects/5/text": "texts/shared_.config.json",
     "/effects/6/text": "texts/specs/shared_.config.json",
     "/tech/title": "texts/specs.json",
     "/title": "texts/shared_pec.json"

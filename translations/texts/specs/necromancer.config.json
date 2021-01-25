@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "specs/necromancer.config": [
+        "/effects/5/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "只有50%的最大生命",
+      "Eng": "50% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "specs/necromancer.config": [
         "/classic/0/text"
       ]
     },

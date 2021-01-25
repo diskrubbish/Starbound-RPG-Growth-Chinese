@@ -1,4 +1,4 @@
 /items/active/weapons/melee/spear/darkspear.activeitem
-/items/active/weapons/melee/spear/jaggedGranite.activeitem
 /items/active/weapons/melee/spear/ultralance.activeitem
+/items/active/weapons/melee/spear/jaggedGranite.activeitem
 /specs/elementress.config

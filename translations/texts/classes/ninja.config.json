@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "classes/ninja.config": [
+        "/classic/3/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "只有66%的最大生命",
+      "Eng": "66% Max Health"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "classes/ninja.config": [
         "/techs/3/text"
       ]
     },

@@ -56,21 +56,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "classes/ninja.config": [
-        "/classic/3/text"
-      ],
-      "specs/necromancer.config": [
-        "/effects/5/text"
-      ]
-    },
-    "Texts": {
-      "Chs": "只有50%的最大生命",
-      "Eng": "50% Max Health"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "classes/knight.config": [
         "/classic/3/text"
       ],

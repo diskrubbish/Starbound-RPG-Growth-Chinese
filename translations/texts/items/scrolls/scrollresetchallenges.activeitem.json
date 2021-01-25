@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetchallenges.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "挑战重置卷轴",
+      "Eng": "Challenge Reset Scroll"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/scrolls/scrollresetchallenges.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "感觉没有动力？也许一组新的潜能挑战可以解决这个问题！",
+      "Eng": "Feeling unmotivated? Maybe a new set of potential challenges can sort that out!"
+    }
+  }
+]

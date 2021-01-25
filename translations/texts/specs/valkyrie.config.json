@@ -103,8 +103,8 @@
       ]
     },
     "Texts": {
-      "Chs": "按[F]以瞄准视线内除了自己以外距离你光标最近的队友。技能发动后这个队友将获得无敌状态和150%的攻击力加成，持续5秒。使用技能会消耗你最大生命的20%，并立即消耗所有能量，并阻止你能量再生。使用成功后冷却时间为30秒。",
-      "Eng": "Press [F] to target the ally nearest your cursor, other than you, that is within your line of sight. This ally is granted Invulnerability and +150% Power for 5 seconds. Doing so costs 20% of your Max Health, instantly drains all energy, and prevents you from regenerating Energy. The cooldown after successfully using Einherjar is 30 seconds."
+      "Chs": "按[F]以瞄准视线内除了自己以外距离你光标最近的队友。技能发动后这个队友将获得无敌状态和150%的攻击力加成，持续5秒。使用技能会瞬间耗尽所有能量并使其无法再生。使用成功后冷却时间为30秒。按[Shift] + [F] 将自己20%的生命值转化为附近盟友的即时治疗：献身治疗有5秒的冷却时间。",
+      "Eng": "Press [F] to target the ally nearest your cursor, other than you, that is within your line of sight. This ally is granted Invulnerability and +150% Power for 5 seconds. Doing so instantly drains all Energy and prevents you from regenerating Energy. The cooldown after successfully using Einherjar is 30 seconds. Press [Shift] + [F] to convert 20% of your own Health into an instant Heal for nearby allies: this has a cooldown of 5 seconds."
     }
   },
   {

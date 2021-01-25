@@ -218,8 +218,8 @@
       ]
     },
     "Texts": {
-      "Chs": "你确定要重置吗？^white;你的经验、等级、职业、亲和力等一切都将被移除。此外,你当前的精通挑战将会清零，\n你现在未专精的职业技能将被强制移除。\n专精保持不锁定状态，但是在35级之前不能使用。",
-      "Eng": "Are you sure you want to reset? ^white;Your Experience, Level, Class, Profession, Affinity, and Mastery will be removed. In addition, your Mastery Challenges will be forfeited, and your current Class' Skills will be removed.\nSpecializations remain unlocked, but are unusable until Level 35."
+      "Chs": "你确定要重置吗？^white;你的经验、等级、职业、亲和力等一切都将被移除。此外,你当前的精通挑战将会清零，\n你现在未专精的职业技能将被强制移除。\n专精的进度保持不变，但会变为未装备状态。",
+      "Eng": "Are you sure you want to reset? ^white;Your Experience, Level, Class, Profession, Affinity, and Mastery will be removed. In addition, your Mastery Challenges will be forfeited, and your current Class' Skills will be removed.\nSpecialization progress is unchanged, but your current one is unequipped."
     }
   },
   {
@@ -826,8 +826,7 @@
       ]
     },
     "Texts": {
-      "Chs": "一键转生，但是\n^green;你将失去所有经验,亲和力,专精等属性。\n此操作不可逆。\n^red;消耗3精通点.^reset;",
-      "Eng": "Reset progress. However,\n^green;Class Skills and the Mastery Tab remain unlocked, and current Specialization Progress\nis not removed.\n^red;Costs 3 Mastery Points.^reset;"
+      "Eng": "Reset progress. \n^green;Class Techs and Mastery remain unlocked. ^white;Current Specialization Progress is not removed. ^green;Permanently gain +3 Stat Points.\n^red;Costs 3 Mastery Points.^reset;"
     }
   },
   {

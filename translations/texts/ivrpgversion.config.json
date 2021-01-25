@@ -102,6 +102,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgversion.config": [
+        "/changelog/children/1.72/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patch 1.72"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ivrpgversion.config": [
         "/changelog/children/1.6/title"
       ]
     },
@@ -236,11 +247,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "ivrpgversion.config": [
-        "/changelog/children/1.72/title"
+        "/changelog/children/1.73/title"
       ]
     },
     "Texts": {
-      "Eng": "^green;Patch 1.72"
+      "Eng": "^green;Patch 1.73"
     }
   },
   {
